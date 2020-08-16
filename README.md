@@ -2,6 +2,14 @@
 
 # note : Huge repo - 1.4 GB. 
 
+Online demo
+
+தமிழிணையம் – நிகழாய்வி http://78.46.86.133:8080/tvademo/     htt
+
+APK - http://78.46.86.133/TVA.apk
+
+
+
 Title: Event - Entity Profiling for Tamil Documents – A Mobile Application
 --------------------------------------------------------------------------
 Funded By: Tamil Virtual Academy, Govt of Tamil Nadu, Kotturpuram, Guindy
