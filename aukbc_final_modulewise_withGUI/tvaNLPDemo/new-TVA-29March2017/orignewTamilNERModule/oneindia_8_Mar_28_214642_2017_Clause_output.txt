@@ -1,0 +1,26 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	B-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+இந்dஇஅ	N_NN	B-NP	india,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ப்ரோடேஸ்டிந்g-ஙர்மேர்ஸ்-மேஏட்-அருந்	N_NN	I-NP	protesting-farmers-meet-arun,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ஜஇடேல்ய்-278172	N_NNP	B-NP	jaitely-278172,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	o
+
+

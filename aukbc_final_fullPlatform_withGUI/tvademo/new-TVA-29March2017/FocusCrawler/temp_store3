@@ -1,0 +1,1098 @@
+URL:http://www.dailythanthi.com/Epaperterms
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+<!-- Start Alexa Certify Javascript again added on '17/3/16' -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct: "KIiUm1a4KM+2mh", domain: "dailythanthi.com", dynamic: true };
+    (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=KIiUm1a4KM+2mh" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+    <meta name="Description" /><meta name="Keywords" /><meta name="Subject" content="DailyThanthi News Paper" /><meta name="ROBOTS" content="All" /><meta name="TEOMA" content="index, follow" /><meta name="GOOGLEBOT" content="index, follow" /><meta name="MSNBOT" content="index, follow" /><meta name="SLURP" content="index, follow" /><meta name="Language" content="English" /><meta http-equiv="CONTENT-LANGUAGE" content="Latha" /><meta name="Author" content="DailyThanthi" /><meta name="Abstract" content="India&#39;s No.1  Daily Newspaper Website" /><meta name="Distribution" content="Global" /><meta name="copyright" content="Copyright © 2016 Daily Thanthi. All Rights Reserved" /><meta name="Revisit-After" content="7 Days" /><meta name="GENERATOR" content="http://vpf.vishwak.com" /><meta property="og:locale" content="TA_IN" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="google-site-verification" content="Need to be update" /><meta http-equiv="content-language" content="en" /><meta name="application-name" content="dailythanthi.com" /><meta name="alexaVerifyID" content="1ea0IBhGW3as4Z919chn1J0LYHQ" /><meta name="msapplication-tooltip" content="dailythanthi- The Company" /><meta name="msapplication-window" content="width=1500;height=900" /><meta name="msapplication-task" content="name=Dailythanthi Home;action-uri=http://stat.dailythanthi.com/DailyThanthiUI/Images/favicon.ico" /><meta name="msapplication-task" content="name=Sports;action-uri=http://stat.dailythanthi.com/DailyThanthiUI/Images/favicon.ico" />
+  
+  
+    <link href="http://stat.dailythanthi.com/DailyThanthiUI/Styles/common.css" rel="stylesheet"
+        type="text/css" />
+	
+	<!--[if IE]>
+	<link href="http://www.dailythanthi.com/Styles/StyleIEOnly.css" rel="stylesheet"
+        type="text/css" />
+	<![endif]-->
+
+    <script src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/MainMenu.js"
+        type="text/javascript"></script>
+
+    <script src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/jquery1.8.1.js"
+        type="text/javascript"></script>
+
+    <link href="http://stat.dailythanthi.com/DailyThanthiUI/Styles/StyleSheet.css"
+        rel="stylesheet" type="text/css" />
+    
+    <link href="http://stat.dailythanthi.com/DailyThanthiUI/Styles/coda-slider.css"
+        rel="stylesheet" type="text/css" />
+    
+    <style type="text/css">
+        
+        .sticky4
+        {
+             border-top: 0 none;
+            position: fixed;
+            top: 200;
+            width: 1000px;
+            margin: 0 auto;
+            z-index: 100;
+            margin-top: 29px !important;
+        }
+        
+         #nt-title 
+        { 
+            list-style:none; 
+            padding-left:0px; 
+            margin-top:0px !important; 
+            margin-bottom:0px !important; 
+        }
+        #breadcrumbwolediv a
+ {
+     color:#80809B !important; 
+     font-size:10px !important; 
+     }
+    </style>
+
+    <script type="text/javascript" src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/jquery.min.js"></script>
+
+    
+    
+    
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35963920-1']);
+  _gaq.push(['_setDomainName', 'dailythanthi.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+<script type="text/javascript">
+    var M = jQuery.noConflict();
+    M(window).bind("load", function () {
+         var stickyNavTop = M('.MenuWholeDiv').offset().top;
+        if (document.getElementById('menuId_submenu') != null) {
+            var stickyNavTop1 = M('.subMenu_Css').offset().top;
+        }
+            var stickyNav = function () {
+            var scrollTop = M(window).scrollTop(); 
+            if (scrollTop > stickyNavTop) {
+                     M('.MenuWholeDiv').addClass('sticky');
+                  }
+                    else {
+                M('.MenuWholeDiv').removeClass('sticky');
+              }
+        };
+        stickyNav();
+      
+        M(window).scroll(function () {
+            stickyNav();
+        });
+    });
+
+    
+    </script>
+
+    
+
+    <script type="text/javascript">
+
+        function LoadAdScript() {
+            var adCntl = document.getElementById(arguments[0]);
+            var adContent = document.getElementById(arguments[1]);
+
+
+            if (adCntl != null) {
+
+                // adCntl.innerHTML = adContent.innerHTML; 
+                // adContent.innerHTML = ""; 
+
+            }
+            else {
+
+                var strAdContent = "LoadAdScript('" + arguments[0] + "','" + arguments[1] + "')";
+
+                //window.setTimeout(strAdContent, 5);
+            }
+
+        }
+
+
+    
+    
+    </script>
+
+    
+<script src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/MainMenu.js" type="text/javascript"></script><title>
+
+</title></head>
+<body>
+    <form method="post" action="./Epaperterms" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWAgIbDxUHM2h0dHA6Ly9zdGF0LmRhaWx5dGhhbnRoaS5jb20vRGFpbHlUaGFudGhpVUkvU3R5bGVzLxxodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vN2h0dHA6Ly9zdGF0LmRhaWx5dGhhbnRoaS5jb20vRGFpbHlUaGFudGhpVUkvSmF2YVNjcmlwdC83aHR0cDovL3N0YXQuZGFpbHl0aGFudGhpLmNvbS9EYWlseVRoYW50aGlVSS9KYXZhU2NyaXB0LzNodHRwOi8vc3RhdC5kYWlseXRoYW50aGkuY29tL0RhaWx5VGhhbnRoaVVJL1N0eWxlcy8zaHR0cDovL3N0YXQuZGFpbHl0aGFudGhpLmNvbS9EYWlseVRoYW50aGlVSS9TdHlsZXMvN2h0dHA6Ly9zdGF0LmRhaWx5dGhhbnRoaS5jb20vRGFpbHlUaGFudGhpVUkvSmF2YVNjcmlwdC9kAgMPZBYMAgEPZBYCZg9kFgJmDxYEHgVjbGFzc2QeB1Zpc2libGVoZAIDD2QWBmYPFgIeBXN0eWxlBSJoZWlnaHQ6MHB4ICFpbXBvcnRhbnQ7Ym9yZGVyOm5vbmU7ZAIBDxYCHgtfIUl0ZW1Db3VudAILFhZmD2QWBmYPFQEDTTM2ZAIBD2QWAgIDDxYEHgRocmVmBS1odHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vTmV3cy9FbGVjdGlvbjIwMTYeBnRhcmdldAUHX3BhcmVudBYCZg8VARzgrqTgr4fgrrDgr43grqTgrrLgr40gLSAyMDE2ZAICDxUBA00zNmQCAQ9kFgZmDxUBAk0yZAIBD2QWAgIDDxYEHwQFJmh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9OZXdzL0luZGlhHwUFB19wYXJlbnQWAmYPFQEb4K6a4K+G4K6v4K+N4K6k4K6/4K6V4K6z4K+NZAICDxUBAk0yZAICD2QWBmYPFQECTTlkAgEPZBYCAgMPFgQfBAUtaHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0Rpc3RyaWN0cy9DaGVubmFpHwUFB19wYXJlbnQWAmYPFQEu4K6u4K6+4K614K6f4K+N4K6fIOCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjWQCAg8VAQJNOWQCAw9kFgZmDxUBAk0zZAIBD2QWAgIDDxYEHwQFImh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9TcG9ydHMfBQUHX3BhcmVudBYCZg8VAR7grrXgrr/grrPgr4jgrq/grr7grp/gr43grp/gr4FkAgIPFQECTTNkAgQPZBYGZg8VAQJNNGQCAQ9kFgICAw8WBB8EBSJodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vQ2luZW1hHwUFB19wYXJlbnQWAmYPFQES4K6a4K6/4K6p4K6/4K6u4K6+ZAICDxUBAk00ZAIFD2QWBmYPFQEDTTIyZAIBD2QWAgIDDxYEHwQFM2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9Bc3Ryb2xvZ3kvQXN0cm9CZW5lZml0cx8FBQdfcGFyZW50FgJmDxUBFeCunOCvi+CupOCuv+Cun+CuruCvjWQCAg8VAQNNMjJkAgYPZBYGZg8VAQNNMjNkAgEPZBYCAgMPFgQfBAUtaHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL090aGVycy9EZXZvdGlvbmFsHwUFB19wYXJlbnQWAmYPFQEY4K6G4K6p4K+N4K6u4K6/4K6V4K6u4K+NZAICDxUBA00yM2QCBw9kFgZmDxUBA00yNGQCAQ9kFgICAw8WBB8EBSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vVGhhbGF5YW5nYW0fBQUHX3BhcmVudBYCZg8VARvgrqTgrrLgr4jgrq/grpngr43grpXgrq7gr41kAgIPFQEDTTI0ZAIID2QWBmYPFQEDTTI1ZAIBD2QWAgIDDxYEHwQFK2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9PdGhlcnMvWW91ckFyZWEfBQUHX3BhcmVudBYCZg8VASXgrongrpngr43grpXgrrPgr40g4K6u4K+B4K6V4K614K6w4K6/ZAICDxUBA00yNWQCCQ9kFgZmDxUBA00zMmQCAQ9kFgICAw8WBB8EBSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vTWFuYXBhbnRoYWwfBQUHX3BhcmVudBYCZg8VAR7grq7grqPgrqrgr43grqrgrqjgr43grqTgrrLgr41kAgIPFQEDTTMyZAIKD2QWBmYPFQEDTTMzZAIBD2QWAgIDDxYEHwQFIWh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9NeUFwcB8FBQdfcGFyZW50FgJmDxUBB0RUIEFwcHNkAgIPFQEDTTMzZAICD2QWAgIBDxYCHwMCAxYGZg9kFgZmDxUBAk02ZAICDxYEHwQFJmh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9OZXdzL0luZGlhHwUFB19wYXJlbnQWAmYPFQEr4K6k4K+H4K6a4K6/4K6vIOCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjWQCAw8VAQJNNmQCAQ9kFgZmDxUBAk03ZAICDxYEHwQFJmh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9OZXdzL1dvcmxkHwUFB19wYXJlbnQWAmYPFQEl4K6J4K6y4K6VIOCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjWQCAw8VAQJNN2QCAg9kFgZmDxUBAk04ZAICDxYEHwQFJmh0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9OZXdzL1N0YXRlHwUFB19wYXJlbnQWAmYPFQEr4K6u4K6+4K6o4K6/4K6yIOCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjWQCAw8VAQJNOGQCBw9kFgJmDxYEHwBkHwFoZAIJD2QWAmYPFgQfAGQfAWhkAg0PZBYEZg8VATNodHRwOi8vc3RhdC5kYWlseXRoYW50aGkuY29tL0RhaWx5VGhhbnRoaVVJL0ltYWdlcy9kAgEPFgIeCWlubmVyaHRtbAWJJjxkaXYgY2xhc3M9J2ZpcnN0X2Rpdic+PHVsIGNsYXNzPSdtZW51X3VsMSc+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MSBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL05ld3MvSW5kaWEnPuCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjTwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDEgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9TcG9ydHMnPuCuteCuv+Cus+CviOCur+CuvuCun+CvjeCun+CvgTwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDEgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9DaW5lbWEnPuCumuCuv+CuqeCuv+CuruCuvjwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDEgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS8nPuCuruCuseCvjeCuseCuteCviDwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDEgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9Bc3Ryb2xvZ3kvQXN0cm9CZW5lZml0cyc+4K6c4K+L4K6k4K6/4K6f4K6u4K+NPC9hPjwvbGk+PC9kaXY+PGRpdiBjbGFzcz0nc2Vjb25kX2Rpdic+PC9kaXY+PGRpdiBjbGFzcz0ndGhpcmRfZGl2Jz48ZGl2IGNsYXNzPSd1bDEnIGlkPSduZXdzMScgcnVuYXQ9J3NlcnZlcic+PHVsIGNsYXNzPSdtZW51X3VsMic+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL05ld3MvSW5kaWEnPuCupOCvh+CumuCuv+CuryDgrprgr4bgrq/gr43grqTgrr/grpXgrrPgr408L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vTmV3cy9Xb3JsZCc+4K6J4K6y4K6VIOCumuCvhuCur+CvjeCupOCuv+CuleCus+CvjTwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDIgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9OZXdzL1N0YXRlJz7grq7grr7grqjgrr/grrIg4K6a4K+G4K6v4K+N4K6k4K6/4K6V4K6z4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0Rpc3RyaWN0cy9DaGVubmFpJz7grq7grr7grrXgrp/gr43grp8g4K6a4K+G4K6v4K+N4K6k4K6/4K6V4K6z4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL05ld3MvRWxlY3Rpb24yMDE2Jz7grqTgr4fgrrDgr43grqTgrrLgr40gLSAyMDE2PC9hPjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSd1bDEnIGlkPSduZXdzMScgcnVuYXQ9J3NlcnZlcic+PHVsIGNsYXNzPSdtZW51X3VsMic+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL1Nwb3J0cy9Dcmlja2V0Jz7grpXgrr/grrDgrr/grpXgr43grpXgr4bgrp/gr408L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vU3BvcnRzL0Zvb3RiYWxsJz7grpXgrr7grrLgr43grqrgrqjgr43grqTgr4E8L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vU3BvcnRzL1Rlbm5pcyc+4K6f4K+G4K6p4K+N4K6p4K6/4K644K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL1Nwb3J0cy9Ib2NrZXknPuCuueCuvuCuleCvjeCuleCuvzwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDIgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9TcG9ydHMvQmFza2V0YmFsbCc+4K6V4K+C4K6f4K+I4K6q4K+N4K6q4K6o4K+N4K6k4K+BPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL1Nwb3J0cy9PdGhlclNwb3J0cyc+4K6q4K6/4K6xIOCuteCuv+Cus+CviOCur+CuvuCun+CvjeCun+CvgTwvYT48L2xpPjwvdWw+PC9kaXY+PGRpdiBjbGFzcz0ndWwxJyBpZD0nbmV3czEnIHJ1bmF0PSdzZXJ2ZXInPjx1bCBjbGFzcz0nbWVudV91bDInPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDIgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9DaW5lbWEvQ2luZUdhbGxlcnknPuCumuCuv+CuqeCuvyDgrpXgr4fgrrLgrrDgrr88L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vQ2luZW1hL0NpbmVtYVRodWxpZ2FsJz7grprgrr/grqngrr/grq7grr4g4K6k4K+B4K6z4K6/4K6V4K6z4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0NpbmVtYS9DaW5lbWFOZXdzJz7grprgrr/grqngrr/grq7grr4g4K6a4K+G4K6v4K+N4K6k4K6/4K6V4K6z4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0NpbmVtYS9QcmV2aWV3Jz7grq7gr4Hgrqngr43grqngr4vgrp/gr43grp/grq7gr408L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vQ2luZW1hL1Jldmlldyc+4K614K6/4K6u4K6w4K+N4K6a4K6p4K6u4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0NpbmVtYS9TcGVjaWFsSW50ZXJ2aWV3Jz7grprgrr/grrHgrqrgr43grqrgr4Eg4K6q4K+H4K6f4K+N4K6f4K6/PC9hPjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSd1bDEnIGlkPSduZXdzMScgcnVuYXQ9J3NlcnZlcic+PHVsIGNsYXNzPSdtZW51X3VsMic+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL090aGVycy9EZXZvdGlvbmFsJz7grobgrqngr43grq7grr/grpXgrq7gr408L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vVGhhbGF5YW5nYW0nPuCupOCusuCviOCur+CumeCvjeCuleCuruCvjTwvYT48L2xpPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDIgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9PdGhlcnMvWW91ckFyZWEnPuCuieCumeCvjeCuleCus+CvjSDgrq7gr4HgrpXgrrXgrrDgrr88L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vTWFuYXBhbnRoYWwnPuCuruCuo+CuquCvjeCuquCuqOCvjeCupOCusuCvjTwvYT48L2xpPjwvdWw+PC9kaXY+PGRpdiBjbGFzcz0ndWwxJyBpZD0nbmV3czEnIHJ1bmF0PSdzZXJ2ZXInPjx1bCBjbGFzcz0nbWVudV91bDInPjxsaSBjbGFzcz0nbmV3cyc+PGEgY2xhc3M9J2FfdGV4dDIgY29tbW9uY29sb3JTdHlsZXMnIGhyZWY9J2h0dHA6Ly93d3cuZGFpbHl0aGFudGhpLmNvbS9Bc3Ryb2xvZ3kvQXN0cm9CZW5lZml0cy9Bcmllcyc+4K6w4K6+4K6a4K6/4K6q4K6y4K6p4K+NPC9hPjwvbGk+PGxpIGNsYXNzPSduZXdzJz48YSBjbGFzcz0nYV90ZXh0MiBjb21tb25jb2xvclN0eWxlcycgaHJlZj0naHR0cDovL3d3dy5kYWlseXRoYW50aGkuY29tL0FzdHJvbG9neS9TdGFyQmVuZWZpdHMnPuCuqOCun+CvjeCumuCupOCvjeCupOCuv+CusCDgrqrgrrLgrqngr43grpXgrrPgr408L2E+PC9saT48bGkgY2xhc3M9J25ld3MnPjxhIGNsYXNzPSdhX3RleHQyIGNvbW1vbmNvbG9yU3R5bGVzJyBocmVmPSdodHRwOi8vd3d3LmRhaWx5dGhhbnRoaS5jb20vQXN0cm9sb2d5L0JpcnRoZGF5QmVuZWZpdHMnPuCuquCuv+CuseCuqOCvjeCupCDgrqjgrr7grrPgr40g4K6q4K6y4K6p4K+NPC9hPjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSd1bDEnIGlkPSduZXdzMScgcnVuYXQ9J3NlcnZlcic+PHVsIGNsYXNzPSdtZW51X3VsMic+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSd1bDEnIGlkPSduZXdzMScgcnVuYXQ9J3NlcnZlcic+PHVsIGNsYXNzPSdtZW51X3VsMic+PC91bD48L2Rpdj48L2Rpdj5kAg8PZBYCZg8WBB8AZB8BaGRkr5PbFz0PoyCLD5sRZ91S9Fzfuik=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F754746B" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABOnppwJrzK+tMxdyFbBCVoceK9xF9gH+quAvV+o/PZlunUyix+c39pkrJ+WOnsB9Wagq2tUxipeS7AZKvyljCGjYqNl4xsDRsO/Ly6nEeTtFgWdrjMs2zWUSl5SWhAcYgGbmWA8UloezOgdOgSL+xViN8wMRA6xyapNxCW/7MwdH+9siAqMOu6dV8PlS9Qs29f1zdTZkuLiGnDVrQbDep8O6TlsV1sab/rZdwhVyououuOwS7cHvIMIT1kOmR+VkiE5driqiHP4k0e2bFQTOQbQbQQqtEY5/oYiPHDyubpkQ4ojhe/Pc5Yo503MWAapDzZWYrUjqSIgSQtrBK6U0aWv1axjdE5zEHIutOgxBvkJusquUg7afgiDJ8Hm01NkqRf9vxvH2K/zuyX6zcDQ2mAzXG+vn70xxY/NPGsnzKRrJ08XnOc=" />
+</div>
+    <div id="body-cont">
+        <div class="haderContainer">
+            
+ 
+ 
+<script src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/jquery-1.4.1.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	var mm = jQuery.noConflict();
+    mm(document).ready(function () {
+        var headpagename = document.URL;
+        //alert(headpagename.indexOf(".vpf"));
+        if (headpagename.indexOf(".vpf") < 0) {
+            document.getElementById('HeaderGoogleLoginDiv').style.display = "none";
+        }
+        commentloginstatus();
+    });
+
+    function DecodeURI() {
+        
+        var dec = decodeURI(enc);
+        
+    }
+
+    function commentloginstatus() {
+
+        var myCookieheaduserID = getCookieRep("readcookieuseridnew");
+        
+        if (myCookieheaduserID != null) {
+            var myCookieheadpropic = getCookieRep("readcookieuserpicnew");
+            var myCookieheadUniuserID = getCookieRep("readcookieuniquseridnew");
+            
+            //alert(myCookieheadUniuserID);
+            var myCookieheadname = getCookieRep("readcookieuserfullname");
+            var myCookieheademail = getCookieRep("readcookieuseremailnew");
+            //alert(myCookieheademail);
+            var logbind = "<div style='float:left;font-size:13px;font-weight:700;'><div style='float:left;padding: 0 4px 0 0;'><img src='" + unescape(myCookieheadpropic) + "'height='20' wieght='20' id='imghead'/></div>";
+            logbind += "<div style='color:#000000;font-weight:bold;font-size:11px;float:left;padding-top:1px;padding-right:2px;'>Hi, <span style='color:#000;font-family:arial;font-weight:bold;font-size:11px;padding-right:2px;'><a href='http://www.dailythanthi.com/WebPages/CommentProfile.aspx?id=" + unescape(myCookieheadUniuserID) + "' style='margin:0px;color:#3265C0;'>" + unescape(myCookieheadname) + "</a></span></div>";
+            logbind += "<div class='slash'> | </div></div>";
+            document.getElementById('innerhtmllogin').innerHTML += logbind;
+            document.getElementById('HeaderGoogleLoginDiv').style.display = "none";
+            document.getElementById('logoutgplus').style.display = "block";
+            //document.getElementById('logoutfb').style.display = "block";
+            
+        }
+        else {
+            document.getElementById('GoogleLoginDiv').style.display = "block";
+        }
+    }
+
+    function Headerlogin() {
+        
+            var win = window.open(_url, "windowname1", 'width=800, height=600');
+            var pollTimer = window.setInterval(function () {
+                try {
+                    console.log(win.document.URL);
+                    if (win.document.URL.indexOf(REDIRECT) != -1) {
+                        window.clearInterval(pollTimer);
+                        var url = win.document.URL;
+                        
+                        acToken = gup(url, 'access_token');
+                        tokenType = gup(url, 'token_type');
+                        expiresIn = gup(url, 'expires_in');
+                        win.close();
+                        validateTokenHeader(acToken);
+
+                    }
+
+                } catch (e) {
+                }
+            }, 500);
+
+        }
+
+        function validateTokenHeader(token) {
+            $.ajax({
+                url: VALIDURL + token,
+                data: null,
+                success: function (responseText) {
+                    getUserInfoHeader();
+
+                    loggedIn = true;
+                    $('#loginText').hide();
+                    $('#logoutText').show();
+                },
+                dataType: "jsonp"
+            });
+        }
+        function getUserInfoHeader() {
+            $.ajax({
+                url: 'https://www.googleapis.com/oauth2/v1/userinfo?access_token=' + acToken,
+                data: null,
+                success: function (resp) {
+                    user = resp;
+                    console.log(user);
+				if ((user.id != null) || (user.id == '')) {
+
+                    //                    document.getElementById('fblogindiv').style.display = "none";
+                    //                    document.getElementById('Twitterlogindivid').style.display = "none";
+                    document.getElementById('HeaderGoogleLoginDiv').style.display = "none";
+                    //alert(user.id);
+                    var value = user.id; // +"&username=" + user.name + "&email=" + user.email;
+                    var expiryDate = new Date();
+                    expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                    setCookie("readcookieuseridnew", value, expiryDate);
+
+
+                    var value1 = user.name;
+                    var expiryDate = new Date();
+                    expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                    setCookie("readcookieuserfullname", value1, expiryDate);
+
+
+                    var value2 = user.email;
+                    var expiryDate = new Date();
+                    expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                    setCookie("readcookieuseremailnew", value2, expiryDate);
+
+                    var value3 = user.picture;
+                    var expiryDate = new Date();
+                    expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                    setCookie("readcookieuserpicnew", value3, expiryDate);
+
+                    //alert('You are succesfully logged in!');
+
+                    if (glbfollowerstatus == "success") {
+                        if (glbuserid != "") {
+                            checknewuser("Gplus", "0", glbuserid);
+                            //pagereloadfunRep();
+                            
+                        }
+                    }
+                    else if (headlikedisStatus == "success") {
+                        checknewuser("Gplus","1","");
+                        //pagereloadfunRep();
+                        
+                    }
+                    else {
+                        checknewuser("Gplus","2","");
+                        //alert("thats right");
+                        //pageloading();
+                        
+                    }
+					}
+
+                },
+                dataType: "jsonp"
+            });
+
+        }
+
+        function pageloading() {
+            window.location.reload();
+        }
+    function clearListCookiesHead() {
+
+        var cookiesRep = document.cookie.split(";");
+        //window.location = "https://twitter.com/download?lang=en&logged_out=1";
+        //alert(cookiesRep);
+        alert("You have been successfully logged out");
+        for (var i = 0; i < cookiesRep.length; i++) {
+            var spcookRep = cookiesRep[i].split("=");
+            //alert(spcookRep[0]);
+            document.cookie = spcookRep[0] + "=;expires=Thu, 21 Sep 1979 00:00:01 UTC;path=/; domain=.dailythanthi.com;";
+            document.cookie = spcookRep[0] + "=;expires=Thu, 21 Sep 1979 00:00:01 UTC;";
+        }
+
+
+        window.location.reload();
+        Logout();
+    }
+    function delete_cookie(name) {
+        document.cookie = name + '=; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+    function setHomepage() {
+        //Condition to set home page in IE
+        
+        var pathname = window.location.pathname;
+
+        var CurrentURL = location.href;
+       
+        if (document.all) {
+            document.body.style.behavior = 'url(#default#homepage)';
+            document.body.setHomePage(CurrentURL);
+        }
+        //Condition to set home page in Mozilla
+        else if (window.sidebar) {
+            if (window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+                    alert("this action was aviod by your browser，if you want to enable，please enter about:config in your address line,and change the value of signed.applets.codebase_principal_support to true");
+                }
+            }
+            var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+            prefs.setCharPref('browser.startup.homepage', CurrentURL);
+        }
+    }
+
+    function getCookieRep(name) {
+        var valueRep = "; " + document.cookie;
+        var partsRep = valueRep.split("; " + name + "=");
+        if (partsRep.length == 2) return partsRep.pop().split(";").shift();
+    }
+
+    function FBHeaderLogin() {
+            FB.login(function (response) {
+                if (response.authResponse) {
+                    var uid = "http://graph.facebook.com/" + response.authResponse.userID + "/picture";
+                    var expiryDate = new Date();
+                    expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                    setCookie("readcookieuserpicnew", uid, expiryDate);
+                    getFBHeaderUserInfo();
+                } else {
+                    console.log('User cancelled login or did not fully authorize.');
+                }
+            }, { scope: 'email,user_photos,user_videos,publish_stream' });
+        }
+
+        function getFBHeaderUserInfo() {
+            FB.api('/me', function (response) {
+                if ((response.id != null) || (response.id != "")) {
+                var value = response.id; // +"&username=" + user.name + "&email=" + user.email;
+                var expiryDate = new Date();
+                expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                setCookie("readcookieuseridnew", value, expiryDate);
+
+
+                var value1 = response.name;
+                var expiryDate = new Date();
+                expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                setCookie("readcookieuserfullname", value1, expiryDate);
+
+
+                var value2 = response.email;
+                var expiryDate = new Date();
+                expiryDate.setTime(expiryDate.setDate(expiryDate.getDate() + 1)); // 365 days
+                setCookie("readcookieuseremailnew", value2, expiryDate);
+
+                if (glbfollowerstatus == "success") {
+                    if (glbuserid != "") {
+                        checknewuser("FaceBook", "0", glbuserid);
+                    }
+                }
+                else if (headlikedisStatus == "success") {
+                    checknewuser("FaceBook", "1", "");
+                }
+                else {
+                    checknewuser("FaceBook", "2", "");
+                }
+				}
+
+
+            });
+        }
+
+        function headerpopuplogin() {
+            $find("mpe").show();
+        }
+
+</script>
+<script type="text/javascript">
+    var Jr = jQuery.noConflict();
+    Jr(document).ready(function () {
+
+        if (Jr.browser.msie) {
+
+
+            Jr('.startpage').css("cursor", "pointer");
+            // Jr('.startpage').attr("href", "");
+            Jr('.startpage').click(function () {
+                setHomepage();
+            });
+        }
+
+    });
+
+</script>
+<style type="text/css">
+    .slash
+    {
+        color: #e6e6e6;
+        float: left;
+        padding: 0 4px 0 2px;        
+        }
+
+</style>
+<script type="text/javascript" src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/jquery.min.js"></script>
+ 
+<div class="header">
+
+<div class="top1">
+<div class="daily_thanthi"><a href="" >
+    <img src="http://stat.dailythanthi.com/DailyThanthiUI/Images/daily_thathi_tab.png" alt="Daily Thanthi"/></a></div>
+	 <div class="thanthi_tv" >
+            <a href="http://www.dtnext.in/" target="_blank" >
+                <img src="http://stat.dailythanthi.com/DailyThanthiUI/Images/DTNext.png" alt="DTNext" /></a>
+        </div>
+<div class="thanthi_tv"><a href="http://www.thanthitv.com/" target="_blank" ><img src="http://stat.dailythanthi.com/DailyThanthiUI/Images/thanthi_tv_tab.png" alt="Thanthi TV"/></a>
+    </div>
+    
+    <div class="social_Top_Header"  >
+         
+        <a  href="https://plus.google.com/+dailythanthi/posts" target="_blank"  class="share"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/gplus.png" alt="googleplus" /></a>
+        <a  href="https://twitter.com/dinathanthi" target="_blank"  class="share"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/twitter_icon.gif" alt="twitter" /></a>
+        <a  href="https://www.facebook.com/dailythanthinews" target="_blank"  class="share"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/facebook_icon.gif" alt="facebook" /></a>
+        <a  href="http://www.dinathanthiepaper.in" target="_blank"  class="e_paper"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/e-paper_icon.gif" alt="e_paper" /></a>
+        <div id="logindetails" style="float:right;">
+            <iframe name='myIFrame1' id="myIFrame1" style='display:none'></iframe>
+            <div id="innerhtmllogin" style="float:left;"></div>
+            <a href="#" temp_href="#" target='myIFrame1' id="logoutgplus" onclick="myIFrame1.location='https://www.google.com/accounts/Logout';clearListCookiesHead(); return false;" 
+            style="display:none; float:left; color: #3265c0;cursor:pointer; font-size:13px;padding: 0 4px 0 0; word-spacing:-5px;" >Log Out</a>
+            <div id='HeaderGoogleLoginDiv' style="float:left;margin-left:0%; margin-top:0px;padding: 0 6px 0 0; word-spacing:-5px;"> 
+                <a id="headerlink" style="cursor:pointer; text-decoration:underline; font-size:15px;" onclick="headerpopuplogin();">Log In</a>
+                
+            </div>
+            
+        </div>
+    </div>  
+</div>
+
+<div class="top2">
+<a  href="http://www.dailythanthi.com/Home" class="home"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/home-icon.gif" alt="home" /></a>
+
+		
+
+
+
+    <div class="Google_Custom_Search">
+            <div id="resultdiv">
+
+              
+
+            </div>
+        </div>
+ 
+ 
+</div>
+
+<div class="header2_top3">
+<div class="logo_ad_div">
+<div class="small_logo"><a  href="http://www.dailythanthi.com/Home"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/logo2.PNG" alt="logo" />
+
+
+
+</a>
+<script class="date" language="javascript">
+    var mydate = new Date();
+    var year = mydate.getYear()
+    if (year < 1000)
+        year += 1900
+    var day = mydate.getDay()
+    var month = mydate.getMonth()
+    var daym = mydate.getDate()
+    if (daym < 10)
+        daym = "0" + daym
+    var dayarray = new Array("ஞாயிற்றுக்கிழமை", "திங்கட்கிழமை", "செவ்வாய்கிழமை", "புதன்கிழமை ", "வியாழக்கிழமை ", "வெள்ளிக்கிழமை", "சனிக்கிழமை")
+    var montharray = new Array("ஜனவரி ", "பிப்ரவரி ", "மார்ச் ", "ஏப்ரல் ", "மே", "ஜூன் ", "ஜூலை ", "ஆகஸ்ட் ", "செப்டம்பர் ", "அக்டோபர் ", "நவம்பர் ", "டிசம்பர் ")
+    document.write("<P CLASS=date>" + dayarray[day] + ", " + montharray[month] + " " + daym + ", " + year + "</P>")
+</script></div>
+<div class="ad3">
+<div id="header_Ad728X90_HeaderText" style="visibility:hidden;display:none">
+
+</div>
+<input type="hidden" name="ctl00$header$Ad728X90$footerad_check" id="header_Ad728X90_footerad_check" /></div>
+</div>
+</div>
+
+</div>
+  <script language="javascript" type="text/javascript">
+ var G = jQuery.noConflict();
+    G(document).ready(function () {
+
+       G("#resultdiv").load("http://www.dailythanthi.com/Webpages/GoogleSearch.aspx", {}, function (data) {
+
+        });
+    });
+
+   
+                </script>
+				
+			<script type="text/javascript">
+			   isIE11 = !!window.MSStream;
+
+						 if(isIE11){
+							
+					   
+					   }
+			</script>
+			
+            
+            
+       
+            
+
+
+<script src="http://stat.dailythanthi.com/DailyThanthiUI/JavaScript/getElementsByClassName-1.0.1.js" type="text/javascript"></script>
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+    function HideAllMainMenu() {
+        var selectId = arguments[0];
+        var selectedCount = 0;
+        var element;
+        var MainMenuIds = getElementsByClassName("selectedHeaderMainMenuTab");
+        var MainMenuId;
+        for (var i = 0; i < MainMenuIds.length; i++) {
+            MainMenuId = MainMenuIds[i].id;
+            if (MainMenuId != selectId) {
+                document.getElementById(MainMenuId).className = "unselectedHeaderMainMenuTab";
+            }
+        }
+    }
+    function chkMenuId() {
+     //  alert('main'+arguments[0]);
+       if (arguments[0] == arguments[1]) {
+          // alert('main' + arguments[0]);
+            HideAllMainMenu(arguments[0]);
+            changeMainHeadBG(arguments[0]);
+        }
+    }
+    function chkSubMenuId() {
+       // alert(arguments[0]);
+        if (arguments[0] == arguments[1]) {
+            ChangeSubBG(arguments[0]);
+        }
+    }
+</script>
+<style type="text/css">
+    .listMainmenu
+    {
+        font-size: .7em;
+        width: 99.8%;
+        height: 27px;
+        line-height: 15px;
+    }
+    .listMainmenu
+    {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        float: left;
+        width: 99.8%;
+        border: solid 1px #000;
+        background-color: #FFF !important;
+    }
+    .backrepMainMenu a, .Homeimg
+    {
+        border-left-width: 0;
+        text-decoration: none;
+        font-weight: bold;
+        float: left;
+        color: Black !important;
+        padding: 7px 7px 7px;
+        cursor: pointer;
+    }
+    .backrepMainMenu a:hover
+    {
+        /*color: Red !important;*/
+    }
+    .selectedHeaderMainMenuTab a
+    {
+        float: left;
+       /* background: black url(http://www.maalaimalar.com/Images/tab_mediate.gif) center center repeat-x !important;*/
+           color: #FFFFFF !important;
+        cursor: default;
+    }
+    .selectedHeaderMainMenuTab
+    {
+        color: #FFFFFF !important;
+         background-image:url(http://stat.dailythanthi.com/DailyThanthiUI/Images/Menu-grad-1px.gif);
+             }
+    .selectedHeaderMainMenuTab a:hover
+    {
+        color: #FFFFFF !important;
+    }
+    .unselectedHeaderMainMenuTab .backrep a:hover
+    {
+        float: left;
+        text-decoration: none;
+    }
+    .backrepSubMenu
+    {
+        float: left;
+        height: auto;
+        padding-bottom:10px;
+    }
+    .backrep a, .backrep a:visited
+    {
+        float: left;
+    }
+    .backrepSubMenu a
+    {
+        float: left;
+        color: #000000 !important;
+        /*font-weight: bold;*/
+        font-size: 11px;
+        text-decoration: none;
+        height: 20px;
+        color: #FFFFFF !important;
+          width: auto !important;
+        /* padding: 5px 7px 2px 7px !important;*/
+      /*  border-right: 1px solid #fff;*/
+    }
+    .backrepSubMenu a:hover
+    {
+        color: #FFFFFF !important;
+         /*padding: 4px 7px !important;*/
+         /* background-color: #4D4D4D !important;*/
+       /*background: url(http://www.maalaimalar.com/Images/tab_mediate.gif) center center repeat-x!important;*/
+    }
+    .subMenuSelected
+    {
+        color: #FFFF00 !important;
+        
+    }
+    .subMenuSelected a
+    {
+        color: #FFFFFF  !important;
+        font-weight:bolder;
+        text-decoration:underline;
+       
+    }
+    .selectedHeaderMainMenuTab a
+    {  color: #FFFFFF  !important;
+         
+    }
+    .subMenuSelected .backrep1 a:hover
+    {
+        color: #FFFFFF !important;
+    }
+      .menu_Css ul li
+    {
+        font-weight:bolder;
+    }
+
+    .MenuWholeDiv {
+        background-color: #565656;
+        border-bottom: 1px solid #cbc7c6;
+        border-left: 1px solid #cbc7c6;
+        border-right: 1px solid #cbc7c6;
+        float: left;
+        width: 1000px;
+        }
+
+
+
+
+
+
+</style>
+
+<div class="MenuWholeDiv">
+
+  
+   <iframe id="DivFlashNews" scrolling="no" width="100%" src="http://www.dailythanthi.com/WebPages/FlashNews.aspx" style="height:0px !important;border:none;"></iframe>
+
+<div class="menu_Css">
+
+<ul class="ul">
+ 
+        <li class="li">
+             <div id='M36'>
+             <div id="menuId_repMenus_MainDiv_0">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl00$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_0" value="M36" />
+                <a href="http://www.dailythanthi.com/News/Election2016" id="menuId_repMenus_MenuLink_0" target="_parent">தேர்தல் - 2016</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M36', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M2'>
+             <div id="menuId_repMenus_MainDiv_1">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl01$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_1" value="M2" />
+                <a href="http://www.dailythanthi.com/News/India" id="menuId_repMenus_MenuLink_1" target="_parent">செய்திகள்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M2', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M9'>
+             <div id="menuId_repMenus_MainDiv_2">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl02$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_2" value="M9" />
+                <a href="http://www.dailythanthi.com/Districts/Chennai" id="menuId_repMenus_MenuLink_2" target="_parent">மாவட்ட செய்திகள்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M9', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M3'>
+             <div id="menuId_repMenus_MainDiv_3">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl03$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_3" value="M3" />
+                <a href="http://www.dailythanthi.com/Sports" id="menuId_repMenus_MenuLink_3" target="_parent">விளையாட்டு</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M3', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M4'>
+             <div id="menuId_repMenus_MainDiv_4">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl04$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_4" value="M4" />
+                <a href="http://www.dailythanthi.com/Cinema" id="menuId_repMenus_MenuLink_4" target="_parent">சினிமா</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M4', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M22'>
+             <div id="menuId_repMenus_MainDiv_5">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl05$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_5" value="M22" />
+                <a href="http://www.dailythanthi.com/Astrology/AstroBenefits" id="menuId_repMenus_MenuLink_5" target="_parent">ஜோதிடம்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M22', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M23'>
+             <div id="menuId_repMenus_MainDiv_6">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl06$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_6" value="M23" />
+                <a href="http://www.dailythanthi.com/Others/Devotional" id="menuId_repMenus_MenuLink_6" target="_parent">ஆன்மிகம்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M23', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M24'>
+             <div id="menuId_repMenus_MainDiv_7">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl07$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_7" value="M24" />
+                <a href="http://www.dailythanthi.com/Thalayangam" id="menuId_repMenus_MenuLink_7" target="_parent">தலையங்கம்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M24', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M25'>
+             <div id="menuId_repMenus_MainDiv_8">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl08$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_8" value="M25" />
+                <a href="http://www.dailythanthi.com/Others/YourArea" id="menuId_repMenus_MenuLink_8" target="_parent">உங்கள் முகவரி</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M25', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M32'>
+             <div id="menuId_repMenus_MainDiv_9">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl09$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_9" value="M32" />
+                <a href="http://www.dailythanthi.com/Manapanthal" id="menuId_repMenus_MenuLink_9" target="_parent">மணப்பந்தல்</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M32', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+        <li class="li">
+             <div id='M33'>
+             <div id="menuId_repMenus_MainDiv_10">
+             <input type="hidden" name="ctl00$menuId$repMenus$ctl10$hidMainMenuId" id="menuId_repMenus_hidMainMenuId_10" value="M33" />
+                <a href="http://www.dailythanthi.com/MyApp" id="menuId_repMenus_MenuLink_10" target="_parent">DT Apps</a>
+                
+            </div>
+            <script language="javascript" type="text/javascript">
+                chkMenuId('M33', 'M2');
+            </script>
+            </div>
+        </li>               
+        
+  </ul>
+
+</div>
+<div id="menuId_submenu" class="subMenu_Css">
+
+
+
+<ul class="ul1copy">
+
+
+
+
+        <li class="li1">
+            <div id='M6'>
+            <input type="hidden" name="ctl00$menuId$repSubmenu$ctl00$hidSubMenuId" id="menuId_repSubmenu_hidSubMenuId_0" value="M6" />
+                <a href="http://www.dailythanthi.com/News/India" id="menuId_repSubmenu_SubMenuLink_0" target="_parent">தேசிய செய்திகள்</a>
+            </div>  
+            <script language="javascript" type="text/javascript">
+                chkSubMenuId('M6', '');
+            </script> 
+        </li>
+        
+        <li class="li1">
+            <div id='M7'>
+            <input type="hidden" name="ctl00$menuId$repSubmenu$ctl01$hidSubMenuId" id="menuId_repSubmenu_hidSubMenuId_1" value="M7" />
+                <a href="http://www.dailythanthi.com/News/World" id="menuId_repSubmenu_SubMenuLink_1" target="_parent">உலக செய்திகள்</a>
+            </div>  
+            <script language="javascript" type="text/javascript">
+                chkSubMenuId('M7', '');
+            </script> 
+        </li>
+        
+        <li class="li1">
+            <div id='M8'>
+            <input type="hidden" name="ctl00$menuId$repSubmenu$ctl02$hidSubMenuId" id="menuId_repSubmenu_hidSubMenuId_2" value="M8" />
+                <a href="http://www.dailythanthi.com/News/State" id="menuId_repSubmenu_SubMenuLink_2" target="_parent">மாநில செய்திகள்</a>
+            </div>  
+            <script language="javascript" type="text/javascript">
+                chkSubMenuId('M8', '');
+            </script> 
+        </li>
+         
+</ul>
+
+
+
+</div>
+
+
+    </div>
+            <div class="lblColorJothidam">
+                <div id="BCheader_breadcrumbwolediv" class="clsbreadcrumb" style="color:#80809B; font-size:10px; ">
+<a style='font-size:10px;color:#80809B;' href='http://www.dailythanthi.com/home' >முகப்பு</a><img alt='Arrow' src='http://stat.dailythanthi.com/DailyThanthiUI/Images/title-arrows.jpg' style='padding-left:3px;padding-right:3px;' runat='server'></img><a style='font-size:10px;color:#80809B;' href='http://www.dailythanthi.com/News/India '>செய்திகள்</a><img alt='Arrow' src='http://stat.dailythanthi.com/DailyThanthiUI/Images/title-arrows.jpg' style='padding-left:3px;padding-right:3px;' runat='server'></img>மாநில செய்திகள்
+</div>
+            </div>
+        </div>
+
+        <div id="adampra"  style="height: 150px;left: 50%;margin-left: 503px;position: fixed;top: 38px;width: 19px;z-index: 5;">
+            
+<div id="UC1_HeaderText" style="visibility:hidden;display:none">
+
+</div>
+<input type="hidden" name="ctl00$UC1$footerad_check" id="UC1_footerad_check" />
+            </div>
+            <div id="Div1"  style="height: 150px;right: 50%;margin-right: 644px;position: fixed;top: 38px;width: 19px;z-index: 5;">
+             
+<div id="UC2_HeaderText" style="visibility:hidden;display:none">
+
+</div>
+<input type="hidden" name="ctl00$UC2$footerad_check" id="UC2_footerad_check" />
+            </div>
+        
+     <style>
+    .footer-page .panel  {
+        padding:0px;
+        margin-bottom:0px;
+ /*border-bottom:1px solid #EFEFEF;*/
+        
+    }
+    .footer-page .panel-heading {
+        padding:10px;
+        padding-bottom:0px;
+    }
+    .footer-page .panel-body {
+        padding:10px;
+        padding-bottom:0px;
+    }
+    .footer-page h3 {
+        margin:10px 0px;
+        color:#000;
+        border-left:3px solid orange;
+        padding: 10px 0px;
+        padding-left: 10px;
+        margin:0px;
+    }
+    .text-bold {
+        font-weight:bold;
+    }
+    .footer-page a {
+        color:rgb(17,85,204);
+    }
+</style>
+     <div>
+    <div class="col-lg-12 footer-page">
+        <div class="panel">
+            <div class="panel-heading"><h3> 1. User Agreement</h3></div>
+              <div class="panel-body"> 
+<p>You (the user) can access epaper.dailythanthi.com (the site), subject to the terms and conditions of use, as changed / updated from time to time entirely at the discretion of Dailythanthi as set out below. This Agreement is for an indefinite term and you understand and agree that are bound by such terms till the time you access this site. 
+</p>
+                  </div>
+            </div>
+ <div class="panel"> <div class="panel-heading"><h3>2. Changes </h3></div>
+<p>We reserve the right to add to or change/modify the terms of this Agreement including but not limited to suspend / cancel, or discontinue any or all channels, or service at any time without notice, make modifications and alterations in any or all of the content, products and services contained on the site without prior notice. You will be deemed to have accepted such change/s if you continue to access the Site subsequent to such changes. </p>
+     </div>
+
+<div class="panel"> <div class="panel-heading"><h3>3. Registration </h3></div>
+
+<p>When you register, you are registering as a personal user of epaper.dailythanthi.com. Access to registration area is via your email address and password. </p>
+
+<p>We allow you access to the registration areas of the site on the basis that: </p>
+
+<p>(i) your email address and password are personal to you and may not be used by anyone else to access epaper.dailythanthi.com</p>
+
+<p>(ii) you will not do anything which would assist anyone who is not a registered user to gain access to any registration area of epaper.dailythanthi.com </p>
+
+<p>(iii) you do not maliciously create additional registration accounts for the purpose of abusing the functionality of the site, or other users; nor do you seek to pass yourself off as another user </p>
+
+<p>(iv) you comply with these terms and conditions. </p>
+
+<p>If, for any reason, we believe that you have not complied with these requirements, we may, at our discretion, cancel your access to the registration areas of epaper.dailythanthi.com and without giving you any advance notice. </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>4. Charges </h3></div>
+<p>This Site reserves the right to charge subscription and / or membership fees in respect of any part, aspect of this without prior notice. </p>
+</div>
+<div class="panel"> <div class="panel-heading"><h3>5. Copyright and Trademarks </h3></div>
+<p>Unless otherwise stated, copyright and all intellectual property rights in all material presented on the site (including but not limited to text, audio, video or graphical images), trademarks and logos appearing on this site are the property of Dailythanthi, its affiliates and associates and are protected under applicable Indian laws. Any infringement shall be vigorously defended and pursued to the fullest extent permitted by law.  </p>
+
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>6. Termination of Registration </h3></div>
+<p>If we wish to bring the agreement to an end, we will do so by emailing you at the address you have registered stating that the agreement has terminated. The agreement will terminate and your email address and password will become invalid on epaper.dailythanthi.com immediately.  </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>7. Limited Permission to Copy </h3></div>
+<p>You are permitted to print or download extracts from these pages for your personal non-commercial use only. Any copies of these pages saved to disk or to any other storage medium may only be used for subsequent viewing purposes or to print extracts for personal use. You may not (whether directly or through the use of any software program) create a database in electronic or structured manual form by regularly or systematically downloading and storing all or any part of the pages from this site. No part of the Site may be reproduced or transmitted to or stored in any other web site, nor may any of its pages or part thereof be disseminated in any electronic or non-electronic form, nor included in any public or private electronic retrieval system or service without prior written permission.  </p>
+
+<p>Third Party Material 
+
+<p>You will see advertising material submitted by third parties on epaper.dailythanthi.com. Individual advertisers are solely responsible for the content of advertising material, which they submit to us, including ensuring that it complies with relevant legislation. We accept no responsibility for the content of advertising material, including, without limitation, any error, omission or inaccuracy therein. </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>8. E-Mail Services </h3></div>
+<p>You agree to not use the service to:
+<p>Upload, post, email, transmit or otherwise make available any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable. </p>
+<p>Harm minors in any way.
+Impersonate any person or entity, including, but not limited to, Dailythanthi official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity.
+Forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the service.
+Upload, post, email, transmit or otherwise make available any content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements).
+Upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights ("Rights") of any party.
+Upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>9. Disclaimer </h3></div>
+<p>All the contents of this Site are only for general information or use. They do not constitute advice and should not be relied upon in making (or refraining from making) any decision. Any specific advice or replies to queries in any part of the Site is/are the personal opinion of such experts/consultants/persons and are not subscribed to by this Site. The information from or through this site is provided on "AS IS" basis, and all warranties, expressed or implied of any kind, regarding any matter pertaining to any goods, service or channel, including without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement are disclaimed and excluded.
+Dailythanthi shall not be liable, at any time for damages (including, without limitation, damages for loss of business projects, or loss of profits) arising in contract, tort or otherwise from the use of or inability to use the Site, or any of its contents, or from any act or omissions a result of using the Site or any such contents or for any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communications line failure, theft or destruction or unauthorized access to, alteration of, or use of information contained on the site. No representations, warranties or guarantees whatsoever are made as to the accuracy, adequacy, reliability, completeness, suitability or applicability of the information to a particular situation.
+Certain links on the Site lead to resources located on servers maintained by third parties over whom Dailythanthi has no control or connection, business or otherwise as these sites are external to Dailythanthi you agree and understand that by visiting such sites you are beyond the Dailythanthi website. Dailythanthi therefore neither endorses nor offers any judgment or warranty and accepts no responsibility or liability for the authenticity/availability of any of the goods/services/or for any damage, loss or harm, direct or consequential or any violation of local or international laws that may be incurred by your visit and/or transaction/s on these sites </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>10. Force Majuere </h3></div>
+<p>Although we will do our best to provide constant, uninterrupted access to epaper.dailythanthi.com, we do not guarantee this. We accept no responsibility or liability for any interruption or delay </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>11. Governing Law </h3></div>
+<p>This agreement shall be governed by the Indian Law.  </p>
+    </div>
+<div class="panel"> <div class="panel-heading"><h3>12. Jurisdiction </h3></div>
+<p>The Courts in Chennai shall have the exclusive jurisdiction to the exclusion of other courts. </p>
+    </div>
+
+
+
+    </div>
+        </div>
+
+        
+ 
+ 
+    <link rel="shortcut icon" type="image/x-icon" href="http://stat.dailythanthi.com/DailyThanthiUI/Images/DTICon.jpg" />
+<div class="footer">
+<div id="FooterSection_val"><div class='first_div'><ul class='menu_ul1'><li class='news'><a class='a_text1 commoncolorStyles' href='http://www.dailythanthi.com/News/India'>செய்திகள்</a></li><li class='news'><a class='a_text1 commoncolorStyles' href='http://www.dailythanthi.com/Sports'>விளையாட்டு</a></li><li class='news'><a class='a_text1 commoncolorStyles' href='http://www.dailythanthi.com/Cinema'>சினிமா</a></li><li class='news'><a class='a_text1 commoncolorStyles' href='http://www.dailythanthi.com/'>மற்றவை</a></li><li class='news'><a class='a_text1 commoncolorStyles' href='http://www.dailythanthi.com/Astrology/AstroBenefits'>ஜோதிடம்</a></li></div><div class='second_div'></div><div class='third_div'><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/News/India'>தேசிய செய்திகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/News/World'>உலக செய்திகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/News/State'>மாநில செய்திகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Districts/Chennai'>மாவட்ட செய்திகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/News/Election2016'>தேர்தல் - 2016</a></li></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/Cricket'>கிரிக்கெட்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/Football'>கால்பந்து</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/Tennis'>டென்னிஸ்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/Hockey'>ஹாக்கி</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/Basketball'>கூடைப்பந்து</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Sports/OtherSports'>பிற விளையாட்டு</a></li></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/CineGallery'>சினி கேலரி</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/CinemaThuligal'>சினிமா துளிகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/CinemaNews'>சினிமா செய்திகள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/Preview'>முன்னோட்டம்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/Review'>விமர்சனம்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Cinema/SpecialInterview'>சிறப்பு பேட்டி</a></li></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Others/Devotional'>ஆன்மிகம்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Thalayangam'>தலையங்கம்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Others/YourArea'>உங்கள் முகவரி</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Manapanthal'>மணப்பந்தல்</a></li></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Astrology/AstroBenefits/Aries'>ராசிபலன்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Astrology/StarBenefits'>நட்சத்திர பலன்கள்</a></li><li class='news'><a class='a_text2 commoncolorStyles' href='http://www.dailythanthi.com/Astrology/BirthdayBenefits'>பிறந்த நாள் பலன்</a></li></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'></ul></div><div class='ul1' id='news1' runat='server'><ul class='menu_ul2'></ul></div></div></div>
+<script type="text/javascript">
+    var F = jQuery.noConflict();
+    F(document).ready(function() {
+        var offset = 220;
+        var duration = 500;
+        F(window).scroll(function() {
+        if (F(this).scrollTop() > offset) {
+            F('.back-to-top').fadeIn(duration);
+            } else {
+            F('.back-to-top').fadeOut(duration);
+            }
+        });
+
+        F('.back-to-top').click(function(event) {
+            event.preventDefault();
+            F('html, body').animate({ scrollTop: 0 }, duration);
+            return false;
+        })
+		
+		F('#yr').html((new Date()).getFullYear());
+    });
+	
+</script>
+<a href="#" class="back-to-top"><img src="http://stat.dailythanthi.com/DailyThanthiUI/Images/ScrollTop.png" /></a>
+
+<div class="bottom_div">
+<a  class="logo1" href="http://www.dailythanthi.com/Home"><img  src="http://stat.dailythanthi.com/DailyThanthiUI/Images/logo2.PNG" alt="logo" /></a>
+<div class="ul5">
+<ul style="width:620px;margin:0 auto;">
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="a_text" href="http://www.dailythanthi.com/Aboutus"> எங்களைப்பற்றி</a></li>
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="a_text" href="http://www.dailythanthi.com/PrivacyPolicy"> தனித்தன்மை பாதுகாப்பு</a></li>
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="a_text" href="http://www.dailythanthi.com/Contact-Us"> தொடர்புகொள்ள</a></li>
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="a_text" href="http://www.dailythanthi.com/Sitemap"> வலைத்தள தொகுப்பு</a></li>
+
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="a_text" href="http://www.dailythanthi.com/Feedback">ஆலோசனைகள்</a></li>
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="company_name_link" href="http://www.dailythanthi.com/Paper-Ad-Tariff">Paper Ad Tariff</a></li>
+<li class="list2" style="margin-left: 4px !important;border-right: 1px solid grey;padding-right: 5px;"><a class="company_name_link" href="http://www.dailythanthi.com/Web-Ad-Tariff">Web Ad Tariff</a></li>
+ <li class="list2" style="margin-left: 4px !important;padding-right: 5px;"><a class="company_name_link" href="http://www.dailythanthi.com/Epaperterms">Terms & conditions (E-paper)</a></li>
+</ul>
+<div class="copy_rights">காப்புரிமை <span id="yr"></span> , © Daily Thanthi | Powered by</div>
+<div class="company_name"><a class="company_name_link" href="http://www.vishwak.com">Vishwak</a></div>
+</div>
+</div>
+</div>
+
+		
+<div id="BottomAd_HeaderText" style="visibility:hidden;display:none">
+
+</div>
+<input type="hidden" name="ctl00$BottomAd$footerad_check" id="BottomAd_footerad_check" />
+        
+    </div>
+    </form>
+</body>
+</html>

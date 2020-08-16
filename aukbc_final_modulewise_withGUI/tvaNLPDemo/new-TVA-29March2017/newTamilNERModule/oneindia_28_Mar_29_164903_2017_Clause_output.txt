@@ -1,0 +1,182 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	B-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்நdஉ	N_NN	B-NP	tamilnadu,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஸ்தம்ய்-ஸ்லம்ஸ்-கமல்	N_NN	I-NP	swamy-slams-kamal,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ரஜிநி-278219	N_NNP	B-NP	rajini-278219,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	{MCL}
+கோழைகள்	V_VM_VF	B-VGF	kolYYE,N,,pl,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நடிகர்கள்	N_NN	B-NP	natikar,N,,pl,,,	o
+கமல்ஹாசன்	N_NNP	B-NP	kamalhAcanY,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ரஜினிகாந்த்	N_NNP	B-NP	rajinYikAnw,N,,,,,	o
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+சுப்பிரமணியன்	N_NNP	B-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	I-NP	cuvAmi,N,,,,m,	o
+பாய்ச்சல்	N_NN	I-NP	pAyccal,N,,,,,	o
+!	RD_PUNC	I-NP	!,punc,,,,,,	o
+
+நடிகர்கள்	N_NN	B-NP	natikar,N,,pl,,,	{COM}
+கமல்ஹாசன்	N_NNP	B-NP	kamalhAcanY,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ரஜினிகாந்த்	N_NNP	B-NP	rajinYikAnw,N,,,,,	o
+ஆகியோரை	N_NN	B-NP	Akiyor,N,E-ACC,,,,	o
+கோழைகள்	V_VM_VF	B-VGF	kolYYE,N,,pl,,,	o
+என	CC_CCS	B-CCP	eVnYa,ADV,,,,,	{/COM}
+பாஜகவின்	N_NNP	B-NP	pAjaka,N,inY-GEN,,,,	{MCL}
+சுப்பிரமணியன்	N_NNP	I-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	B-NP	cuvAmi,N,,,,m,	o
+சாடியுள்ளார்	V_VM_VF	B-VGF	cAtu,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	{COM}
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+நடிகர்கள்	N_NN	B-NP	natikar,N,,pl,,,	o
+கமல்	N_NN	I-NP	kamal,N,,,,m,	o
+மற்றும்	CC_CCD	B-CCP	marYrYum,CONJ,,,,,	o
+ரஜினிகாந்த்	N_NNP	B-NP	rajinYikAnw,N,,,,,	o
+ஆகியோரை	N_NN	I-NP	Akiyor,N,E-ACC,,,,	o
+கோழைகள்	V_VM_VF	B-VGF	kolYYE,N,,pl,,,	o
+என	CC_CCS	B-CCP	eVnYa,ADV,,,,,	{/COM}
+பா.ஜ.க.	N_NNP	B-NP	pA.ja.ka,N,,,,,	{MCL}
+எம்.பி.	N_NN	I-NP	eVm.pi.,N,,,,,	o
+சுப்பிரமணியன்	N_NNP	B-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	I-NP	cuvAmi,N,,,,m,	o
+கடுமையாக	RB	B-VGF	katumE,N,Aka-ADV,,,,	o
+சாடியுள்ளார்	V_VM_VF	I-VGF	cAtu,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நியூஸ்	N_NNP	B-NP	niyUs,N,,,,,	{RP}
+18	QT_QTC	B-NP	18,num,,,,,,	o
+தமிழ்நாடு	N_NNP	I-NP	wamilYYnAtu,N,,,,,	o
+டிவியில்	N_NN	I-NP	tivi,N,il-LOC,,,,	o
+வெல்லும்	V_VM_VNF_RP	B-VGNF	veVl,V,FUTURE,,,,RP	o
+சொல்	V_VM_VF	I-VGNF	coVl,V,,,,,	o
+நிகழ்ச்சிக்கு	N_NN	B-NP	nikalYYcci,N,kku-DAT,,,,	o
+அளித்த	V_VM_VNF_RP	B-VGNF	alYi,V,PAST,,,,RP	o
+பேட்டியில்	N_NN	B-NP	petti,N,il-LOC,,,,	{/RP}
+சுப்பிரமணியன்	N_NNP	B-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	B-NP	cuvAmi,N,,,,m,	o
+கூறியதாவது	V_VM_VNF_RP_PRP	B-VGNF	kUrYiyawAvawu,ADJ,,,,,	o
+:	RD_PUNC	I-VGNF	:,punc,,,,,,	o
+நடிகர்	N_NN	B-NP	natikar,N,,,,,	o
+கமல்ஹாசனைப்	N_NNP	B-NP	kamalhAcanY,N,E-ACC,,,m,	o
+பொறுத்தவரையில்	JJ	B-NP	poVrYuwwavarEyil,PSP,,,,,	o
+ஆங்காரம்	N_NN	I-NP	AfkAram,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+அகங்காரம்	N_NN	I-NP	akafkAram,N,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	o
+பிடித்த	V_VM_VNF_RP	B-VGNF	piti,V,PAST,,,,RP	o
+முட்டாள்	N_NN	B-NP	muttAlY,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+சினிமாக்காரங்களுக்கு	N_NN	B-NP	cinYimAkkArafkalYukku,unk,,,,,,	{MCL}
+எப்பவும்	RB	B-VGF	eVppavum,ADV,,,,,	o
+பயம்தான்	V_VM_VF	I-VGF	payam,N,wAnY-PSP,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ரஜினிகாந்த்	N_NNP	B-NP	rajinYikAnw,N,,,,,	{MCL}
+இலங்கைக்கு	N_NNP	I-NP	ilafkE,N,kku-DAT,,,,	o
+பயந்து	V_VM_VNF_VBN	B-VGF	paya,V,,,,,VBP	o
+கொண்டு	V_VM_VNF_VBN	I-VGF	koVlY,V,,,,,VBP	o
+போகாமல்	RP_NEG	I-VGF	po,V,,,,,NEG	o
+இருந்துவிட்டார்	V_VM_VF	I-VGF	iru,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	{RP}
+நிகழ்ச்சியின்	N_NN	I-NP	nikalYYcci,N,inY-GEN,,,,	o
+அழைப்பிதழை	N_NN	B-NP	alYYEppiwalYY,N,E-ACC,,,,	o
+ஏற்றுக்	V_VM_VNF_VBN	B-VGNF	el,V,,,,,VBP	o
+கொள்ளும்போதே	V_VM_VNF_RP_PSP	I-VGNF	koVlYlYumpowe,unk,,,,,,	{/RP}
+எல்லாவற்றையும்	N_NN	B-NP	eVllAm,N,E-ACC,pl,,,	{MCL}
+யோசிக்க	V_VM_VNF_INF	B-VGNF	yoci,V,,,,,INF	o
+வேண்டாமா	DM_DMQ	B-BLK	veNtAm,V,,,,,	o
+?	RD_PUNC	I-BLK	?,punc,,,,,,	{/MCL}
+
+இப்போது	RB	B-RBP	ippowu,ADV,,,,,	{MCL}
+வைகோ	N_NNP	B-NP	vEko,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+திருமாவளவன்	N_NNP	B-NP	wirumAvalYavanY,N,,,,m,	o
+ஆகியோர்	N_NN	B-NP	Akiyor,N,,,,,	o
+கூறினார்களாம்	V_VM_VF	B-VGF	kUrYinYArkalYAm,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இவர்	PR_PRP	B-NP	ivar,PN,,,,,	{NF}
+போகாமல்	RP_NEG	B-NEGP	po,V,,,,,NEG	o
+பயந்து	V_VM_VNF_VBN	B-VGNF	paya,V,,,,,VBP	o
+போய்	V_VM_VNF_VBN	I-VGNF	po,V,,,,,VBP	{/NF}
+அறிக்கை	N_NN	B-NP	arYikkE,N,,,,,	{MCL}
+விடுகிறார்	V_VM_VF	B-VGF	vitu,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சினிமாகாரங்க	N_NN	B-NP	cinYimAkArafka,unk,,,,,,	{MCL}
+எப்பவுமே	RB	B-VGF	eVppavume,ADV,,,,,	o
+பயந்தவங்கதான்	V_VM_VF	I-VGF	payanwavafkawAnY,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இவ்வாறு	RB	B-RBP	ivvArYu,ADV,,,,,	{MCL}
+சுப்பிரமணியன்	N_NNP	B-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	I-NP	cuvAmi,N,,,,m,	o
+சாடியுள்ளார்	V_VM_VF	B-VGF	cAtu,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஷேஅd	N_NNP	B-NP	Read,unk,,,,,,	o
+மோரே	N_NNP	I-NP	mor,N,,,,,	o
+அbஓஉட்	N_NN	I-NP	about,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஸுbரமநிஅந்	N_NNP	B-NP	subramanian,unk,,,,,,	o
+ஸ்தம்ய்	N_NN	I-NP	swamy,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+கமல்	N_NNP	B-NP	kamal,N,,,,m,	o
+ஹஅஸந்	N_NNP	I-NP	haasan,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ரஜிநிகந்ட்ஹ்	N_NNP	B-NP	rajinikanth,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+bஜ்ப்	N_NN	B-NP	bjp,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+சுப்பிரமணியன்	N_NNP	B-NP	cuppiramaNiyanY,N,,,,m,	o
+சுவாமி	N_NN	I-NP	cuvAmi,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+கமல்ஹாசன்	N_NNP	B-NP	kamalhAcanY,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ரஜினிகாந்த்	N_NNP	B-NP	rajinYikAnw,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+பாஜக	N_NNP	B-NP	pAjaka,N,,,,,	o
+ஸ்டோர்ய்	N_NNP	I-NP	Story,unk,,,,,,	o
+ஙிர்ஸ்ட்	N_NNP	I-NP	first,unk,,,,,,	o
+புbலிஸ்ஹேd	N_NN	I-NP	published,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+Wஏdநேஸ்dஅய்	N_NNP	B-NP	Wednesday,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+Mஅர்ச்ஹ்	N_NNP	B-NP	March,unk,,,,,,	o
+29	QT_QTC	B-NP	29,num,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+9:55	QT_QTC	B-NP	9:55,unk,,,,,,	o
+[	QT_QTC	I-NP	[,punc,,,,,	o
+ஈஸ்T	N_NN	I-NP	IST,unk,,,,,,	o
+]	RD_PUNC	I-NP	],punc,,,,,	o
+ஐந்gலிஸ்ஹ்	N_NNP	B-NP	English,unk,,,,,,	o
+ஸும்மர்ய்	N_NNP	I-NP	summary,unk,,,,,,	o
+
+

@@ -1,0 +1,400 @@
+உணவு	N_NN	B-NP	uNavu,N,,,,,	{MCL}
+வீணாக்கப்படுவது	V_VM_VNF_RP_PRP	B-VGF	vINAkku,V,FUTURE,sg,3,n,	o
+தூரதிர்ஷ்டவசமானது	V_VM_VF	I-VGF	wUrawirRtavacamAnYawu,unk,,,,,,	o
+:	RD_PUNC	I-VGF	:,punc,,,,,,	o
+மனதின்	N_NN	B-NP	manYawu,N,inY-GEN,,,,	o
+குரல்	N_NN	I-NP	kural,N,,,,,	o
+நிகழ்ச்சியில்	N_NN	I-NP	nikalYYcci,N,il-LOC,,,,	o
+மோடி	N_NNP	B-NP	moti,N,,,,,	o
+பேச்சு	N_NN	I-NP	peccu,N,,,,,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+Mஅந்ந்	RD_ECH	B-VGF	Mann,unk,,,,,,	o
+Kஇ	RD_ECH	I-VGF	Ki,unk,,,,,,	o
+Bஅஅட்	RD_ECH	I-VGF	Baat,unk,,,,,,	o
+Mஓdஇ	RD_ECH	I-VGF	Modi,unk,,,,,,	o
+அந்நோஉந்சேஸ்	RD_ECH	I-VGF	announces,unk,,,,,,	o
+26	RD_ECH	I-VGF	26,num,,,,,,	o
+தேஏக்	RD_ECH	I-VGF	week,unk,,,,,,	o
+மடேர்நிட்ய்	RD_ECH	I-VGF	maternity,unk,,,,,,	o
+லேஅவே	RD_ECH	I-VGF	leave,unk,,,,,,	o
+அஸ்	RD_ECH	I-VGF	as,N,,,,,	o
+ஹே	RD_ECH	I-VGF	he,N,,,,,	o
+dஏஙிநேஸ்	RD_ECH	I-VGF	defines,unk,,,,,,	o
+ணேத்	RD_ECH	I-VGF	New,unk,,,,,,	o
+ஈந்dஇஅ	RD_ECH	I-VGF	India,unk,,,,,,	o
+அஸ்	RD_ECH	I-VGF	as,N,,,,,	o
+ச்ஹந்gஏ	RD_ECH	I-VGF	change,unk,,,,,,	o
+இந்	RD_ECH	I-VGF	in,unk,,,,,,	o
+மிந்dஸேட்	N_NNP	B-NP	mindset,unk,,,,,,	o
+புதுடெல்லி	N_NNP	I-NP	puwuteVlli,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+பிரதமர்	N_NN	B-NP	pirawamar,N,,,,,	o
+நரேந்திர	N_NNP	B-NP	narenwira,N,,,,,	o
+மோடி	N_NNP	I-NP	moti,N,,,,,	o
+மாதந்தோறும்	N_NN	B-NP	mAwanworYum,ADV,,,,,	o
+கடைசி	N_NN	B-NP	katEci,N,,,,,	o
+ஞாயிற்றுக்கிழமைகளில்	N_NN	I-NP	FAyirYrYukkilYYamE,N,il-LOC,pl,,,	o
+‘	RD_SYM	I-NP	‘,punc,,,,,,	o
+மனதின்	N_NN	B-NP	manYawu,N,inY-GEN,,,,	o
+குரல்	N_NN	I-NP	kural,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+மந்ந்	RD_RDF	I-NP	mann,unk,,,,,,	o
+கி	RD_RDF	I-NP	ki,unk,,,,,,	o
+bஅஅட்	RD_RDF	I-NP	baat,unk,,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	o
+’	RD_SYM	I-NP	’,punc,,,,,,	o
+என்ற	CC_CCS	B-CCP	eVnYrYa,ADV,,,,,	o
+நிகழ்ச்சியில்	N_NN	B-NP	nikalYYcci,N,il-LOC,,,,	o
+பேசி	V_VM_VNF_VBN	B-VGF	pecu,V,,,,,VBP	o
+வருகிறார்	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	{MCL}
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+ரேடியோவில்	N_NN	B-NP	retiyo,N,il-LOC,,,,	o
+பேசியதாவது	V_VM_VNF_RP_PRP	B-VGNF	peciyawAvawu,ADV,,,,,	o
+:	RD_PUNC	I-VGNF	:,punc,,,,,,	o
+-	RD_SYM	I-VGNF	-,punc,,,,,,	o
+‘	RD_SYM	B-NP	‘,punc,,,,,,	o
+‘	RD_SYM	I-NP	‘,punc,,,,,,	o
+சுதந்திர	N_NN	I-NP	cuwanwira,ADJ,,,,,	o
+தினத்தை	N_NN	I-NP	winYam,N,E-ACC,,,,	o
+கொண்டாடும்	V_VM_VNF_RP	B-VGNF	koVNtAtu,V,FUTURE,,,,RP	o
+நமது	PR_PRP	B-NP	nam,PN,awu-GEN,,,,	o
+அண்டை	N_NN	I-NP	aNtE,N,,,,,	o
+நாடான	JJ	B-NP	nAtu,N,AnYa-ADJ,,,,	o
+வங்காள	N_NNP	I-NP	vafkAlYa,ADJ,,,,,	o
+தேசத்துக்கு	N_NN	B-NP	wecam,N,ukku-DAT,,,,	o
+வாழ்த்துக்களை	N_NN	B-NP	vAlYYwwu,N,E-ACC,pl,,,	o
+தெரிவித்து	V_VM_VNF_VBN	B-VGF	weVrivi,V,,,,,VBP	o
+கொள்கிறேன்	V_VM_VF	I-VGF	koVlY,V,PRESENT,sg,1,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அந்நாட்டு	N_NN	B-NP	nAtu,N,u-GEN,,,,	{MCL}
+மக்களுடன்	N_NN	I-NP	makkalY,N,utanY-SOC,pl,,,	o
+இந்தியா	N_NNP	B-NP	inwiyA,N,,,,,	o
+தோளோடு	N_NN	I-NP	wolY,N,otu-SOC,,,,	o
+தோள்	N_NN	B-NP	wolY,N,,,,,	o
+நிற்கும்	V_VM_VF	B-VGF	nil,V,FUTURE,,,,RP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பகத்திங்	N_NN	B-NP	pakawwif,unk,,,,,,	{MCL}
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+சுக்தேவ்	N_NNP	B-NP	cukwev,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ராஜ்குரு	N_NNP	B-NP	rAjkuru,N,,,,,	o
+ஆகியோர்	N_NN	B-NP	Akiyor,N,,,,,	o
+மரணத்தைக்	N_NN	B-NP	maraNam,N,E-ACC,,,,	o
+கண்டு	V_VM_VNF_VBN	B-VGF	kAN,V,,,,,VBP	o
+அஞ்சவில்லை	RP_NEG	I-VGF	aFcu,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நாட்டுக்காகவே	RB	B-VGNF	nAttukkAkave,unk,,,,,,	{MCL}
+வாழ்ந்து	V_VM_VNF_VBN	I-VGNF	vAlYY,V,,,,,VBP	o
+நாட்டுக்காகவே	RB	B-RBP	nAttukkAkave,unk,,,,,,	o
+தங்களது	PR_PRP	B-NP	wafkalY,PN,awu-GEN,,,,	o
+இன்னுயிரை	N_NN	I-NP	inYnYuyir,N,E-ACC,,,,	o
+தியாகம்	N_NN	B-NP	wiyAkam,N,,,,,	o
+செய்தனர்	V_VM_VF	B-VGF	ceVy,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சத்தியாகிரக	N_NN	B-NP	cawwiyAkirakam,N,a-ADJ,,,,	{MCL}
+போராட்டத்தின்	N_NN	I-NP	porAttam,N,inY-GEN,,,,	o
+100-வது	QT_QTO	B-NP	100,num,,sg,,,	o
+ஆண்டை	N_NN	I-NP	ANtE,N,,,,,	o
+நாம்	PR_PRP	B-NP	nAm,PN,,,,,	o
+கொண்டாடுகிறோம்	V_VM_VF	B-VGF	koVNtAtu,V,PRESENT,pl,1,f,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இது	PR_PRP	B-NP	iwu,PN,,,,,	{MCL}
+மகாத்மா	N_NNP	B-NP	makAwmA,N,,,,m,	o
+காந்தியின்	N_NNP	I-NP	kAnwi,N,inY-GEN,,,,	o
+போராட்டத்தில்	N_NN	I-NP	porAttam,N,il-LOC,,,,	o
+முக்கிய	JJ	B-NP	mukkiya,ADJ,,,,,	o
+மானதாகும்	V_VM_VF	B-VGF	mAnYawAkum,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+125	QT_QTC	B-NP	125,num,,,,,,	{MCL}
+கோடி	QT_QTC	I-NP	koti,N,,,,,	o
+மக்கள்	N_NN	I-NP	makkalY,N,,pl,,,	o
+புது	JJ	I-NP	puwu,ADJ,,,,,	o
+இந்தியாவை	N_NNP	I-NP	inwiyA,N,E-ACC,,,,	o
+உருவாக்கவும்	RB	B-RBP	uruvAkku,V,,,,,INF	o
+,	RD_PUNC	I-RBP	&comma;,punc,,,,,	o
+திறமைகளை	N_NN	B-NP	wirYamE,N,E-ACC,pl,,,	o
+பலப்படுத்தவும்	RB	B-VGF	palappatuwwu,V,,,,,INF	o
+விரும்புகிறார்கள்	V_VM_VF	I-VGF	virumpu,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+உங்கள்	PR_PRP	B-NP	ufkalY,PN,,pl,,mf,	{MCL}
+கனவை	N_NN	I-NP	kanYavu,N,E-ACC,,,,	o
+நனவாக்கும்	V_VM_VNF_RP	B-VGNF	nanYavAkku,V,FUTURE,,,,RP	o
+வகையில்	N_NN	B-NP	vakE,N,il-LOC,,,,	o
+புது	JJ	B-NP	puwu,ADJ,,,,,	o
+இந்தியா	N_NNP	B-NP	inwiyA,N,,,,,	o
+அமையும்	V_VM_VF	B-VGF	amE,V,FUTURE,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அதை	PR_PRP	B-NP	awu,PN,E-ACC,,,,	{INF}
+உருவாக்க	V_VM_VNF_INF	B-VGNF	uruvAkku,V,,,,,INF	{/INF}
+அனைவரும்	N_NN	B-NP	anYEvarum,N,,,,,	{MCL}
+இணைந்து	V_VM_VNF_VBN	B-VGF	iNE,V,,,,,VBP	o
+பணியாற்றுவோம்	V_VM_VF	I-VGF	paNiyArYrYu,V,FUTURE,pl,1,f,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+டேராடூனை	N_NNP	B-NP	terAtUnY,N,E-ACC,,,,	{NF}
+சேர்ந்த	JJ	B-NP	cernwa,ADJ,,,,,	o
+காயத்ரி	N_NN	I-NP	kAyawri,N,,,,,	o
+என்ற	CC_CCS	B-CCP	eVnYrYa,ADV,,,,,	o
+9-வது	QT_QTO	B-NP	9,num,,sg,,,	o
+வகுப்பு	N_NN	I-NP	vakuppu,N,,,,,	o
+மாணவியிடம்	N_NN	B-NP	mANavi,N,itam-LOC,pl,,f,	o
+இருந்து	V_VM_VNF_VBN	B-VGNF	iru,V,,,,,VBP	{/NF}
+எனக்கு	PR_PRP	B-NP	eVnY,PN,kku-DAT,,,,	{MCL}
+கடிதம்	N_NN	B-NP	katiwam,N,,,,,	o
+வந்தது	V_VM_VF	B-VGF	vA,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அவள்	PR_PRP	B-NP	avalY,PN,,,,f,	{MCL}
+ஆறு	QT_QTC	B-NP	ArYu,N,,,,,	o
+மாசுபடுத்தப்படுவது	N_NN	I-NP	mAcupatuwwu,V,FUTURE,sg,3,n,	o
+குறித்து	PSP	B-BLK	kurYiwwu,ADV,,,,,	o
+மிகுந்த	JJ	B-NP	mikunwa,ADJ,,,,,	o
+கோபத்தை	N_NN	I-NP	kopam,N,E-ACC,,,,	o
+வெளிப்படுத்தி	V_VM_VNF_VBN	B-VGF	veVlYippatuwwu,V,,,,,VBP	o
+இருந்தாள்	V_VM_VF	I-VGF	iru,V,PAST,sg,3,f,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இது	PR_PRP	B-NP	iwu,PN,,,,,	o
+நல்லதுதான்	N_NN	B-NP	nallawu,N,wAnY-PSP,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஏனெனில்	CC_CCS	B-CCP	enYeVnYil,CONJ,,,,,	{MCL}
+அவள்	PR_PRP	B-NP	avalY,PN,,,,f,	o
+தனது	PR_PRF	B-NP	wanY,PN,awu-GEN,,,,	o
+கோபத்தை	N_NN	I-NP	kopam,N,E-ACC,,,,	o
+மட்டும்	PSP	B-BLK	mattu,N,,,,,	o
+வெளிப்படுத்தவில்லை	RP_NEG	B-VGF	veVlYippatuwwu,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அது	PR_PRP	B-NP	awu,PN,,,,,	{MCL}
+அவளுக்கு	PR_PRP	B-NP	avalY,PN,ukku-DAT,,,f,	o
+பல	QT_QTF	B-NP	pala,ADJ,,,,,	o
+முயற்சிகளை	N_NN	I-NP	muyarYci,N,E-ACC,pl,,,	o
+உருவாக்கும்	V_VM_VF	B-VGF	uruvAkku,V,FUTURE,,,,RP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ரூபாய்	N_NN	B-NP	rUpAy,N,,,,,	{MCL}
+நோட்டு	N_NN	I-NP	nottu,N,,,,,	o
+வாபசை	N_NN	B-NP	vApacE,unk,,,,,,	o
+ஆதரித்த	V_VM_VNF_RP	B-VGNF	Awari,V,PAST,,,,RP	o
+மக்களுக்கு	N_NN	B-NP	makkalY,N,ukku-DAT,pl,,,	o
+நன்றி	N_NN	B-NP	nanYrYi,N,,,,,	o
+தெரிவித்துக்	V_VM_VNF_VBN	B-VGF	weVrivi,V,,,,,VBP	o
+கொள்கிறேன்	V_VM_VF	I-VGF	koVlY,V,PRESENT,sg,1,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+டிஜிட்டல்	N_NNP	B-NP	tijittal,N,,,,,	{MCL}
+இந்தியா	N_NNP	I-NP	inwiyA,N,,,,,	o
+திட்டம்	N_NN	I-NP	wittam,N,,,,,	o
+ஊழலை	N_NN	B-NP	UlYYal,N,E-ACC,,,,	o
+ஒழிக்க	V_VM_VNF_INF	B-VGNF	oVlYYi,V,,,,,INF	o
+உதவும்	V_VM_VF	I-VGNF	uwavu,V,FUTURE,,,,RP	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+1½	QT_QTC	B-NP	1½,unk,,,,,,	{MCL}
+கோடி	QT_QTC	I-NP	koti,N,,,,,	o
+மக்கள்	N_NN	I-NP	makkalY,N,,pl,,,	o
+‘	RD_SYM	B-NP	‘,punc,,,,,,	o
+பீம்	RD_RDF	I-NP	pIm,N,,,,,	o
+ஆப்	RD_RDF	I-NP	Ap,N,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ஐ	RD_SYM	I-NP	E,N,,,,,	o
+’	RD_SYM	I-NP	’,punc,,,,,,	o
+பயன்படுத்துகின்றனர்	V_VM_VF	B-VGF	payanYpatuwwu,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+டிஜிட்டல்	N_NN	B-NP	tijittal,N,,,,,	{NF}
+பரிவர்த்தனையை	N_NN	I-NP	parivarwwanYE,N,E-ACC,,,,	o
+பயன்படுத்தி	V_VM_VNF_VBN	B-VGNF	payanYpatuwwu,V,,,,,VBP	{/NF}
+நாட்டுக்கு	N_NN	B-NP	nAtu,N,ukku-DAT,,,,	{MCL}
+சேவை	N_NN	B-NP	cevE,N,,,,,	o
+செய்ய	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+இதனை	PR_PRP	B-NP	iwanY,PN,E-ACC,,,,	{MCL}
+நோக்கி	RB	B-RBP	nokki,ADV,,,,,	o
+மக்கள்	N_NN	B-NP	makkalY,N,,pl,,,	o
+வருகின்றனர்	V_VM_VF	B-VGF	vA,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கருப்பு	N_NN	B-NP	karuppu,N,,,,,	{MCL}
+பணம்	N_NN	B-NP	paNam,N,,,,,	o
+மற்றும்	CC_CCD	B-CCP	marYrYum,CONJ,,,,,	o
+ஊழலை	N_NN	B-NP	UlYYal,N,E-ACC,,,,	o
+மக்கள்	N_NN	B-NP	makkalY,N,,pl,,,	o
+நிராகரித்து	V_VM_VNF_VBN	B-VGF	nirAkari,V,,,,,VBP	o
+விட்டனர்	V_VM_VF	I-VGF	vitu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கருப்பு	N_NN	B-NP	karuppu,N,,,,,	o
+பணத்துக்கு	N_NN	B-NP	paNam,N,ukku-DAT,,,,	{MCL}
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+ஒவ்வொரு	JJ	B-NP	oVvvoVru,ADJ,,,,,	o
+மக்களும்	N_NN	I-NP	makkalY,N,,pl,,,	o
+வீரர்	N_NN	B-NP	vIrar,N,,,,m,	o
+போல்	PSP	B-BLK	pol,PSP,,,,,	o
+செயல்பட	V_VM_VNF_INF	B-VGNF	ceVyalpatu,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+தூய்மைப்பணி	N_NN	B-NP	wUymEppaNi,unk,,,,,,	{MCL}
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	o
+வழக்கமாக	RB	B-VGF	valYYakkam,N,Aka-ADV,,,,	o
+மாறிவிட்டது	V_VM_VF	I-VGF	mArYu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+உணவு	N_NN	B-NP	uNavu,N,,,,,	{MCL}
+வீணாக்கப்படுவது	V_VM_VNF_RP_PRP	B-VGF	vINAkku,V,FUTURE,sg,3,n,	o
+தூரதிர்ஷ்டவசமானது	V_VM_VF	I-VGF	wUrawirRtavacamAnYawu,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வீணாகும்	V_VM_VNF_RP	B-VGNF	vINAku,V,FUTURE,,,,RP	{NF}
+உணவை	N_NN	B-NP	uNavu,N,E-ACC,,,,	o
+பல	QT_QTF	B-NP	pala,ADJ,,,,,	o
+இளைஞர்கள்	N_NN	I-NP	ilYEFar,N,,pl,,,	o
+தொழில்நுட்பம்	N_NN	B-NP	woVlYYilnutpam,N,,,,,	o
+மூலம்	PSP	B-BLK	mUlam,N,,,,,	o
+மற்றவர்களுக்கு	N_NN	B-NP	marYrYavar,N,ukku-DAT,pl,,,	o
+வழங்கி	V_VM_VNF_VBN	B-VGNF	valYYafku,V,,,,,VBP	{/NF}
+உதவி	N_NN	B-NP	uwavi,N,,,,,	{MCL}
+வருகின்றனர்	V_VM_VF	B-VGF	vA,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நமக்கு	PR_PRP	B-NP	nam,PN,kku-DAT,,,,	{MCL}
+தேவையான	JJ	B-NP	wevE,N,AnYa-ADJ,,,,	o
+உணவை	N_NN	I-NP	uNavu,N,E-ACC,,,,	o
+மட்டுமே	PSP	B-BLK	mattu,N,,,,,	o
+சாப்பாட்டு	N_NN	B-NP	cAppAtu,N,u-GEN,,,,	o
+தட்டுகளில்	N_NN	B-NP	wattu,N,il-LOC,pl,,,	o
+எடுத்துக்	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+கொள்ள	V_VM_VNF_INF	I-VGNF	koVlY,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+உடல்	N_NN	B-NP	utal,N,,,,,	{INF}
+நலத்துடன்	N_NN	I-NP	nalam,N,utanY-SOC,,,,	o
+வாழ	V_VM_VNF_INF	B-VGNF	vAlYY,V,,,,,INF	{/INF}
+சிறிதளவு	N_NN	B-NP	cirYiwalYavu,N,,,,,	{CON}
+சாப்பிட்டாலே	V_VM_VNF_COND	B-VGF	cAppitu,V,PAST,,,,COND	{/CON}
+போதும்	V_VM_VF	I-VGF	powu,V,FUTURE,,,,RP	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+எனவே	CC_CCS	B-CCP	eVnYave,CONJ,,,,,	{MCL}
+உணவை	N_NN	B-NP	uNavu,N,E-ACC,,,,	o
+சிறிதளவு	N_NN	B-NP	cirYiwalYavu,N,,,,,	o
+எடுத்துக்	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+கொண்டாலே	V_VM_VNF_COND	I-VGF	koVlY,V,PAST,,,,COND	o
+போதுமானது	V_VM_VF	I-VGF	powumAnYawu,V,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மனஅழுத்தத்தில்	N_NN	B-NP	manYaalYYuwwam,N,il-LOC,,,,	{NF}
+இருந்து	V_VM_VNF_VBN	B-VGNF	iru,V,,,,,VBP	{/NF}
+அனைவரும்	N_NN	B-NP	anYEvarum,N,,,,,	{MCL}
+வெளியே	RB	B-VGF	veVlYi,N,,,,,	{/MCL}
+
+மனஅழுத்தத்தால்	N_NN	B-NP	manYaalYYuwwam,N,Al-INS,,,,	{RP}
+பாதிக்கப்பட்டவர்களுக்கு	V_VM_VNF_RP_PRP	B-VGNF	pAwikkappatu,V,PAST,,,,RP-PRP	{/RP}
+நாம்	PR_PRP	B-NP	nAm,PN,,,,,	{MCL}
+உதவ	V_VM_VNF_INF	B-VGNF	uwavu,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+நமது	PR_PRP	B-NP	nam,PN,awu-GEN,,,,	{NF}
+எண்ணத்தை	N_NN	I-NP	eVNNam,N,E-ACC,,,,	o
+வெளிப்படுத்தி	V_VM_VNF_VBN	B-VGNF	veVlYippatuwwu,V,,,,,VBP	{/NF}
+மன	N_NN	B-NP	manYam,N,a-ADJ,,,,	{MCL}
+அழுத்தத்தை	N_NN	I-NP	alYYuwwam,N,E-ACC,,,,	o
+தோற்கடியுங்கள்	V_VM_VF	B-VGF	o	
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+எப்போதுமே	RB	B-RBP	eVppowume,ADV,,,,,	{MCL}
+உங்களது	PR_PRP	B-NP	ufkalY,PN,awu-GEN,pl,,mf,	o
+எண்ணத்தை	N_NN	I-NP	eVNNam,N,E-ACC,,,,	o
+மற்றவர்களுடன்	N_NN	B-NP	marYrYavar,N,utanY-SOC,pl,,,	o
+பகிர்ந்து	V_VM_VNF_VBN	B-VGF	pakir,V,,,,,VBP	o
+கொள்வது	V_VM_VNF_VBN	I-VGF	koVlY,V,FUTURE,sg,3,n,RP-PRP	o
+சிறந்ததாக	RB	I-VGF	cirYa,V,PAST,sg,3,n,RP-PRP	o
+இருக்கும்	V_VM_VF	I-VGF	irukku,V,FUTURE,,,,RP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கூட்டு	N_NN	B-NP	kUttu,N,,,,,	{RP}
+குடும்பமாக	RB	B-VGNF	kutumpam,N,Aka-ADV,,,,	o
+வாழ்வது	V_VM_VNF_RP_PRP	I-VGNF	vAlYY,V,FUTURE,sg,3,n,RP-PRP	{/RP}
+நமக்கு	PR_PRP	B-NP	nam,PN,kku-DAT,,,,	{MCL}
+கிடைத்த	V_VM_VNF_RP	B-VGF	kitE,V,PAST,,,,RP	o
+அதிர்ஷ்டமாகும்	V_VM_VF	I-VGF	awirRtam,N,,pl,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதில்	PR_PRP	B-NP	iwu,PN,il-LOC,,,,	{NF}
+சிதைவு	N_NN	B-NP	ciwEvu,N,,,,,	o
+ஏற்படுவது	V_VM_VNF_VBN	B-VGNF	erYpatu,V,FUTURE,sg,3,n,	{/NF}
+மன	N_NN	B-NP	manYam,N,a-ADJ,,,,	{MCL}
+அழுத்தத்திற்கு	V_VM_VNF_RP_PRP	B-VGF	alYYuwwam,N,ku-DAT,,,,	o
+காரணமாகி	V_VM_VNF_VBN	I-VGF	kAraNamAku,V,,,,,VBP	o
+விடுகிறது	V_VM_VF	I-VGF	vitu,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பெண்களின்	N_NN	B-NP	peVNkalY,N,inY-GEN,pl,,,	{NF}
+பிரசவ	N_NN	I-NP	piracavam,N,a-ADJ,,,,	o
+கால	N_NN	I-NP	kAlam,N,a-ADJ,,,,	o
+விடுமுறையை	N_NN	I-NP	vitumurYE,N,E-ACC,pl,,,	o
+அரசு	N_NN	B-NP	aracu,N,,,,,	o
+12	QT_QTC	B-NP	12,num,,,,,,	o
+வாரத்தில்	N_NN	I-NP	vAram,N,il-LOC,,,,	o
+இருந்து	V_VM_VNF_VBN	B-VGNF	iru,V,,,,,VBP	{/NF}
+26	QT_QTC	B-NP	26,num,,,,,,	{MCL}
+வாரங்களாக	RB	B-VGF	vAram,N,,pl,,,	o
+அதிகரித்துள்ளது	V_VM_VF	I-VGF	awikari,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பச்சிளங்குழந்தைகளை	N_NN	B-NP	paccilYafkulYYanwEkalYE,unk,,,,,,	{RP}
+பராமரிப்பதே	V_VM_VNF_RP_PRP	B-VGNF	parAmari,V,FUTURE,,,,RP-PRP	{/RP}
+இதன்	PR_PRP	B-NP	iwanY,PN,,,,,	{MCL}
+முக்கிய	JJ	I-NP	mukkiya,ADJ,,,,,	o
+நோக்கமாகும்	V_VM_VF	B-VGF	nokkamAku,V,FUTURE,,,,RP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அதன்	PR_PRP	B-NP	awanY,PN,,,,,	o
+மூலம்	PSP	B-BLK	mUlam,N,,,,,	{MCL}
+குழந்தைகள்	N_NN	B-NP	kulYYanwE,N,,pl,,,	o
+தங்களது	PR_PRP	B-NP	wafkalY,PN,awu-GEN,,,,	o
+தாய்மார்களின்	N_NN	I-NP	wAymAr,N,inY-GEN,pl,,,	o
+முழு	N_NN	B-NP	mulYYu,ADJ,,,,,	o
+பராமரிப்பையும்	N_NN	I-NP	parAmarippu,N,E-ACC,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+அன்பையும்	N_NN	B-NP	anYpu,N,E-ACC,,,,	o
+பெற	V_VM_VNF_INF	B-VGNF	peVrYu,V,,,,,INF	o
+முடியும்	V_VM_VF	I-VGNF	muti,V,FUTURE,sg,3,n,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+இத்திட்டத்தின்	PR_PRP	B-NP	iwwittam,N,inY-GEN,,,,	{MCL}
+மூலம்	PSP	B-BLK	mUlam,N,,,,,	o
+மத்திய	JJ	B-NP	mawwiya,ADJ,,,,,	o
+அரசு	N_NN	I-NP	aracu,N,,,,,	o
+அலுவலகங்களில்	N_NN	I-NP	aluvalakam,N,il-LOC,pl,,,	o
+பணிபுரியும்	N_NN	B-NP	paNipuri,V,FUTURE,sg,3,n,	o
+18	QT_QTC	B-NP	18,num,,,,,,	o
+லட்சம்	QT_QTC	I-NP	latcam,N,,,,,	o
+பெண்	N_NN	I-NP	peVN,N,,,,f,	o
+ஊழியர்கள்	N_NN	B-NP	UlYYiyar,N,,pl,,,	o
+பயனடைவார்கள்	V_VM_VF	B-VGF	payanYatE,V,FUTURE,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இவ்வாறு	RB	B-RBP	ivvArYu,ADV,,,,,	{MCL}
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+பேசினார்	V_VM_VF	B-VGF	pecu,V,PAST,sg,3,c,	{/MCL}
+
+

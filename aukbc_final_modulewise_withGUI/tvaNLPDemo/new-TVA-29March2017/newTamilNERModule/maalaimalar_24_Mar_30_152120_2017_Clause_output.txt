@@ -1,0 +1,48 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+சிநேம	N_NN	B-NP	cinema,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+மஅலஇமலர்	N_NN	B-NP	maalaimalar,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Cஇநேம	N_NN	I-NP	Cinema,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Cஇநேமணேத்ஸ்	N_NNP	B-NP	CinemaNews,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30130325	QT_QTC	B-NP	30130325,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+1076991	QT_QTC	B-NP	1076991,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+அgஅஇந்-ஙில்ம்-bய்-Tரந்ஸ்gஏந்dஏர்	N_NN	I-NP	again-film-by-Transgender,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+Lஅத்ரேந்சே	V_VM_VF	B-VGF	Lawrence,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	{MCL}
+திருநங்கைகளுக்காக	RB	B-RBP	wirunafkE,N,,pl,,,	o
+மீண்டும்	RB	I-RBP	mINtum,ADV,,,,,	o
+படம்	N_NN	B-NP	patam,N,,,,,	o
+எடுப்பேன்	V_VM_VF	B-VGF	eVtu,V,FUTURE,sg,1,c,	o
+:	RD_PUNC	I-VGF	:,punc,,,,,,	o
+நடிகர்	N_NN	B-NP	natikar,N,,,,,	o
+லாரன்ஸ்	N_NNP	B-NP	lAranYs,N,,,,m,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+அgஅஇந்	N_NN	B-NP	again,unk,,,,,,	o
+ஙில்ம்	N_NN	I-NP	film,unk,,,,,,	o
+bய்	QT_QTC	B-NP	by,unk,,,,,,	o
+Tரந்ஸ்gஏந்dஏர்	N_NN	I-NP	Transgender,unk,,,,,,	o
+Lஅத்ரேந்சே	N_NN	I-NP	Lawrence,unk,,,,,,	{/MCL}
+
+

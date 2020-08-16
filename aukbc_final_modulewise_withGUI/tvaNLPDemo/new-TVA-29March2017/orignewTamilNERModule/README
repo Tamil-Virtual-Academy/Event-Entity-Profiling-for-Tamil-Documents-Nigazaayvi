@@ -1,0 +1,59 @@
+Title:
+------
+AUKBC Tamil Ner Engine 1.0
+
+Description: 
+------------
+
+AUKBC Tamil Ner Engine v1.0: This takes a text file in UTF-8 with Part-of-Speech(POS) tagged as input and assigns the Chunk tags (e.g. noun phrases, Finite Verb phrase, Non-Finite Verb phrases etc.) to each word in the sentence. 
+This is developed using a Machine Learning based approach, Conditional Random Fields (CRFs)(Taku Kudo's'[1] CRFs implementation). 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) CRF++ Tool :
+we assume that CRF Tool kit is already installed in your system. If CRF Tool Kit is not installed in your system then you please download and install it. It can be obtained from 
+   https://taku910.github.io/crfpp/
+
+The version of CRF++ should be 0.42 or higher (you can download the latest version available for download). Please refer to CRF++ installation instructions as given the CRF++ web page.
+
+
+
+Directory Structure:
+--------------------
+
+ChunkerModule
+     |
+     |---License.txt
+     |---README (How to run/use. The file that you are reading now.)
+     |---TamilNerEngine_v1.sh (to run the postagger module)
+     |---model-ner-31Aug (Machine Learnt model)
+     |---sample_ner_inp.txt (reference input file)
+     |---sample_ner_out.txt (reference output file)
+     
+
+Installation:
+-------------
+There is no special installation required for this. Copy paste this folder in any place in your system and start using.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_ner_inp.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word, the second column is the POS tag and third clumn is the Chunk or phrase Tag and the 4th column is the Ner Tag. 
+
+sh TamilNerEngine_v1.sh sample_ner_inp.txt
+
+References:
+-----------
+
+[1] Taku Kudo - https://taku910.github.io/crfpp/  (or) https://sourceforge.net/projects/crfpp/
+
+
+#################################
+Credits: Sobha Lalitha Devi, Pattabhi RK Rao and Gnanapriya
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

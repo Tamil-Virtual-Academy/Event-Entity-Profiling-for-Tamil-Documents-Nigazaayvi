@@ -1,0 +1,7915 @@
+<Sentence id="1">
+1	அப்பல்லோவில்	unk
+2	இருந்து	unk
+3	தமிழகத்தை	unk
+4	ஆட்சி	unk
+5	செய்யும்	unk
+6	பெண்	unk
+7	அதிகாரி	unk
+8	?	unk
+</Sentence>
+<Sentence id="2">
+1	மிழக	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	உடல்	unk
+5	நலக்குறைவு	unk
+6	காரணமாக	unk
+7	சென்னை	unk
+8	அப்பல்லோ	unk
+9	மருத்துவமனையில்	unk
+10	சிகிச்சை	unk
+11	பெற்று	unk
+12	வருகிறார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="3">
+1	கடந்த	unk
+2	22-ஆம்	unk
+3	தேதி	unk
+4	அனுமதிக்கப்பட்டவர்	unk
+5	இன்னமும்	unk
+6	மருத்துவமனையில்	unk
+7	இருந்து	unk
+8	டிஸ்சார்ஜ்	unk
+9	செய்யப்படவில்லை	unk
+10	.	unk
+</Sentence>
+<Sentence id="4">
+1	லண்டன்	unk
+2	மருத்துவர்கள்	unk
+3	,	unk
+4	எய்ம்ஸ்	unk
+5	மருத்துவர்களுடன்	unk
+6	சேர்ந்து	unk
+7	அப்பல்லோ	unk
+8	மருத்துவமனை	unk
+9	முதல்வருக்கு	unk
+10	தொடர்	unk
+11	சிகிச்சைகளை	unk
+12	மேற்கொண்டு	unk
+13	வருகிறது	unk
+14	.	unk
+</Sentence>
+<Sentence id="5">
+1	இந்நிலையில்	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதாவை	unk
+4	யாரும்	unk
+5	சந்திக்க	unk
+6	முடியவில்லை	unk
+7	என	unk
+8	கூறப்படுகிறது	unk
+9	.	unk
+</Sentence>
+<Sentence id="6">
+1	இந்நிலையில்	unk
+2	தமிழகத்தில்	unk
+3	ஆட்சி	unk
+4	நிர்வாகம்	unk
+5	எப்படி	unk
+6	நடக்கிறது	unk
+7	,	unk
+8	யார்	unk
+9	அதை	unk
+10	கவனித்து	unk
+11	கொள்கிறார்	unk
+12	என்ற	unk
+13	கேள்வி	unk
+14	எழும்பி	unk
+15	வருகிறது	unk
+16	.	unk
+</Sentence>
+<Sentence id="7">
+1	முதல்வர்	unk
+2	நீண்ட	unk
+3	நாட்களாக	unk
+4	மருத்துவமனையில்	unk
+5	இருந்தாலும்	unk
+6	ஆட்சி	unk
+7	நிர்வாகம்	unk
+8	குறை	unk
+9	சொல்லும்படி	unk
+10	இல்லை	unk
+11	என்றே	unk
+12	தகவல்கள்	unk
+13	வருகின்றன	unk
+14	.	unk
+</Sentence>
+<Sentence id="8">
+1	அப்பல்லோ	unk
+2	மருத்துவமனையில்	unk
+3	இருந்து	unk
+4	பெண்	unk
+5	ஐஏஎஸ்	unk
+6	அதிகாரி	unk
+7	ஒருவர்	unk
+8	தமிழக	unk
+9	அரசை	unk
+10	வழிநடத்தி	unk
+11	வருவதாக	unk
+12	கூறப்படுகிறது	unk
+13	.	unk
+</Sentence>
+<Sentence id="9">
+1	முதல்வர்	unk
+2	ஜெயலலிதாவின்	unk
+3	நம்பிக்கையை	unk
+4	பெற்ற	unk
+5	தமிழக	unk
+6	அரசு	unk
+7	ஆலோசகர்	unk
+8	ஷீலா	unk
+9	பாலகிருஷ்ணன்	unk
+10	தான்	unk
+11	தற்போது	unk
+12	அரசை	unk
+13	வழி	unk
+14	நடத்துகிறார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="10">
+1	இவரது	unk
+2	உத்தரவின்	unk
+3	பேரில்	unk
+4	தான்	unk
+5	தற்போது	unk
+6	அனைத்தும்	unk
+7	நடப்பதாக	unk
+8	கூறப்படுகிறது	unk
+9	.	unk
+</Sentence>
+<Sentence id="11">
+1	அப்பல்லோவில்	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதாவின்	unk
+4	அறைக்கு	unk
+5	எதிரேலேயே	unk
+6	இவருக்கும்	unk
+7	தனி	unk
+8	அறை	unk
+9	ஒதுக்கப்பட்டுள்ளதாகவும்	unk
+10	,	unk
+11	அங்கிருந்துதான்	unk
+12	அவர்	unk
+13	உத்தரவுகளை	unk
+14	பிறப்பிப்பதாகவும்	unk
+15	தகவல்கள்	unk
+16	வருகின்றன	unk
+17	.	unk
+</Sentence>
+<Sentence id="12">
+1	முதல்வர்	unk
+2	ஜெயலலிதா	unk
+3	உடல்நிலையில்	unk
+4	முன்னேற்றம்	unk
+5	-	unk
+6	தா.பாண்டியன்	unk
+7	-	unk
+8	சீமான்	unk
+9	தகவல்	unk
+10	.	unk
+</Sentence>
+<Sentence id="13">
+1	சென்னை	unk
+2	:	unk
+3	முதல்வர்	unk
+4	ஜெயலலிதா	unk
+5	உடல்நிலையில்	unk
+6	நல்ல	unk
+7	முன்னேற்றம்	unk
+8	ஏற்பட்டிருப்பதாக	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனைக்கு	unk
+11	வந்த	unk
+12	இந்திய	unk
+13	கம்யூனிஸ்ட்	unk
+14	தலைவர்	unk
+15	தா.பாண்டியன்	unk
+16	,	unk
+17	நாம்	unk
+18	தமிழர்	unk
+19	கட்சித்தலைவர்	unk
+20	சீமான்	unk
+21	ஆகியோர்	unk
+22	தெரிவித்தனர்	unk
+23	.	unk
+</Sentence>
+<Sentence id="14">
+1	முதல்வர்	unk
+2	ஜெயலலிதா	unk
+3	உடல்நலக்குறைவு	unk
+4	காரணமாக	unk
+5	சென்னை	unk
+6	ஆயிரம்	unk
+7	விளக்கில்	unk
+8	உள்ள	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனையில்	unk
+11	சிகிச்சை	unk
+12	பெற்று	unk
+13	வருகிறார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="15">
+1	முதல்வர்	unk
+2	ஜெயலலிதா	unk
+3	பூரண	unk
+4	குணமடைய	unk
+5	வேண்டி	unk
+6	அனைத்து	unk
+7	சமய	unk
+8	மக்களும்	unk
+9	சிறப்பு	unk
+10	பிரார்த்தனைகள்	unk
+11	நடத்தி	unk
+12	வருகின்றனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="16">
+1	பிரதமர்	unk
+2	மோடி	unk
+3	,	unk
+4	காங்கிரஸ்	unk
+5	துணைத்தலைவர்	unk
+6	ராகுல்காந்தி	unk
+7	ஆகியோர்	unk
+8	முதல்வர்	unk
+9	விரைவில்	unk
+10	நலம்	unk
+11	பெற	unk
+12	வேண்டும்	unk
+13	என்று	unk
+14	வாழ்த்துக்கடிதங்களை	unk
+15	அனுப்பி	unk
+16	உள்ளனர்	unk
+17	.	unk
+</Sentence>
+<Sentence id="17">
+1	அப்பல்லோ	unk
+2	மருத்துவமனையில்	unk
+3	சிகிச்சை	unk
+4	பெற்று	unk
+5	வரும்	unk
+6	முதல்வர்	unk
+7	ஜெயலலிதாவின்	unk
+8	உடல்நலம்	unk
+9	குறித்து	unk
+10	அனைத்துக்கட்சித்தலைவர்களும்	unk
+11	நேரில்	unk
+12	கேட்டறிந்து	unk
+13	வருகின்றனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="18">
+1	இந்த	unk
+2	நிலையில்	unk
+3	இந்திய	unk
+4	கம்யூனிஸ்ட்	unk
+5	கட்சியின்	unk
+6	மூத்த	unk
+7	தலைவர்களில்	unk
+8	ஒருவரான	unk
+9	தா.பாண்டியன்	unk
+10	நேற்று	unk
+11	அப்பல்லோ	unk
+12	மருத்துவமனைக்கு	unk
+13	வந்தார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="19">
+1	மூத்த	unk
+2	அமைச்சர்களிடம்	unk
+3	முதல்வரின்	unk
+4	உடல்	unk
+5	நலம்	unk
+6	குறித்து	unk
+7	விசாரித்தறிந்தார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="20">
+1	இதன்	unk
+2	பின்னர்	unk
+3	நிருபர்களிடம்	unk
+4	பேசிய	unk
+5	தா.பாண்டியன்	unk
+6	கூறியதாவது	unk
+7	:	unk
+8	-	unk
+9	முதல்வருக்கு	unk
+10	சிகிச்சையளிக்கும்	unk
+11	மருத்துவர்கள்	unk
+12	மற்றும்	unk
+13	அவரது	unk
+14	நம்பிக்கைக்குரியவர்களை	unk
+15	சந்தித்து	unk
+16	அவரது	unk
+17	உடல்நலம்	unk
+18	குறித்த	unk
+19	விவரங்களை	unk
+20	கேட்டறிந்தேன்	unk
+21	.	unk
+</Sentence>
+<Sentence id="21">
+1	முதலமைச்சரின்	unk
+2	உடல்நிலை	unk
+3	தொடர்ந்து	unk
+4	முன்னேற்றம்	unk
+5	அடைந்து	unk
+6	வருவதாக	unk
+7	அவர்கள்	unk
+8	கூறியுள்ளனர்	unk
+9	.	unk
+</Sentence>
+<Sentence id="22">
+1	இதை	unk
+2	நம்பாமல்	unk
+3	சிலர்	unk
+4	அவதூறுகளை	unk
+5	பரப்புவது	unk
+6	நல்லதல்ல	unk
+7	,	unk
+8	மாண்பும்	unk
+9	அல்ல	unk
+10	.	unk
+</Sentence>
+<Sentence id="23">
+1	முதல்வர்	unk
+2	உடல்நலக்குறைவுக்காக	unk
+3	யாரும்	unk
+4	உயிரை	unk
+5	மாய்க்க	unk
+6	கூடாது	unk
+7	.	unk
+</Sentence>
+<Sentence id="24">
+1	மேலும்	unk
+2	அவதூறு	unk
+3	பரப்புவதையும்	unk
+4	நிறுத்தி	unk
+5	கொள்ள	unk
+6	வேண்டும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="25">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	கூறினார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="26">
+1	நாம்	unk
+2	தமிழர்	unk
+3	கட்சியின்	unk
+4	தலைவர்	unk
+5	சீமானும்	unk
+6	அப்பல்லோ	unk
+7	மருத்துவமனையில்	unk
+8	முதல்வரின்	unk
+9	உடல்நலம்	unk
+10	குறித்து	unk
+11	விசாரித்தறிந்தார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="27">
+1	அவர்	unk
+2	நிருபர்களிடம்	unk
+3	கூறுகையில்	unk
+4	,	unk
+5	முதல்வர்	unk
+6	உடல்நலம்	unk
+7	குறித்து	unk
+8	விசாரிக்க	unk
+9	அப்பல்லோ	unk
+10	வந்தேன்	unk
+11	.	unk
+</Sentence>
+<Sentence id="28">
+1	சுகாதார	unk
+2	அமைச்சர்	unk
+3	விஜயபாஸ்கரை	unk
+4	சந்தித்தேன்	unk
+5	.	unk
+</Sentence>
+<Sentence id="29">
+1	அவர்	unk
+2	முதல்வரின்	unk
+3	உடல்	unk
+4	நலம்	unk
+5	குறித்து	unk
+6	நல்ல	unk
+7	தகவல்களை	unk
+8	தந்தார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="30">
+1	அவர்	unk
+2	நன்றாக	unk
+3	இருக்கிறார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="31">
+1	அவர்	unk
+2	வெகுவிரைவில்	unk
+3	பூரண	unk
+4	குணமடைந்து	unk
+5	வீடு	unk
+6	திரும்ப	unk
+7	வேண்டும்	unk
+8	என்பது	unk
+9	தான்	unk
+10	எங்கள்	unk
+11	விருப்பம்	unk
+12	என்றார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="32">
+1	இதைத்தொடர்ந்து	unk
+2	விவசாயச்சங்கங்கள்	unk
+3	ஒருங்கிணைப்பு	unk
+4	குழுத்தலைவர்	unk
+5	பி.ஆர்.பாண்டியன்	unk
+6	,	unk
+7	ஐஎன்டியூசி	unk
+8	தலைவர்	unk
+9	காளான்	unk
+10	திரைப்பட	unk
+11	இயக்குனர்	unk
+12	அமீர்	unk
+13	உள்ளிட்டோரும்	unk
+14	மருத்துவமனைக்கு	unk
+15	வந்து	unk
+16	முதல்வரின்	unk
+17	உடல்நலம்	unk
+18	குறித்து	unk
+19	விசாரித்தனர்	unk
+20	.	unk
+</Sentence>
+<Sentence id="33">
+1	பரபரப்பான	unk
+2	அரசியல்	unk
+3	சூழ்நிலையில்	unk
+4	தமிழக	unk
+5	ஆளுநருடன்	unk
+6	தலைமை	unk
+7	செயலாளர்	unk
+8	சந்திப்பு	unk
+9	!	unk
+</Sentence>
+<Sentence id="34">
+1	முதல்வர்	unk
+2	ஜெயலலிதா	unk
+3	கடந்த	unk
+4	மாதம்	unk
+5	22-ஆம்	unk
+6	தேதி	unk
+7	உடல்	unk
+8	நலக்குறைவால்	unk
+9	சென்னை	unk
+10	அப்பல்லோ	unk
+11	மருத்துவமனையில்	unk
+12	அனுமதிக்கப்பட்டார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="35">
+1	15	unk
+2	நாட்கள்	unk
+3	கடந்த	unk
+4	நிலையிலும்	unk
+5	அவருக்கு	unk
+6	தொடர்ந்து	unk
+7	சிகிச்சை	unk
+8	அளிக்கப்பட்டு	unk
+9	வருகிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="36">
+1	அப்பல்லோ	unk
+2	மருத்துவர்கள்	unk
+3	,	unk
+4	லண்டன்	unk
+5	மருத்துவர்கள்	unk
+6	,	unk
+7	எயிம்ஸ்	unk
+8	மருத்துவர்கள்	unk
+9	என	unk
+10	பல	unk
+11	மருத்துவர்கள்	unk
+12	அவருக்கு	unk
+13	சிகிச்சை	unk
+14	அளித்து	unk
+15	வருகின்றனர்	unk
+16	.	unk
+</Sentence>
+<Sentence id="37">
+1	இந்நிலையில்	unk
+2	நேற்று	unk
+3	அப்பல்லோ	unk
+4	மருத்துவமனை	unk
+5	வெளியிட்ட	unk
+6	இரண்டு	unk
+7	பக்க	unk
+8	அறிக்கையில்	unk
+9	முதல்வருக்கு	unk
+10	உள்ள	unk
+11	உடல்	unk
+12	நல	unk
+13	பிரச்சனைகளை	unk
+14	குறிப்பிட்டு	unk
+15	அவர்	unk
+16	நீண்ட	unk
+17	காலம்	unk
+18	மருத்துவமனையில்	unk
+19	இருந்து	unk
+20	சிகிச்சை	unk
+21	எடுக்க	unk
+22	வேண்டும்	unk
+23	என	unk
+24	கூறியிருந்தனர்	unk
+25	.	unk
+</Sentence>
+<Sentence id="38">
+1	இதனையடுத்து	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	சிகிச்சை	unk
+5	முடித்து	unk
+6	மீண்டும்	unk
+7	வரும்	unk
+8	வரை	unk
+9	தற்காலிக	unk
+10	முதல்வரையோ	unk
+11	அல்லது	unk
+12	துணை	unk
+13	முதல்வரையோ	unk
+14	நியமிக்கும்	unk
+15	சூழ்நிலையில்	unk
+16	உள்ளது	unk
+17	தமிழகம்	unk
+18	.	unk
+</Sentence>
+<Sentence id="39">
+1	ஏற்கனவே	unk
+2	பலர்	unk
+3	துணை	unk
+4	முதல்வர்	unk
+5	அல்லது	unk
+6	தற்காலிக	unk
+7	முதல்வர்	unk
+8	கோரிக்கையை	unk
+9	வலியுறுத்தி	unk
+10	வந்தனர்	unk
+11	.	unk
+</Sentence>
+<Sentence id="40">
+1	இந்த	unk
+2	சூழ்நிலையில்	unk
+3	தலைமைச்செயலாளர்	unk
+4	ராமமோகனராவ்	unk
+5	ஆளுநர்	unk
+6	வித்யாசாகரை	unk
+7	சந்தித்தது	unk
+8	அரசியல்	unk
+9	வட்டாரத்தில்	unk
+10	பரபரப்பாக	unk
+11	பேசப்படுகிறது	unk
+12	.	unk
+</Sentence>
+<Sentence id="41">
+1	இந்த	unk
+2	சந்திப்பை	unk
+3	அடுத்து	unk
+4	தமிழகத்தில்	unk
+5	சில	unk
+6	அதிரடி	unk
+7	அறிவிப்புகள்	unk
+8	வெளியாகலாம்	unk
+9	என	unk
+10	எதிர்பார்க்கப்படுகிறது	unk
+11	.	unk
+</Sentence>
+<Sentence id="42">
+1	ஜெ.	unk
+2	வை	unk
+3	மறைத்து	unk
+4	வைத்துள்ளனர்	unk
+5	:	unk
+6	பொங்கி	unk
+7	எழும்	unk
+8	சசிகலா	unk
+9	புஷ்பா	unk
+10	.	unk
+</Sentence>
+<Sentence id="43">
+1	உடல்	unk
+2	நலக்	unk
+3	குறைபாடு	unk
+4	காரணாமக	unk
+5	,	unk
+6	முதல்வர்	unk
+7	ஜெயலலிதா	unk
+8	கடந்த	unk
+9	16	unk
+10	நாட்களாக	unk
+11	மருத்துவமனையில்	unk
+12	சிகிச்சை	unk
+13	பெற்று	unk
+14	வருகிறார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="44">
+1	இந்நிலையில்	unk
+2	,	unk
+3	மாநிலங்களவை	unk
+4	உறுப்பினர்	unk
+5	சசிகலா	unk
+6	புஷ்பா	unk
+7	சில	unk
+8	பரபரப்பான	unk
+9	கருத்துகளை	unk
+10	கூறியுள்ளார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="45">
+1	வார	unk
+2	இதழ்	unk
+3	ஒன்றுக்கு	unk
+4	அவர்	unk
+5	அளித்த	unk
+6	பேட்டியில்	unk
+7	கூறியதாவது	unk
+8	:	unk
+9	முதல்வருக்கு	unk
+10	என்ன	unk
+11	மாதிரியான	unk
+12	சிகிச்சைகள்	unk
+13	அளிக்கப்பட்டு	unk
+14	வருகின்றன	unk
+15	என்று	unk
+16	யாருக்கும்	unk
+17	தெரிவிக்கவில்லை	unk
+18	.	unk
+</Sentence>
+<Sentence id="46">
+1	அவர்	unk
+2	எந்த	unk
+3	நிலையில்	unk
+4	இருக்கிறார்	unk
+5	என்றும்	unk
+6	தெரியவில்லை	unk
+7	.	unk
+</Sentence>
+<Sentence id="47">
+1	இந்த	unk
+2	சூழலை	unk
+3	,	unk
+4	அவரின்	unk
+5	அருகிலிருப்பவர்கள்	unk
+6	பயன்படுத்திக்	unk
+7	கொள்ளும்	unk
+8	வாய்ப்பு	unk
+9	இருக்கிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="48">
+1	வேண்டுமென்றே	unk
+2	அவரை	unk
+3	மறைத்து	unk
+4	வைத்துள்ளனர்	unk
+5	.	unk
+</Sentence>
+<Sentence id="49">
+1	அவரை	unk
+2	நேரில்	unk
+3	பார்க்க	unk
+4	யாரும்	unk
+5	அனுமதிக்கப்படவில்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="50">
+1	அவரை	unk
+2	சுற்றி	unk
+3	மோசடி	unk
+4	நடக்கிறது	unk
+5	”	unk
+6	என்று	unk
+7	கூறியுள்ளார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="51">
+1	இந்தூர்	unk
+2	டெஸ்ட்	unk
+3	:	unk
+4	புவனேஸ்வர்	unk
+5	குமார்	unk
+6	காயம்	unk
+7	;	unk
+8	ஷர்துல்	unk
+9	தாகூருக்கு	unk
+10	வாய்ப்பு	unk
+11	.	unk
+</Sentence>
+<Sentence id="52">
+1	இந்தூர்	unk
+2	:	unk
+3	இந்தியா	unk
+4	-	unk
+5	நியூசிலாந்து	unk
+6	அணிகள்	unk
+7	இடையேயான	unk
+8	2வது	unk
+9	டெஸ்ட்	unk
+10	கிரிக்கெட்	unk
+11	போட்டி	unk
+12	கொல்கத்தாவில்	unk
+13	நடந்தது	unk
+14	.	unk
+</Sentence>
+<Sentence id="53">
+1	இதில்	unk
+2	,	unk
+3	இந்திய	unk
+4	அணியின்	unk
+5	வெற்றிக்கு	unk
+6	,	unk
+7	முதல்	unk
+8	இன்னிங்சில்	unk
+9	5	unk
+10	,	unk
+11	2வது	unk
+12	இன்னிங்சில்	unk
+13	ஒரு	unk
+14	விக்கெட்டை	unk
+15	கைப்பற்றி	unk
+16	,	unk
+17	வேகப்பந்து	unk
+18	வீச்சாளர்	unk
+19	புவனேஸ்வர்	unk
+20	குமார்	unk
+21	உதவினார்	unk
+22	.	unk
+</Sentence>
+<Sentence id="54">
+1	ஆனால்	unk
+2	நியூசிலாந்துக்கு	unk
+3	எதிராக	unk
+4	நாளை	unk
+5	மறு	unk
+6	நாள்	unk
+7	(	unk
+8	8ம்	unk
+9	தேதி	unk
+10	)	unk
+11	இந்தூரில்	unk
+12	தொடங்கும்	unk
+13	3வது	unk
+14	மற்றும்	unk
+15	கடைசி	unk
+16	டெஸ்ட்	unk
+17	போட்டியில்	unk
+18	புவனேஸ்வர்	unk
+19	குமார்	unk
+20	விளையாட	unk
+21	மாட்டார்	unk
+22	என	unk
+23	இந்திய	unk
+24	கிரிஎகட்	unk
+25	கட்டுப்பாட்டு	unk
+26	வாரியம்	unk
+27	அறிவித்துள்ளது	unk
+28	.	unk
+</Sentence>
+<Sentence id="55">
+1	புவனேஸ்வர்	unk
+2	குமார்	unk
+3	காயம்	unk
+4	அடைந்துள்ளதால்	unk
+5	,	unk
+6	அவருக்கு	unk
+7	பதிலாக	unk
+8	மும்பையை	unk
+9	சேர்ந்த	unk
+10	வேகப்பந்து	unk
+11	வீச்சாளர்	unk
+12	ஷர்துல்	unk
+13	தாகூர்	unk
+14	அணியில்	unk
+15	சேர்க்கப்பட்டுள்ளார்	unk
+16	.	unk
+</Sentence>
+<Sentence id="56">
+1	இந்த	unk
+2	தொடரில்	unk
+3	காயம்	unk
+4	அடைந்த	unk
+5	3வது	unk
+6	இந்திய	unk
+7	வீரர்	unk
+8	புவனேஸ்வர்	unk
+9	குமார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="57">
+1	முன்னதாக	unk
+2	லோகேஸ்	unk
+3	ராகுல்	unk
+4	,	unk
+5	ஷிகார்	unk
+6	தவான்	unk
+7	ஆகியோரும்	unk
+8	காயம்	unk
+9	அடைந்தது	unk
+10	குறிப்பிடத்தக்கது	unk
+11	.	unk
+</Sentence>
+<Sentence id="58">
+1	அம்மா	unk
+2	உணவகத்தில்	unk
+3	பணி	unk
+4	வழங்குவது	unk
+5	தொடர்பாக	unk
+6	மாநகராட்சி	unk
+7	அதிகாரிகளுடன்	unk
+8	அதிமுகவினர்	unk
+9	கடும்	unk
+10	மோதல்	unk
+11	திருவொற்றியூர்	unk
+12	மண்டலத்தில்	unk
+13	பரபரப்பு	unk
+14	.	unk
+</Sentence>
+<Sentence id="59">
+1	திருவொற்றியூர்	unk
+2	:	unk
+3	திருவொற்றியூர்	unk
+4	மண்டலத்துக்கு	unk
+5	உட்பட்ட	unk
+6	மஸ்தான்	unk
+7	கோயில்	unk
+8	தெரு	unk
+9	,	unk
+10	காமராஜ்	unk
+11	நகர்	unk
+12	உள்பட	unk
+13	8	unk
+14	இடங்களில்	unk
+15	அம்மா	unk
+16	உணவகங்கள்	unk
+17	திறக்கப்பட்டுள்ளன	unk
+18	.	unk
+</Sentence>
+<Sentence id="60">
+1	இங்கு	unk
+2	,	unk
+3	சமையல்	unk
+4	செய்வதற்கு	unk
+5	சுமார்	unk
+6	100	unk
+7	பேரை	unk
+8	,	unk
+9	சுகாதார	unk
+10	துறை	unk
+11	அதிகாரிகள்	unk
+12	தேர்வு	unk
+13	செய்தனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="61">
+1	அவ்வாறு	unk
+2	,	unk
+3	தேர்வு	unk
+4	செய்யப்பட்டவர்களுக்கான	unk
+5	இறுதி	unk
+6	பட்டியல்	unk
+7	தயாரிக்கும்	unk
+8	பணி	unk
+9	நேற்று	unk
+10	மண்டல	unk
+11	அலுவலகத்தில்	unk
+12	நடந்தது	unk
+13	.	unk
+</Sentence>
+<Sentence id="62">
+1	உதவி	unk
+2	ஆணையர்	unk
+3	பெஞ்சமின்பாபு	unk
+4	,	unk
+5	சுகாதார	unk
+6	துறை	unk
+7	அதிகாரி	unk
+8	இளஞ்செழியன்	unk
+9	மற்றும்	unk
+10	அதிகாரிகள்	unk
+11	பட்டியலில்	unk
+12	இருப்பவர்களை	unk
+13	,	unk
+14	வேலையில்	unk
+15	சேர்ப்பது	unk
+16	குறித்து	unk
+17	ஆலோசனை	unk
+18	செய்து	unk
+19	கொண்டிருந்தனர்	unk
+20	.	unk
+</Sentence>
+<Sentence id="63">
+1	அப்போது	unk
+2	,	unk
+</Sentence>
+<Sentence id="64">
+1	நீங்கள்	unk
+2	உங்கள்	unk
+3	விருப்பப்படி	unk
+4	ஆட்களை	unk
+5	தேர்வு	unk
+6	செய்து	unk
+7	விடுவீர்களா	unk
+8	,	unk
+9	கவுன்சிலர்களான	unk
+10	எங்களுக்கு	unk
+11	ஏன்	unk
+12	இதுபற்றி	unk
+13	தெரிவிக்கவில்லை	unk
+14	,	unk
+15	’	unk
+16	என	unk
+17	கடும்	unk
+18	வாக்குவாதத்தில்	unk
+19	ஈடுபட்டனர்	unk
+20	.	unk
+</Sentence>
+<Sentence id="65">
+1	அதற்கு	unk
+2	அதிகாரிகள்	unk
+3	,	unk
+4	‘	unk
+5	பணியில்	unk
+6	ஆட்களை	unk
+7	சேர்ப்பது	unk
+8	எங்களது	unk
+9	வேலை	unk
+10	.	unk
+</Sentence>
+<Sentence id="66">
+1	அதை	unk
+2	உங்களிடம்	unk
+3	ஏன்	unk
+4	தெரிவிக்க	unk
+5	வேண்டும்	unk
+6	,	unk
+7	’	unk
+</Sentence>
+<Sentence id="67">
+1	அதற்கு	unk
+2	,	unk
+3	கவுன்சிலர்கள்	unk
+4	,	unk
+5	நாங்கள்	unk
+6	சொல்லும்	unk
+7	ஆட்களை	unk
+8	வேலையில்	unk
+9	சேர்க்க	unk
+10	வேண்டும்	unk
+</Sentence>
+<Sentence id="68">
+1	இதனால்	unk
+2	,	unk
+3	இருதரப்புக்கும்	unk
+4	கடும்	unk
+5	வாக்குவாதம்	unk
+6	ஏற்பட்டது	unk
+7	.	unk
+</Sentence>
+<Sentence id="69">
+1	நீண்ட	unk
+2	நேர	unk
+3	வாக்குவாதத்திற்கு	unk
+4	பிறகு	unk
+5	,	unk
+6	உங்கள்	unk
+7	சார்பில்	unk
+8	பணியாளர்களை	unk
+9	தேர்வு	unk
+10	செய்து	unk
+11	கொடுத்தால்	unk
+12	,	unk
+13	நாங்கள்	unk
+14	பரிசீலனை	unk
+15	செய்கிறோம்	unk
+16	என	unk
+17	அதிகாரிகள்	unk
+18	கூறினர்	unk
+19	.	unk
+</Sentence>
+<Sentence id="70">
+1	அந்த	unk
+2	நேரத்தில்	unk
+3	திருவொற்றியூர்	unk
+4	அதிமுக	unk
+5	பகுதி	unk
+6	செயலாளர்	unk
+7	கிருஷ்ணனின்	unk
+8	ஆதரவாளர்கள்	unk
+9	அங்கு	unk
+10	சென்று	unk
+11	,	unk
+12	‘	unk
+13	அம்மா	unk
+14	உணவகங்களில்	unk
+15	நாங்கள்	unk
+16	சொல்லும்	unk
+17	ஆட்களையும்	unk
+18	வேலைக்கு	unk
+19	சேர்க்க	unk
+20	வேண்டும்	unk
+21	,	unk
+22	’	unk
+</Sentence>
+<Sentence id="71">
+1	அதற்கு	unk
+2	அதிகாரிகள்	unk
+3	,	unk
+4	இப்படி	unk
+5	ஒவ்வொருவராக	unk
+6	வந்து	unk
+7	எங்களுக்கு	unk
+8	வேண்டிய	unk
+9	ஆட்களை	unk
+10	வேலையில்	unk
+11	சேர்க்க	unk
+12	வேண்டும்	unk
+13	என	unk
+14	கூறினால்	unk
+15	நாங்கள்	unk
+16	என்ன	unk
+17	செய்வது	unk
+18	என்றனர்	unk
+19	.	unk
+</Sentence>
+<Sentence id="72">
+1	இதனால்	unk
+2	,	unk
+3	3	unk
+4	தரப்புக்கும்	unk
+5	இடையே	unk
+6	கடும்	unk
+7	வாக்குவாதம்	unk
+8	ஏற்பட்டது	unk
+9	.	unk
+</Sentence>
+<Sentence id="73">
+1	இதனால்	unk
+2	,	unk
+3	அந்த	unk
+4	பகுதியே	unk
+5	போர்க்களம்	unk
+6	போல்	unk
+7	காணப்பட்டது	unk
+8	.	unk
+</Sentence>
+<Sentence id="74">
+1	தகவலறிந்து	unk
+2	திருவொற்றியூர்	unk
+3	போலீசார்	unk
+4	சம்பவ	unk
+5	இடத்துக்கு	unk
+6	சென்று	unk
+7	அவர்களிடம்	unk
+8	சமரசம்	unk
+9	பேசினர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="75">
+1	அப்போது	unk
+2	,	unk
+3	2	unk
+4	தரப்பு	unk
+5	அதிமுகவினர்	unk
+6	தங்களுக்கு	unk
+7	வேண்டிய	unk
+8	ஆட்களின்	unk
+9	பட்டியலை	unk
+10	கொடுத்தனர்	unk
+11	.	unk
+</Sentence>
+<Sentence id="76">
+1	அதை	unk
+2	பரிசீலனை	unk
+3	செய்து	unk
+4	வேலையில்	unk
+5	சேர்க்கிறோம்	unk
+6	என	unk
+7	அதிகாரிகள்	unk
+8	கூறினர்	unk
+9	.	unk
+</Sentence>
+<Sentence id="77">
+1	இதையடுத்து	unk
+2	அனைவரும்	unk
+3	கலைந்து	unk
+4	சென்றனர்	unk
+5	.	unk
+</Sentence>
+<Sentence id="78">
+1	இதுகுறித்து	unk
+2	பொதுமக்கள்	unk
+3	கூறுகையில்	unk
+4	,	unk
+5	‘	unk
+6	அந்தந்த	unk
+7	வார்டுகளில்	unk
+8	உள்ள	unk
+9	அதிமுக	unk
+10	நிர்வாகிகள்	unk
+11	,	unk
+12	பணம்	unk
+13	வாங்கிக்	unk
+14	கொண்டு	unk
+15	தங்களுக்கு	unk
+16	வேண்டியவர்களுக்கு	unk
+17	அம்மா	unk
+18	உணவகத்தில்	unk
+19	வேலை	unk
+20	கொடுக்கும்படி	unk
+21	அதிகாரிகளுக்கு	unk
+22	நெருக்கடி	unk
+23	கொடுக்கின்றனர்	unk
+24	.	unk
+</Sentence>
+<Sentence id="79">
+1	வேறு	unk
+2	வழியின்றி	unk
+3	அதிகாரிகளும்	unk
+4	இதனை	unk
+5	ஏற்று	unk
+6	நடக்கின்றனர்	unk
+7	.	unk
+</Sentence>
+<Sentence id="80">
+1	இதில்	unk
+2	,	unk
+3	முறைகேடு	unk
+4	நடப்பது	unk
+5	வெளிப்படையாக	unk
+6	தெரிந்தாலும்	unk
+7	எந்த	unk
+8	அதிகாரிகளும்	unk
+9	கண்டுகொள்வதில்லை	unk
+10	,	unk
+11	’	unk
+12	என்றனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="81">
+1	சைதாப்பேட்டை	unk
+2	சட்டமன்ற	unk
+3	தொகுதியில்	unk
+4	அரசு	unk
+5	மருத்துவமனை	unk
+6	,	unk
+7	பள்ளிகளில்	unk
+8	மா.சுப்பிரமணியன்	unk
+9	திடீர்	unk
+10	ஆய்வு	unk
+11	.	unk
+</Sentence>
+<Sentence id="82">
+1	ஆலந்தூர்	unk
+2	:	unk
+3	சென்னை	unk
+4	தெற்கு	unk
+5	மாவட்ட	unk
+6	திமுக	unk
+7	செயலாளரும்	unk
+8	,	unk
+9	சைதாப்பேட்டை	unk
+10	சட்ட	unk
+11	மன்ற	unk
+12	தொகுதி	unk
+13	எமெலேவுமான	unk
+14	மா.சுப்பிரமணியன்	unk
+15	தனது	unk
+16	தொகுதிக்குட்பட்ட	unk
+17	அரசு	unk
+18	மருத்துவமனையை	unk
+19	நேற்று	unk
+20	ஆய்வு	unk
+21	செய்தார்	unk
+22	.	unk
+</Sentence>
+<Sentence id="83">
+1	அப்போது	unk
+2	,	unk
+3	நோயாளிகளிடம்	unk
+4	அங்கு	unk
+5	அளிக்கப்படும்	unk
+6	சிகிச்சைகள்	unk
+7	குறித்து	unk
+8	கேட்டறிந்தார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="84">
+1	அப்போது	unk
+2	மருத்துவமனையின்	unk
+3	அடிப்படை	unk
+4	தேவையான	unk
+5	எக்ஸ்ரே	unk
+6	கருவி	unk
+7	இயங்காததை	unk
+8	கண்ட	unk
+9	மா.சுப்பிரமணியன்	unk
+10	புதியதாக	unk
+11	எக்ஸ்ரே	unk
+12	கருவி	unk
+13	மற்றும்	unk
+14	அதற்கான	unk
+15	அறை	unk
+16	கட்ட	unk
+17	₹25	unk
+18	லட்சம்	unk
+19	தனது	unk
+20	தொகுதி	unk
+21	நிதியில்	unk
+22	வழங்குவதாக	unk
+23	அவர்	unk
+24	உறுதி	unk
+25	அளித்தார்	unk
+26	.	unk
+</Sentence>
+<Sentence id="85">
+1	இதைத்தொடர்ந்து	unk
+2	சைதாபேட்டை	unk
+3	கரோடியா	unk
+4	பெண்கள்	unk
+5	மேல்நிலைப்பள்ளி	unk
+6	மற்றும்	unk
+7	அரசு	unk
+8	மாதிரி	unk
+9	மேல்நிலைப்	unk
+10	பள்ளி	unk
+11	ஆகியவற்றை	unk
+12	ஆய்வு	unk
+13	செய்தார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="86">
+1	பள்ளியின்	unk
+2	சுற்றுச்சுவர்	unk
+3	உயரத்தை	unk
+4	அதிகரித்து	unk
+5	வேலி	unk
+6	அமைக்க	unk
+7	₹20	unk
+8	லட்சம்	unk
+9	தனது	unk
+10	தொகுதி	unk
+11	நிதியில்	unk
+12	வழங்குவதாக	unk
+13	அவர்	unk
+14	உறுதி	unk
+15	அளித்தார்	unk
+16	.	unk
+</Sentence>
+<Sentence id="87">
+1	மாவட்ட	unk
+2	திமுக	unk
+3	அவைத்தலைவர்	unk
+4	எஸ்.குணசேகரன்	unk
+5	,	unk
+6	திமுக	unk
+7	பகுதி	unk
+8	செயலாளர்கள்	unk
+9	எம்.கிருஷ்ணமூர்த்தி	unk
+10	,	unk
+11	இரா.துரைராஜ்	unk
+12	வழக்கறிஞர்	unk
+13	எம்.தரன்	unk
+14	உள்ளிட்ட	unk
+15	பலர்	unk
+16	உடன்	unk
+17	இருந்தனர்	unk
+18	.	unk
+</Sentence>
+<Sentence id="88">
+1	’மதனை	unk
+2	மேஜிக்	unk
+3	செய்தா	unk
+4	பிடிக்க	unk
+5	முடியும்	unk
+6	’	unk
+7	-	unk
+8	போலீஸ்	unk
+9	விளக்கத்தை	unk
+</Sentence>
+<Sentence id="89">
+1	சென்னையில்	unk
+2	,	unk
+3	எஸாரெம்	unk
+4	கல்லூரி	unk
+5	நிர்வாகத்திற்கும்	unk
+6	,	unk
+7	வேந்தர்	unk
+8	மூவிஸ்	unk
+9	மதன்	unk
+10	இடையே	unk
+11	மருத்துவப்படிப்பு	unk
+12	தொடர்பாக	unk
+13	பல	unk
+14	கோடி	unk
+15	ரூபாய்	unk
+16	பணப்	unk
+17	பரிவர்த்தனையில்	unk
+18	கருத்து	unk
+19	வேறுபாடு	unk
+20	எழுந்தது	unk
+21	.	unk
+</Sentence>
+<Sentence id="90">
+1	இதனையடுத்து	unk
+2	,	unk
+3	கடந்த	unk
+4	மே	unk
+5	மாதம்	unk
+6	27	unk
+7	ஆம்	unk
+8	தேதி	unk
+9	,	unk
+10	கங்கையில்	unk
+11	சமாதி	unk
+12	ஆகப்போவதாக	unk
+13	கூறி	unk
+14	,	unk
+15	கடிதம்	unk
+16	எழுதி	unk
+17	வைத்துவிட்டு	unk
+18	வேந்தர்	unk
+19	மூவிஸ்	unk
+20	மதன்	unk
+21	மாயமானார்	unk
+22	.	unk
+</Sentence>
+<Sentence id="91">
+1	இதனால்	unk
+2	அவரை	unk
+3	கண்டுபிடித்துதரக்	unk
+4	கோரி	unk
+5	அவரது	unk
+6	மனைவி	unk
+7	மற்றும்	unk
+8	தாய்	unk
+9	ஆகியோர்	unk
+10	காவல்துறையிடம்	unk
+11	ஏற்கனவே	unk
+12	புகார்	unk
+13	அளித்தனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="92">
+1	மேலும்	unk
+2	,	unk
+3	வேந்தர்	unk
+4	மூவிஸ்	unk
+5	மதன்	unk
+6	பல	unk
+7	கோடி	unk
+8	ரூபாய்	unk
+9	மோசடி	unk
+10	செய்துவிட்டதாகவும்	unk
+11	,	unk
+12	அவரை	unk
+13	கண்டுபிடித்து	unk
+14	தரக்கோரியும்	unk
+15	,	unk
+16	சென்னை	unk
+17	போலீஸ்	unk
+18	கமிஷனர்	unk
+19	அலுவலகத்தில்	unk
+20	பாதிக்கப்பட்டவர்கள்	unk
+21	,	unk
+22	தமிழகம்	unk
+23	முழுவதும்	unk
+24	பல்வேறு	unk
+25	காவல்	unk
+26	நிலையங்களில்	unk
+27	நூற்றுக்கும்	unk
+28	மேற்பட்ட	unk
+29	புகார்	unk
+30	மனுக்கள்	unk
+31	கொடுக்கப்பட்டுள்ளது	unk
+32	.	unk
+</Sentence>
+<Sentence id="93">
+1	இந்நிலையில்	unk
+2	,	unk
+3	சென்னை	unk
+4	உயர்நீதிமன்றத்தில்	unk
+5	மதனின்	unk
+6	தாயார்	unk
+7	தங்கம்	unk
+8	ஆட்கொணர்வு	unk
+9	மனு	unk
+10	தாக்கல்	unk
+11	செய்தார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="94">
+1	இந்த	unk
+2	மனு	unk
+3	மீது	unk
+4	விசாரணை	unk
+5	நடத்திய	unk
+6	நீதிமன்றம்	unk
+7	,	unk
+8	காணாமல்	unk
+9	போன	unk
+10	வேந்தர்	unk
+11	மூவிஸ்	unk
+12	மதனை	unk
+13	கண்டிபிடிக்க	unk
+14	உத்தரவிட்டது	unk
+15	.	unk
+</Sentence>
+<Sentence id="95">
+1	இது	unk
+2	குறித்த	unk
+3	வழக்கை	unk
+4	விசாரிக்க	unk
+5	காவல்துறை	unk
+6	கூடுதல்	unk
+7	துணை	unk
+8	ஆணையர்	unk
+9	ராதாகிருஷ்ணன்	unk
+10	நியமனம்	unk
+11	செய்யப்பட்டார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="96">
+1	இந்த	unk
+2	வழக்கு	unk
+3	நீதிபதி	unk
+4	ஏ.செல்வம்	unk
+5	,	unk
+6	பொன்	unk
+7	.	unk
+</Sentence>
+<Sentence id="97">
+1	கலையரசன்	unk
+2	முன்பு	unk
+3	விசாரணைக்கு	unk
+4	வந்தது	unk
+5	.	unk
+</Sentence>
+<Sentence id="98">
+1	மாயமான	unk
+2	மதனை	unk
+3	,	unk
+4	பச்சமுத்து	unk
+5	தரப்பினர்	unk
+6	தான்	unk
+7	சட்டவிரோதமாக	unk
+8	அடைத்து	unk
+9	வைத்துள்ளனர்	unk
+10	என்று	unk
+11	மதன்	unk
+12	தரப்பு	unk
+13	வழக்கறிஞர்	unk
+14	வாதிட்டார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="99">
+1	இதனை	unk
+2	விசாரித்த	unk
+3	நீதிபதிகள்	unk
+4	.	unk
+</Sentence>
+<Sentence id="100">
+1	"	unk
+2	மதனை	unk
+3	காவல்துறை	unk
+4	கைது	unk
+5	செய்து	unk
+6	ஆஜர்படுத்தவில்லை	unk
+7	என்றால்	unk
+8	,	unk
+9	மாநகர	unk
+10	ஆணையர்	unk
+11	மீது	unk
+12	நீதிமன்ற	unk
+13	அவமதிப்பு	unk
+14	நடவடிக்கை	unk
+15	எடுக்க	unk
+16	வேண்டிய	unk
+17	சூழ்நிலை	unk
+18	ஏற்படும்	unk
+19	”	unk
+20	என	unk
+21	தெரிவித்தனர்	unk
+22	.	unk
+</Sentence>
+<Sentence id="101">
+1	மேலும்	unk
+2	மதனை	unk
+3	கண்டுபிடிக்க	unk
+4	தனிப்படை	unk
+5	போலீசார்	unk
+6	எடுத்த	unk
+7	நடவடிக்கை	unk
+8	குறித்து	unk
+9	அறிக்கை	unk
+10	தாக்கல்	unk
+11	செய்ய	unk
+12	வேண்டும்	unk
+13	.	unk
+</Sentence>
+<Sentence id="102">
+1	மேலும்	unk
+2	இரண்டு	unk
+3	வாரத்தில்	unk
+4	மதனை	unk
+5	கைது	unk
+6	செய்ய	unk
+7	உத்தரவிட்டு	unk
+8	வழக்கை	unk
+9	அக்டோபர்	unk
+10	6ஆம்	unk
+11	தேதிக்கு	unk
+12	ஒத்திவைத்தார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="103">
+1	இதற்கிடையே	unk
+2	மதன்	unk
+3	கூட்டாளி	unk
+4	சுதிரை	unk
+5	காவல்	unk
+6	துறையினர்	unk
+7	கைது	unk
+8	செய்து	unk
+9	அவரிடம்	unk
+10	விசாரணையும்	unk
+11	நடத்தினர்	unk
+12	.	unk
+</Sentence>
+<Sentence id="104">
+1	கெடு	unk
+2	முடியும்	unk
+3	தருவாயில்	unk
+4	வழக்கு	unk
+5	நீதிபதிகள்	unk
+6	ஜெயச்சந்திரன்	unk
+7	,	unk
+8	பாஸ்கரன்	unk
+9	அமர்வுக்கு	unk
+10	மாற்றப்பட்டது	unk
+11	.	unk
+</Sentence>
+<Sentence id="105">
+1	இன்று	unk
+2	வழக்கு	unk
+3	விசாரணையில்	unk
+4	ஆஜரான	unk
+5	காவல்துறை	unk
+6	தரப்பு	unk
+7	வழக்கறிஞரிடம்	unk
+8	மதனை	unk
+9	ஏன்	unk
+10	ஆஜர்படுத்தவில்லை	unk
+11	என	unk
+12	நீதிபதிகள்	unk
+13	கேட்டனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="106">
+1	அதற்கு	unk
+2	மதனை	unk
+3	கைது	unk
+4	செய்ய	unk
+5	தாங்கள்	unk
+6	எடுத்த	unk
+7	நடவடிக்கை	unk
+8	குறித்து	unk
+9	விளக்கமாக	unk
+10	அறிக்கை	unk
+11	தருகிறோம்	unk
+12	என்றனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="107">
+1	அறிக்கையை	unk
+2	படித்து	unk
+3	பார்த்த	unk
+4	நீதிபதிகள்	unk
+5	அறிக்கை	unk
+6	திருப்தியாக	unk
+7	இருப்பதாகவும்	unk
+8	மதனை	unk
+9	பிடிக்க	unk
+10	4	unk
+11	வார	unk
+12	கால	unk
+13	அவகாசம்	unk
+14	அளிப்பதாகவும்	unk
+15	தெரிவித்தனர்	unk
+16	.	unk
+</Sentence>
+<Sentence id="108">
+1	அப்போது	unk
+2	மதன்	unk
+3	தரப்பில்	unk
+4	ஆஜரான	unk
+5	பால்	unk
+6	கனகராஜ்	unk
+7	,	unk
+8	மதனை	unk
+9	பிரிந்து	unk
+10	அவரது	unk
+11	குடும்பத்தினர்	unk
+12	மிகவும்	unk
+13	துயரத்தில்	unk
+14	இருப்பதாக	unk
+15	தெரிவித்தார்	unk
+16	.	unk
+</Sentence>
+<Sentence id="109">
+1	அதற்கு	unk
+2	பதிலளித்த	unk
+3	நீதிபதி	unk
+4	,	unk
+5	மதனை	unk
+6	மேஜிக்	unk
+7	செய்தா	unk
+8	பிடிக்க	unk
+9	முடியும்	unk
+10	என	unk
+11	கூறியுள்ளனர்	unk
+12	.	unk
+</Sentence>
+<Sentence id="110">
+1	அப்பல்லோ	unk
+2	சென்ற	unk
+3	அற்புதம்மாள்	unk
+4	!	unk
+</Sentence>
+<Sentence id="111">
+1	முதல்வரை	unk
+2	பற்றி	unk
+3	என்ன	unk
+4	சொன்னார்	unk
+5	தெரியுமா	unk
+6	?	unk
+</Sentence>
+<Sentence id="112">
+1	சென்னை	unk
+2	ஆயிரம்	unk
+3	விளக்கில்	unk
+4	உள்ள	unk
+5	அப்பல்லோ	unk
+6	மருத்துவமனிக்கு	unk
+7	,	unk
+8	ராஜீவ்காந்தி	unk
+9	கொலை	unk
+10	வழக்கில்	unk
+11	சிறையில்	unk
+12	இருக்கும்	unk
+13	பேரறிவாளனின்	unk
+14	தாயார்	unk
+15	அற்புதம்மாள்	unk
+16	இன்று	unk
+17	வந்தார்	unk
+18	.	unk
+</Sentence>
+<Sentence id="113">
+1	இதை	unk
+2	அடுத்து	unk
+3	,	unk
+4	அவர்	unk
+5	முதல்வர்	unk
+6	ஜெயலலிதா	unk
+7	சிகிச்சை	unk
+8	பெறும்	unk
+9	இரண்டாவது	unk
+10	தளத்திற்கு	unk
+11	சென்றார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="114">
+1	பின்னர்	unk
+2	வெளியே	unk
+3	வந்த	unk
+4	அவர்	unk
+5	செய்தியாளர்களிடம்	unk
+6	கூறியதாவது	unk
+7	,	unk
+8	"	unk
+9	முதல்வரை	unk
+10	சந்திக்க	unk
+11	அப்பல்லோ	unk
+12	2	unk
+13	வது	unk
+14	தளத்திற்கு	unk
+15	சென்றேன்	unk
+16	.	unk
+</Sentence>
+<Sentence id="115">
+1	அங்கு	unk
+2	அமைச்சர்	unk
+3	விஜயபாஸ்கர்	unk
+4	,	unk
+5	தம்பிதுரை	unk
+6	எம்.பி	unk
+7	,	unk
+8	ஆகியோரை	unk
+9	சந்தித்தேன்	unk
+10	.	unk
+</Sentence>
+<Sentence id="116">
+1	முதல்வருக்கு	unk
+2	நோய்	unk
+3	தொற்று	unk
+4	ஏற்பட்டுவிடுமோ	unk
+5	என்ற	unk
+6	அச்சத்துடன்	unk
+7	யாரையும்	unk
+8	உள்ளே	unk
+9	அனுமதிப்பதில்லை	unk
+10	மருத்துவர்கள்	unk
+11	என்று	unk
+12	அமைச்சர்கள்	unk
+13	தெரிவித்தனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="117">
+1	சாதாரண	unk
+2	மருத்துவமனையிலேயே	unk
+3	இது	unk
+4	மாதிரி	unk
+5	கெடுபிடி	unk
+6	இருக்கும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="118">
+1	பெரிய	unk
+2	மருத்துவமனை	unk
+3	,	unk
+4	முக்கியமான	unk
+5	நபர்	unk
+6	என்பதால்	unk
+7	அதிகமாக	unk
+8	இருப்பதை	unk
+9	உணர்ந்துகொண்டேன்	unk
+10	.	unk
+</Sentence>
+<Sentence id="119">
+1	நான்	unk
+2	கடந்த	unk
+3	19-	unk
+4	ம்	unk
+5	தேதி	unk
+6	போயஸ்	unk
+7	தோட்டம்	unk
+8	சென்றிருந்தேன்	unk
+9	.	unk
+</Sentence>
+<Sentence id="120">
+1	அங்கு	unk
+2	தனி	unk
+3	அலுவலர்	unk
+4	ஒருவரை	unk
+5	சந்தித்தேன்	unk
+6	.	unk
+</Sentence>
+<Sentence id="121">
+1	சிறையில்	unk
+2	இருக்கும்	unk
+3	என்னுடைய	unk
+4	மகனை	unk
+5	வெளியே	unk
+6	கொண்டு	unk
+</Sentence>
+<Sentence id="122">
+1	அந்த	unk
+2	அலுவலர்	unk
+3	முதல்வரை	unk
+4	தொலைபேசியில்	unk
+5	தொடர்பு	unk
+6	கொண்டு	unk
+7	விபரத்தை	unk
+8	கூறினார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="123">
+1	என்	unk
+2	மகனை	unk
+3	வெளியே	unk
+4	கொண்டு	unk
+5	வர	unk
+6	அத்தனை	unk
+7	முயற்சிகளையும்	unk
+8	எடுப்பதாக	unk
+9	முதல்வர்	unk
+10	உறுதி	unk
+11	அளித்தார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="124">
+1	ஆனால்	unk
+2	என்	unk
+3	துரதிர்ஷ்டம்	unk
+4	,	unk
+5	முதல்வரை	unk
+6	மருத்துவனைக்கு	unk
+7	கொண்டு	unk
+8	வந்துவிட்டது	unk
+9	.	unk
+</Sentence>
+<Sentence id="125">
+1	முதல்வர்	unk
+2	நலம்	unk
+3	பெற்று	unk
+4	திரும்புவார்	unk
+5	என்று	unk
+6	நம்பிக்கை	unk
+7	இருக்கிறது”	unk
+8	என்றார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="126">
+1	உள்ளாட்சி	unk
+2	தேர்தல்	unk
+3	ரத்துக்கு	unk
+4	இடைக்கால	unk
+5	தடை	unk
+6	விதிக்க	unk
+7	முடியாது	unk
+8	:	unk
+9	நீதிமன்றம்	unk
+10	அதிரடி	unk
+11	!	unk
+</Sentence>
+<Sentence id="127">
+1	தமிழகத்தில்	unk
+2	உள்ளாட்சி	unk
+3	தேர்தல்	unk
+4	அக்டோபர்	unk
+5	17	unk
+6	,	unk
+7	19	unk
+8	தேதிகளில்	unk
+9	நடைபெறும்	unk
+10	என	unk
+11	மாநில	unk
+12	தேர்தல்	unk
+13	ஆணையம்	unk
+14	அறிவித்தது	unk
+15	.	unk
+</Sentence>
+<Sentence id="128">
+1	இந்த	unk
+2	தேர்தல்	unk
+3	அறிவிப்பில்	unk
+4	பல	unk
+5	குறைபாடுகள்	unk
+6	உள்ளதாக	unk
+7	திமுக	unk
+8	சார்பில்	unk
+9	நீதிமன்றத்தில்	unk
+10	வழக்கு	unk
+11	தொடரப்பட்டது	unk
+12	.	unk
+</Sentence>
+<Sentence id="129">
+1	இந்த	unk
+2	வழக்கை	unk
+3	விசாரித்த	unk
+4	நீதிபதி	unk
+5	கிருபாகரன்	unk
+6	உள்ளாட்சி	unk
+7	தேர்தலை	unk
+8	ரத்து	unk
+9	செய்து	unk
+10	உத்தரவிட்டார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="130">
+1	தேர்தல்	unk
+2	ரத்து	unk
+3	செய்யப்படும்	unk
+4	என	unk
+5	அரசியல்	unk
+6	கட்சியினர்	unk
+7	யாருமே	unk
+8	எதிர்பார்க்கவில்லை	unk
+9	.	unk
+</Sentence>
+<Sentence id="131">
+1	புதிய	unk
+2	அரசாணை	unk
+3	வெளியிட்டு	unk
+4	தேர்தலை	unk
+5	நடத்த	unk
+6	அவர்	unk
+7	உத்தரவிட்டார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="132">
+1	இந்த	unk
+2	உத்தரவை	unk
+3	எதிர்த்து	unk
+4	மாநில	unk
+5	தேர்தல்	unk
+6	ஆணையம்	unk
+7	சென்னை	unk
+8	உயர்	unk
+9	நீதிமன்றத்தில்	unk
+10	மேல்	unk
+11	முறையீடு	unk
+12	செய்தது	unk
+13	.	unk
+</Sentence>
+<Sentence id="133">
+1	இன்று	unk
+2	விசாரணைக்கு	unk
+3	வந்த	unk
+4	இந்த	unk
+5	மேல்	unk
+6	முறையீடு	unk
+7	விசாரணையில்	unk
+8	உள்ளாட்சி	unk
+9	தேர்தல்	unk
+10	ரத்து	unk
+11	செய்த	unk
+12	உத்தரவு	unk
+13	தொடரும்	unk
+14	எனவும்	unk
+15	அதற்கு	unk
+16	இடைக்கால	unk
+17	தடை	unk
+18	உத்தரவு	unk
+19	பிறப்பிக்க	unk
+20	முடியாது	unk
+21	எனவும்	unk
+22	நீதிபதிகள்	unk
+23	தெரிவித்தனர்	unk
+24	.	unk
+</Sentence>
+<Sentence id="134">
+1	மேலும்	unk
+2	உள்ளாட்சி	unk
+3	தேர்தல்	unk
+4	ரத்துக்கு	unk
+5	எதிரான	unk
+6	வழக்கு	unk
+7	விசாரணை	unk
+8	அக்டோபர்	unk
+9	18-ஆம்	unk
+10	தேதிக்கு	unk
+11	ஒத்திவைக்கப்பட்டுள்ளது	unk
+12	.	unk
+</Sentence>
+<Sentence id="135">
+1	அரசியல்	unk
+2	பிரச்சாரத்திற்காக	unk
+3	ராணுவத்தை	unk
+4	பயன்படுத்துவதை	unk
+5	ஆதரிக்க	unk
+6	மாட்டோம்	unk
+7	:	unk
+8	ராகுல்	unk
+9	காந்தி	unk
+10	.	unk
+</Sentence>
+<Sentence id="136">
+1	புதுடெல்லி	unk
+2	,	unk
+3	பயங்கரவாத	unk
+4	முகாம்கள்	unk
+5	மீது	unk
+6	தாக்குதல்	unk
+7	நடத்திய	unk
+8	இந்திய	unk
+9	வீரர்களின்	unk
+10	தியாகத்தை	unk
+11	பிரதமர்	unk
+12	நரேந்திர	unk
+13	மோடி	unk
+14	தனது	unk
+15	சுயநலத்துக்காகப்	unk
+16	பயன்படுத்தி	unk
+17	அரசியல்	unk
+18	செய்கிறார்	unk
+19	என்று	unk
+20	காங்கிரஸ்	unk
+21	துணைத்	unk
+22	தலைவர்	unk
+23	ராகுல்	unk
+24	காந்தி	unk
+25	குற்றம்	unk
+26	சாட்டினார்	unk
+27	.	unk
+</Sentence>
+<Sentence id="137">
+1	டெல்லியில்	unk
+2	நடைபெற்ற	unk
+3	பொதுக்கூட்டத்தில்	unk
+4	நேற்று	unk
+5	பேசிய	unk
+6	ராகுல்	unk
+7	காந்தி	unk
+8	,	unk
+9	இந்தியாவுக்காக	unk
+10	,	unk
+11	ஜம்மு	unk
+12	-	unk
+13	காஷ்மீரில்	unk
+14	அதிரடி	unk
+15	தாக்குதல்	unk
+16	நடத்திய	unk
+17	இந்திய	unk
+18	ராணுவ	unk
+19	வீரர்களின்	unk
+20	ரத்தத்துக்குப்	unk
+21	பின்னால்	unk
+22	நீங்கள்	unk
+23	(	unk
+24	பிரதமர்	unk
+25	மோடி	unk
+26	)	unk
+27	மறைந்து	unk
+28	கொண்டிருக்கிறீர்கள்	unk
+29	.	unk
+</Sentence>
+<Sentence id="138">
+1	அவர்களின்	unk
+2	தியாகத்தை	unk
+3	உங்களது	unk
+4	சுயநலத்துக்காகப்	unk
+5	பயன்படுத்திக்	unk
+6	கொள்கிறீர்கள்	unk
+7	.	unk
+</Sentence>
+<Sentence id="139">
+1	இது	unk
+2	தவறானது	unk
+</Sentence>
+<Sentence id="140">
+1	ஜெ	unk
+2	,	unk
+3	நலம்	unk
+4	குறித்து	unk
+5	விசாரித்தார்	unk
+6	ராகுல்	unk
+7	.	unk
+</Sentence>
+<Sentence id="141">
+1	துணை	unk
+2	தலைவர்	unk
+3	ராகுல்	unk
+4	இன்று	unk
+5	சென்னை	unk
+6	வந்தார்	unk
+7	.	unk
+</Sentence>
+<Sentence id="142">
+1	முதல்வர்	unk
+2	ஜெ	unk
+3	,	unk
+4	கடந்த	unk
+5	22	unk
+6	ம்	unk
+7	தேதி	unk
+8	முதல்	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனையில்	unk
+11	அனுமதிக்கப்பட்டார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="143">
+1	தொடர்ந்து	unk
+2	அவரது	unk
+3	உடல்	unk
+4	நலம்	unk
+5	தேறி	unk
+6	வருவதாகவும்	unk
+7	,	unk
+8	இன்னும்	unk
+9	சில	unk
+10	நாட்கள்	unk
+11	அவர்	unk
+12	மருத்துவமனையில்	unk
+13	தங்கி	unk
+14	இருந்து	unk
+15	சிகிச்சை	unk
+16	பெற	unk
+17	வேண்டும்	unk
+18	என்றும்	unk
+19	டாக்டர்கள்	unk
+20	குழுவினர்	unk
+21	அறிவுறுத்தியுள்ளனர்	unk
+22	.	unk
+</Sentence>
+<Sentence id="144">
+1	தமிழக	unk
+2	முதல்வர்	unk
+3	ஜெ	unk
+4	,	unk
+5	வை	unk
+6	கவர்னர்	unk
+7	முதல்	unk
+8	பல்வேறு	unk
+9	முக்கிய	unk
+10	அரசியல்	unk
+11	பிரமுகர்கள்	unk
+12	சந்திக்க	unk
+13	அப்பல்லோ	unk
+14	வந்த	unk
+15	வண்ணம்	unk
+16	உள்ளனர்	unk
+17	.	unk
+</Sentence>
+<Sentence id="145">
+1	ஆனால்	unk
+2	யாருக்கும்	unk
+3	ஜெ	unk
+4	,	unk
+5	வை	unk
+6	நேரில்	unk
+7	சந்திக்க	unk
+8	வாய்ப்பு	unk
+9	அளிக்கப்பட்டடதாக	unk
+10	எவ்வித	unk
+11	உறுதியான	unk
+12	தகவலும்	unk
+13	இல்லை	unk
+14	.	unk
+</Sentence>
+<Sentence id="146">
+1	இந்நிலையில்	unk
+2	ராகுல்	unk
+3	சமீபத்தில்	unk
+4	ஜெ	unk
+5	,	unk
+6	விரைந்து	unk
+7	குணமடைய	unk
+8	இறைவனை	unk
+9	பிரார்த்திப்பதாக	unk
+10	தனது	unk
+11	டுவிட்டரில்	unk
+12	கூறியிருந்தார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="147">
+1	இதனை	unk
+2	தொடர்ந்து	unk
+3	ராகுல்	unk
+4	இன்று	unk
+5	(	unk
+6	7	unk
+7	ம்	unk
+8	தேதி	unk
+9	)	unk
+10	,	unk
+11	சென்னைக்கு	unk
+12	சிறப்பு	unk
+13	விமானத்தில்	unk
+14	வந்தார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="148">
+1	விமான	unk
+2	நிலையத்தில்	unk
+3	இருந்து	unk
+4	கார்	unk
+5	மூலம்	unk
+6	அவர்	unk
+7	அப்பல்லோ	unk
+8	மருத்துவமனை	unk
+9	சென்றார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="149">
+1	ஜெ	unk
+2	,	unk
+3	நலம்	unk
+4	குறித்து	unk
+5	டாக்டர்கள்	unk
+6	குழுவினரிடம்	unk
+7	கேட்டறிந்தார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="150">
+1	ராகுல்	unk
+2	பேட்டி	unk
+3	:	unk
+4	முதல்வர்	unk
+5	ஜெ	unk
+6	,	unk
+7	உடல்நிலை	unk
+8	குறித்து	unk
+9	கேட்டறிய	unk
+10	டில்லியில்	unk
+11	இருந்து	unk
+12	காங்	unk
+13	,	unk
+14	தலைவர்	unk
+15	சோனியா	unk
+16	மற்றும்	unk
+17	காங்கிரஸ்	unk
+18	கட்சி	unk
+19	தரப்பில்	unk
+20	மரியாதை	unk
+21	நிமித்தமாக	unk
+</Sentence>
+<Sentence id="151">
+1	எனது	unk
+2	மற்றும்	unk
+3	சோனியாவின்	unk
+4	ஆதரவை	unk
+5	தெரிவிக்க	unk
+6	வந்தேன்	unk
+7	.	unk
+</Sentence>
+<Sentence id="152">
+1	அவரது	unk
+2	உடல்	unk
+3	நிலையில்	unk
+4	முன்னேற்றம்	unk
+5	ஏற்பட்டுள்ளதாக	unk
+6	டாக்டர்கள்	unk
+7	தெரிவித்தனர்	unk
+8	.	unk
+</Sentence>
+<Sentence id="153">
+1	ஜெ	unk
+2	,	unk
+3	சக்தி	unk
+4	பெற	unk
+5	வேண்டும்	unk
+6	,	unk
+7	அவர்	unk
+8	விரைவில்	unk
+9	நலம்	unk
+10	பெறுவார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="154">
+1	இவ்வாறு	unk
+2	ராகுல்	unk
+3	தெரிவித்தார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="155">
+1	ராஜ்யசபா	unk
+2	எம்.பி	unk
+3	,	unk
+4	யாக	unk
+5	இல.கணேசன்	unk
+6	தேர்வு	unk
+7	.	unk
+</Sentence>
+<Sentence id="156">
+1	போபால்	unk
+2	:	unk
+3	மத்திய	unk
+4	பிரதேச	unk
+5	மாநிலத்திலிருந்து	unk
+6	ராஜ்யசபா	unk
+7	,	unk
+8	எம்.பி	unk
+9	,	unk
+10	யாக	unk
+11	தேர்வு	unk
+12	செய்யப்பட்ட	unk
+13	,	unk
+14	முன்னாள்	unk
+15	மத்திய	unk
+16	அமைச்சர்	unk
+17	நஜ்மா	unk
+18	ஹெப்துல்லா	unk
+19	,	unk
+20	மணிப்பூர்	unk
+21	கவர்னராக	unk
+22	நியமிக்கப்பட்டார்	unk
+23	.	unk
+</Sentence>
+<Sentence id="157">
+1	இதையடுத்து	unk
+2	,	unk
+3	அவர்	unk
+4	,	unk
+5	தன்	unk
+6	,	unk
+7	எம்.பி	unk
+8	,	unk
+9	பதவியை	unk
+10	ராஜினாமா	unk
+11	செய்தார்	unk
+12	;	unk
+13	இதனால்	unk
+14	,	unk
+15	அந்த	unk
+16	இடம்	unk
+17	காலியானது	unk
+18	.	unk
+</Sentence>
+<Sentence id="158">
+1	அந்த	unk
+2	இடத்துக்கு	unk
+3	அக்டோபர்	unk
+4	,	unk
+5	17ல்	unk
+6	தேர்தல்	unk
+7	நடக்கும்	unk
+8	என	unk
+9	,	unk
+10	அறிவிக்கப்பட்டது	unk
+11	.	unk
+</Sentence>
+<Sentence id="159">
+1	இந்நிலையில்	unk
+2	,	unk
+3	பா.ஜ	unk
+4	,	unk
+5	மேலிடம்	unk
+6	,	unk
+7	தமிழகத்தை	unk
+8	சேர்ந்த	unk
+9	,	unk
+10	இல.கணேசனை	unk
+11	வேட்பாளராக	unk
+12	அறிவித்தது	unk
+13	.	unk
+</Sentence>
+<Sentence id="160">
+1	அவர்	unk
+2	,	unk
+3	போபால்	unk
+4	சென்று	unk
+5	வேட்புமனு	unk
+6	தாக்கல்	unk
+7	செய்தார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="161">
+1	மனு	unk
+2	தாக்கலுக்கு	unk
+3	கடைசி	unk
+4	நாளான	unk
+5	நேற்று	unk
+6	,	unk
+7	அவரை	unk
+8	எதிர்த்து	unk
+9	,	unk
+10	வேறு	unk
+11	யாரும்	unk
+12	வேட்பு	unk
+13	மனு	unk
+14	தாக்கல்	unk
+15	செய்யவில்லை	unk
+16	.	unk
+</Sentence>
+<Sentence id="162">
+1	இதையடுத்து	unk
+2	,	unk
+3	அவர்	unk
+4	போட்டியின்றி	unk
+5	தேர்வானதாக	unk
+6	அறிவிக்கப்பட்டார்	unk
+7	;	unk
+8	2018	unk
+9	ஏப்ரல்	unk
+10	வரை	unk
+11	,	unk
+12	அவர்	unk
+13	,	unk
+14	இந்த	unk
+15	பதவியில்	unk
+16	நீடிப்பார்	unk
+</Sentence>
+<Sentence id="163">
+1	'	unk
+2	நான்	unk
+3	நம்புகிறேன்	unk
+4	;	unk
+5	நீங்களும்	unk
+6	நம்புங்கள்	unk
+7	!	unk
+8	'	unk
+9	சென்னை	unk
+10	:	unk
+11	முதல்வர்	unk
+12	உடல்நிலை	unk
+13	குறித்து	unk
+14	விசாரிக்க	unk
+15	,	unk
+16	இந்திய	unk
+17	கம்யூ	unk
+18	,	unk
+19	முன்னாள்	unk
+20	மாநில	unk
+21	செயலர்	unk
+22	தா.பாண்டியன்	unk
+23	,	unk
+24	சென்னை	unk
+25	,	unk
+26	அப்பல்லோ	unk
+27	மருத்துவமனைக்கு	unk
+28	நேற்று	unk
+29	சென்றிருந்தார்	unk
+30	.	unk
+</Sentence>
+<Sentence id="164">
+1	வெளியே	unk
+2	வந்ததும்	unk
+3	,	unk
+4	அவர்	unk
+5	கூறியதாவது	unk
+6	:	unk
+7	முதல்வர்	unk
+8	ஜெயலலிதா	unk
+9	குணமடைந்துள்ளார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="165">
+1	எனினும்	unk
+2	,	unk
+3	அவர்	unk
+4	மிகுந்த	unk
+5	பாதுகாப்புடன்	unk
+6	,	unk
+7	சில	unk
+8	நாட்கள்	unk
+9	,	unk
+10	தங்கள்	unk
+11	கண்காணிப்பில்	unk
+12	இருக்க	unk
+13	வேண்டும்	unk
+14	என	unk
+15	,	unk
+16	மருத்துவர்கள்	unk
+17	கருதுகின்றனர்	unk
+18	;	unk
+19	அவர்கள்	unk
+20	கூறுவதை	unk
+</Sentence>
+<Sentence id="166">
+1	முதல்வரை	unk
+2	நாங்கள்	unk
+3	பார்க்கவில்லை	unk
+4	;	unk
+5	அவரை	unk
+6	பார்த்தவரை	unk
+7	,	unk
+8	நாங்கள்	unk
+9	பார்த்தோம்	unk
+10	.	unk
+</Sentence>
+<Sentence id="167">
+1	பார்த்தவர்	unk
+2	,	unk
+3	நமக்கும்	unk
+4	நம்பிக்கைக்கு	unk
+5	உரியவர்	unk
+6	;	unk
+7	சிகிச்சை	unk
+8	பெற்று	unk
+9	வருபவருக்கும்	unk
+10	நம்பிக்கைக்கு	unk
+11	உரியவர்	unk
+12	.	unk
+</Sentence>
+<Sentence id="168">
+1	அவர்	unk
+2	ஆரோக்கியமாக	unk
+3	இருக்கிறார்	unk
+4	என	unk
+5	,	unk
+6	அறிந்தவர்கள்	unk
+7	கூறினர்	unk
+8	.	unk
+</Sentence>
+<Sentence id="169">
+1	மிகுந்த	unk
+2	நம்பிக்கையுடன்	unk
+3	டாக்டர்கள்	unk
+4	கூறுகின்றனர்	unk
+5	.	unk
+</Sentence>
+<Sentence id="170">
+1	அதை	unk
+2	நான்	unk
+3	நம்புகிறேன்	unk
+4	;	unk
+5	நீங்களும்	unk
+6	நம்ப	unk
+7	வேண்டும்	unk
+8	.	unk
+</Sentence>
+<Sentence id="171">
+1	இவ்வாறு	unk
+2	தா.பாண்டியன்	unk
+3	கூறினார்	unk
+</Sentence>
+<Sentence id="172">
+1	திருவாரூரில்	unk
+2	இன்று	unk
+3	மத்திய	unk
+4	அரசை	unk
+5	கண்டித்து	unk
+6	வைகோ	unk
+7	ஆர்ப்பாட்டம்	unk
+8	.	unk
+</Sentence>
+<Sentence id="173">
+1	தமிழகத்துக்கு	unk
+2	காவிரிநீரை	unk
+3	வழங்க	unk
+4	கர்நாடகா	unk
+5	அரசு	unk
+6	மறுத்துவரும்	unk
+7	நிலையில்	unk
+8	சுப்ரீம்	unk
+9	கோர்ட்டு	unk
+10	காவிரி	unk
+11	மேலாண்மை	unk
+12	வாரியம்	unk
+13	அமைக்க	unk
+14	உத்தரவிட்டது	unk
+15	.	unk
+</Sentence>
+<Sentence id="174">
+1	ஆனால்	unk
+2	அதனை	unk
+3	ஏற்க	unk
+4	மத்திய	unk
+5	அரசு	unk
+6	மறுத்துவிட்டது	unk
+7	.	unk
+</Sentence>
+<Sentence id="175">
+1	இதனால்	unk
+2	டெல்டா	unk
+3	விவசாயிகளுக்கு	unk
+4	காவிரிநீர்	unk
+5	கிடைப்பது	unk
+6	தொடர்ந்து	unk
+7	கேள்விக்குறியாக	unk
+8	உள்ளது	unk
+9	.	unk
+</Sentence>
+<Sentence id="176">
+1	இந்தநிலையில்	unk
+2	காவிரி	unk
+3	மேலாண்மை	unk
+4	வாரியம்	unk
+5	அமைக்க	unk
+6	மறுக்கும்	unk
+7	மத்திய	unk
+8	அரசை	unk
+9	கண்டித்து	unk
+10	மக்கள்	unk
+11	நலக்கூட்டணி	unk
+12	சார்பில்	unk
+13	திருவாரூரில்	unk
+14	இன்று	unk
+15	ஆர்ப்பாட்டம்	unk
+16	நடைபெறும்	unk
+17	என்று	unk
+18	அறிவிக்கப்பட்டு	unk
+19	இருந்தது	unk
+20	.	unk
+</Sentence>
+<Sentence id="177">
+1	அதன்படி	unk
+2	திருவாரூர்	unk
+3	தெற்குவீதியில்	unk
+4	மக்கள்	unk
+5	நல	unk
+6	கூட்டணி	unk
+7	சார்பில்	unk
+8	வைகோ	unk
+9	தலைமையில்	unk
+10	இன்று	unk
+11	ஆர்ப்பாட்டம்	unk
+12	நடைபெற்றது	unk
+13	.	unk
+</Sentence>
+<Sentence id="178">
+1	இதில்	unk
+2	இ.கம்யூனிஸ்டு	unk
+3	மாநில	unk
+4	செயலாளர்	unk
+5	முத்தரசன்	unk
+6	,	unk
+7	உள்பட	unk
+8	கட்சி	unk
+9	நிர்வாகிகள்	unk
+10	மற்றும்	unk
+11	கட்சி	unk
+12	தொண்டர்கள்	unk
+13	திரளாக	unk
+14	கலந்து	unk
+15	கொண்டனர்	unk
+16	.	unk
+</Sentence>
+<Sentence id="179">
+1	அவர்கள்	unk
+2	காவிரி	unk
+3	மேலாண்மை	unk
+4	வாரியம்	unk
+5	அமைக்க	unk
+6	கோரியும்	unk
+7	,	unk
+8	மத்திய	unk
+9	அரசை	unk
+10	கண்டித்தும்	unk
+11	கோ‌ஷம்	unk
+12	எழுப்பினர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="180">
+1	இந்த	unk
+2	ஆர்ப்பாட்டத்தில்	unk
+3	தஞ்சை	unk
+4	,	unk
+5	திருவாரூர்	unk
+6	,	unk
+7	நாகை	unk
+8	மாவட்டங்களில்	unk
+9	இருந்து	unk
+10	ஆயிரக்கணக்கானோர்	unk
+11	கலந்துகொண்டனர்	unk
+12	.	unk
+</Sentence>
+<Sentence id="181">
+1	இந்த	unk
+2	ஆர்ப்பாட்டத்தையொட்டி	unk
+3	பாதுகாப்புக்காக	unk
+4	ஏராளமான	unk
+5	போலீசார்	unk
+6	குவிக்கப்பட்டு	unk
+7	இருந்தனர்	unk
+8	.	unk
+</Sentence>
+<Sentence id="182">
+1	முன்னதாக	unk
+2	வைகோ	unk
+3	நிருபர்களுக்கு	unk
+4	பேட்டி	unk
+5	அளித்தார்	unk
+6	.	unk
+</Sentence>
+<Sentence id="183">
+1	அப்போது	unk
+2	அவர்	unk
+3	கூறியதாவது	unk
+4	:	unk
+5	-	unk
+6	1990-ம்	unk
+7	ஆண்டு	unk
+8	உச்சநீதிமன்றத்தின்	unk
+9	உத்தரவுபடி	unk
+10	காவிரி	unk
+11	நடுவர்	unk
+12	நீதிமன்றம்	unk
+13	அமைக்கப்பட்டது	unk
+14	.	unk
+</Sentence>
+<Sentence id="184">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியம்	unk
+4	அமைக்க	unk
+5	தி.மு.க	unk
+6	,	unk
+7	காங்கிரஸ்	unk
+8	கட்சிகள்	unk
+9	அலட்சியம்	unk
+10	காட்டியதால்	unk
+11	இன்று	unk
+12	வரை	unk
+13	காவிரி	unk
+14	மேலாண்மை	unk
+15	வாரியம்	unk
+16	அமைக்கப்படவில்லை	unk
+17	.	unk
+</Sentence>
+<Sentence id="185">
+1	தற்போது	unk
+2	மத்திய	unk
+3	அரசும்	unk
+4	காவிரி	unk
+5	மேலாண்மை	unk
+6	வாரியம்	unk
+7	அமைக்க	unk
+8	மறுப்பு	unk
+9	தெரிவித்துள்ளது	unk
+10	.	unk
+</Sentence>
+<Sentence id="186">
+1	கர்நாடகாவில்	unk
+2	பா.ஜனதா	unk
+3	ஆட்சி	unk
+4	அமையவேண்டும்	unk
+5	என்ற	unk
+6	ஆசையில்	unk
+7	பா.ஜனதா	unk
+8	தமிழகத்திற்கு	unk
+9	ஆதரவு	unk
+10	தெரிவிக்காமல்	unk
+11	இருந்து	unk
+12	வருகிறது	unk
+13	.	unk
+</Sentence>
+<Sentence id="187">
+1	மேலும்	unk
+2	காவிரியின்	unk
+3	குறுக்கே	unk
+4	கர்நாடக	unk
+5	அரசு	unk
+6	தடுப்பணைகள்	unk
+7	கட்ட	unk
+8	ரூ.1400	unk
+9	கோடி	unk
+10	நிதி	unk
+11	ஒதுக்கி	unk
+12	உள்ளது	unk
+13	.	unk
+</Sentence>
+<Sentence id="188">
+1	இந்த	unk
+2	அணைகள்	unk
+3	கட்டப்பட்டால்	unk
+4	தமிழகத்திற்கு	unk
+5	காவிரி	unk
+6	நீர்	unk
+7	வராது	unk
+8	.	unk
+</Sentence>
+<Sentence id="189">
+1	தமிழகம்	unk
+2	பாலைவனமாகும்	unk
+3	.	unk
+</Sentence>
+<Sentence id="190">
+1	காவிரி	unk
+2	நீர்	unk
+3	பிரச்சினை	unk
+4	காரணமாக	unk
+5	தமிழகத்தில்	unk
+6	7½	unk
+7	கோடி	unk
+8	மக்கள்	unk
+9	பாதிக்கப்பட்டுள்ளனர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="191">
+1	இதனை	unk
+2	கருத்தில்	unk
+3	கொண்டு	unk
+4	மக்கள்	unk
+5	நல	unk
+6	கூட்டணி	unk
+7	சார்பில்	unk
+8	திருவாரூரில்	unk
+9	இன்று	unk
+10	ஆர்ப்பாட்டம்	unk
+11	நடத்துகிறோம்	unk
+12	.	unk
+</Sentence>
+<Sentence id="192">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	கூறினார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="193">
+1	முதல்	unk
+2	முறையாக	unk
+3	இங்கிலாந்தில்	unk
+4	பகல்	unk
+5	-	unk
+6	இரவு	unk
+7	டெஸ்ட்	unk
+8	:	unk
+9	வெஸ்டிண்டீசுடன்	unk
+10	மோதல்	unk
+11	.	unk
+</Sentence>
+<Sentence id="194">
+1	நாட்கள்	unk
+2	நடைபெறும்	unk
+3	டெஸ்ட்	unk
+4	கிரிக்கெட்	unk
+5	போட்டியை	unk
+6	கானும்	unk
+7	ரசிகர்களின்	unk
+8	எண்ணிக்கை	unk
+9	குறைவானதை	unk
+10	தொடர்ந்து	unk
+11	பகல்	unk
+12	-	unk
+13	இரவு	unk
+14	டெஸ்ட்	unk
+15	அறிமுகம்	unk
+16	செய்யப்பட்டது	unk
+17	.	unk
+</Sentence>
+<Sentence id="195">
+1	ஆஸ்திரேலியா	unk
+2	முதல்	unk
+3	முறையாக	unk
+4	பகல்	unk
+5	-	unk
+6	இரவு	unk
+7	டெஸ்டை	unk
+8	அறிமுகம்	unk
+9	செய்தது	unk
+10	.	unk
+</Sentence>
+<Sentence id="196">
+1	கடந்த	unk
+2	ஆண்டு	unk
+3	நவம்பர்	unk
+4	மாதம்	unk
+5	ஆஸ்திரேலியா-	unk
+6	நியூசிலாந்து	unk
+7	அணிகள்	unk
+8	மோதிய	unk
+9	பகல்	unk
+10	-	unk
+11	இரவு	unk
+12	டெஸ்ட்	unk
+13	அடிலெய்ட்டில்	unk
+14	நடந்தது	unk
+15	.	unk
+</Sentence>
+<Sentence id="197">
+1	இதில்	unk
+2	ஆஸ்திரேலியா	unk
+3	3	unk
+4	விக்கெட்	unk
+5	வித்தியாசத்தில்	unk
+6	வெற்றி	unk
+7	பெற்றது	unk
+8	.	unk
+</Sentence>
+<Sentence id="198">
+1	2-வது	unk
+2	பகல்	unk
+3	-	unk
+4	இரவு	unk
+5	டெஸ்ட்	unk
+6	அடுத்த	unk
+7	வாரம்	unk
+8	நடத்தப்படுகிறது	unk
+9	.	unk
+</Sentence>
+<Sentence id="199">
+1	இதில்	unk
+2	பாகிஸ்தான்	unk
+3	-	unk
+4	வெஸ்ட்	unk
+5	இண்டீஸ்	unk
+6	அணிகள்	unk
+7	மோதுகின்றன	unk
+8	.	unk
+</Sentence>
+<Sentence id="200">
+1	13-ந்தேதி	unk
+2	முதல்	unk
+3	17-ந்தேதி	unk
+4	வரை	unk
+5	இந்த	unk
+6	பகல்	unk
+7	-	unk
+8	இரவு	unk
+9	டெஸ்ட்	unk
+10	துபாயில்	unk
+11	நடக்கிறது	unk
+12	.	unk
+</Sentence>
+<Sentence id="201">
+1	இந்த	unk
+2	நிலையில்	unk
+3	இங்கிலாந்தில்	unk
+4	முதல்	unk
+5	முறையாக	unk
+6	பகல்	unk
+7	-	unk
+8	இரவு	unk
+9	டெஸ்ட்	unk
+10	நடத்தப்படுகிறது	unk
+11	.	unk
+</Sentence>
+<Sentence id="202">
+1	அடுத்த	unk
+2	ஆண்டு	unk
+3	(	unk
+4	2017	unk
+5	)	unk
+6	ஆகஸ்ட்	unk
+7	மாதம்	unk
+8	17-ந்தேதி	unk
+9	முதல்	unk
+10	21-ந்தேதி	unk
+11	வரை	unk
+12	எட்ஜ்பஸ்டனில்	unk
+13	பகல்	unk
+14	-	unk
+15	இரவு	unk
+16	டெஸ்ட்	unk
+17	நடக்கிறது	unk
+18	.	unk
+</Sentence>
+<Sentence id="203">
+1	இதை	unk
+2	இங்கிலாந்து	unk
+3	கிரிக்கெட்	unk
+4	வாரியம்	unk
+5	அறிவித்து	unk
+6	உள்ளது	unk
+7	.	unk
+</Sentence>
+<Sentence id="204">
+1	இந்த	unk
+2	பகல்	unk
+3	-	unk
+4	இரவு	unk
+5	டெஸ்டில்	unk
+6	இங்கிலாந்து	unk
+7	அணி	unk
+8	வெஸ்டிண்டீசுடன்	unk
+9	மோதுகிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="205">
+1	வெஸ்டிண்டீஸ்	unk
+2	அணி	unk
+3	அடுத்த	unk
+4	ஆண்டு	unk
+5	ஆகஸ்ட்	unk
+6	மாதம்	unk
+7	இங்கிலாந்து	unk
+8	சுற்றுப்பயணம்	unk
+9	செய்து	unk
+10	விளையாடுகிறது	unk
+11	.	unk
+</Sentence>
+<Sentence id="206">
+1	இதன்	unk
+2	முதல்	unk
+3	டெஸ்ட்	unk
+4	பகல்	unk
+5	-	unk
+6	இரவாக	unk
+7	நடத்தப்படுகிறது	unk
+8	.	unk
+</Sentence>
+<Sentence id="207">
+1	கடைசி	unk
+2	டெஸ்ட்டில்	unk
+3	காம்பீருக்கு	unk
+4	வாய்ப்பு	unk
+5	:	unk
+6	நாளை	unk
+7	இந்தியா	unk
+8	ஹாட்ரிக்	unk
+9	வெற்றி	unk
+10	பெறுமா	unk
+11	?	unk
+</Sentence>
+<Sentence id="208">
+1	நியூசிலாந்து	unk
+2	கிரிக்கெட்	unk
+3	அணி	unk
+4	இந்தியாவில்	unk
+5	சுற்றுப்	unk
+6	பயணம்	unk
+7	செய்து	unk
+8	விளையாடி	unk
+9	வருகிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="209">
+1	இரு	unk
+2	அணிகள்	unk
+3	இடையேயான	unk
+4	3	unk
+5	டெஸ்ட்	unk
+6	போட்டித்	unk
+7	தொடரில்	unk
+8	கான்பூர்	unk
+9	,	unk
+10	கொல்கத்தாவில்	unk
+11	நடந்த	unk
+12	முதல்	unk
+13	இரண்டு	unk
+14	டெஸ்டில்	unk
+15	இந்திய	unk
+16	அணி	unk
+17	வெற்றி	unk
+18	பெற்று	unk
+19	தொடரை	unk
+20	கைப்பற்றியது	unk
+21	.	unk
+</Sentence>
+<Sentence id="210">
+1	இந்தியா	unk
+2	-	unk
+3	நியூசிலாந்து	unk
+4	அணிகள்	unk
+5	மோதும்	unk
+6	3-வது	unk
+7	மற்றும்	unk
+8	கடைசி	unk
+9	டெஸ்ட்	unk
+10	போட்டி	unk
+11	மத்திய	unk
+12	பிரதேசத்தில்	unk
+13	உள்ள	unk
+14	இந்தூரில்	unk
+15	நாளை	unk
+16	(	unk
+17	8-ந்தேதி	unk
+18	)	unk
+19	தொடங்குகிறது	unk
+20	.	unk
+</Sentence>
+<Sentence id="211">
+1	இந்த	unk
+2	டெஸ்டிலும்	unk
+3	நியூசிலாந்தை	unk
+4	வீழ்த்தி	unk
+5	‘	unk
+6	ஹாட்ரிக்	unk
+7	’	unk
+8	வெற்றியை	unk
+9	பெறும்	unk
+10	ஆர்வத்தில்	unk
+11	விராட்	unk
+12	கோலி	unk
+13	தலைமையிலான	unk
+14	இந்திய	unk
+15	அணி	unk
+16	இருக்கிறது	unk
+17	.	unk
+</Sentence>
+<Sentence id="212">
+1	பேட்டிங்	unk
+2	மற்றும்	unk
+3	பந்துவீச்சில்	unk
+4	சமபலத்துடன்	unk
+5	இருக்கும்	unk
+6	இந்திய	unk
+7	அணி	unk
+8	ஒயிட்வாஷ்	unk
+9	செய்யும்	unk
+10	நோக்கிலும்	unk
+11	உள்ளது	unk
+12	.	unk
+</Sentence>
+<Sentence id="213">
+1	தவான்	unk
+2	காயம்	unk
+3	அடைந்து	unk
+4	விலகியதால்	unk
+5	முரளி	unk
+6	விஜய்யுடன்	unk
+7	காம்பீர்	unk
+8	தொடக்க	unk
+9	வீரராக	unk
+10	விளையாடுவார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="214">
+1	2	unk
+2	ஆண்டு	unk
+3	இடைவேளைக்கு	unk
+4	பிறகு	unk
+5	அவர்	unk
+6	இந்திய	unk
+7	அணியில்	unk
+8	விளையாடும்	unk
+9	வாய்ப்பை	unk
+10	பெறுகிறார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="215">
+1	பேட்டிங்கில்	unk
+2	புஜாரா	unk
+3	(	unk
+4	231	unk
+5	ரன்	unk
+6	)	unk
+7	,	unk
+8	ரோகித்	unk
+9	சர்மா	unk
+10	(	unk
+11	187	unk
+12	ரன்	unk
+13	)	unk
+14	,	unk
+15	முரளி	unk
+16	விஜய்	unk
+17	(	unk
+18	157	unk
+19	ரன்	unk
+20	)	unk
+21	ஆகியோரும்	unk
+22	,	unk
+23	பந்துவீச்சில்	unk
+24	அஸ்வின்	unk
+25	(	unk
+26	14	unk
+27	விக்கெட்	unk
+28	)	unk
+29	,	unk
+30	ரவிந்திர	unk
+31	ஜடேஜா	unk
+32	(	unk
+33	10	unk
+34	விக்கெட்	unk
+35	)	unk
+36	,	unk
+37	முகமது	unk
+38	‌ஷமி	unk
+39	(	unk
+40	8	unk
+41	விக்கெட்	unk
+42	)	unk
+43	ஆகியோரும்	unk
+44	நல்ல	unk
+45	நிலையில்	unk
+46	உள்ளனர்	unk
+47	.	unk
+</Sentence>
+<Sentence id="216">
+1	புவனேஸ்வர்குமார்	unk
+2	காயம்	unk
+3	அடைந்து	unk
+4	ஆடாததால்	unk
+5	அவர்	unk
+6	இடத்தில்	unk
+7	உமேஷ்	unk
+8	யாதவ்	unk
+9	இடம்	unk
+10	பெறலாம்	unk
+11	.	unk
+</Sentence>
+<Sentence id="217">
+1	ஒரு	unk
+2	வேளை	unk
+3	அவருக்கு	unk
+4	வாய்ப்பு	unk
+5	கொடுக்கப்படாவிட்டால்	unk
+6	புதுமுக	unk
+7	வேகப்பந்து	unk
+8	வீரர்	unk
+9	‌ஷர்துல்	unk
+10	தாகூர்	unk
+11	தேர்வாகலாம்	unk
+12	.	unk
+</Sentence>
+<Sentence id="218">
+1	நியூசிலாந்து	unk
+2	கேப்டன்	unk
+3	வில்லியம்சன்	unk
+4	காய்ச்சல்	unk
+5	காரணமாக	unk
+6	கொல்கத்தா	unk
+7	டெஸ்டில்	unk
+8	விளையாடவில்லை	unk
+9	.	unk
+</Sentence>
+<Sentence id="219">
+1	அதில்	unk
+2	இருந்து	unk
+3	குணமடைந்ததால்	unk
+4	அவர்	unk
+5	நாளைய	unk
+6	டெஸ்டில்	unk
+7	விளையாடுவார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="220">
+1	ஏற்கனவே	unk
+2	தொடரை	unk
+3	இழந்த	unk
+4	நியூசிலாந்து	unk
+5	அணி	unk
+6	இந்த	unk
+7	டெஸ்டிலாவது	unk
+8	வென்று	unk
+9	ஆறுதல்	unk
+10	அடைய	unk
+11	வேண்டும்	unk
+12	என்ற	unk
+13	வேட்கையில்	unk
+14	உள்ளது	unk
+15	.	unk
+</Sentence>
+<Sentence id="221">
+1	குறைந்தபட்சம்	unk
+2	அந்த	unk
+3	அணி	unk
+4	‘	unk
+5	டிரா	unk
+6	’	unk
+7	செய்யவாவது	unk
+8	போராடும்	unk
+9	.	unk
+</Sentence>
+<Sentence id="222">
+1	அந்த	unk
+2	அணியில்	unk
+3	பேட்டிங்கில்	unk
+4	ரோஞ்சி	unk
+5	(	unk
+6	185	unk
+7	ரன்	unk
+8	)	unk
+9	,	unk
+10	டாம்	unk
+11	லாதம்	unk
+12	(	unk
+13	135	unk
+14	ரன்	unk
+15	)	unk
+16	,	unk
+17	பந்துவீச்சில்	unk
+18	சான்ட்னெர்	unk
+19	(	unk
+20	9	unk
+21	விக்கெட்	unk
+22	)	unk
+23	,	unk
+24	போல்ட்	unk
+25	(	unk
+26	8	unk
+27	விக்கெட்	unk
+28	)	unk
+29	ஆகியோர்	unk
+30	நல்ல	unk
+31	நிலையில்	unk
+32	உள்ளனர்	unk
+33	.	unk
+</Sentence>
+<Sentence id="223">
+1	காலை	unk
+2	9.30	unk
+3	மணிக்கு	unk
+4	தொடங்கும்	unk
+5	இந்த	unk
+6	டெஸ்ட்	unk
+7	போட்டி	unk
+8	ஸ்டார்	unk
+9	ஸ்போர்ட்ஸ்	unk
+10	டெலிவிசனில்	unk
+11	நேரடியாக	unk
+12	ஒளிபரப்பு	unk
+13	செய்யப்படுகிறது	unk
+14	.	unk
+</Sentence>
+<Sentence id="224">
+1	தமிழ்நாட்டில்	unk
+2	ஜனாதிபதி	unk
+3	ஆட்சியை	unk
+4	அமல்படுத்து	unk
+5	பற்றி	unk
+6	மத்திய	unk
+7	அரசு	unk
+8	பரிசீலிக்க	unk
+9	வேண்டும்	unk
+10	:	unk
+11	சுப்ரமணியன்	unk
+12	சுவாமி	unk
+13	.	unk
+</Sentence>
+<Sentence id="225">
+1	காய்ச்சல்	unk
+2	மற்றும்	unk
+3	நீர்ச்சத்து	unk
+4	குறைபாடு	unk
+5	காரணமாக	unk
+6	,	unk
+7	தமிழக	unk
+8	முதல்–அமைச்சர்	unk
+9	ஜெயலலிதாவுக்கு	unk
+10	கடந்த	unk
+11	மாதம்	unk
+12	(	unk
+13	செப்டம்பர்	unk
+14	)	unk
+15	22–ந்தேதி	unk
+16	இரவு	unk
+17	திடீர்	unk
+18	உடல்நலக்குறைவு	unk
+19	ஏற்பட்டது	unk
+20	.	unk
+</Sentence>
+<Sentence id="226">
+1	உடனடியாக	unk
+2	,	unk
+3	அவர்	unk
+4	சென்னை	unk
+5	ஆயிரம்விளக்கு	unk
+6	கிரீம்ஸ்	unk
+7	சாலையில்	unk
+8	உள்ள	unk
+9	அப்பல்லோ	unk
+10	ஆஸ்பத்திரியில்	unk
+11	சிகிச்சைக்காக	unk
+12	அனுமதிக்கப்பட்டார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="227">
+1	அவருக்கு	unk
+2	அங்கு	unk
+3	தீவிர	unk
+4	சிகிச்சை	unk
+5	அளிக்கப்பட்டு	unk
+6	வருகிறது	unk
+7	.	unk
+</Sentence>
+<Sentence id="228">
+1	முதல்	unk
+2	அமைச்சரின்	unk
+3	உடல்	unk
+4	நிலையில்	unk
+5	தொடர்ந்து	unk
+6	முன்னேற்றம்	unk
+7	ஏற்பட்டு	unk
+8	வருவதாகவும்	unk
+9	நீண்ட	unk
+10	நாட்கள்	unk
+11	அவர்	unk
+12	மருத்துவமனையில்	unk
+13	தங்கியிருந்து	unk
+14	சிகிச்சை	unk
+15	பெற	unk
+16	வேண்டும்	unk
+17	என்று	unk
+18	அப்பல்லோ	unk
+19	மருத்துவமனை	unk
+20	நேற்று	unk
+21	அறிக்கை	unk
+22	வெளியிட்டது	unk
+23	.	unk
+</Sentence>
+<Sentence id="229">
+1	இந்த	unk
+2	நிலையில்	unk
+3	,	unk
+4	தமிழ்நாட்டில்	unk
+5	ஜனாதிபதி	unk
+6	ஆட்சியை	unk
+7	அமல்படுத்துவது	unk
+8	பற்றி	unk
+9	மத்திய	unk
+10	பரிசீலிக்க	unk
+11	வேண்டும்	unk
+12	என்று	unk
+13	பாஜக	unk
+14	மூத்த	unk
+15	தலைவரும்	unk
+16	மாநிலங்களவை	unk
+17	உறுப்பினருமான	unk
+18	சுப்ரமணியன்	unk
+19	சுவாமி	unk
+20	தெரிவித்துள்ளார்	unk
+21	.	unk
+</Sentence>
+<Sentence id="230">
+1	இது	unk
+2	குறித்து	unk
+3	தனது	unk
+4	டுவிட்டர்	unk
+5	பக்கத்தில்	unk
+6	சுப்ரமணியன்	unk
+7	சுவாமி	unk
+8	கூறியிருப்பதாவது	unk
+9	:	unk
+10	-	unk
+11	“	unk
+12	தமிழ்நாட்டில்	unk
+13	6	unk
+14	மாதங்களுக்கு	unk
+15	ஜனாதிபதி	unk
+16	ஆட்சியை	unk
+17	அமல்படுத்துவது	unk
+18	குறித்து	unk
+19	மத்திய	unk
+20	அரசு	unk
+21	பரிசீலனை	unk
+22	செய்ய	unk
+23	வேண்டும்	unk
+24	.	unk
+</Sentence>
+<Sentence id="231">
+1	அப்போதுதான்	unk
+2	,	unk
+3	ஜெயலலிதாவால்	unk
+4	முழுமையாக	unk
+5	மருத்துவமனை	unk
+6	சிகிச்சைகளை	unk
+7	மேற்கொள்ள	unk
+8	முடியும்	unk
+9	.	unk
+</Sentence>
+<Sentence id="232">
+1	சட்டம்	unk
+2	ஒழுங்கின்	unk
+3	நிலை	unk
+4	மிகவும்	unk
+5	மோசமாக	unk
+6	உள்ளது	unk
+7	”	unk
+8	என்று	unk
+9	தெரிவித்துள்ளார்	unk
+</Sentence>
+<Sentence id="233">
+1	பாகிஸ்தான்	unk
+2	எல்லையை	unk
+3	சீல்	unk
+4	வைக்க	unk
+5	முடிவு	unk
+6	?	unk
+7	:	unk
+8	4	unk
+9	மாநில	unk
+10	முதல்	unk
+11	-	unk
+12	மந்திரிகளுடன்	unk
+13	ராஜ்நாத்சிங்	unk
+14	ஆலோசனை	unk
+15	.	unk
+</Sentence>
+<Sentence id="234">
+1	இந்திய	unk
+2	ராணுவம்	unk
+3	சமீபத்தில்	unk
+4	பாகிஸ்தானுக்குள்	unk
+5	புகுந்து	unk
+6	தீவிரவாதிகளின்	unk
+7	முகாம்களை	unk
+8	குண்டு	unk
+9	வீசி	unk
+10	அழித்தது	unk
+11	.	unk
+</Sentence>
+<Sentence id="235">
+1	இதனால்	unk
+2	ஆத்திரம்	unk
+3	அடைந்துள்ள	unk
+4	தீவிரவாதிகள்	unk
+5	இந்தியாவுக்குள்	unk
+6	புகுந்து	unk
+7	தாக்க	unk
+8	ஊடுருவும்	unk
+9	முயற்சிகளில்	unk
+10	ஈடுபட்டுள்ளனர்	unk
+11	.	unk
+</Sentence>
+<Sentence id="236">
+1	அவர்களுக்கு	unk
+2	இந்திய	unk
+3	ராணுவ	unk
+4	வீரர்கள்	unk
+5	தக்க	unk
+6	பதிலடி	unk
+7	கொடுத்து	unk
+8	வருகிறார்கள்	unk
+9	.	unk
+</Sentence>
+<Sentence id="237">
+1	இந்தியா	unk
+2	-	unk
+3	பாகிஸ்தான்	unk
+4	இடையே	unk
+5	2	unk
+6	ஆயிரத்து	unk
+7	289.66	unk
+8	கிலோ	unk
+9	மீட்டர்	unk
+10	தொலைவுக்கு	unk
+11	சர்வதேச	unk
+12	எல்லைப்	unk
+13	பகுதி	unk
+14	உள்ளது	unk
+15	.	unk
+</Sentence>
+<Sentence id="238">
+1	இந்த	unk
+2	எல்லையில்	unk
+3	2	unk
+4	ஆயிரத்து	unk
+5	34.96	unk
+6	கிலோ	unk
+7	மீட்டர்	unk
+8	தொலைவு	unk
+9	எல்லை	unk
+10	பகுதி	unk
+11	ராணுவ	unk
+12	வீரர்களால்	unk
+13	பாதுகாக்கப்பட்டு	unk
+14	வருகிறது	unk
+15	.	unk
+</Sentence>
+<Sentence id="239">
+1	இதில்	unk
+2	பெரும்	unk
+3	பகுதி	unk
+4	இரும்பு	unk
+5	கம்பி	unk
+6	வேலி	unk
+7	போட்டு	unk
+8	தடுக்கப்பட்டுள்ளது	unk
+9	.	unk
+</Sentence>
+<Sentence id="240">
+1	மீதமுள்ள	unk
+2	254.80	unk
+3	கிலோ	unk
+4	மீட்டர்	unk
+5	தொலைவு	unk
+6	எல்லைப்	unk
+7	பகுதிகளில்	unk
+8	ராணுவ	unk
+9	வீரர்கள்	unk
+10	இல்லை	unk
+11	.	unk
+</Sentence>
+<Sentence id="241">
+1	இரும்பு	unk
+2	கம்பி	unk
+3	முள்	unk
+4	வேலியும்	unk
+5	இல்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="242">
+1	இந்த	unk
+2	எல்லை	unk
+3	வழியாக	unk
+4	தீவிரவாதிகள்	unk
+5	ஊடுருவும்	unk
+6	வாய்ப்பு	unk
+7	அதிகரித்துள்ளது	unk
+8	.	unk
+</Sentence>
+<Sentence id="243">
+1	இதையடுத்து	unk
+2	இந்த	unk
+3	254	unk
+4	கிலோ	unk
+5	மீட்டர்	unk
+6	தொலைவு	unk
+7	எல்லைக்கு	unk
+8	ராணுவ	unk
+9	வீரர்களை	unk
+10	நிறுத்தியும்	unk
+11	,	unk
+12	முள்	unk
+13	கம்பிவேலி	unk
+14	அமைத்தும்	unk
+15	எல்லையை	unk
+16	முழுமையாக	unk
+17	“	unk
+18	சீல்	unk
+19	”	unk
+20	வைக்க	unk
+21	மத்திய	unk
+22	அரசு	unk
+23	முடிவு	unk
+24	செய்துள்ளது	unk
+25	.	unk
+</Sentence>
+<Sentence id="244">
+1	இதற்கான	unk
+2	நடவடிக்கைகள்	unk
+3	தொடங்கப்பட்டுள்ளன	unk
+4	.	unk
+</Sentence>
+<Sentence id="245">
+1	இது	unk
+2	தொடர்பாக	unk
+3	மத்திய	unk
+4	உள்துறை	unk
+5	மந்திரி	unk
+6	ராஜ்நாத்	unk
+7	சிங்	unk
+8	இன்றும்	unk
+9	,	unk
+10	நாளையும்	unk
+11	பஞ்சாப்	unk
+12	,	unk
+13	குஜராத்	unk
+14	,	unk
+15	ராஜஸ்தான்	unk
+16	,	unk
+17	காஷ்மீர்	unk
+18	மாநில	unk
+19	முதல்	unk
+20	-	unk
+21	மந்திரிகளுடன்	unk
+22	ஆலோசனை	unk
+23	நடத்த	unk
+24	உள்ளார்	unk
+25	.	unk
+</Sentence>
+<Sentence id="246">
+1	அப்போது	unk
+2	4	unk
+3	மாநிலங்களிலும்	unk
+4	எத்தனை	unk
+5	கிலோ	unk
+6	மீட்டர்	unk
+7	தொலைவுக்கு	unk
+8	எல்லையில்	unk
+9	பாதுகாப்பு	unk
+10	இல்லை	unk
+11	என்பது	unk
+12	ஆய்வு	unk
+13	செய்யப்படும்	unk
+14	.	unk
+</Sentence>
+<Sentence id="247">
+1	பாகிஸ்தானுடன்	unk
+2	பஞ்சாப்	unk
+3	553	unk
+4	கி.மீ	unk
+5	,	unk
+6	ராஜஸ்தான்	unk
+7	1037	unk
+8	கி.மீ	unk
+9	,	unk
+10	குஜராத்	unk
+11	508	unk
+12	கி.மீ	unk
+13	,	unk
+14	காஷ்மீர்	unk
+15	1225	unk
+16	கி.மீ.	unk
+17	தொலைவுக்கு	unk
+18	எல்லையை	unk
+19	கொண்டுள்ளது	unk
+20	.	unk
+</Sentence>
+<Sentence id="248">
+1	ராஜ்நாத்சிங்	unk
+2	நடத்தும்	unk
+3	ஆலோசனை	unk
+4	மூலம்	unk
+5	இந்தியா	unk
+6	-	unk
+7	பாகிஸ்தான்	unk
+8	எல்லை	unk
+9	முழுமையாக	unk
+10	ராணுவத்தின்	unk
+11	நேரடி	unk
+12	கண்காணிப்புக்கு	unk
+13	வர	unk
+14	உள்ளது	unk
+15	.	unk
+</Sentence>
+<Sentence id="249">
+1	தமிழக	unk
+2	மீனவர்கள்	unk
+3	பிரச்சினைக்கு	unk
+4	தீர்வு	unk
+5	காணவேண்டும்	unk
+6	:	unk
+7	இலங்கை	unk
+8	பிரதமர்	unk
+9	ரனில்	unk
+10	விக்ரமசிங்கே	unk
+11	பேட்டி	unk
+12	.	unk
+</Sentence>
+<Sentence id="250">
+1	டெல்லி	unk
+2	வந்த	unk
+3	இலங்கை	unk
+4	பிரதமர்	unk
+5	ரனில்	unk
+6	விக்ரமசிங்கே	unk
+7	நேற்று	unk
+8	முன்தினம்	unk
+9	பிரதமர்	unk
+10	நரேந்திர	unk
+11	மோடியை	unk
+12	சந்தித்து	unk
+13	பேசினார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="251">
+1	நேற்று	unk
+2	டெல்லியில்	unk
+3	நடைபெற்ற	unk
+4	இந்திய	unk
+5	பொருளாதார	unk
+6	உச்சி	unk
+7	மாநாட்டில்	unk
+8	அவர்	unk
+9	கலந்து	unk
+10	கொண்டார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="252">
+1	மாநாட்டில்	unk
+2	கலந்து	unk
+3	கொள்ள	unk
+4	வந்த	unk
+5	அவரிடம்	unk
+6	தமிழக	unk
+7	மீனவர்கள்	unk
+8	பிரச்சினை	unk
+9	குறித்தும்	unk
+10	,	unk
+11	அதுபற்றி	unk
+12	பிரதமர்	unk
+13	மோடியுடன்	unk
+14	பேசினீர்களா	unk
+15	?	unk
+</Sentence>
+<Sentence id="253">
+1	என்பது	unk
+2	பற்றியும்	unk
+3	நிருபர்கள்	unk
+4	கேள்வி	unk
+5	எழுப்பினார்கள்	unk
+6	.	unk
+</Sentence>
+<Sentence id="254">
+1	அதற்கு	unk
+2	பதில்	unk
+3	அளித்து	unk
+4	ரனில்	unk
+5	விக்ரமசிங்கே	unk
+6	கூறியதாவது	unk
+7	:	unk
+8	-	unk
+9	இலங்கை	unk
+10	தமிழர்கள்	unk
+11	மீன்	unk
+12	பிடிக்கும்	unk
+13	கடல்	unk
+14	பகுதியில்	unk
+15	மற்றவர்கள்	unk
+16	வந்து	unk
+17	மீன்	unk
+18	பிடிப்பதால்	unk
+19	பிரச்சினை	unk
+20	ஏற்படுகிறது	unk
+21	.	unk
+</Sentence>
+<Sentence id="255">
+1	எங்கள்	unk
+2	மீனவர்களுக்கு	unk
+3	போதிய	unk
+4	மீன்	unk
+5	கிடைக்காமல்	unk
+6	போய்	unk
+7	விடுகிறது	unk
+8	.	unk
+</Sentence>
+<Sentence id="256">
+1	இதனால்	unk
+2	அவர்கள்	unk
+3	பாதிப்புக்கு	unk
+4	உள்ளாகிறார்கள்	unk
+5	.	unk
+</Sentence>
+<Sentence id="257">
+1	இந்த	unk
+2	பிரச்சினையில்	unk
+3	சம்பந்தப்பட்ட	unk
+4	இரு	unk
+5	தரப்பினருமே	unk
+6	தமிழர்கள்தான்	unk
+7	.	unk
+</Sentence>
+<Sentence id="258">
+1	இலங்கை	unk
+2	கடல்	unk
+3	பகுதியில்	unk
+4	நுழைந்து	unk
+5	மீன்	unk
+6	பிடித்ததாக	unk
+7	கைது	unk
+8	செய்யப்படும்	unk
+9	தமிழக	unk
+10	மீனவர்களை	unk
+11	நாங்கள்	unk
+12	தொடர்ந்து	unk
+13	காவலில்	unk
+14	வைப்பது	unk
+15	இல்லை	unk
+16	.	unk
+</Sentence>
+<Sentence id="259">
+1	நாங்கள்	unk
+2	விடுவித்து	unk
+3	விடுகிறோம்	unk
+4	.	unk
+</Sentence>
+<Sentence id="260">
+1	நான்	unk
+2	இந்தியா	unk
+3	வருவதற்கு	unk
+4	முன்	unk
+5	பிடிபட்ட	unk
+6	தமிழக	unk
+7	மீனவர்கள்	unk
+8	சிலர்	unk
+9	அவ்வாறு	unk
+10	விடுதலை	unk
+11	செய்யப்பட்டு	unk
+12	உள்ளனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="261">
+1	இந்த	unk
+2	பிரச்சினைக்கு	unk
+3	நாம்	unk
+4	சுமுகமான	unk
+5	தீர்வு	unk
+6	காணவேண்டும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="262">
+1	இல்லையேல்	unk
+2	இலங்கைக்கு	unk
+3	நிறைய	unk
+4	பிரச்சினைகள்	unk
+5	ஏற்படும்	unk
+6	.	unk
+</Sentence>
+<Sentence id="263">
+1	இந்த	unk
+2	விவகாரம்	unk
+3	குறித்து	unk
+4	நான்	unk
+5	பிரதமர்	unk
+6	மோடியுடன்	unk
+7	பேசினேன்	unk
+8	.	unk
+</Sentence>
+<Sentence id="264">
+1	எங்கள்	unk
+2	நாட்டு	unk
+3	மந்திரிகள்	unk
+4	இங்கு	unk
+5	வந்து	unk
+6	பேச்சுவார்த்தை	unk
+7	நடத்தி	unk
+8	மீனவர்கள்	unk
+9	பிரச்சினைக்கு	unk
+10	தீர்வு	unk
+11	காண்பதற்கான	unk
+12	ஏற்பாடுகளை	unk
+13	நாங்கள்	unk
+14	செய்து	unk
+15	வருகிறோம்	unk
+16	.	unk
+</Sentence>
+<Sentence id="265">
+1	இந்த	unk
+2	பிரச்சினைக்கு	unk
+3	தீர்வு	unk
+4	காண்பது	unk
+5	தொடர்பாக	unk
+6	நவம்பர்	unk
+7	மாதம்	unk
+8	நடைபெறும்	unk
+9	பேச்சுவார்த்தையில்	unk
+10	முன்னேற்றம்	unk
+11	ஏற்படும்	unk
+12	என்று	unk
+13	நம்புகிறேன்	unk
+14	.	unk
+</Sentence>
+<Sentence id="266">
+1	இவ்வாறு	unk
+2	ரனில்	unk
+3	விக்ரமசிங்கே	unk
+4	கூறினார்	unk
+</Sentence>
+<Sentence id="267">
+1	ஏமாற்று	unk
+2	விளம்பரங்களில்	unk
+3	நடிக்கும்	unk
+4	பிரபலங்கள்	unk
+5	மீது	unk
+6	நடவடிக்கை	unk
+7	!	unk
+8	-	unk
+9	மத்திய	unk
+10	அமைச்சர்	unk
+11	டெல்லி	unk
+12	:	unk
+13	ஏமாற்று	unk
+14	விளம்பரங்களில்	unk
+15	நடிக்கும்	unk
+16	பிரபலங்கள்	unk
+17	மீது	unk
+18	கடும்	unk
+19	நடவடிக்கை	unk
+20	எடுக்கப்படும்	unk
+21	என்று	unk
+22	மத்திய	unk
+23	அமைச்சர்	unk
+24	ராம்விலாஸ்	unk
+25	பாஸ்வான்	unk
+26	தெரிவித்துள்ளார்	unk
+27	.	unk
+</Sentence>
+<Sentence id="268">
+1	அசோசேம்	unk
+2	அமைப்பு	unk
+3	சார்பில்	unk
+4	டெல்லியில்	unk
+5	வியாழக்கிழமை	unk
+6	ஏற்பாடு	unk
+7	செய்யப்பட்ட	unk
+8	நிகழ்ச்சியில்	unk
+9	மத்திய	unk
+10	உணவுத்	unk
+11	துறை	unk
+12	அமைச்சர்	unk
+13	ராம்விலாஸ்	unk
+14	பாஸ்வான்	unk
+15	கலந்து	unk
+16	கொண்டார்	unk
+17	.	unk
+</Sentence>
+<Sentence id="269">
+1	இந்த	unk
+2	நிகழ்ச்சியில்	unk
+3	அவர்	unk
+4	பேசுகையில்	unk
+5	,	unk
+6	"	unk
+7	மக்களை	unk
+8	ஏமாற்றும்	unk
+9	விளம்பரங்களில்	unk
+10	நடிக்கும்	unk
+11	பிரபலங்கள்	unk
+12	மீது	unk
+13	கடுமையான	unk
+14	நடவடிக்கை	unk
+15	எடுக்கப்படும்	unk
+16	.	unk
+</Sentence>
+<Sentence id="270">
+1	இதுதொடர்பாக	unk
+2	மற்ற	unk
+3	நாடுகளின்	unk
+4	சட்டத்	unk
+5	திட்டங்களை	unk
+6	நாங்கள்	unk
+7	ஆராய்ந்தோம்	unk
+8	.	unk
+</Sentence>
+<Sentence id="271">
+1	சில	unk
+2	நாடுகளில்	unk
+3	ஏமாற்று	unk
+4	விளம்பரங்களில்	unk
+5	பிரபல	unk
+6	நடிகர்	unk
+7	,	unk
+8	நடிகையர்	unk
+9	நடித்தால்	unk
+10	,	unk
+11	அவர்களுக்கு	unk
+12	அபராதம்	unk
+13	வழங்கப்படுகிறது	unk
+14	.	unk
+</Sentence>
+<Sentence id="272">
+1	ஒரு	unk
+2	சில	unk
+3	நாடுகளில்	unk
+4	,	unk
+5	ஏமாற்று	unk
+6	விளம்பரங்கள்	unk
+7	என்று	unk
+8	தெரிந்தே	unk
+9	நடிக்கும்	unk
+10	பிரபலங்களுக்கு	unk
+11	,	unk
+12	நடிப்புத்	unk
+13	தொழிலில்	unk
+14	ஈடுபடுவதற்கு	unk
+15	3	unk
+16	ஆண்டுகள்	unk
+17	தடை	unk
+18	விதிக்கப்படுகிறது	unk
+19	.	unk
+</Sentence>
+<Sentence id="273">
+1	மேலும்	unk
+2	இதே	unk
+3	நிலைத்	unk
+4	தொடர்ந்தால்	unk
+5	அவர்களுக்கு	unk
+6	வாழ்நாள்	unk
+7	தடையும்	unk
+8	விதிக்கப்படுகிறது	unk
+9	.	unk
+</Sentence>
+<Sentence id="274">
+1	எனவே	unk
+2	இந்தியாவில்	unk
+3	போலி	unk
+4	விளம்பரங்கள்	unk
+5	என்று	unk
+6	தெரிந்தே	unk
+7	நடிகர்	unk
+8	,	unk
+9	நடிகைகள்	unk
+10	நடித்தார்கள்	unk
+11	என	unk
+12	குற்றம்	unk
+13	நிரூபிக்கப்பட்டால்	unk
+14	,	unk
+15	அவர்களுக்கு	unk
+16	நடிப்புத்	unk
+17	துறையில்	unk
+18	ஈடுபட	unk
+19	தடை	unk
+20	விதிப்பது	unk
+21	என்பது	unk
+22	குறித்து	unk
+23	மத்திய	unk
+24	அரசு	unk
+25	ஆலோசித்து	unk
+26	வருகிறது	unk
+27	.	unk
+</Sentence>
+<Sentence id="275">
+1	இந்தப்	unk
+2	பரிந்துரைகள்	unk
+3	அனைத்தும்	unk
+4	பரிசீலனையில்	unk
+5	உள்ளன	unk
+6	.	unk
+</Sentence>
+<Sentence id="276">
+1	நாடாளுமன்ற	unk
+2	குளிர்காலக்	unk
+3	கூட்டத்	unk
+4	தொடரில்	unk
+5	இந்த	unk
+6	மசோதா	unk
+7	நிறைவேற்றப்படும்	unk
+8	,	unk
+9	"	unk
+10	என்றார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="277">
+1	32	unk
+2	ஆண்டுகளுக்கு	unk
+3	முன்	unk
+4	இதே	unk
+5	நாளில்	unk
+6	சென்னை	unk
+7	அப்பல்லோவில்	unk
+8	எம்.ஜி.ஆர்	unk
+9	!	unk
+</Sentence>
+<Sentence id="278">
+1	1984	unk
+2	அக்டோபர்	unk
+3	6	unk
+4	தமிழகமே	unk
+5	பரபரத்தது	unk
+6	.	unk
+</Sentence>
+<Sentence id="279">
+1	அப்போது	unk
+2	முதல்வராக	unk
+3	இருந்த	unk
+4	எம்.ஜி.ஆருக்கு	unk
+5	இதே	unk
+6	நாளில்தான்	unk
+7	திடீர்	unk
+8	உடல்	unk
+9	நலக்குறைவு	unk
+10	ஏற்பட்டது	unk
+11	.	unk
+</Sentence>
+<Sentence id="280">
+1	வீட்டில்	unk
+2	இருந்த	unk
+3	எம்.ஜி.ஆருக்கு	unk
+4	மூச்சு	unk
+5	விடுவதில்	unk
+6	சிரமம்	unk
+7	ஏற்பட்டது	unk
+8	.	unk
+</Sentence>
+<Sentence id="281">
+1	உடனே	unk
+2	அவரை	unk
+3	அழைத்துக்	unk
+4	கொண்டு	unk
+5	அப்போலோ	unk
+6	மருத்துவமனை	unk
+7	வந்தார்	unk
+8	ஜானகி	unk
+9	அம்மாள்	unk
+10	.	unk
+</Sentence>
+<Sentence id="282">
+1	அவருடன்	unk
+2	எம்.ஜி.ஆரின்	unk
+3	மருத்துவர்	unk
+4	பி.ஆர்.	unk
+5	சுப்ரமணியமும்	unk
+6	உடன்	unk
+7	வந்தார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="283">
+1	உடனே	unk
+2	எம்.ஜி.ஆர்	unk
+3	மூன்றாவது	unk
+4	மாடியில்	unk
+5	இருந்த	unk
+6	அறைக்கு	unk
+7	அழைத்துச்	unk
+8	செல்லப்பட்டார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="284">
+1	அங்கிருந்த	unk
+2	சூப்பர்	unk
+3	டீலக்ஸ்	unk
+4	அறையில்	unk
+5	அவருக்கு	unk
+6	சிகிச்சை	unk
+7	அளிக்கப்பட்டது	unk
+8	.	unk
+</Sentence>
+<Sentence id="285">
+1	அப்போது	unk
+2	அந்த	unk
+3	அறையின்	unk
+4	ஒரு	unk
+5	நாள்	unk
+6	வாடகை	unk
+7	ரூ.	unk
+8	525-தான்	unk
+9	.	unk
+</Sentence>
+<Sentence id="286">
+1	எம்.ஜி.ஆர்	unk
+2	கூறியபடி	unk
+3	யாரிடமும்	unk
+4	இந்த	unk
+5	தகவல்	unk
+6	சொல்லப்படவில்லை	unk
+7	.	unk
+</Sentence>
+<Sentence id="287">
+1	ஆனால்	unk
+2	,	unk
+3	எம்.ஜி.ஆரின்	unk
+4	நீல	unk
+5	நிற	unk
+6	அம்பாசிட்டர்	unk
+7	கார்	unk
+8	அந்த	unk
+9	காலத்தில்	unk
+10	பிரபலமாக	unk
+11	இருந்தது	unk
+12	.	unk
+</Sentence>
+<Sentence id="288">
+1	அவரது	unk
+2	கார்	unk
+3	ஏன்	unk
+4	அப்போலோ	unk
+5	பக்கம்	unk
+6	வந்தது	unk
+7	என்று	unk
+8	பரபரப்பு	unk
+9	எழுந்தது	unk
+10	.	unk
+</Sentence>
+<Sentence id="289">
+1	இந்த	unk
+2	பரபரப்பு	unk
+3	அடுத்த	unk
+4	சில	unk
+5	நிமிடங்களில்	unk
+6	அப்போலோ	unk
+7	மருத்துவமனை	unk
+8	முன்பு	unk
+9	ஆட்களைக்	unk
+10	குவித்தது	unk
+11	.	unk
+</Sentence>
+<Sentence id="290">
+1	ஆஸ்துமா	unk
+2	தொந்தரவு	unk
+3	காரணமாக	unk
+4	எம்.ஜி.ஆர்	unk
+5	மருத்துவமனையில்	unk
+6	அனுமதிக்கப்பட்டிருந்ததாக	unk
+7	அடுத்த	unk
+8	தகவலும்	unk
+9	வெளியானது	unk
+10	.	unk
+</Sentence>
+<Sentence id="291">
+1	எம்.ஜி.ஆர்	unk
+2	மருத்துவமனையில்	unk
+3	சேர்க்கப்பட்டதை	unk
+4	அறிந்து	unk
+5	அ.தி.மு.க	unk
+6	அமைச்சர்கள்	unk
+7	நெடுஞ்செழியன்	unk
+8	,	unk
+9	ஆர்.எம்.வீரப்பன்	unk
+10	,	unk
+11	சுகாதாரத்துறை	unk
+12	அமைச்சர்	unk
+13	ஹண்டே	unk
+14	ஆகியோரும்	unk
+15	மருத்துவமனையில்	unk
+16	குவிந்தனர்	unk
+17	.	unk
+</Sentence>
+<Sentence id="292">
+1	அப்போது	unk
+2	செய்தியாளர்களிடம்	unk
+3	பேசிய	unk
+4	அப்போலோ	unk
+5	மருத்துவமனையின்	unk
+6	தலைமை	unk
+7	டாக்டர்	unk
+8	பிரதாப்	unk
+9	சி.ரெட்டி	unk
+10	,	unk
+11	"	unk
+12	எம்	unk
+13	.	unk
+</Sentence>
+<Sentence id="293">
+1	ஜி.ஆருக்கு	unk
+2	ஒரு	unk
+3	வார	unk
+4	காலமாக	unk
+5	சளி	unk
+6	இருந்தது	unk
+7	.	unk
+</Sentence>
+<Sentence id="294">
+1	காய்ச்சல்	unk
+2	இருந்தது	unk
+3	.	unk
+</Sentence>
+<Sentence id="295">
+1	ஆஸ்துமா	unk
+2	தொந்தரவு	unk
+3	ஏற்பட்டதால்	unk
+4	அவர்	unk
+5	இங்கு	unk
+6	அனுமதிக்கப்பட்டுள்ளார்	unk
+7	.	unk
+</Sentence>
+<Sentence id="296">
+1	அவர்	unk
+2	குணம்	unk
+3	அடைந்து	unk
+4	வருகிறார்	unk
+5	,	unk
+6	"	unk
+7	என்று	unk
+8	கூறினார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="297">
+1	பொது	unk
+2	மருத்துவமனையைச்	unk
+3	சேர்ந்த	unk
+4	டாக்டர்கள்	unk
+5	திருவேங்கடம்	unk
+6	,	unk
+7	சேஷய்யா	unk
+8	,	unk
+9	அப்போலோ	unk
+10	மருத்துவமனையின்	unk
+11	டாக்டர்	unk
+12	சி.ரெட்டி	unk
+13	,	unk
+14	ராமலிங்கம்	unk
+15	,	unk
+16	எம்.ஜி.ஆரின்	unk
+17	தனி	unk
+18	மருத்துவர்	unk
+19	பி.ஆர்.சுப்பிரமணியம்	unk
+20	ஆகியோர்	unk
+21	எம்.ஜி.ஆருக்கு	unk
+22	சிகிச்சை	unk
+23	அளித்து	unk
+24	வந்தனர்	unk
+25	.	unk
+</Sentence>
+<Sentence id="298">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியம்	unk
+4	வரும்	unk
+5	.	unk
+</Sentence>
+<Sentence id="299">
+1	பொறுமையா	unk
+2	இருங்க	unk
+3	!	unk
+4	-	unk
+5	சொல்லிட்டாரு	unk
+6	எச்	unk
+7	ராஜா	unk
+8	சென்னை	unk
+9	:	unk
+10	காவிரி	unk
+11	மேலாண்மை	unk
+12	வாரியத்தை	unk
+13	உடனடியாக	unk
+</Sentence>
+<Sentence id="300">
+1	இந்திய	unk
+2	வரலாற்றில்	unk
+3	இத்தனை	unk
+4	வெளிப்படையாக	unk
+5	மத்திய	unk
+6	அரசு	unk
+7	ஒரு	unk
+8	மாநிலத்துக்கு	unk
+9	(	unk
+10	தமிழகத்துக்கு	unk
+11	)	unk
+12	துரோகம்	unk
+13	இழைத்ததில்லை	unk
+14	என்று	unk
+15	அத்தனை	unk
+16	அரசியல்	unk
+17	தலைவர்களும்	unk
+18	சொல்லும்	unk
+19	அளவுக்கு	unk
+20	ஒருதலைப்பட்சமான	unk
+21	செயல்பாடு	unk
+22	இது	unk
+23	ஆனால்	unk
+24	மோடி	unk
+25	அரசின்	unk
+26	துரோகத்தை	unk
+27	பூசி	unk
+28	மெழுகி	unk
+29	வருகின்றனர்	unk
+30	தமிழக	unk
+31	பாஜக	unk
+32	தலைவர்கள்	unk
+33	.	unk
+</Sentence>
+<Sentence id="301">
+1	முன்பு	unk
+2	தமிழிசை	unk
+3	இந்தப்	unk
+4	பழியைத்	unk
+5	தூக்கி	unk
+6	திமுக	unk
+7	மீது	unk
+8	போட்டுவிட்டுப்	unk
+9	போனார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="302">
+1	அவர்	unk
+2	வழியைப்	unk
+3	பின்பற்றி	unk
+4	,	unk
+5	அதே	unk
+6	பல்லவியைப்	unk
+7	பாடியுள்ளார்	unk
+8	அக்கட்சியின்	unk
+9	தேசிய	unk
+10	செயலாளர்	unk
+11	எச்	unk
+12	ராஜா	unk
+13	.	unk
+</Sentence>
+<Sentence id="303">
+1	நாகை	unk
+2	அருகேயுள்ள	unk
+3	திருக்கடையூரில்	unk
+4	வியாழக்கிழமை	unk
+5	அவர்	unk
+6	செய்தியாளர்களிடம்	unk
+7	பேசுகையில்	unk
+8	,	unk
+9	"	unk
+10	காவிரி	unk
+11	பிரச்னையில்	unk
+12	தமிழர்களுக்கு	unk
+13	துரோகம்	unk
+14	இழைத்தது	unk
+15	திமுகதான்	unk
+16	.	unk
+</Sentence>
+<Sentence id="304">
+1	தஞ்சாவூரில்	unk
+2	விவசாயிகளுக்காக	unk
+3	ஸ்டாலின்	unk
+4	நடத்தவுள்ள	unk
+5	போராட்டம்	unk
+6	நாடகமே	unk
+7	.	unk
+</Sentence>
+<Sentence id="305">
+1	கர்நாடகத்தில்	unk
+2	காங்கிரஸ்	unk
+3	கட்சியும்	unk
+4	,	unk
+5	தமிழகத்தில்	unk
+6	திமுகவும்	unk
+7	ஆட்சிக்கு	unk
+8	வர	unk
+9	வேண்டும்	unk
+</Sentence>
+<Sentence id="306">
+1	எனவே	unk
+2	,	unk
+3	இப்	unk
+4	போராட்டத்தில்	unk
+5	விவசாயிகள்	unk
+6	பங்கேற்கக்	unk
+7	கூடாது	unk
+8	.	unk
+</Sentence>
+<Sentence id="307">
+1	தேவையெனில்	unk
+2	காங்கிரஸ்	unk
+3	கூட்டணியிலிருந்து	unk
+4	விலகி	unk
+5	,	unk
+6	இந்தப்	unk
+7	போராட்டத்தை	unk
+8	திமுக	unk
+9	நடத்தட்டும்	unk
+10	.	unk
+</Sentence>
+<Sentence id="308">
+1	மத்திய	unk
+2	அரசு	unk
+3	சட்டப்பூர்வமான	unk
+4	காவிரி	unk
+5	மேலாண்மை	unk
+6	வாரியத்தை	unk
+7	விரைவில்	unk
+8	அமைக்கும்	unk
+9	.	unk
+</Sentence>
+<Sentence id="309">
+1	விவசாயிகள்	unk
+2	அதுவரை	unk
+3	பொறுமை	unk
+4	காக்க	unk
+5	வேண்டும்	unk
+6	,	unk
+7	"	unk
+</Sentence>
+<Sentence id="310">
+1	முதல்வரை	unk
+2	பார்க்க	unk
+3	அனுமதி	unk
+4	மறுப்பு	unk
+5	.	unk
+</Sentence>
+<Sentence id="311">
+1	அப்பல்லோ	unk
+2	வாசலில்	unk
+3	காரிலேயே	unk
+4	காத்திருந்த	unk
+5	சுதாகரன்	unk
+6	!	unk
+</Sentence>
+<Sentence id="312">
+1	சென்னை	unk
+2	:	unk
+3	தமிழக	unk
+4	முதல்வர்	unk
+5	ஜெயலலிதா	unk
+6	சிகிச்சை	unk
+7	பெற்று	unk
+8	வரும்	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனை	unk
+11	முன்பு	unk
+12	ஜெயலலிதாவின்	unk
+13	முன்னாள்	unk
+14	வளர்ப்பு	unk
+15	மகனும்	unk
+16	சசிகலாவின்	unk
+17	அக்காள்	unk
+18	மகனுமான	unk
+19	வி.என்.சுதாகரன்	unk
+20	வாயிற்	unk
+21	கதவு	unk
+22	முன்பு	unk
+23	காரில்	unk
+24	அமர்ந்து	unk
+25	காத்திருந்தார்	unk
+26	.	unk
+</Sentence>
+<Sentence id="313">
+1	தமிழக	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	கடந்த	unk
+5	மாதம்	unk
+6	22ம்	unk
+7	தேதி	unk
+8	இரவு	unk
+9	உடல்நலக்குறைவின்	unk
+10	காரணமாக	unk
+11	சென்னை	unk
+12	அப்பல்லோ	unk
+13	மருத்துவமனையில்	unk
+14	அனுமதிக்கப்பட்டார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="314">
+1	தொடர்ந்து	unk
+2	அவருக்கு	unk
+3	மருத்துவர்கள்	unk
+4	சிகிச்சை	unk
+5	அளித்து	unk
+6	வருகின்றனர்	unk
+7	.	unk
+</Sentence>
+<Sentence id="315">
+1	முதல்வரின்	unk
+2	உடல்நிலையில்	unk
+3	முன்னேற்றம்	unk
+4	ஏற்பட்டு	unk
+5	வருவதாக	unk
+6	மருத்தவமனை	unk
+7	சார்பில்	unk
+8	வெளியிடப்படும்	unk
+9	அறிக்கை	unk
+10	கூறுகின்றது	unk
+11	.	unk
+</Sentence>
+<Sentence id="316">
+1	இந்நிலையில்	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதாவின்	unk
+4	முன்னாள்	unk
+5	வளர்ப்பு	unk
+6	மகனும்	unk
+7	,	unk
+8	சசிகலாவின்	unk
+9	அக்காள்	unk
+10	மகனுமான	unk
+11	வி.என்.சுதாகரன்	unk
+12	இன்று	unk
+13	மாலை	unk
+14	5.55	unk
+15	மணிக்கு	unk
+16	அப்பல்லோ	unk
+17	மருத்துவமனைக்கு	unk
+18	வந்தார்	unk
+19	.	unk
+</Sentence>
+<Sentence id="317">
+1	அப்பல்லோவின்	unk
+2	கதவு	unk
+3	திறக்காததால்	unk
+4	காரில்	unk
+5	இருந்தபடியே	unk
+6	உள்ளே	unk
+7	இருந்தவர்களுக்கு	unk
+8	செல்போனில்	unk
+9	தொடர்புகொண்டார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="318">
+1	அரைமணி	unk
+2	நேரம்	unk
+3	கழித்து	unk
+4	எஸ்.எம்.எஸ்.	unk
+5	மூலம்	unk
+6	அனுமதி	unk
+7	கேட்டு	unk
+8	காத்திருந்தார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="319">
+1	6.55	unk
+2	மணி	unk
+3	வரை	unk
+4	அனுமதி	unk
+5	கிடைக்கவில்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="320">
+1	அப்பல்லோவின்	unk
+2	வாயிற்	unk
+3	கதவு	unk
+4	முன்பு	unk
+5	காரில்	unk
+6	அமர்ந்து	unk
+7	காத்திருந்த	unk
+8	சுதாகரன்	unk
+9	,	unk
+10	விரக்தியுடன்	unk
+11	திரும்பிச்சென்றார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="321">
+1	முதல்வர்	unk
+2	விரைவில்	unk
+3	குணமடைந்து	unk
+4	மக்கள்	unk
+5	பணியாற்றுவார்	unk
+6	:	unk
+7	அற்புதம்மாள்	unk
+8	சென்னை	unk
+9	:	unk
+10	உடல்நலக்குறைவால்	unk
+11	பாதிக்கப்பட்டு	unk
+12	சிகிச்சை	unk
+13	பெற்று	unk
+14	வரும்	unk
+15	முதல்வர்	unk
+16	ஜெயலலிதா	unk
+17	விரைவில்	unk
+18	பூரணமாக	unk
+19	குணமடைந்து	unk
+20	மக்கள்	unk
+21	பணியாற்ற	unk
+22	வருவார்	unk
+23	என்று	unk
+24	பேரறிவாளனின்	unk
+25	தாயார்	unk
+26	அற்புதம்மாள்	unk
+27	நம்பிக்கை	unk
+28	தெரிவித்தார்	unk
+29	.	unk
+</Sentence>
+<Sentence id="322">
+1	உடல்நலக்குறைவால்	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	,	unk
+5	அப்போலோ	unk
+6	மருத்துவமனையில்	unk
+7	அனுமதிக்கப்பட்டு	unk
+8	சிகிச்சை	unk
+9	பெற்று	unk
+10	வருகிறார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="323">
+1	கடந்த	unk
+2	15	unk
+3	நாட்களாக	unk
+4	மருத்துவர்கள்	unk
+5	அவருக்கு	unk
+6	தொடர்	unk
+7	சிகிச்சை	unk
+8	அளித்து	unk
+9	வருகின்றனர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="324">
+1	இந்த	unk
+2	நிலையில்	unk
+3	,	unk
+4	பேரறிவாளனின்	unk
+5	தாயார்	unk
+6	அற்புதம்மாள்	unk
+7	நேற்று	unk
+8	அப்போலோ	unk
+9	மருத்துவமனை	unk
+10	சென்றார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="325">
+1	அவர்	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	சிகிச்சை	unk
+5	பெறும்	unk
+6	இரண்டாவது	unk
+7	தளத்திற்கு	unk
+8	சென்றார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="326">
+1	பின்னர்	unk
+2	வெளியே	unk
+3	வந்த	unk
+4	அற்புதம்மாள்	unk
+5	செய்தியாளர்களிடம்	unk
+6	கூறுகையில்	unk
+7	,	unk
+8	முதல்வரை	unk
+9	சந்திக்க	unk
+10	அப்பல்லோ	unk
+11	மருத்துவமனையின்	unk
+12	2வது	unk
+13	தளத்திற்கு	unk
+14	சென்றேன்	unk
+15	.	unk
+</Sentence>
+<Sentence id="327">
+1	அங்கு	unk
+2	அமைச்சர்	unk
+3	விஜயபாஸ்கர்	unk
+4	,	unk
+5	தம்பிதுரை	unk
+6	எம்.பி	unk
+7	,	unk
+8	ஆகியோரை	unk
+9	சந்தித்தேன்	unk
+10	.	unk
+</Sentence>
+<Sentence id="328">
+1	முதல்வருக்கு	unk
+2	நோய்	unk
+3	தொற்று	unk
+4	ஏற்பட்டுவிடுமோ	unk
+5	என்ற	unk
+6	அச்சத்துடன்	unk
+7	யாரையும்	unk
+8	உள்ளே	unk
+9	அனுமதிப்பதில்லை	unk
+10	என்று	unk
+11	தெரிவித்தனர்	unk
+12	.	unk
+</Sentence>
+<Sentence id="329">
+1	சாதாரண	unk
+2	மருத்துவமனையிலேயே	unk
+3	இது	unk
+4	மாதிரி	unk
+5	கெடுபிடி	unk
+6	இருக்கும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="330">
+1	பெரிய	unk
+2	மருத்துவமனை	unk
+3	,	unk
+4	முக்கியமான	unk
+5	நபர்	unk
+6	என்பதால்	unk
+7	அதிகமாக	unk
+8	இருப்பதை	unk
+9	உணர்ந்துகொண்டேன்	unk
+10	.	unk
+</Sentence>
+<Sentence id="331">
+1	முதல்வர்	unk
+2	ஜெயலலிதா	unk
+3	குணமடைந்து	unk
+4	வருவதாக	unk
+5	மருத்துவர்கள்	unk
+6	தெரிவித்துள்ளது	unk
+7	மகிழ்ச்சி	unk
+8	அளிக்கிறது	unk
+9	.	unk
+</Sentence>
+<Sentence id="332">
+1	முதல்வர்	unk
+2	விரைவில்	unk
+3	பூரணமாக	unk
+4	குணமடைந்து	unk
+5	மக்கள்	unk
+6	பணியாற்ற	unk
+7	வருவார்	unk
+</Sentence>
+<Sentence id="333">
+1	மருத்துவமனையில்	unk
+2	நீண்ட	unk
+3	நாள்	unk
+4	தங்க	unk
+5	வேண்டும்	unk
+6	ஜெயலலிதா	unk
+7	.	unk
+</Sentence>
+<Sentence id="334">
+1	அப்பல்லோ	unk
+2	அறிக்கை	unk
+3	சென்னை	unk
+4	:	unk
+5	முதல்வர்	unk
+6	ஜெயலலிதாவின்	unk
+7	உடல்நிலையில்	unk
+8	தொடர்ந்து	unk
+9	முன்னேற்றம்	unk
+10	ஏற்பட்டு	unk
+11	வருவதாக	unk
+12	அப்பல்லோ	unk
+13	மருத்துவமனை	unk
+14	தற்போது	unk
+15	வெளியிட்டுள்ள	unk
+16	செய்திக்	unk
+17	குறிப்பில்	unk
+18	தெரிவிக்கப்பட்டுள்ளது	unk
+19	.	unk
+</Sentence>
+<Sentence id="335">
+1	அதேசமயம்	unk
+2	,	unk
+3	முதல்வர்	unk
+4	ஜெயலலிதா	unk
+5	நீண்ட	unk
+6	நாள்	unk
+7	மருத்துவமனையில்	unk
+8	தங்க	unk
+9	வேண்டியிருக்கும்	unk
+10	என்றும்	unk
+11	அப்பல்லோ	unk
+12	கூறியிருப்பதால்	unk
+13	அதிமுகவினரிடையே	unk
+14	கவலை	unk
+15	அதிகரித்துள்ளது	unk
+16	.	unk
+</Sentence>
+<Sentence id="336">
+1	தமிழக	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	கடந்த	unk
+5	22ஆம்	unk
+6	தேதி	unk
+7	முதல்	unk
+8	சென்னை	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனையில்	unk
+11	அனுமதிக்கப்பட்டு	unk
+12	சிகிச்சை	unk
+13	பெற்று	unk
+14	வருகிறார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="337">
+1	கடந்த	unk
+2	15	unk
+3	நாட்களாக	unk
+4	முதல்வர்	unk
+5	ஜெயலலிதாவுக்கு	unk
+6	மருத்துவ	unk
+7	குழுவினர்	unk
+8	தொடர்ந்து	unk
+9	அவருக்கு	unk
+10	சிகிச்சை	unk
+11	அளித்து	unk
+12	வருகின்றனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="338">
+1	இந்நிலையில்	unk
+2	இன்று	unk
+3	மாலை	unk
+4	அப்பல்லோ	unk
+5	மருத்துவமனை	unk
+6	நிர்வாகம்	unk
+7	சார்பில்	unk
+8	ஒரு	unk
+9	அறிக்கை	unk
+10	வெளியானது	unk
+11	.	unk
+</Sentence>
+<Sentence id="339">
+1	இதுவரை	unk
+2	வெளியானதிலேயே	unk
+3	இதுதான்	unk
+4	மிக	unk
+5	விரிவான	unk
+6	அறிக்கையாகும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="340">
+1	அதில்	unk
+2	கூறப்பட்டுள்ளதாவது	unk
+3	:	unk
+4	தமிழக	unk
+5	முதல்வர்	unk
+6	ஜெயலலிதா	unk
+7	அப்பல்லோ	unk
+8	மருத்துவமனையில்	unk
+9	தொடர்ந்து	unk
+10	சிகிச்சை	unk
+11	பெற்று	unk
+12	வருகிறார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="341">
+1	அவரது	unk
+2	உடல்	unk
+3	நிலையில்	unk
+4	படிப்படியாக	unk
+5	முன்னேற்றம்	unk
+6	ஏற்பட்டு	unk
+7	வருகிறது	unk
+8	.	unk
+</Sentence>
+<Sentence id="342">
+1	தேவையான	unk
+2	ஆன்டிபயாடிக்	unk
+3	மருந்துகள்	unk
+4	,	unk
+5	செயற்கை	unk
+6	சுவாச	unk
+7	உதவி	unk
+8	,	unk
+9	பிற	unk
+10	தொடர்பான	unk
+11	சிகிச்சை	unk
+12	முறைகள்	unk
+13	அவருக்கு	unk
+14	தொடர்ந்து	unk
+15	கொடுக்கப்பட்டு	unk
+16	வருகிறது	unk
+17	.	unk
+</Sentence>
+<Sentence id="343">
+1	இதய	unk
+2	நோய்	unk
+3	நிபுணர்கள்	unk
+4	,	unk
+5	சுவாச	unk
+6	நிபுணர்கள்	unk
+7	,	unk
+8	தொற்று	unk
+9	நோய்	unk
+10	சிகிச்சை	unk
+11	சிறப்பு	unk
+12	நிபுணர்கள்	unk
+13	,	unk
+14	சர்க்கரை	unk
+15	வியாதிக்கான	unk
+16	நிபுணர்கள்	unk
+17	,	unk
+18	அவசர	unk
+19	சிகிச்சை	unk
+20	நிபுணர்கள்	unk
+21	,	unk
+22	ஆய்வக	unk
+23	மற்றும்	unk
+24	ரேடியாலஜி	unk
+25	நிபுணர்கள்	unk
+26	என	unk
+27	அனைத்துத்	unk
+28	தரப்பு	unk
+29	மருத்துவர்கள்	unk
+30	அடங்கிய	unk
+31	குழுவினர்	unk
+32	முதல்வர்	unk
+33	உடல்நிலையை	unk
+34	தொடர்ந்து	unk
+35	கண்காணித்து	unk
+36	வருகின்றனர்	unk
+37	.	unk
+</Sentence>
+<Sentence id="344">
+1	டெல்லி	unk
+2	எய்ம்ஸ்	unk
+3	மருத்துவமனையைச்	unk
+4	சேர்ந்த	unk
+5	டாக்டர்கள்	unk
+6	கில்னானி	unk
+7	,	unk
+8	அஞ்சான்	unk
+9	டிரிக்கா	unk
+10	,	unk
+11	நிதீஷ்	unk
+12	நாயக்	unk
+13	ஆகியோர்	unk
+14	அடங்கிய	unk
+15	குழு	unk
+16	5.10.2016	unk
+17	அன்று	unk
+18	சிகிச்சை	unk
+19	முறைகள்	unk
+20	குறித்து	unk
+21	விரிவான	unk
+22	விவாதம்	unk
+23	மேற்கொண்டது	unk
+24	.	unk
+</Sentence>
+<Sentence id="345">
+1	அவர்களுடன்	unk
+2	அப்பல்லோ	unk
+3	மருத்துவர்	unk
+4	குழுவும்	unk
+5	கலந்து	unk
+6	ஆலோசித்தது	unk
+7	.	unk
+</Sentence>
+<Sentence id="346">
+1	முதல்வர்	unk
+2	ஜெயலலிதாவையும்	unk
+3	எய்ம்ஸ்	unk
+4	மருத்துவர்	unk
+5	குழு	unk
+6	ஆராய்ந்தது	unk
+7	.	unk
+</Sentence>
+<Sentence id="347">
+1	தற்போது	unk
+2	முதல்வருக்கு	unk
+3	கொடுக்கப்பட்டு	unk
+4	வரும்	unk
+5	சிகிச்சையைத்	unk
+6	தொடரவும்	unk
+7	அது	unk
+8	ஆலோசனை	unk
+9	வழங்கியது	unk
+10	.	unk
+</Sentence>
+<Sentence id="348">
+1	7ம்	unk
+2	தேதி	unk
+3	வரை	unk
+4	எய்ம்ஸ்	unk
+5	மருத்துவக்	unk
+6	குழு	unk
+7	அப்பல்லோவில்	unk
+8	இருப்பார்கள்	unk
+9	.	unk
+</Sentence>
+<Sentence id="349">
+1	சர்வதேச	unk
+2	சிறப்பு	unk
+3	மருத்துவரும்	unk
+4	,	unk
+5	மருத்துவ	unk
+6	ஆலோசகருமான	unk
+7	டாக்டர்	unk
+8	ரிச்சர்ட்	unk
+9	ஜான்	unk
+10	பியல்	unk
+11	,	unk
+12	இன்று	unk
+13	மீண்டும்	unk
+14	முதல்வர்	unk
+15	ஜெயலலிதாவிடம்	unk
+16	பரிசோதனை	unk
+17	மேற்கொண்டார்	unk
+18	.	unk
+</Sentence>
+<Sentence id="350">
+1	ஏற்கனவே	unk
+2	இவர்	unk
+3	கடந்த	unk
+4	30ம்	unk
+5	தேதி	unk
+6	ஆய்வு	unk
+7	மேற்கொண்டிருந்தார்	unk
+8	.	unk
+</Sentence>
+<Sentence id="351">
+1	இதுவரை	unk
+2	நடந்த	unk
+3	மருத்துவ	unk
+4	ஆலோசனைகள்	unk
+5	மற்றும்	unk
+6	பரிசோதனைகளின்	unk
+7	அடிப்படையில்	unk
+8	,	unk
+9	முதல்வருக்கு	unk
+10	விரிவான	unk
+11	சிகிச்சை	unk
+12	திட்டத்தை	unk
+13	அப்பல்லோ	unk
+14	மருத்துவமனை	unk
+15	வகுத்துள்ளது	unk
+16	.	unk
+</Sentence>
+<Sentence id="352">
+1	மேலும்	unk
+2	முதல்வருக்கு	unk
+3	உள்ள	unk
+4	சர்க்கரை	unk
+5	வியாதி	unk
+6	மற்றும்	unk
+7	குளிர்கால	unk
+8	மூச்சுக்குழாய்	unk
+9	அழற்சி	unk
+10	ஆகியவற்றையும்	unk
+11	கருத்தில்	unk
+12	கொண்டு	unk
+13	சிகிச்சைத்	unk
+14	திட்டம்	unk
+15	வகுக்கப்பட்டுள்ளது	unk
+16	தற்போது	unk
+17	முதல்வருக்கு	unk
+18	செயற்கை	unk
+19	சுவாச	unk
+20	உதவி	unk
+21	,	unk
+22	நெபுலைசேஷன்	unk
+23	,	unk
+24	நுரையீரல்	unk
+25	இறுக்கத்தைக்	unk
+26	குறைக்கும்	unk
+27	மருந்துகள்	unk
+28	,	unk
+29	ஆன்டிபயாடிக்	unk
+30	மருந்துகள்	unk
+31	,	unk
+32	ஊட்டச்சத்து	unk
+33	உணவு	unk
+34	,	unk
+35	சப்போர்ட்டிவ்	unk
+36	தெரப்பி	unk
+37	ஆகியவை	unk
+38	தொடரும்	unk
+39	.	unk
+</Sentence>
+<Sentence id="353">
+1	தற்போது	unk
+2	கொடுக்கப்பட்டு	unk
+3	வரும்	unk
+4	சிகிச்சையை	unk
+5	தொடர	unk
+6	வேண்டும்	unk
+7	என்பதே	unk
+8	அனைத்து	unk
+9	மருத்துவ	unk
+10	நிபுணர்களும்	unk
+11	நடத்திய	unk
+12	ஆலோசனையின்	unk
+13	இறுதியில்	unk
+14	எடுக்கப்பட்ட	unk
+15	முடிவாகும்	unk
+16	.	unk
+</Sentence>
+<Sentence id="354">
+1	மேலும்	unk
+2	சிகிச்சை	unk
+3	தொடர்பாக	unk
+4	முதல்வர்	unk
+5	நீண்ட	unk
+6	நாட்களுக்கு	unk
+7	மருத்துவமனையில்	unk
+8	தங்க	unk
+9	நேரிடும்	unk
+10	என்று	unk
+11	அப்பல்லோவின்	unk
+12	அறிக்கையில்	unk
+13	தெரிவிக்கப்பட்டுள்ளது	unk
+14	.	unk
+</Sentence>
+<Sentence id="355">
+1	ஜெ.வுக்கு	unk
+2	ஏதேனும்	unk
+3	விபரீதம்	unk
+4	நேர்ந்தால்	unk
+5	சசிகலாவை	unk
+6	சிறையில்	unk
+7	தள்ளுவேன்	unk
+8	!	unk
+9	-	unk
+10	டிராபிக்	unk
+11	ராமசாமி	unk
+12	சென்னை	unk
+13	:	unk
+14	அப்பல்லோ	unk
+15	மருத்துவமனையில்	unk
+16	சிகிச்சைப்	unk
+17	பெற்று	unk
+18	வரும்	unk
+19	முதல்வர்	unk
+20	ஜெயலலிதாவுக்கு	unk
+21	ஏதேனும்	unk
+22	விபரீதம்	unk
+23	நேர்ந்தால்	unk
+24	,	unk
+25	சசிகலாவை	unk
+26	சிறையில்	unk
+27	தள்ளுவேன்	unk
+28	என்று	unk
+29	ஆவேசப்பட்டுள்ளார்	unk
+30	சமூக	unk
+31	ஆர்வலர்	unk
+32	ட்ராபிக்	unk
+33	ராமசாமி	unk
+34	.	unk
+</Sentence>
+<Sentence id="356">
+1	இரண்டு	unk
+2	வாரங்களுக்கும்	unk
+3	மேலாக	unk
+4	அப்பல்லோ	unk
+5	மருத்துவமனையில்	unk
+6	சிகிச்சைப்	unk
+7	பெற்று	unk
+8	வரும்	unk
+9	முதல்வர்	unk
+10	ஜெயலலிதான்	unk
+11	உடல்	unk
+12	நிலை	unk
+13	பற்றிய	unk
+14	தகவல்கள்	unk
+15	குழப்பமாகவும்	unk
+16	மேலோட்டாமாகவும்	unk
+17	இருந்ததாக	unk
+18	குற்றச்சாட்டு	unk
+19	எழுந்தது	unk
+20	.	unk
+</Sentence>
+<Sentence id="357">
+1	அதற்கேற்ப	unk
+2	முதலில்	unk
+3	ஜெயலலிதா	unk
+4	நலமாக	unk
+5	இருக்கிறார்	unk
+6	,	unk
+7	அனைவருடனும்	unk
+8	பேசுகிறார்	unk
+9	,	unk
+10	காலைச்	unk
+11	சிற்றுண்டியாக	unk
+12	திட	unk
+13	உணவு	unk
+14	சாப்பிட்டார்	unk
+15	என்றெல்லாம்	unk
+16	முதலில்	unk
+17	அறிக்கை	unk
+18	வெளியிட்டு	unk
+19	வந்தது	unk
+20	அப்பல்லோ	unk
+21	மருத்துவமனை	unk
+22	.	unk
+</Sentence>
+<Sentence id="358">
+1	இந்த	unk
+2	நிலையில்	unk
+3	முதல்வரின்	unk
+4	உடல்	unk
+5	நிலை	unk
+6	குறித்த	unk
+7	உண்மையான	unk
+8	விரிவான	unk
+9	அறிக்கையை	unk
+10	அரசு	unk
+11	வெளியிட	unk
+12	வேண்டும்	unk
+13	என	unk
+14	சமூக	unk
+15	ஆர்வலர்	unk
+16	ட்ராஃபிக்	unk
+17	ராமசாமி	unk
+18	உயர்	unk
+19	நீதிமன்றத்தில்	unk
+20	வழக்குத்	unk
+21	தொடர்ந்தார்	unk
+22	.	unk
+</Sentence>
+<Sentence id="359">
+1	இந்த	unk
+2	வழக்கைத்	unk
+3	தள்ளுபடி	unk
+4	செய்த	unk
+5	உயர்	unk
+6	நீதிமன்றம்	unk
+7	,	unk
+8	'	unk
+9	இந்த	unk
+10	வழக்கு	unk
+11	விளம்பர	unk
+12	நோக்கம்	unk
+13	கொண்டது	unk
+14	,	unk
+15	"	unk
+16	என	unk
+17	சாடியது	unk
+18	.	unk
+</Sentence>
+<Sentence id="360">
+1	இந்த	unk
+2	நிலையில்	unk
+3	நேற்று	unk
+4	விரிவான	unk
+5	மருத்துவ	unk
+6	அறிக்கையை	unk
+7	வெளியிட்டது	unk
+8	அப்பல்லோ	unk
+9	.	unk
+</Sentence>
+<Sentence id="361">
+1	வழக்கத்துக்கு	unk
+2	மாறாக	unk
+3	,	unk
+4	இந்த	unk
+5	அறிக்கையில்	unk
+6	,	unk
+7	முதல்வருக்கு	unk
+8	பல்வேறு	unk
+9	நோய்கள்	unk
+10	இருப்பதாகக்	unk
+11	கூறி	unk
+12	,	unk
+13	நீண்ட	unk
+14	நாட்கள்	unk
+15	அவர்	unk
+16	சிகிச்சையில்	unk
+17	இருக்க	unk
+18	வேண்டும்	unk
+19	என்று	unk
+20	கூறியுள்ளது	unk
+21	.	unk
+</Sentence>
+<Sentence id="362">
+1	ட்ராபிக்	unk
+2	ராமசாமி	unk
+3	வழக்கு	unk
+4	தள்ளுபடி	unk
+5	செய்யப்பட்டாலும்	unk
+6	,	unk
+7	அவரது	unk
+8	வழக்குக்குப்	unk
+9	பிறகே	unk
+10	முதல்வரின்	unk
+11	உடல்	unk
+12	நிலை	unk
+13	குறித்த	unk
+14	ஓரளவு	unk
+15	நம்பக்	unk
+16	கூடிய	unk
+17	மருத்துவ	unk
+18	அறிக்கை	unk
+19	வெளியானதாகக்	unk
+20	கருதப்படுகிறது	unk
+21	.	unk
+</Sentence>
+<Sentence id="363">
+1	இந்த	unk
+2	நிலையில்	unk
+3	இதுகுறித்து	unk
+4	ட்ராபிக்	unk
+5	ராமசாமி	unk
+6	கூறுகையில்	unk
+7	,	unk
+8	"	unk
+9	ஜெயலலிதாவின்	unk
+10	உடல்நிலை	unk
+11	குறித்த	unk
+12	தகவல்களை	unk
+13	வெளியில்	unk
+14	சொல்லவிடாமல்	unk
+15	தடுப்பது	unk
+16	அவரது	unk
+17	உயிர்த்தோழி	unk
+18	எனப்படும்	unk
+19	சசிகலாதான்	unk
+20	.	unk
+</Sentence>
+<Sentence id="364">
+1	நான்	unk
+2	வழக்குத்	unk
+3	தொடர்ந்த	unk
+4	பிறகுதான்	unk
+5	முதல்வர்	unk
+6	உடல்	unk
+7	நிலை	unk
+8	குறித்து	unk
+9	இந்த	unk
+10	அளவு	unk
+11	தகவல்களையாவது	unk
+12	வெளியிட்டுள்ளார்கள்	unk
+13	.	unk
+</Sentence>
+<Sentence id="365">
+1	ஜெயலலிதா	unk
+2	உடல்	unk
+3	நலத்துக்குப்	unk
+4	பொறுப்பு	unk
+5	அப்பல்லோ	unk
+6	நிர்வாகமும்	unk
+7	,	unk
+8	சசிகலாவும்	unk
+9	.	unk
+</Sentence>
+<Sentence id="366">
+1	ஜெயலலிதாவுக்கு	unk
+2	மருத்துவமனையில்	unk
+3	ஏதேனும்	unk
+4	விபரீதம்	unk
+5	நேர்ந்தால்	unk
+6	,	unk
+7	இவர்களைச்	unk
+8	சும்மா	unk
+9	விடமாட்டேன்	unk
+10	.	unk
+</Sentence>
+<Sentence id="367">
+1	சிறையில்	unk
+2	தள்ளுவேன்	unk
+3	,	unk
+4	"	unk
+5	என்றார்	unk
+6	ஆவேசமாக	unk
+7	.	unk
+</Sentence>
+<Sentence id="368">
+1	கார்	unk
+2	திடீரென	unk
+3	பஞ்சர்	unk
+4	.	unk
+</Sentence>
+<Sentence id="369">
+1	தொண்டரின்	unk
+2	காரில்	unk
+3	விமான	unk
+4	நிலையம்	unk
+5	சென்ற	unk
+6	ஸ்டாலின்சென்னை	unk
+7	:	unk
+8	திமுக	unk
+9	பொருளாளர்	unk
+10	மு.க.ஸ்டாலினின்	unk
+11	கார்	unk
+12	திடீரென	unk
+13	பஞ்சர்	unk
+14	ஆனதால்	unk
+15	தொண்டர்	unk
+16	ஒருவரின்	unk
+17	காரில்	unk
+18	விமான	unk
+19	நிலையம்	unk
+20	சென்றார்	unk
+21	.	unk
+</Sentence>
+<Sentence id="370">
+1	சென்னையில்	unk
+2	இருந்து	unk
+3	விமானம்	unk
+4	மூலம்	unk
+5	திருச்சி	unk
+6	செல்வதற்காக	unk
+7	தனது	unk
+8	வீட்டில்	unk
+9	இருந்து	unk
+10	விமான	unk
+11	நிலையத்திற்கு	unk
+12	காரில்	unk
+13	புறப்பட்டார்	unk
+14	ஸ்டாலின்	unk
+15	.	unk
+</Sentence>
+<Sentence id="371">
+1	மீனம்பாக்கம்	unk
+2	விமான	unk
+3	நிலையம்	unk
+4	நோக்கி	unk
+5	வந்து	unk
+6	கொண்டிருந்த	unk
+7	அவரது	unk
+8	கார்	unk
+9	,	unk
+10	ஆலந்தூர்	unk
+11	கத்திப்பாரா	unk
+12	பாலம்	unk
+13	அருகே	unk
+14	திடீரென	unk
+15	'	unk
+16	பஞ்சர்	unk
+17	'	unk
+18	ஆனது	unk
+19	.	unk
+</Sentence>
+<Sentence id="372">
+1	இதனால்	unk
+2	காரை	unk
+3	தொடர்ந்து	unk
+4	ஓட்ட	unk
+5	முடியாது	unk
+6	என	unk
+7	டிரைவர்	unk
+8	கூறினார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="373">
+1	உடனே	unk
+2	காரில்	unk
+3	இருந்து	unk
+4	மு.க.ஸ்டாலின்	unk
+5	கீழே	unk
+6	இறங்கினார்	unk
+7	.	unk
+</Sentence>
+<Sentence id="374">
+1	அவரை	unk
+2	பாதுகாப்பு	unk
+3	படையினர்	unk
+4	சூழ்ந்து	unk
+5	கொண்டனர்	unk
+6	.	unk
+</Sentence>
+<Sentence id="375">
+1	இதையடுத்து	unk
+2	மு.க.ஸ்டாலின்	unk
+3	,	unk
+4	அவருக்கு	unk
+5	பின்னால்	unk
+6	வந்த	unk
+7	தி.மு.க.	unk
+8	தொண்டர்	unk
+9	ஒருவரின்	unk
+10	காரில்	unk
+11	ஏறி	unk
+12	விமான	unk
+13	நிலையத்துக்கு	unk
+14	சென்றார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="376">
+1	சென்னை	unk
+2	விமான	unk
+3	நிலையத்தில்	unk
+4	மு.க.ஸ்டாலினை	unk
+5	பேட்டி	unk
+6	எடுக்க	unk
+7	செய்தியாளர்கள்	unk
+8	காத்திருந்தனர்	unk
+9	.	unk
+</Sentence>
+<Sentence id="377">
+1	ஆனால்	unk
+2	விமானத்துக்கு	unk
+3	நேரம்	unk
+4	ஆனதால்	unk
+5	அவர்	unk
+6	செய்தியாளர்களுக்கு	unk
+7	பேட்டி	unk
+8	எதுவும்	unk
+9	தராமல்	unk
+10	அவசரமாக	unk
+11	சென்றுவிட்டார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="378">
+1	அத்தை	unk
+2	கையைப்	unk
+3	பிடித்து	unk
+4	ஆறுதல்	unk
+5	சொல்ல	unk
+6	வேண்டும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="379">
+1	கண்ணீர்	unk
+2	விட்டு	unk
+3	அழும்	unk
+4	ஜெ.	unk
+5	அண்ணன்	unk
+6	மகள்	unk
+7	சென்னை	unk
+8	:	unk
+9	அப்பல்லோ	unk
+10	மருத்துவமனையில்	unk
+11	சிகிச்சை	unk
+12	பெற்று	unk
+13	வரும்	unk
+14	முதல்வரும்	unk
+15	,	unk
+16	எனது	unk
+17	அத்தையுமான	unk
+18	ஜெயலலிதாவை	unk
+19	சந்திக்க	unk
+20	அனுமதிக்க	unk
+21	மருத்துவிட்டதாகவும்	unk
+22	,	unk
+23	மருத்துவமனையின்	unk
+24	கேட்டில்	unk
+25	இருந்து	unk
+26	திரும்பி	unk
+27	விட்டதாகவும்	unk
+28	ஜெயலலிதாவின்	unk
+29	சொந்த	unk
+30	அண்ணன்	unk
+31	ஜெயகுமாரின்	unk
+32	மகள்	unk
+33	தீபா	unk
+34	குற்றம்சாட்டியுள்ளார்	unk
+35	.	unk
+</Sentence>
+<Sentence id="380">
+1	தமிழக	unk
+2	முதல்வர்	unk
+3	ஜெயலலிதா	unk
+4	கடந்த	unk
+5	22ம்	unk
+6	தேதி	unk
+7	முதல்	unk
+8	அப்பல்லோ	unk
+9	மருத்துவமனையில்	unk
+10	சிகிச்சை	unk
+11	பெற்று	unk
+12	வருகிறார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="381">
+1	கடந்த	unk
+2	15	unk
+3	நாட்களாக	unk
+4	அவர்	unk
+5	சிகிச்சை	unk
+6	பெற்று	unk
+7	வரும்	unk
+8	நிலையில்	unk
+9	அவருடன்	unk
+10	,	unk
+11	சசிகலா	unk
+12	,	unk
+13	இளவரசி	unk
+14	ஆகியோர்	unk
+15	மட்டுமே	unk
+16	உடல்	unk
+17	இருக்கின்றனர்	unk
+18	.	unk
+</Sentence>
+<Sentence id="382">
+1	ஜெயலலிதா	unk
+2	உடல்	unk
+3	நலம்	unk
+4	பாதிக்கப்பட்டு	unk
+5	இரண்டு	unk
+6	வாரங்களாகியும்	unk
+7	இன்னும்	unk
+8	ரத்த	unk
+9	சம்பந்தப்பட்ட	unk
+10	சொந்தங்கள்	unk
+11	யாரும்	unk
+12	அவரை	unk
+13	பார்க்க	unk
+14	அனுமதிக்கவில்லை	unk
+15	.	unk
+</Sentence>
+<Sentence id="383">
+1	ஜெயலலிதாவின்	unk
+2	சொந்த	unk
+3	அண்ணன்	unk
+4	ஜெயகுமாரின்	unk
+5	மகள்	unk
+6	தீபா	unk
+7	இவர்	unk
+8	,	unk
+9	சென்னை	unk
+10	தி.	unk
+11	நகரில்	unk
+12	வசித்து	unk
+13	வருகிறார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="384">
+1	ஆங்கில	unk
+2	இலக்கியம்	unk
+3	மற்றும்	unk
+4	இதழியல்	unk
+5	படித்துள்ளார்	unk
+6	.	unk
+</Sentence>
+<Sentence id="385">
+1	இவரது	unk
+2	சகோதரர்	unk
+3	தீபக்	unk
+4	எம்.பி.ஏ	unk
+5	முடித்துவிட்டு	unk
+6	ரியல்	unk
+7	எஸ்டேட்	unk
+8	தொழில்	unk
+9	செய்து	unk
+10	வருகிறார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="386">
+1	அப்பல்லோ	unk
+2	மருத்துவமனைக்கு	unk
+3	ஜெயலலிதாவைக்	unk
+4	காண	unk
+5	தீபா	unk
+6	சென்ற	unk
+7	போது	unk
+8	கேட்டிற்குள்	unk
+9	கூட	unk
+10	யாரும்	unk
+11	விடவில்லை	unk
+12	என்று	unk
+13	குற்றம்	unk
+14	சாட்டியுள்ளார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="387">
+1	அத்தையை	unk
+2	பார்க்க	unk
+3	அனுமதியில்லை	unk
+4	பிரபல	unk
+5	ஆங்கில	unk
+6	நாளிதழுக்கு	unk
+7	அவர்	unk
+8	அளித்துள்ள	unk
+9	பேட்டியில்	unk
+10	,	unk
+11	என்	unk
+12	மீது	unk
+13	எனது	unk
+14	அத்தைக்கு	unk
+15	அளவு	unk
+16	கடந்த	unk
+17	பாசம்	unk
+18	உள்ளது	unk
+19	.	unk
+</Sentence>
+<Sentence id="388">
+1	அவரது	unk
+2	கையைப்	unk
+3	பிடித்து	unk
+4	உங்களுக்கு	unk
+5	ஒன்றும்	unk
+6	ஆகாது	unk
+7	.	unk
+</Sentence>
+<Sentence id="389">
+1	நீங்கள்	unk
+2	விரைவில்	unk
+3	குணமடைந்து	unk
+4	விடுவீர்கள்	unk
+5	என்று	unk
+6	கூற	unk
+7	நான்	unk
+8	ஆசைப்படுகிறேன்	unk
+9	.	unk
+</Sentence>
+<Sentence id="390">
+1	ஆனால்	unk
+2	,	unk
+3	என்னைப்	unk
+4	பார்க்க	unk
+5	யாரும்	unk
+6	அனுமதிக்கவில்லை	unk
+7	.	unk
+</Sentence>
+<Sentence id="391">
+1	எனது	unk
+2	அத்தைக்கு	unk
+3	உடல்	unk
+4	நலம்	unk
+5	பாதிக்கப்பட்ட	unk
+6	விஷயத்தை	unk
+7	நான்	unk
+8	பத்திரிகை	unk
+9	வாயிலாகத்தான்	unk
+10	தெரிந்து	unk
+11	கொண்டேன்	unk
+12	.	unk
+</Sentence>
+<Sentence id="392">
+1	தெரிந்த	unk
+2	பின்னர்	unk
+3	தினமும்	unk
+4	தொடர்ந்து	unk
+5	மூன்று	unk
+6	நாட்கள்	unk
+7	மருத்துவமனை	unk
+8	வாயிலுக்கு	unk
+9	சென்று	unk
+10	நின்று	unk
+11	கொண்டு	unk
+12	இருந்தேன்	unk
+13	.	unk
+</Sentence>
+<Sentence id="393">
+1	அனுமதி	unk
+2	கேட்டேன்	unk
+3	.	unk
+</Sentence>
+<Sentence id="394">
+1	ஆனால்	unk
+2	,	unk
+3	அத்தையைப்	unk
+4	பார்க்க	unk
+5	என்னை	unk
+6	அனுமதிக்கவில்லை	unk
+7	.	unk
+</Sentence>
+<Sentence id="395">
+1	அங்கு	unk
+2	இருந்தவர்களும்	unk
+3	நான்	unk
+4	எதோ	unk
+5	அரசியல்வாதியின்	unk
+6	சொந்தம்	unk
+7	என்று	unk
+8	நினைத்துக்	unk
+9	கொண்டனர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="396">
+1	என்னை	unk
+2	உள்ளே	unk
+3	விட்டால்தான்	unk
+4	நான்	unk
+5	இந்த	unk
+6	இடத்தை	unk
+7	விட்டுப்	unk
+8	போவேன்	unk
+9	.	unk
+</Sentence>
+<Sentence id="397">
+1	இல்லையென்றால்	unk
+2	போகமாட்டேன்	unk
+3	என்று	unk
+4	கூறி	unk
+5	நின்று	unk
+6	கொண்டு	unk
+7	இருந்தேன்	unk
+8	.	unk
+</Sentence>
+<Sentence id="398">
+1	அப்படி	unk
+2	கூறியும்	unk
+3	,	unk
+4	என்னை	unk
+5	அனுமதிக்கவில்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="399">
+1	என்னை	unk
+2	உயர்	unk
+3	அதிகாரிகள்	unk
+4	தொடர்பு	unk
+5	கொள்வார்கள்	unk
+6	என்று	unk
+7	கூறினார்கள்	unk
+8	.	unk
+</Sentence>
+<Sentence id="400">
+1	ஆனால்	unk
+2	,	unk
+3	இதுவரை	unk
+4	யாரும்	unk
+5	என்னை	unk
+6	அழைக்கவில்லை	unk
+7	எங்களுடைய	unk
+8	அப்பா	unk
+9	கடந்த	unk
+10	1995ஆம்	unk
+11	ஆண்டில்	unk
+12	இறந்தபோது	unk
+13	எனது	unk
+14	அத்தை	unk
+15	எங்களது	unk
+16	வீட்டுக்கு	unk
+17	வந்து	unk
+18	இருந்தார்	unk
+19	.	unk
+</Sentence>
+<Sentence id="401">
+1	சிலர்	unk
+2	எனது	unk
+3	அத்தையை	unk
+4	எங்களது	unk
+5	சொந்த	unk
+6	பந்தத்தில்	unk
+7	இருந்து	unk
+8	விலக்கி	unk
+9	வைத்து	unk
+10	விட்டனர்	unk
+11	.	unk
+</Sentence>
+<Sentence id="402">
+1	கடந்த	unk
+2	2012ஆம்	unk
+3	ஆண்டில்	unk
+4	எனது	unk
+5	அம்மா	unk
+6	விஜயலட்சுமி	unk
+7	உடல்	unk
+8	நலம்	unk
+9	பாதிக்கப்பட்டு	unk
+10	இருந்தபோது	unk
+11	,	unk
+12	என்னால்	unk
+13	எனது	unk
+14	அத்தையை	unk
+15	தொடர்பு	unk
+16	கொள்ள	unk
+17	முடியவில்லை	unk
+18	.	unk
+</Sentence>
+<Sentence id="403">
+1	எனது	unk
+2	அத்தைக்கு	unk
+3	உடல்	unk
+4	நலம்	unk
+5	பாதிக்கப்பட்டு	unk
+6	இரண்டு	unk
+7	வாரங்களாகியும்	unk
+8	அவருக்கு	unk
+9	என்ன	unk
+10	நடந்தது	unk
+11	என்று	unk
+12	இதுவரை	unk
+13	யாருக்கும்	unk
+14	தெரியவில்லை	unk
+15	.	unk
+</Sentence>
+<Sentence id="404">
+1	இது	unk
+2	மிகவும்	unk
+3	மோசமான	unk
+4	சூழ்நிலை	unk
+5	.	unk
+</Sentence>
+<Sentence id="405">
+1	இதுகுறித்து	unk
+2	விசாரணை	unk
+3	மேற்கொள்ள	unk
+4	வேண்டும்	unk
+5	.	unk
+</Sentence>
+<Sentence id="406">
+1	யார்	unk
+2	இந்த	unk
+3	ரகசியத்துக்கு	unk
+4	பின்னணியில்	unk
+5	உள்ளனர்	unk
+6	என்பதை	unk
+7	கண்டறிய	unk
+8	வேண்டும்	unk
+9	என்று	unk
+10	கண்ணீருடன்	unk
+11	கூறியுள்ளார்	unk
+12	.	unk
+</Sentence>
+<Sentence id="407">
+1	அரசியல்	unk
+2	தலைவர்களின்	unk
+3	அடுத்தடுத்த	unk
+4	அப்பல்லோ	unk
+5	விசிட்	unk
+6	.	unk
+</Sentence>
+<Sentence id="408">
+1	பின்னணியில்	unk
+2	பரபரப்பு	unk
+3	காரணம்	unk
+4	!	unk
+</Sentence>
+<Sentence id="409">
+1	சென்னை	unk
+2	:	unk
+3	தமிழக	unk
+4	முதல்வர்	unk
+5	ஜெயலலிதா	unk
+6	கடந்த	unk
+7	22ம்	unk
+8	தேதி	unk
+9	முதல்	unk
+10	சென்னை	unk
+11	,	unk
+12	அப்பல்லோ	unk
+13	மருத்துவமனையில்	unk
+14	,	unk
+15	சிகிச்சை	unk
+16	பெற்று	unk
+17	வருகிறார்	unk
+18	.	unk
+</Sentence>
+<Sentence id="410">
+1	இதுவரை	unk
+2	அவரை	unk
+3	நேரில்	unk
+4	பார்த்து	unk
+5	நலம்	unk
+6	விசாரித்ததாக	unk
+7	உள்ளே	unk
+8	சென்று	unk
+9	திரும்பிய	unk
+10	,	unk
+11	ஆளுநர்	unk
+12	முதல்	unk
+13	எந்த	unk
+14	ஒரு	unk
+15	பிரமுகர்களும்	unk
+16	தெரிவிக்கவில்லை	unk
+17	.	unk
+</Sentence>
+<Sentence id="411">
+1	ஆளுநரே	unk
+2	போய்	unk
+3	பார்த்த	unk
+4	பிறகும்	unk
+5	,	unk
+6	வதந்திகள்	unk
+7	என்னவோ	unk
+8	றெக்கை	unk
+9	கட்டி	unk
+10	பறந்தபடிதான்	unk
+11	இருந்தன	unk
+12	.	unk
+</Sentence>
+<Sentence id="412">
+1	அதிமுக	unk
+2	கட்சியினரும்	unk
+3	,	unk
+4	அப்பல்லோ	unk
+5	மருத்துவமனையும்	unk
+6	,	unk
+7	முதல்வர்	unk
+8	நலமாக	unk
+9	இருக்கிறார்	unk
+10	என	unk
+11	எத்தனை	unk
+12	முறை	unk
+13	சொல்லிப்	unk
+14	பார்த்தும்	unk
+15	வதந்தி	unk
+16	பரப்பும்	unk
+17	விஷமிகள்	unk
+18	அடங்குவதாக	unk
+19	இல்லை	unk
+20	.	unk
+</Sentence>
+<Sentence id="413">
+1	வதந்திகள்	unk
+2	உச்சம்	unk
+3	பெறும்போதெல்லாம்	unk
+4	,	unk
+5	அறிக்கை	unk
+6	அளித்து	unk
+7	அப்பல்லோ	unk
+8	நிர்வாகிகளின்	unk
+9	கரங்கள்	unk
+10	சோர்ந்து	unk
+11	போனதுதான்	unk
+12	மிச்சம்	unk
+13	.	unk
+</Sentence>
+<Sentence id="414">
+1	அப்போதுதான்	unk
+2	,	unk
+3	களமிறங்கியது	unk
+4	மாநில	unk
+5	உளவுத்துறை	unk
+6	.	unk
+</Sentence>
+<Sentence id="415">
+1	உளவுத்துறை	unk
+2	முதலில்	unk
+3	களமிறக்கியது	unk
+4	விடுதலை	unk
+5	சிறுத்தைகள்	unk
+6	கட்சி	unk
+7	தலைவர்	unk
+8	தொல்	unk
+9	.	unk
+</Sentence>
+<Sentence id="416">
+1	திருமாவளவனைத்தான்	unk
+2	.	unk
+</Sentence>
+<Sentence id="417">
+1	அநேகமாக	unk
+2	பாமக	unk
+3	தவிர்த்து	unk
+4	எல்லா	unk
+5	கட்சியினர்	unk
+6	மத்தியிலும்	unk
+7	திருமாவளவனுக்கு	unk
+8	நல்ல	unk
+9	மதிப்பு	unk
+10	இருப்பது	unk
+11	உளவுத்துறை	unk
+12	அறியாதது	unk
+13	கிடையாது	unk
+14	.	unk
+</Sentence>
+<Sentence id="418">
+1	எனவே	unk
+2	அவர்	unk
+3	அப்பல்லோ	unk
+4	சென்று	unk
+5	பேட்டியளித்தாலாவது	unk
+6	வதந்திகள்	unk
+7	தணியும்	unk
+8	என்பதே	unk
+9	,	unk
+10	உளவுத்துறை	unk
+11	கணிப்பு	unk
+12	.	unk
+</Sentence>
+<Sentence id="419">
+1	இதற்காகவே	unk
+2	அவரை	unk
+3	அப்பல்லோ	unk
+4	வர	unk
+5	அப்பாயின்மென்ட்	unk
+</Sentence>
+<Sentence id="420">
+1	அதிமுக	unk
+2	எமெலேக்களே	unk
+3	அப்பல்லோவின்	unk
+4	வெளியே	unk
+5	நடமாடிக்கொண்டிருக்கும்போது	unk
+6	,	unk
+7	மக்கள்	unk
+8	நல	unk
+9	கூட்டணியை	unk
+10	சேர்ந்த	unk
+11	திருமாவளவனுக்கு	unk
+12	உள்ளே	unk
+13	செல்ல	unk
+14	எப்படி	unk
+15	வாய்ப்பு	unk
+16	கிடைத்தது	unk
+17	என்ற	unk
+18	கேள்விக்கான	unk
+19	விடை	unk
+20	உளவுத்துறைதான்	unk
+21	என்கிறார்கள்	unk
+22	விவரம்	unk
+23	அறிந்தோர்	unk
+24	.	unk
+</Sentence>
+<Sentence id="421">
+1	ஆனால்	unk
+2	அவர்	unk
+3	அப்பல்லோ	unk
+4	வாசலில்	unk
+5	அளித்த	unk
+6	பேட்டியில்	unk
+7	,	unk
+8	முதல்வரை	unk
+9	தான்	unk
+10	பார்க்கவில்லை	unk
+11	என்றும்	unk
+12	,	unk
+13	அதிமுக	unk
+14	'	unk
+15	தலைவர்கள்	unk
+16	'	unk
+17	,	unk
+18	முதல்வர்	unk
+19	நலமாக	unk
+20	இருப்பதாக	unk
+21	தன்னிடம்	unk
+22	கூறியதாகவும்	unk
+23	பேட்டியளித்தார்	unk
+24	.	unk
+</Sentence>
+<Sentence id="422">
+1	திருமாவளவன்	unk
+2	பேட்டி	unk
+3	,	unk
+4	சமூக	unk
+5	ஊடகவாசிகளின்	unk
+6	கேலிக்குதான்	unk
+7	ஆளானது	unk
+8	.	unk
+</Sentence>
+<Sentence id="423">
+1	அப்பல்லோ	unk
+2	ஆஸ்பத்திரியில்	unk
+3	கெடுபிடி	unk
+4	இல்லை	unk
+5	என்று	unk
+6	யாரோ	unk
+7	சொல்லி	unk
+8	கொடுத்ததை	unk
+9	போல	unk
+10	பேட்டியளித்த	unk
+11	திருமாவளவன்	unk
+12	,	unk
+13	எதற்காக	unk
+14	கெடுபிடி	unk
+15	இல்லாத	unk
+16	இடத்தில்	unk
+17	கூட	unk
+18	முதல்வரை	unk
+19	பார்க்கவில்லை	unk
+20	என	unk
+21	கேள்விகள்	unk
+22	எழுந்தன	unk
+23	.	unk
+</Sentence>
+<Sentence id="424">
+1	அதிமுகவில்	unk
+2	ஜெயலலிதாவை	unk
+3	தவிர்த்து	unk
+4	வேறு	unk
+5	யார்	unk
+6	தலைவர்	unk
+7	என்றும்	unk
+8	கேள்விகள்	unk
+9	எழுந்தன	unk
+10	.	unk
+</Sentence>
+<Sentence id="425">
+1	வதந்திக்கு	unk
+2	முற்றுப்புள்ளி	unk
+3	வைக்கலாம்	unk
+4	என	unk
+5	பார்த்தால்	unk
+6	இப்படி	unk
+7	திருமாவை	unk
+8	கேலி	unk
+9	செய்ய	unk
+10	ஆரம்பித்துவிட்டார்களே	unk
+11	என	unk
+12	நினைத்த	unk
+13	உளவுத்துறை	unk
+14	,	unk
+15	அடுத்ததாக	unk
+16	இந்திய	unk
+17	கம்யூனிஸ்ட்	unk
+18	கட்சியின்	unk
+19	மூத்த	unk
+20	தலைவர்	unk
+21	தா.பாண்டியன்	unk
+22	,	unk
+23	தமிழக	unk
+24	வாழ்வுரிமை	unk
+25	கட்சியின்	unk
+26	தலைவர்	unk
+27	வேல்முருகன்	unk
+28	,	unk
+29	நாம்	unk
+30	தமிழர்	unk
+31	சீமான்	unk
+32	என	unk
+33	வரிசையாக	unk
+34	அனைவருக்கும்	unk
+35	வரவேற்பு	unk
+36	கொடுத்து	unk
+37	அப்பல்லோ	unk
+38	வரை	unk
+39	அழைத்து	unk
+40	வந்ததாக	unk
+41	கூறப்படுகிறது	unk
+42	.	unk
+</Sentence>
+<Sentence id="426">
+1	அவர்களும்	unk
+2	,	unk
+3	ஒரே	unk
+4	மாதிரி	unk
+5	பேட்டியளித்துவிட்டு	unk
+6	இடத்தை	unk
+7	காலி	unk
+8	செய்துவிட்டனர்	unk
+9	.	unk
+</Sentence>
+<Sentence id="427">
+1	ஜம்மு	unk
+2	காஷ்மீர்	unk
+3	எல்லையில்	unk
+4	1,300	unk
+5	பேர்	unk
+6	வெளியேற்றம்	unk
+7	.	unk
+</Sentence>
+<Sentence id="428">
+1	ஜம்மு	unk
+2	-	unk
+3	ஜம்மு	unk
+4	காஷ்மீரில்	unk
+5	ரஜவுரி	unk
+6	மாவட்ட	unk
+7	,	unk
+8	கட்டுப்பாட்டு	unk
+9	எல்லைக்	unk
+10	கோட்டு	unk
+11	பகுதியில்	unk
+12	பாகிஸ்தான்	unk
+13	படைகள்	unk
+14	பல	unk
+15	மணி	unk
+16	நேரம்	unk
+17	தாக்குதலில்	unk
+18	ஈடுபட்டதை	unk
+19	தொடர்ந்து	unk
+20	,	unk
+21	1300-க்கும்	unk
+22	மேற்பட்டோர்	unk
+23	அங்கிருந்து	unk
+24	வெளியேற்றப்பட்டனர்	unk
+25	.	unk
+</Sentence>
+<Sentence id="429">
+1	நவ்ஷெரா	unk
+2	பகுதியில்	unk
+3	உள்ள	unk
+4	கல்சியான்	unk
+5	என்ற	unk
+6	கிராமத்தைச்	unk
+7	சேர்ந்த	unk
+8	இவர்கள்	unk
+9	பாதுகாப்பான	unk
+10	இடங்களில்	unk
+11	தங்க	unk
+12	வைக்கப்பட்டுள்ளதாக	unk
+13	அதிகாரிகள்	unk
+14	தெரிவித்தனர்	unk
+15	.	unk
+</Sentence>
+<Sentence id="430">
+1	கட்டுப்பாட்டு	unk
+2	எல்லைக்	unk
+3	கோட்டுக்கு	unk
+4	மிக	unk
+5	அருகில்	unk
+6	உள்ள	unk
+7	இந்த	unk
+8	கிராமத்தில்	unk
+9	2	unk
+10	ஆயிரத்துக்கும்	unk
+11	மேற்பட்டோர்	unk
+12	வசிக்கின்றனர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="431">
+1	இந்நிலையில்	unk
+2	பாகிஸ்தான்	unk
+3	படைகளின்	unk
+4	தாக்குதல்	unk
+5	அபாயம்	unk
+6	கருதி	unk
+7	இவர்கள்	unk
+8	அப்புறப்படுத்தப்பட்டதாக	unk
+9	அதிகாரிகள்	unk
+10	தெரிவித்தனர்	unk
+11	.	unk
+</Sentence>
+<Sentence id="432">
+1	இதனிடையே	unk
+2	ஜம்மு	unk
+3	,	unk
+4	பூஞ்ச்	unk
+5	,	unk
+6	ரஜவுரி	unk
+7	மாவட்ட	unk
+8	,	unk
+9	கட்டுப்பாட்டு	unk
+10	எல்லைக்	unk
+11	கோட்டுப்	unk
+12	பகுதியில்	unk
+13	இரவு	unk
+14	அமைதி	unk
+15	நிலவியதாகவும்	unk
+16	பாகிஸ்தான்	unk
+17	படையினரின்	unk
+18	அத்துமீறல்	unk
+19	எதுவுமில்லை	unk
+20	என்றும்	unk
+21	ராணுவ	unk
+22	செய்தித்	unk
+23	தொடர்	unk
+24	பாளர்	unk
+25	தெரிவித்தார்	unk
+26	.	unk
+</Sentence>
+<Sentence id="433">
+1	காவிரி	unk
+2	பிரச்சினையில்	unk
+3	பிரதமர்	unk
+4	நேரடியாக	unk
+5	தலையிட	unk
+6	வேண்டும்	unk
+7	நாராயணசாமி	unk
+8	பேட்டி	unk
+9	.	unk
+</Sentence>
+<Sentence id="434">
+1	ஆலந்தூர்	unk
+2	,	unk
+3	புதுச்சேரி	unk
+4	மாநில	unk
+5	முதல்–அமைச்சர்	unk
+6	நாராயணசாமி	unk
+7	,	unk
+8	டெல்லி	unk
+9	செல்லும்	unk
+10	முன்	unk
+11	சென்னை	unk
+12	விமான	unk
+13	நிலையத்தில்	unk
+14	நிருபர்களிடம்	unk
+15	கூறியதாவது	unk
+16	:	unk
+17	–	unk
+18	புதுச்சேரி	unk
+19	,	unk
+20	தமிழகத்துக்கு	unk
+21	கர்நாடக	unk
+22	அரசு	unk
+23	காவிரி	unk
+24	நதிநீர்	unk
+25	திறந்துவிடவேண்டும்	unk
+26	என்ற	unk
+27	வழக்கு	unk
+28	உச்சநீதிமன்றத்தில்	unk
+29	உள்ளது	unk
+30	.	unk
+</Sentence>
+<Sentence id="435">
+1	காவிரி	unk
+2	நதிநீர்	unk
+3	கண்காணிப்பு	unk
+4	குழுவை	unk
+5	உச்சநீதிமன்றம்	unk
+6	அமைத்து	unk
+7	உள்ளது	unk
+8	.	unk
+</Sentence>
+<Sentence id="436">
+1	இதில்	unk
+2	தமிழ்நாடு	unk
+3	,	unk
+4	கேரளா	unk
+5	,	unk
+6	கர்நாடக	unk
+7	மாநில	unk
+8	தலைமை	unk
+9	செயலாளர்கள்	unk
+10	,	unk
+11	புதுச்சேரி	unk
+12	மாநில	unk
+13	தலைமை	unk
+14	பொறியாளர்	unk
+15	ஆகியோர்	unk
+16	இடம்பெற்று	unk
+17	உள்ளனர்	unk
+18	.	unk
+</Sentence>
+<Sentence id="437">
+1	இந்த	unk
+2	குழு	unk
+3	டெல்லியில்	unk
+4	கூட	unk
+5	உள்ளது	unk
+6	.	unk
+</Sentence>
+<Sentence id="438">
+1	கர்நாடக	unk
+2	அரசு	unk
+3	காவிரி	unk
+4	நீரை	unk
+5	முறையாக	unk
+6	திறந்து	unk
+7	விட்டால்	unk
+8	புதுவைக்கு	unk
+9	7	unk
+10	டி.எம்.சி.	unk
+11	தண்ணீரை	unk
+12	தமிழகம்	unk
+13	திறந்து	unk
+14	விடும்	unk
+15	.	unk
+</Sentence>
+<Sentence id="439">
+1	ஆனால்	unk
+2	உச்சநீதிமன்றம்	unk
+3	போட்ட	unk
+4	உத்தரவை	unk
+5	கர்நாடக	unk
+6	அரசு	unk
+7	மீறி	unk
+8	செயல்பட்டு	unk
+9	உள்ளது	unk
+10	.	unk
+</Sentence>
+<Sentence id="440">
+1	கர்நாடக	unk
+2	அரசு	unk
+3	,	unk
+4	மத்திய	unk
+5	அரசின்	unk
+6	அனுமதி	unk
+7	இன்றி	unk
+8	ஒரு	unk
+9	சில	unk
+10	தடுப்பு	unk
+11	அணைகளை	unk
+12	கட்டி	unk
+13	நீரை	unk
+14	தேக்கி	unk
+15	வைத்து	unk
+16	உள்ளது	unk
+17	.	unk
+</Sentence>
+<Sentence id="441">
+1	இதுபற்றி	unk
+2	கண்காணிப்பு	unk
+3	குழுவிடம்	unk
+4	கூறுவோம்	unk
+5	.	unk
+</Sentence>
+<Sentence id="442">
+1	நான்	unk
+2	பிரதமரை	unk
+3	சந்திக்க	unk
+4	அனுமதி	unk
+5	வாங்கி	unk
+6	உள்ளேன்	unk
+7	.	unk
+</Sentence>
+<Sentence id="443">
+1	அப்போது	unk
+2	அவரிடம்	unk
+3	காவிரி	unk
+4	பிரச்சினை	unk
+5	குறித்து	unk
+6	முறையிடுவேன்	unk
+7	.	unk
+</Sentence>
+<Sentence id="444">
+1	காவிரி	unk
+2	பிரச்சினையில்	unk
+3	பிரதமர்	unk
+4	நேரடியாக	unk
+</Sentence>
+<Sentence id="445">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியத்தை	unk
+4	மத்திய	unk
+5	அரசு	unk
+6	அமைக்க	unk
+7	வேண்டும்	unk
+8	.	unk
+</Sentence>
+<Sentence id="446">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	கூறினார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="447">
+1	நியூசிலாந்துக்கு	unk
+2	எதிரான	unk
+3	ஒருநாள்	unk
+4	கிரிக்கெட்	unk
+5	:	unk
+6	இந்திய	unk
+7	அணி	unk
+8	இன்று	unk
+9	தேர்வு	unk
+10	.	unk
+</Sentence>
+<Sentence id="448">
+1	புதுடெல்லி	unk
+2	,	unk
+3	இந்தியா–நியூசிலாந்து	unk
+4	அணிகள்	unk
+5	இடையிலான	unk
+6	டெஸ்ட்	unk
+7	போட்டி	unk
+8	தொடர்	unk
+9	முடிந்ததும்	unk
+10	,	unk
+11	இரு	unk
+12	அணிகள்	unk
+13	இடையே	unk
+14	5	unk
+15	ஆட்டங்கள்	unk
+16	கொண்ட	unk
+17	ஒருநாள்	unk
+18	போட்டி	unk
+19	தொடர்	unk
+20	நடைபெறுகிறது	unk
+21	.	unk
+</Sentence>
+<Sentence id="449">
+1	இதில்	unk
+2	முதலாவது	unk
+3	ஒருநாள்	unk
+4	கிரிக்கெட்	unk
+5	போட்டி	unk
+6	தர்மசாலாவில்	unk
+7	வருகிற	unk
+8	16–ந்	unk
+9	தேதி	unk
+10	நடக்கிறது	unk
+11	.	unk
+</Sentence>
+<Sentence id="450">
+1	நியூசிலாந்துக்கு	unk
+2	எதிரான	unk
+3	ஒருநாள்	unk
+4	போட்டி	unk
+5	தொடருக்கான	unk
+6	இந்திய	unk
+7	கிரிக்கெட்	unk
+8	அணி	unk
+9	தேர்வு	unk
+10	டெல்லியில்	unk
+11	இன்று	unk
+12	(	unk
+13	வியாழக்கிழமை	unk
+14	)	unk
+15	மாலை	unk
+16	4	unk
+17	மணிக்கு	unk
+18	நடக்கிறது	unk
+19	.	unk
+</Sentence>
+<Sentence id="451">
+1	எம்.எஸ்.கே.பிரசாத்	unk
+2	தலைமையிலான	unk
+3	புதிய	unk
+4	தேர்வு	unk
+5	குழுவினர்	unk
+6	செய்யும்	unk
+7	முதல்	unk
+8	அணி	unk
+9	தேர்வு	unk
+10	இதுவாகும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="452">
+1	கேப்டனாக	unk
+2	டோனி	unk
+3	தொடருவார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="453">
+1	உடல்	unk
+2	தகுதியை	unk
+3	நிரூபிக்கும்	unk
+4	படி	unk
+5	யுவராஜ்சிங்	unk
+6	ஏற்கனவே	unk
+7	அறிவுறுத்தப்பட்டு	unk
+8	இருந்தார்	unk
+9	.	unk
+</Sentence>
+<Sentence id="454">
+1	இதனால்	unk
+2	அவருக்கு	unk
+3	அணியில்	unk
+4	இடம்	unk
+5	கிடைக்கலாம்	unk
+6	என்று	unk
+7	எதிர்பார்க்கப்படுகிறது	unk
+8	.	unk
+</Sentence>
+<Sentence id="455">
+1	ஷிகர்	unk
+2	தவான்	unk
+3	,	unk
+4	லோகேஷ்	unk
+5	ராகுல்	unk
+6	ஆகியோர்	unk
+7	காயம்	unk
+8	அடைந்து	unk
+9	இருப்பதால்	unk
+10	அவர்களுக்கு	unk
+11	பதிலாக	unk
+12	இளம்	unk
+13	வீரர்களுக்கு	unk
+14	வாய்ப்பு	unk
+15	அளிக்கப்படலாம்	unk
+16	என்று	unk
+17	தெரிகிறது	unk
+</Sentence>
+<Sentence id="456">
+1	ஐக்கிய	unk
+2	முற்போக்கு	unk
+3	கூட்டணி	unk
+4	ஆட்சியின்போது	unk
+5	4	unk
+6	முறை	unk
+7	‘	unk
+8	சர்ஜிகல்	unk
+9	’	unk
+10	தாக்குதல்	unk
+11	நடந்தது	unk
+12	:	unk
+13	சரத்பவார்	unk
+14	.	unk
+</Sentence>
+<Sentence id="457">
+1	நாக்பூர்	unk
+2	,	unk
+3	தேசியவாத	unk
+4	காங்கிரஸ்	unk
+5	தலைவர்	unk
+6	சரத்பவார்	unk
+7	நேற்று	unk
+8	நாக்பூரில்	unk
+9	நிருபர்களுக்கு	unk
+10	அளித்த	unk
+11	பேட்டியில்	unk
+12	கூறியதாவது	unk
+13	:	unk
+14	–ஐக்கிய	unk
+15	முற்போக்கு	unk
+16	கூட்டணி	unk
+17	ஆட்சியின்போது	unk
+18	நான்கு	unk
+19	முறை	unk
+20	‘	unk
+21	சர்ஜிகல்	unk
+22	’	unk
+23	தாக்குதல்	unk
+24	நடந்தது	unk
+25	.	unk
+</Sentence>
+<Sentence id="458">
+1	இருந்தாலும்	unk
+2	,	unk
+3	அதனை	unk
+4	நாங்கள்	unk
+5	விளம்பரப்படுத்தவில்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="459">
+1	மியான்மருக்கு	unk
+2	எதிராக	unk
+3	.	unk
+</Sentence>
+<Sentence id="460">
+1	எங்கள்	unk
+2	அரசு	unk
+3	‘	unk
+4	சர்ஜிகல்	unk
+5	’	unk
+6	தாக்குதல்	unk
+7	மேற்கொண்டது	unk
+8	.	unk
+</Sentence>
+<Sentence id="461">
+1	ஆனால்	unk
+2	,	unk
+3	அந்த	unk
+4	நடவடிக்கை	unk
+5	வரையறைக்கு	unk
+6	உட்பட்டது	unk
+7	.	unk
+</Sentence>
+<Sentence id="462">
+1	அதனை	unk
+2	வைத்து	unk
+3	நாங்கள்	unk
+4	ஆதாயம்	unk
+5	பெற	unk
+6	ஒருபோதும்	unk
+7	முயற்சிக்கவிலை	unk
+8	.	unk
+</Sentence>
+<Sentence id="463">
+1	எனவே	unk
+2	பாகிஸ்தான்	unk
+3	மீது	unk
+4	மேற்கொண்ட	unk
+5	‘	unk
+6	சர்ஜிகல்	unk
+7	’	unk
+8	தாக்குதலை	unk
+9	அறிவிக்காமல்	unk
+10	பாரதீய	unk
+11	ஜனதா	unk
+12	தலைவர்கள்	unk
+13	தவிர்த்திருக்கலாம்	unk
+14	.	unk
+</Sentence>
+<Sentence id="464">
+1	இவ்வாறு	unk
+2	சரத்பவார்	unk
+3	தெரிவித்தார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="465">
+1	மேலும்	unk
+2	,	unk
+3	சர்ஜிகல்	unk
+4	தாக்குதல்	unk
+5	விவகாரத்தில்	unk
+6	மோடி	unk
+7	அரசுக்கு	unk
+8	பாராட்டு	unk
+9	தெரிவித்த	unk
+10	முன்னாள்	unk
+11	மத்திய	unk
+12	மந்திரியான	unk
+13	சரத்பவார்	unk
+14	,	unk
+15	‘	unk
+16	‘	unk
+17	சில	unk
+18	விஷயங்களை	unk
+19	பகிரங்கப்படுத்த	unk
+20	கூடாது	unk
+21	’’	unk
+22	என்று	unk
+23	ஆலோசனை	unk
+24	கூறினார்	unk
+25	.	unk
+</Sentence>
+<Sentence id="466">
+1	மத்திய	unk
+2	பிரதேசத்தில்	unk
+3	இருந்து	unk
+4	டெல்லி	unk
+5	மேல்–சபை	unk
+6	எம்.பி.யாக	unk
+7	இல.கணேசன்	unk
+8	போட்டியின்றி	unk
+9	தேர்வு	unk
+10	.	unk
+</Sentence>
+<Sentence id="467">
+1	மத்திய	unk
+2	பிரதேசத்தில்	unk
+3	இருந்து	unk
+4	டெல்லி	unk
+5	மேல்–சபை	unk
+6	எம்.பி.யாக	unk
+7	இல.கணேசன்	unk
+8	போட்டியின்றி	unk
+9	தேர்ந்து	unk
+10	எடுக்கப்பட்டார்	unk
+11	.	unk
+</Sentence>
+<Sentence id="468">
+1	மேல்–சபை	unk
+2	எம்.பி.	unk
+3	பதவி	unk
+4	மத்திய	unk
+5	பிரதேசத்தில்	unk
+6	இருந்து	unk
+7	பாரதீய	unk
+8	ஜனதா	unk
+9	சார்பில்	unk
+10	டெல்லி	unk
+11	மேல்–சபைக்கு	unk
+12	உறுப்பினராக	unk
+13	தேர்ந்து	unk
+14	எடுக்கப்பட்ட	unk
+15	நஜ்மா	unk
+16	ஹெப்துல்லாவின்	unk
+17	பதவிக்காலம்	unk
+18	2018–ம்	unk
+19	ஆண்டு	unk
+20	ஏப்ரல்	unk
+21	2–ந்தேதி	unk
+22	வரை	unk
+23	உள்ள	unk
+24	நிலையில்	unk
+25	,	unk
+26	மத்திய	unk
+27	அரசு	unk
+28	அவரை	unk
+29	மணிப்பூர்	unk
+30	மாநில	unk
+31	கவர்னராக	unk
+32	நியமித்தது	unk
+33	.	unk
+</Sentence>
+<Sentence id="469">
+1	இதைத்தொடர்ந்து	unk
+2	கடந்த	unk
+3	ஆகஸ்டு	unk
+4	மாதம்	unk
+5	20–ந்தேதி	unk
+6	,	unk
+7	அவர்	unk
+8	தனது	unk
+9	டெல்லி	unk
+10	மேல்–சபை	unk
+11	உறுப்பினர்	unk
+12	பதவியை	unk
+13	ராஜினாமா	unk
+14	செய்தார்	unk
+15	.	unk
+</Sentence>
+<Sentence id="470">
+1	இல.கணேசன்	unk
+2	மனு	unk
+3	தாக்கல்	unk
+4	எனவே	unk
+5	,	unk
+6	காலியான	unk
+7	அந்த	unk
+8	ஒரு	unk
+9	இடத்துக்கு	unk
+10	இடைத்தேர்தல்	unk
+11	நடத்தி	unk
+12	புதிய	unk
+13	உறுப்பினரை	unk
+14	தேர்ந்து	unk
+15	எடுக்க	unk
+16	முடிவு	unk
+17	செய்யப்பட்டது	unk
+18	.	unk
+</Sentence>
+<Sentence id="471">
+1	அந்த	unk
+2	ஒரு	unk
+3	இடத்துக்கு	unk
+4	பாரதீய	unk
+5	ஜனதா	unk
+6	மூத்த	unk
+7	தலைவர்களில்	unk
+8	ஒருவரான	unk
+9	தமிழகத்தைச்	unk
+10	சேர்ந்த	unk
+11	இல.கணேசனை	unk
+12	அக்கட்சி	unk
+13	மேலிடம்	unk
+14	வேட்பாளராக	unk
+15	அறிவித்தது	unk
+16	.	unk
+</Sentence>
+<Sentence id="472">
+1	இதைத்தொடர்ந்து	unk
+2	இல.கணேசன்	unk
+3	போபால்	unk
+4	சென்று	unk
+5	தனது	unk
+6	வேட்பு	unk
+7	மனுவை	unk
+8	தாக்கல்	unk
+9	செய்தார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="473">
+1	இந்த	unk
+2	இடைத்தேர்தலில்	unk
+3	வேட்பு	unk
+4	மனுவை	unk
+5	வாபஸ்	unk
+6	பெறுவதற்கு	unk
+7	நேற்று	unk
+8	கடைசி	unk
+9	நாள்	unk
+10	ஆகும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="474">
+1	போட்டியின்றி	unk
+2	தேர்வு	unk
+3	இல.கணேசனை	unk
+4	தவிர	unk
+5	வேறு	unk
+6	யாரும்	unk
+7	வேட்பு	unk
+8	மனு	unk
+9	தாக்கல்	unk
+10	செய்யாததால்	unk
+11	,	unk
+12	அவர்	unk
+13	டெல்லி	unk
+14	மேல்–சபை	unk
+15	எம்.பி.யாக	unk
+16	போட்டியின்றி	unk
+17	தேர்ந்து	unk
+18	எடுக்கப்பட்டதாக	unk
+19	தேர்தல்	unk
+20	அதிகாரியும்	unk
+21	,	unk
+22	மத்திய	unk
+23	பிரதேச	unk
+24	சட்டசபையின்	unk
+25	முதன்மைச்	unk
+26	செயலாளருமான	unk
+27	ஏ.பி.சிங்	unk
+28	நேற்று	unk
+29	அறிவித்தார்	unk
+30	.	unk
+</Sentence>
+<Sentence id="475">
+1	அப்போது	unk
+2	இல.கணேசன்	unk
+3	,	unk
+4	போபால்	unk
+5	தொகுதியின்	unk
+6	பாரதீய	unk
+7	ஜனதா	unk
+8	எம்.பி.	unk
+9	அலோக்	unk
+10	சஞ்சார்	unk
+11	ஆகியோர்	unk
+12	அவருடன்	unk
+13	இருந்தனர்	unk
+14	.	unk
+</Sentence>
+<Sentence id="476">
+1	சட்டசபையை	unk
+2	முடக்கி	unk
+3	வைக்க	unk
+4	சுப்ரமணியசாமி	unk
+5	ஆசை.	unk
+6	புதுடில்லி	unk
+7	:	unk
+8	முதல்வர்	unk
+9	ஜெயலலிதா	unk
+10	உடல்நலம்	unk
+11	தேறும்	unk
+12	வரை	unk
+13	,	unk
+14	சட்டசபையை	unk
+15	6	unk
+16	மாதம்	unk
+17	முடக்கி	unk
+</Sentence>
+<Sentence id="477">
+1	இது	unk
+2	தொடர்பாக	unk
+3	அவர்	unk
+4	எழுதியுள்ள	unk
+5	கடிதத்தில்	unk
+6	கூறியுள்ளதாவது	unk
+7	:	unk
+8	முதல்வர்	unk
+9	ஜெ	unk
+10	,	unk
+11	உடல்நலக்குறைவால்	unk
+12	,	unk
+13	அரசில்	unk
+14	ஒழுங்கற்ற	unk
+15	நிலை	unk
+16	ஏற்பட்டுள்ளது	unk
+17	.	unk
+</Sentence>
+<Sentence id="478">
+1	ஓய்வு	unk
+2	பெற்ற	unk
+3	தலைமை	unk
+4	செயலாளர்	unk
+5	அரசை	unk
+6	வழிநடத்துகிறார்	unk
+7	.	unk
+</Sentence>
+<Sentence id="479">
+1	இதுபோன்ற	unk
+2	சூழ்நிலைகளில்	unk
+3	,	unk
+4	ராமநாதபுரம்	unk
+5	,	unk
+6	திருநெல்வேலி	unk
+7	மாவட்டங்களில்	unk
+8	ஐ.எஸ்	unk
+9	,	unk
+10	பயங்கரவாதிகளின்	unk
+11	ஸ்லீப்பர்	unk
+12	செல்	unk
+13	பிடிபட்டுள்ளது	unk
+14	.	unk
+</Sentence>
+<Sentence id="480">
+1	விடுதலை	unk
+2	புலிகள்	unk
+3	மற்றும்	unk
+4	நக்சலைட்	unk
+5	ஆதரவு	unk
+6	பெற்ற	unk
+7	இயக்கங்கள்	unk
+8	தலைதூக்கியுள்ளன	unk
+9	.	unk
+</Sentence>
+<Sentence id="481">
+1	இதனால்	unk
+2	தமிழகத்தில்	unk
+3	சட்டம்	unk
+4	ஒழுங்கு	unk
+5	சீர்கெட்டுள்ளது	unk
+6	.	unk
+</Sentence>
+<Sentence id="482">
+1	எனவே	unk
+2	உள்துறை	unk
+3	அமைச்சர்	unk
+4	தமிழகத்தில்	unk
+5	,	unk
+6	அரசியல்	unk
+7	சட்டப்பிரிவு	unk
+8	356வது	unk
+9	பிரிவை	unk
+10	அமல்படுத்த	unk
+11	வேண்டும்	unk
+12	.	unk
+</Sentence>
+<Sentence id="483">
+1	சட்டசபையை	unk
+2	முடக்கி	unk
+3	வைக்க	unk
+4	வேண்டும்	unk
+5	.	unk
+</Sentence>
+<Sentence id="484">
+1	ஜெ	unk
+2	,	unk
+3	பதவிக்கு	unk
+4	வரும்	unk
+5	வரை	unk
+6	ராணுவ	unk
+7	சிறப்பு	unk
+8	சட்டத்தை	unk
+9	அமல்படுத்த	unk
+10	வேண்டும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="485">
+1	ஜெ	unk
+2	,	unk
+3	இன்னும்	unk
+4	சில	unk
+5	நாட்கள்	unk
+6	மருத்துவமனையில்	unk
+7	தங்கியிருக்க	unk
+8	வேண்டும்	unk
+9	என	unk
+10	அப்பல்லோ	unk
+11	நிர்வாகம்	unk
+12	கூறியுள்ளது	unk
+13	.	unk
+</Sentence>
+<Sentence id="486">
+1	எனவே	unk
+2	மத்திய	unk
+3	அரசு	unk
+4	உடனடி	unk
+5	நடவடிக்கை	unk
+6	எடுப்பது	unk
+7	அவசியம்	unk
+8	மட்டுமல்லாமல்	unk
+9	உடனடி	unk
+10	தேவையாகும்	unk
+11	எனக்கூறியுள்ளார்	unk
+12	,	unk
+</Sentence>
+<Sentence id="487">
+1	எல்லையில்	unk
+2	தொடர்ந்து	unk
+3	பாக்	unk
+4	,	unk
+5	ராணுவம்	unk
+6	அத்துமீறல்	unk
+7	.	unk
+</Sentence>
+<Sentence id="488">
+1	ஜம்மு	unk
+2	:	unk
+3	யூரி	unk
+4	தாக்குதலுக்கு	unk
+5	பிறகு	unk
+6	சர்வதேச	unk
+7	நாடுகள்	unk
+8	பாகிஸ்தானிற்கு	unk
+9	கடும்	unk
+10	கண்டனம்	unk
+11	தெரிவித்த	unk
+12	பிறகு	unk
+13	,	unk
+14	இந்திய	unk
+15	எல்லையில்	unk
+16	பாக்	unk
+17	,	unk
+18	படைகள்	unk
+19	அத்துமீறி	unk
+20	தாக்குதல்	unk
+21	நடத்துவதை	unk
+22	தொடர்ந்து	unk
+23	வருகின்றன	unk
+24	.	unk
+</Sentence>
+<Sentence id="489">
+1	இன்று	unk
+2	அதிகாலை	unk
+3	மல்தி	unk
+4	மற்றும்	unk
+5	பூஞ்ச்	unk
+6	பகுதிகளில்	unk
+7	அத்துமீறி	unk
+8	ஊடுருவிய	unk
+9	பாக்	unk
+10	,	unk
+11	படைகள்	unk
+12	,	unk
+13	இந்திய	unk
+14	ராணுவ	unk
+15	நிலைகளை	unk
+16	குறிவைத்து	unk
+17	தாக்குதல்	unk
+18	நடத்தி	unk
+19	வருகின்றன	unk
+20	.	unk
+</Sentence>
+<Sentence id="490">
+1	இந்த	unk
+2	தாக்குதலில்	unk
+3	உயிரிழப்புக்கள்	unk
+4	ஏதும்	unk
+5	ஏற்படவில்லை	unk
+6	.	unk
+</Sentence>
+<Sentence id="491">
+1	கடந்த	unk
+2	10	unk
+3	நாட்களில்	unk
+4	பாகிஸ்தான்	unk
+5	படைகள்	unk
+6	அத்துமீறி	unk
+7	நடத்தும்	unk
+8	25வது	unk
+9	தாக்குதல்	unk
+10	இதுவாகும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="492">
+1	பாக்	unk
+2	,	unk
+3	படைகளின்	unk
+4	தாக்குதலுக்கு	unk
+5	இந்திய	unk
+6	ராணுவமும்	unk
+7	பதிலடி	unk
+8	கொடுத்து	unk
+9	வருகிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="493">
+1	இதனால்	unk
+2	எல்லையில்	unk
+3	துப்பாக்கிச்	unk
+4	சண்டையும்	unk
+5	,	unk
+6	அதன்	unk
+7	காரணமாக	unk
+8	பதற்ற	unk
+9	நிலையும்	unk
+10	தொடர்ந்து	unk
+11	வருகிறது	unk
+</Sentence>
+<Sentence id="494">
+1	வளமான	unk
+2	சமூகத்தை	unk
+3	உருவாக்குவதே	unk
+4	இலக்கு	unk
+5	:	unk
+6	பிரணாப்	unk
+7	.	unk
+</Sentence>
+<Sentence id="495">
+1	புதுடில்லி	unk
+2	:	unk
+3	பருவநிலை	unk
+4	மாற்றம்	unk
+5	அதிகரிப்பதைக்	unk
+6	கட்டுப்படுத்தி	unk
+7	,	unk
+8	நாட்டில்	unk
+9	வளமான	unk
+10	சமூகத்தை	unk
+11	உருவாக்குதை	unk
+12	இலக்காக	unk
+</Sentence>
+<Sentence id="496">
+1	மற்ற	unk
+2	நாடுகளுக்கு	unk
+3	முன்னுதாரணம்	unk
+4	:	unk
+5	டில்லியில்	unk
+6	நடந்த	unk
+7	நிகழ்ச்சி	unk
+8	ஒன்றில்	unk
+9	கலந்து	unk
+10	கொண்ட	unk
+11	பிரணாப்	unk
+12	பேசியதாவது	unk
+13	:	unk
+14	பருவநிலை	unk
+15	மாற்றத்தால்	unk
+16	இந்தியாவும்	unk
+17	பாதிக்கப்படும்	unk
+18	அபாயம்	unk
+19	உள்ளது	unk
+20	.	unk
+</Sentence>
+<Sentence id="497">
+1	இதனை	unk
+2	சமாளிக்கவே	unk
+3	பாரீஸ்	unk
+4	பருவநிலை	unk
+5	மாற்ற	unk
+6	ஒப்பந்தத்துக்கு	unk
+7	இந்தியா	unk
+8	ஒப்புதல்	unk
+9	வழங்கியது	unk
+10	.	unk
+</Sentence>
+<Sentence id="498">
+1	நாட்டின்	unk
+2	ஜனாதிபதி	unk
+3	எனும்	unk
+4	முறையில்	unk
+5	இதற்கு	unk
+6	ஒப்புதல்	unk
+7	வழங்கியது	unk
+8	எனக்கு	unk
+9	கிடைத்த	unk
+10	கவுரவும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="499">
+1	இதன்மூலம்	unk
+2	மற்ற	unk
+3	நாடுகள்	unk
+4	ஒப்புதல்	unk
+5	வழங்க	unk
+6	நாம்	unk
+7	முன்னுதாரணமாக	unk
+8	உள்ளோம்	unk
+9	.	unk
+</Sentence>
+<Sentence id="500">
+1	இரட்டை	unk
+2	அணுகுமுறை	unk
+3	:	unk
+4	பருவநிலை	unk
+5	மாற்றம்	unk
+6	வேகமாக	unk
+7	அதிகரிப்பதைக்	unk
+8	கட்டுப்படுத்துவதும்	unk
+9	,	unk
+10	நாட்டின்	unk
+11	எதிர்கால	unk
+12	வளர்ச்சித்	unk
+13	தேவைகளுக்கு	unk
+14	போதுமான	unk
+15	வளங்கள்	unk
+16	இருப்பதை	unk
+17	உறுதிப்படுத்துவதும்	unk
+18	அவசியம்	unk
+19	.	unk
+</Sentence>
+<Sentence id="501">
+1	இந்த	unk
+2	இரட்டை	unk
+3	அணுகுமுறையை	unk
+4	நாம்	unk
+5	பின்பற்ற	unk
+6	வேண்டும்	unk
+7	.	unk
+</Sentence>
+<Sentence id="502">
+1	வளமான	unk
+2	சமூகத்தை	unk
+3	உருவாக்குவதையே	unk
+4	நாம்	unk
+5	இலக்காகக்	unk
+6	கொண்டு	unk
+</Sentence>
+<Sentence id="503">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	தெரிவித்தார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="504">
+1	அரசியல்	unk
+2	கட்சி	unk
+3	துவக்க	unk
+4	இரோம்	unk
+5	ஷர்மிளா	unk
+6	முடிவு	unk
+7	.	unk
+</Sentence>
+<Sentence id="505">
+1	ம்பால்	unk
+2	:	unk
+3	ஆயுதப்	unk
+4	படை	unk
+5	சிறப்பு	unk
+6	அதிகார	unk
+7	சட்டத்துக்கு	unk
+8	எதிராக	unk
+9	,	unk
+</Sentence>
+<Sentence id="506">
+1	ஆண்டுகள்	unk
+2	உண்ணாவிரதம்	unk
+3	இருந்த	unk
+4	இரோம்	unk
+5	ஷர்மிளா	unk
+6	,	unk
+7	புதிதாக	unk
+8	அரசியல்	unk
+9	கட்சி	unk
+10	துவக்க	unk
+11	முடிவு	unk
+12	செய்துள்ளார்	unk
+13	.	unk
+</Sentence>
+<Sentence id="507">
+1	16	unk
+2	ஆண்டுகள்	unk
+3	உண்ணாவிரதம்	unk
+4	வட	unk
+5	கிழக்கு	unk
+6	மாநிலமான	unk
+7	மணிப்பூரில்	unk
+8	,	unk
+9	முதல்வர்	unk
+10	இபோபி	unk
+11	சிங்	unk
+12	தலைமையிலான	unk
+13	காங்கிரஸ்	unk
+14	ஆட்சி	unk
+15	நடக்கிறது	unk
+16	;	unk
+17	இங்கு	unk
+18	,	unk
+19	ஆயுதப்படை	unk
+20	சிறப்பு	unk
+21	அதிகார	unk
+22	சட்டத்துக்கு	unk
+23	எதிராக	unk
+24	,	unk
+25	16	unk
+26	ஆண்டுகள்	unk
+27	உண்ணாவிரதம்	unk
+28	இருந்த	unk
+29	இரோம்	unk
+30	ஷர்மிளா	unk
+31	,	unk
+32	44	unk
+33	,	unk
+34	சமீபத்தில்	unk
+35	,	unk
+36	போராட்டத்தை	unk
+37	கைவிட்டார்	unk
+38	.	unk
+</Sentence>
+<Sentence id="508">
+1	மாநிலத்தில்	unk
+2	,	unk
+3	அடுத்த	unk
+4	ஆண்டு	unk
+5	நடைபெற	unk
+6	உள்ள	unk
+7	சட்டசபை	unk
+8	தேர்தலில்	unk
+9	போட்டியிடப்	unk
+10	போவதாகவும்	unk
+</Sentence>
+<Sentence id="509">
+1	ஆனால்	unk
+2	,	unk
+3	அவரின்	unk
+4	முடிவுக்கு	unk
+5	,	unk
+6	ஆதரவாளர்கள்	unk
+7	எதிர்ப்பு	unk
+8	தெரிவித்து	unk
+9	வருகின்றனர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="510">
+1	‛முதல்வர்	unk
+2	ஆவேன்	unk
+3	'	unk
+4	இந்நிலையில்	unk
+5	,	unk
+6	ஷர்மிளா	unk
+7	கூறியதாவது	unk
+8	:	unk
+9	விரைவில்	unk
+10	,	unk
+11	புதிய	unk
+12	அரசியல்	unk
+13	கட்சி	unk
+14	துவங்க	unk
+15	உள்ளேன்	unk
+16	;	unk
+17	மற்ற	unk
+18	கட்சிகளில்	unk
+19	இணையும்	unk
+20	திட்டமில்லை	unk
+21	.	unk
+</Sentence>
+<Sentence id="511">
+1	மணிப்பூரில்	unk
+2	அமலில்	unk
+3	உள்ள	unk
+4	ஆயுதப்படை	unk
+5	சிறப்பு	unk
+6	அதிகார	unk
+7	சட்டத்தை	unk
+8	வாபஸ்	unk
+9	பெற	unk
+10	வைப்பதே	unk
+11	,	unk
+12	எங்கள்	unk
+13	கட்சியின்	unk
+14	நோக்கம்	unk
+15	.	unk
+</Sentence>
+<Sentence id="512">
+1	மணிப்பூர்	unk
+2	சட்டசபை	unk
+3	தேர்தலில்	unk
+4	போட்டியிட்டு	unk
+5	,	unk
+6	முதல்வர்	unk
+7	ஆவேன்	unk
+8	;	unk
+9	அதன்	unk
+10	மூலம்	unk
+11	ஆயுதப்படை	unk
+12	சிறப்பு	unk
+13	அதிகாரச்	unk
+14	சட்டத்தை	unk
+15	ரத்து	unk
+16	செய்ய	unk
+17	நடவடிக்கை	unk
+18	எடுப்பேன்	unk
+19	.	unk
+</Sentence>
+<Sentence id="513">
+1	என்	unk
+2	கோரிக்கை	unk
+3	நிறைவேற	unk
+4	,	unk
+5	இது	unk
+6	ஒன்றே	unk
+7	வழி	unk
+8	;	unk
+9	எதிர்ப்பை	unk
+10	பற்றி	unk
+11	கவலை	unk
+12	இல்லை	unk
+13	.	unk
+</Sentence>
+<Sentence id="514">
+1	என்	unk
+2	முடிவில்	unk
+3	உறுதியாக	unk
+4	இருக்கிறேன்	unk
+5	;	unk
+6	மக்கள்	unk
+7	எனக்கு	unk
+8	ஆதரவு	unk
+9	தருவர்	unk
+10	.	unk
+</Sentence>
+<Sentence id="515">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	கூறினார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="516">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியத்துக்கு	unk
+4	எதிர்ப்பு	unk
+5	தெரிவித்த	unk
+6	மத்திய	unk
+7	அரசை	unk
+8	கண்டித்து	unk
+9	விவசாயிகள்	unk
+10	சாகும்	unk
+11	வரை	unk
+12	பட்டினிப்	unk
+13	போராட்டம்	unk
+14	.	unk
+</Sentence>
+<Sentence id="517">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியம்	unk
+4	அமைக்க	unk
+5	மத்திய	unk
+6	அரசு	unk
+7	எதிர்ப்பு	unk
+8	தெரிவித்	unk
+9	ததை	unk
+10	கண்டித்து	unk
+11	தமிழகத்தில்	unk
+12	மத்திய	unk
+13	அரசுக்கு	unk
+14	எதிராக	unk
+15	போராட்டம்	unk
+16	வெடித்துள்ளது	unk
+17	.	unk
+</Sentence>
+<Sentence id="518">
+1	சென்னையில்	unk
+2	நேற்று	unk
+3	(	unk
+4	5.10.2016	unk
+5	)	unk
+6	விவசாயிகள்	unk
+7	சாகும்	unk
+8	வரை	unk
+9	பட்டினிப்	unk
+10	போராட்	unk
+11	டத்தை	unk
+12	தொடங்கினர்	unk
+13	.	unk
+</Sentence>
+<Sentence id="519">
+1	காவிரி	unk
+2	மேலாண்மை	unk
+3	வாரியம்	unk
+4	அமைக்க	unk
+5	முடியாது	unk
+6	என	unk
+7	மத்திய	unk
+8	அரசு	unk
+9	நீதிமன்றத்தில்	unk
+10	தெரிவித்ததை	unk
+11	தொடர்ந்து	unk
+12	,	unk
+13	தமிழகம்	unk
+14	முழுவ	unk
+15	தும்	unk
+16	விவசாயிகள்	unk
+17	மத்தியில்	unk
+18	பெரும்	unk
+19	கொந்தளிப்பு	unk
+20	ஏற்பட்டு	unk
+21	உள்ளது	unk
+22	.	unk
+</Sentence>
+<Sentence id="520">
+1	தமிழக	unk
+2	அனைத்து	unk
+3	விவசாய	unk
+4	சங்கங்களின்	unk
+5	ஒருங்கிணைப்பு	unk
+6	குழு	unk
+7	சார்பில்	unk
+8	சென்னை	unk
+9	சேப்	unk
+10	பாக்கத்தில்	unk
+11	சாகும்	unk
+12	வரை	unk
+13	பட்டி	unk
+14	னிப்	unk
+15	போராட்டம்	unk
+16	நேற்று	unk
+17	காலை	unk
+18	தொடங்கியது	unk
+19	.	unk
+</Sentence>
+<Sentence id="521">
+1	ஒருங்கிணைப்	unk
+2	புக்குழு	unk
+3	தலைவர்	unk
+4	பி.	unk
+5	ஆர்.	unk
+6	பாண்	unk
+7	டியன்	unk
+8	தலைமையில்	unk
+9	நடந்து	unk
+10	வரும்	unk
+11	இந்த	unk
+12	போராட்டத்தை	unk
+13	வணிகர்	unk
+14	சங்கங்களின்	unk
+15	பேர	unk
+16	மைப்பு	unk
+17	பொதுச்செயலாளர்	unk
+18	மோகன்	unk
+19	தொடங்கி	unk
+20	வைத்தார்	unk
+21	.	unk
+</Sentence>
+<Sentence id="522">
+1	ஒருங்கிணைப்புக்குழு	unk
+2	மண்	unk
+3	டல	unk
+4	நிர்வாகிகள்	unk
+5	சிவ.ராஜசேக	unk
+6	ரன்	unk
+7	,	unk
+8	தரன்	unk
+9	,	unk
+10	புண்ணியமூர்த்தி	unk
+11	,	unk
+12	நாகை	unk
+13	நெல்	unk
+14	ஜெயராமன்	unk
+15	,	unk
+16	ராஜேந்திரன்	unk
+17	,	unk
+18	திருவல்லிக்கேணி	unk
+19	வியாபாரிகள்	unk
+20	சங்கத்	unk
+21	தலைவர்	unk
+22	வி.பி.மணி	unk
+23	உள்பட	unk
+24	பலர்	unk
+25	போராட்டத்தில்	unk
+26	கலந்து	unk
+27	கொண்	unk
+28	டனர்	unk
+29	.	unk
+</Sentence>
+<Sentence id="523">
+1	போராட்டத்தின்	unk
+2	போது	unk
+3	பி.ஆர்.பாண்டியன்	unk
+4	கூறியதா	unk
+5	வது	unk
+6	:	unk
+7	காவிரி	unk
+8	பிரச்சினையில்	unk
+9	பிரத	unk
+10	மர்	unk
+11	மோடி	unk
+12	தொடர்ந்து	unk
+13	தமிழர்	unk
+14	களை	unk
+15	வஞ்சித்து	unk
+16	வருகிறார்	unk
+17	.	unk
+</Sentence>
+<Sentence id="524">
+1	உச்ச	unk
+2	நீதிமன்றத்துக்கு	unk
+3	களங்கம்	unk
+4	ஏற்படுத்திவிட்டார்	unk
+5	.	unk
+</Sentence>
+<Sentence id="525">
+1	இந்த	unk
+2	நட	unk
+3	வடிக்கை	unk
+4	இந்திய	unk
+5	கூட்டாட்சி	unk
+6	தத்துவத்துக்கு	unk
+7	எதிரானது	unk
+8	.	unk
+</Sentence>
+<Sentence id="526">
+1	இந்	unk
+2	திய	unk
+3	அரசியல்	unk
+4	சட்டத்தை	unk
+5	மோடி	unk
+6	குழி	unk
+7	தோண்டி	unk
+8	புதைத்துவிட்	unk
+9	டார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="527">
+1	தமிழகத்தை	unk
+2	சேர்ந்த	unk
+3	அதி	unk
+4	முக	unk
+5	எம்பிக்கள்	unk
+6	மற்றும்	unk
+7	துணை	unk
+8	சபாநாயகர்	unk
+9	அவரை	unk
+10	சந்திக்க	unk
+11	சென்ற	unk
+12	போது	unk
+13	,	unk
+14	அவர்களை	unk
+15	சந்	unk
+16	திக்க	unk
+17	மறுத்ததன்	unk
+18	மூலம்	unk
+19	நாடா	unk
+20	ளுமன்றத்துக்கு	unk
+21	கரும்புள்ளி	unk
+22	ஏற்படுத்திவிட்டார்	unk
+23	.	unk
+</Sentence>
+<Sentence id="528">
+1	தமிழக	unk
+2	எம்பிக்கள்	unk
+3	இனி	unk
+4	மத்திய	unk
+5	அரசை	unk
+6	நம்பக்கூடாது	unk
+7	.	unk
+</Sentence>
+<Sentence id="529">
+1	மோடிக்கு	unk
+2	எதி	unk
+3	ரான	unk
+4	போராட்டத்தை	unk
+5	அவர்கள்	unk
+6	தீவிரப்படுத்த	unk
+7	வேண்டும்	unk
+8	.	unk
+</Sentence>
+<Sentence id="530">
+1	தமி	unk
+2	ழக	unk
+3	எம்.பி.க்கள்	unk
+4	இனி	unk
+5	நாடா	unk
+6	ளுமன்றத்துக்கு	unk
+7	சென்றாலும்	unk
+8	,	unk
+9	அவர்களுக்கு	unk
+10	உரிய	unk
+11	மரியாதை	unk
+12	கிடைக்கப்போவதில்லை	unk
+13	.	unk
+</Sentence>
+<Sentence id="531">
+1	எனவே	unk
+2	அவர்களும்	unk
+3	தங்கள்	unk
+4	பதவிகளை	unk
+5	ராஜினாமா	unk
+6	செய்து	unk
+7	மோடிக்கு	unk
+8	எதிர்ப்பு	unk
+9	தெரிவிக்க	unk
+10	வேண்டும்	unk
+11	.	unk
+</Sentence>
+<Sentence id="532">
+1	அரசியல்	unk
+2	காழ்	unk
+3	புணர்ச்சியுடனும்	unk
+4	,	unk
+5	உள்நோக்கத்	unk
+6	துடனும்	unk
+7	மோடி	unk
+8	செயல்படு	unk
+9	கிறார்	unk
+10	.	unk
+</Sentence>
+<Sentence id="533">
+1	அவரிடம்	unk
+2	நமது	unk
+3	உரிமையை	unk
+4	கெஞ்சி	unk
+5	கெஞ்சி	unk
+6	கேட்டு	unk
+7	சாவதை	unk
+8	விட	unk
+9	இங்கு	unk
+10	பட்டினியாய்	unk
+11	இருந்தே	unk
+12	செத்துவிடுகிறோம்	unk
+13	.	unk
+</Sentence>
+<Sentence id="534">
+1	காவிரி	unk
+2	நீருக்காக	unk
+3	எங்களது	unk
+4	உயிர்	unk
+5	உள்ளவரை	unk
+6	போராடு	unk
+7	வோம்	unk
+8	.	unk
+</Sentence>
+<Sentence id="535">
+1	மத்திய	unk
+2	அரசு	unk
+3	ஒருதலை	unk
+4	பட்சமாக	unk
+5	கர்நாடக	unk
+6	அரசுக்கு	unk
+7	வெளிப்படையாக	unk
+8	ஆதரவு	unk
+9	அளிக்கிறது	unk
+10	.	unk
+</Sentence>
+<Sentence id="536">
+1	தமிழகத்தில்	unk
+2	உள்ள	unk
+3	பாஜ	unk
+4	கட்சி	unk
+5	இனி	unk
+6	தமிழக	unk
+7	பாஜ	unk
+8	என்று	unk
+9	பெயர்	unk
+10	மாற்றிக்	unk
+11	கொள்ள	unk
+12	வேண்டும்	unk
+13	.	unk
+</Sentence>
+<Sentence id="537">
+1	இவ்வாறு	unk
+2	அவர்	unk
+3	கூறினார்	unk
+4	.	unk
+</Sentence>
+<Sentence id="538">

@@ -1,0 +1,361 @@
+குஜராத்தில்	N_NNP	குஜராத்,N,il-LOC
+வெள்ளம்	N_NN	வெள்ளம்,N
+:	RD_PUNC	:,punc
+25	QT_QTC	25,num
+ஆயிரம்	QT_QTC	ஆயிரம்,N
+பேர்	N_NN	பேர்,N,,,,,|பேர்,V
+பாதுகாப்பான	JJ	பாதுகாப்பு,N,AnYa-ADJ
+இடங்களுக்கு	N_NN	இடம்,N,ukku-DAT,pl
+மாற்றம்	N_NN	மாற்றம்,N
+
+குஜராத்தில்	N_NNP	குஜராத்,N,il-LOC
+வெள்ளம்	N_NN	வெள்ளம்,N
+25	QT_QTC	25,num
+ஆயிரம்	QT_QTC	ஆயிரம்,N
+பேர்	N_NN	பேர்,N,,,,,|பேர்,V
+பாதுகாப்பான	JJ	பாதுகாப்பு,N,AnYa-ADJ
+இடங்களுக்கு	N_NN	இடம்,N,ukku-DAT,pl
+மாற்றம்	N_NN	மாற்றம்,N
+,	RD_PUNC	&comma;,punc
+ராஜஸ்தானில்	N_NNP	ராஜஸ்தான்,N,il-LOC
+இருவர்	N_NN	இருவர்,N,,,,,|இரு,V,FUTURE,pl,3,c
+உயிரிழப்பு	N_NN	உயிரிழப்பு,N
+
+ஜூலை	N_NNP	ஜூலை,N,,,,,|ஜூல்,N,E-ACC
+25	QT_QTC	25,num
+,	RD_PUNC	&comma;,punc
+2017	QT_QTC	2017,num
+,	RD_PUNC	&comma;,punc
+09:34	QT_QTC	09:34,unk
+ஆM	QT_QTC	ஆM,unk
+
+
+புதுடெல்லி	RD_PUNC	புதுடெல்லி,N
+,	N_NNP	&comma;,punc
+வட	N_NN	வட,ADJ
+மாநிலங்களில்	N_NN	மாநிலம்,N,il-LOC,pl
+பருவமழை	N_NN	பருவமழை,N
+தீவிரம்	V_VM_VNF_VBN	தீவிரம்,N
+அடைந்து	V_VM_VF	அடை,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+மராட்டியம்	RD_PUNC	மராட்டியம்,N
+,	N_NNP	&comma;,punc
+குஜராத்	RD_PUNC	குஜராத்,N
+,	N_NNP	&comma;,punc
+ராஜஸ்தான்	CC_CCD	ராஜஸ்தான்,N
+மற்றும்	PR_PRP	மற்றும்,CONJ
+அதனையொட்டி	PSP	அதன்,PN,E-ACC
+உள்ள	N_NN	உள்ள,ADJ,,,,,|உள்ள,PSP,,,,,|உள்,V,PRESENT,,,,RP
+மாநிலங்களில்	N_NN	மாநிலம்,N,il-LOC,pl
+கனமழை	V_VM_VNF_VBN	கனமழை,N
+பெய்து	V_VM_VF	பெய்,V,,,,,VBP
+வருகிறது	RD_PUNC	வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+மேற்கு	N_NNP	மேற்கு,N
+வங்காளம்	CC_CCD	வங்காளம்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+ஒடிசா	N_NN	ஒடிசா,N
+மாநிலங்களிலும்	N_NN	மாநிலம்,N,il-LOC,pl
+கனமழை	V_VM_VNF_VBN	கனமழை,N
+பெய்து	V_VM_VF	பெய்,V,,,,,VBP
+வருகிறது	RD_PUNC	வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+கனமழை	RB	கனமழை,N
+காரணமாக	N_NNP	காரணம்,N,Aka-ADV,,,,|காரணமாகு,V,,,,,INF
+குஜராத்	CC_CCD	குஜராத்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+ராஜஸ்தானில்	N_NN	ராஜஸ்தான்,N,il-LOC
+ஆறுகளில்	N_NN	ஆறு,N,il-LOC,pl
+வெள்ளம்	V_VM_VNF_VBN	வெள்ளம்,N
+கரைபுரண்டு	V_VM_VF	கரைபுரள்,V,,,,,VBP
+ஓடுகிறது	RD_PUNC	ஓடு,V,PRESENT,sg,3,n,|ஓடு,V,PRESENT,sg,3,n,RP-PRP|ஓடு,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+தாழ்வான	N_NN	தாழ்வு,N,AnYa-ADJ
+பகுதிகளில்	V_VM_VNF_RP	பகுதி,N,il-LOC,pl
+வசிக்கும்	N_NN	வசி,V,FUTURE,sg,3,n,|வசி,V,FUTURE,,,,RP
+மக்கள்	N_NN	மக்கள்,N,,pl
+வெள்ளத்தினால்	V_VM_VNF_VBN	வெள்ளம்,N,inY-GEN
+பாதிக்கப்பட்டு	V_VM_VF	பாதிக்கப்படு,V,,,,,VBP|பாதி,V,,,,,VBP
+உள்ளனர்	RD_PUNC	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+.		&dot;,punc
+
+பாதிக்கப்பட்ட	N_NN	பாதிக்கப்படு,V,PAST,,,,RP|பாதி,V,PAST,,,,RP
+மக்கள்	RB	மக்கள்,N,,pl
+பத்திரமாக	V_VM_VNF_VBN	பத்திரம்,N,Aka-ADV
+மீட்கப்பட்டு	V_VM_VF	மீள்,V,,,,,VBP
+உள்ளனர்	RD_PUNC	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+.		&dot;,punc
+
+இதற்கான	N_NN	இதற்கான,ADJ
+பணியில்	N_NN	பணி,N,il-LOC
+தேசிய	N_NN	தேசியம்,N,a-ADJ
+பேரிடர்	N_NN	பேரிடர்,N
+மீட்பு	N_NN	மீட்பு,N
+படையினர்	RD_PUNC	படையினர்,N
+,	N_NN	&comma;,punc
+மாநில	N_NN	மாநிலம்,N,a-ADJ
+மீட்பு	N_NN	மீட்பு,N
+குழு	CC_CCD	குழு,N,,pl
+மற்றும்	N_NN	மற்றும்,CONJ
+ராணுவமும்	V_VM_VNF_VBN	ராணுவம்,N
+களமிறங்கி	V_VM_VF	களமிறங்கு,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+பாதிக்கப்பட்ட	N_NN	பாதிக்கப்படு,V,PAST,,,,RP|பாதி,V,PAST,,,,RP
+மக்கள்	RB	மக்கள்,N,,pl
+பத்திரமாக	V_VM_VNF_VBN	பத்திரம்,N,Aka-ADV
+மீட்கப்பட்டு	JJ	மீள்,V,,,,,VBP
+தற்போதைய	N_NN	தற்போதைய,ADJ
+முகாம்களில்	N_NN	முகாம்,N,il-LOC,pl
+தஞ்சம்	V_VM_VNF_VBN	தஞ்சம்,N
+அடைந்து	V_VM_VF	அடை,V,,,,,VBP
+உள்ளனர்	RD_PUNC	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+.		&dot;,punc
+
+சுமார்	QT_QTC	சுமார்,N
+25	N_NN	25,num
+பேர்	JJ	பேர்,N,,,,,|பேர்,V
+பாதுகாப்பான	N_NN	பாதுகாப்பு,N,AnYa-ADJ
+இடங்களுக்கு	V_VM_VNF_VBN	இடம்,N,ukku-DAT,pl
+இடம்பெயர்ந்து	V_VM_VF	இடம்பெயர்,V,,,,,VBP
+உள்ளனர்	RD_PUNC	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+.		&dot;,punc
+
+குஜராத்	N_NN	குஜராத்,N
+மாநிலத்தில்	N_NN	மாநிலம்,N,il-LOC
+வெள்ளத்தினால்	N_NNP	வெள்ளம்,N,inY-GEN
+பனாஸ்காந்தா	RD_PUNC	பனாஸ்காந்தா,unk
+,	N_NNP	&comma;,punc
+சாபார்காந்தா	RD_PUNC	சாபார்காந்தா,unk
+,	N_NNP	&comma;,punc
+ஆனந்த்	RD_PUNC	ஆனந்த்,N,,,,m
+,	N_NN	&comma;,punc
+பதான்	CC_CCD	பதான்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+வால்சாத்	N_NN	
+மாவட்டங்களில்	JJ	மாவட்டம்,N,il-LOC,pl
+பெரும்பாலான	N_NN	பெரும்பாலான,ADJ
+பகுதிகள்	N_NN	பகுதி,N,,pl
+வெள்ளத்தினால்	V_VM_VNF_VBN	வெள்ளம்,N,inY-GEN
+பாதிக்கப்பட்டு	V_VM_VF	பாதிக்கப்படு,V,,,,,VBP|பாதி,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+பனாஸ்காந்தா	N_NN	பனாஸ்காந்தா,unk
+மாவட்டத்தில்	PSP	மாவட்டம்,N,il-LOC
+மட்டும்	N_NN	மட்டும்,ADV,,,,,|மட்டும்,PSP,,,,,|மட்டு,N
+வெள்ளம்	V_VM_VNF_RP	வெள்ளம்,N
+பாதிக்கப்பட்ட	N_NN	பாதிக்கப்படு,V,PAST,,,,RP|பாதி,V,PAST,,,,RP
+இடங்களில்	V_VM_VNF_VBN	இடம்,N,il-LOC,pl
+இருந்து	RB	இருந்து,PSP,,,,,|இரு,V,,,,,VBP
+சுமார்	QT_QTC	சுமார்,N
+11	QT_QTC	11,num
+ஆயிரம்	N_NN	ஆயிரம்,N
+பேர்	RB	பேர்,N,,,,,|பேர்,V
+பத்திரமாக	V_VM_VNF_VBN	பத்திரம்,N,Aka-ADV
+மீட்கப்பட்டு	JJ	மீள்,V,,,,,VBP
+தற்காலிக	N_NN	தற்காலிக,ADJ
+முகாம்களில்	N_NNP	முகாம்,N,il-LOC,pl
+தங்க	V_VM_VNF_VBN	தங்கு,V,,,,,INF
+வைக்கப்பட்டு	V_VM_VF	வைக்கப்படு,V,,,,,VBP|வை,V,,,,,VBP
+உள்ளனர்	RD_PUNC	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+.		&dot;,punc
+
+வடக்கு	N_NNP	வடக்கு,N
+குஜராத்	CC_CCD	குஜராத்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+சவுராஷ்டிராவில்	V_VM_VNF_RP	சவுராஷ்டிரா,N,il-LOC
+பெய்த	N_NN	பெய்,V,PAST,,,,RP
+கனமழையால்	N_NN	கனமழை,N,Al-INS
+சபர்மதி	N_NN	சபர்மதி,N
+ஆற்றில்	N_NN	ஆறு,N,il-LOC
+வெள்ளம்	V_VM_VNF_VBN	வெள்ளம்,N
+பெருக்கெடுத்து	V_VM_VF	பெருக்கெடு,V,,,,,VBP
+ஓடுகிறது	RD_PUNC	ஓடு,V,PRESENT,sg,3,n,|ஓடு,V,PRESENT,sg,3,n,RP-PRP|ஓடு,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+ராஜஸ்தான்	N_NN	ராஜஸ்தான்,N
+மாநிலத்திலும்	N_NN	மாநிலம்,N,il-LOC
+கனமழை	RB	கனமழை,N
+காரணமாக	N_NN	காரணம்,N,Aka-ADV,,,,|காரணமாகு,V,,,,,INF
+வெள்ளம்	V_VM_VNF_VBN	வெள்ளம்,N
+ஏற்பட்டு	V_VM_VF	ஏற்படு,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+மாநிலத்தில்	N_NN	மாநிலம்,N,il-LOC
+மீட்பு	N_NN	மீட்பு,N
+பணிகள்	RB	பணி,N,,pl
+தீவிரமாக	V_VM_VNF_VBN	தீவிரம்,N,Aka-ADV,,,,|தீவிரமாகு,V,,,,,INF
+நடைபெற்று	V_VM_VF	நடைபெறு,V,,,,,VBP
+வருகிறது	RD_PUNC	வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,sg,3,n,RP-PRP|வா,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+தெற்கு	N_NNP	தெற்கு,N
+ராஜஸ்தானில்	V_VM_VNF_RP	ராஜஸ்தான்,N,il-LOC
+பெய்த	N_NN	பெய்,V,PAST,,,,RP
+கனமழை	RB	கனமழை,N
+காரணமாக	N_NNP	காரணம்,N,Aka-ADV,,,,|காரணமாகு,V,,,,,INF
+ராஜஸ்தான்	N_NN	ராஜஸ்தான்,N
+மாநிலத்தில்	N_NNP	மாநிலம்,N,il-LOC
+தாந்திவாடா	RD_PUNC	தாந்திவாடா,unk
+,	N_NN	&comma;,punc
+சிபு	CC_CCD	சிபு,N,,,,m
+மற்றும்	N_NNP	மற்றும்,CONJ
+தாரோய்	JJ	தாரோய்,unk
+ஆகிய	N_NN	ஆகிய,ADJ,,,,,|ஆகு,V,PAST,,,,RP
+அணைகள்	V_VM_VNF_VBN	அணை,N,,pl
+நிரம்பி	V_VM_VF	நிரம்பு,V,,,,,VBP
+வழிகிறது	RD_PUNC	வழி,V,PRESENT,sg,3,n,|வழி,V,PRESENT,sg,3,n,RP-PRP
+.		&dot;,punc
+
+தெற்கு	N_NNP	தெற்கு,N
+ராஜஸ்தானில்	V_VM_VNF_RP	ராஜஸ்தான்,N,il-LOC
+பெய்த	N_NN	பெய்,V,PAST,,,,RP
+கனமழை	RB	கனமழை,N
+காரணமாகவும்	N_NNP	காரணம்,N,Aka-ADV,,,,|காரணமாகு,V,,,,,INF
+பனாஸ்காந்தா	RD_PUNC	பனாஸ்காந்தா,unk
+,	N_NN	&comma;,punc
+பதான்	CC_CCD	பதான்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+ஆனந்த்	N_NN	ஆனந்த்,N,,,,m
+மாவட்டங்கள்	V_VM_VNF_VBN	மாவட்டம்,N,,pl
+பாதிக்கப்பட்டு	V_VM_VF	பாதிக்கப்படு,V,,,,,VBP|பாதி,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+வடக்கு	N_NNP	வடக்கு,N
+குஜராத்	CC_CCD	குஜராத்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+சவுராஷ்டிரா	N_NN	சவுராஷ்டிரா,N
+பகுதிகளில்	N_NN	பகுதி,N,il-LOC,pl
+தேசிய	N_NN	தேசியம்,N,a-ADJ
+பேரிடர்	N_NN	பேரிடர்,N
+படையின்	QT_QTC	படை,N,inY-GEN
+12	N_NN	12,num
+குழுக்கள்	N_NN	குழு,N,,pl
+மீட்பு	N_NN	மீட்பு,N
+பணியில்	V_VM_VF	பணி,N,il-LOC
+இறங்கிஉள்ளது	RD_PUNC	இறங்கிஉள்ளது,unk
+.		&dot;,punc
+
+எல்லைப்	N_NN	எல்லை,N,,,,,|எல்,N,E-ACC,,,,|லைப்,N
+பாதுகாப்பு	N_NN	பாதுகாப்பு,N
+படை	PSP	படை,N,,,,,|படை,V,,,,,|பட்,N,E-ACC
+உள்பட	N_NN	உள்பட,PSP
+ராணுவமும்	N_NN	ராணுவம்,N
+மீட்பு	N_NN	மீட்பு,N
+பணியில்	V_VM_VNF_VBN	பணி,N,il-LOC
+ஈடுபட்டு	V_VM_VF	ஈடுபடு,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+கூடுதல்	N_NN	கூடுதல்,N,,,,,|கூடு,V
+படைகளும்	RB	படை,N,,pl
+அங்கு	V_VM_VNF_VBN	அங்கு,ADV
+அனுப்பட்டு	V_VM_VF	அனுப்பட்டு,unk
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+வெள்ளம்	RB	வெள்ளம்,N
+காரணமாக	N_NNP	காரணம்,N,Aka-ADV,,,,|காரணமாகு,V,,,,,INF
+குஜராத்	N_NN	குஜராத்,N
+மாநிலத்தில்	JJ	மாநிலம்,N,il-LOC
+பெரும்	N_NN	பெரும்,ADJ
+பகுதியில்	N_NN	பகுதி,N,il-LOC
+தண்டவாளம்	N_NN	தண்டவாளம்,N
+தண்ணீரில்	V_VM_VNF_VBN	தண்ணீர்,N,il-LOC
+மூழ்கி	V_VM_VF	மூழ்கு,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+இதனால்	N_NNP	இதனால்,CONJ,,,,,|இதன்,PN,Al-INS
+ஆமதாபாத்	CC_CCD	ஆமதாபாத்,N
+மற்றும்	N_NNP	மற்றும்,CONJ
+டெல்லி	JJ	டெல்லி,N
+இடையிலான	N_NN	இடை,N,il-LOC
+ரெயில்	N_NN	ரெயில்,N
+சேவையானது	V_VM_VNF_VBN	சேவை,N
+நிறுத்தப்பட்டு	V_VM_VF	நிறுத்து,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+டெல்லியை	V_VM_VNF_RP	டெல்லி,N,E-ACC
+நோக்கிய	N_NNP	நோக்கு,V,PAST,,,,RP
+ராஜ்தானி	N_NNP	ராஜ்தானி,N
+எக்ஸ்பிரஸ்	N_NNP	எக்ஸ்பிரஸ்,N
+மெக்சானாவில்	V_VM_VNF_VBN	மெக்சானாவில்,unk
+இருந்து	RB	இருந்து,PSP,,,,,|இரு,V,,,,,VBP
+மீண்டும்	V_VM_VNF_RP_PRP	மீண்டும்,ADV,,,,,|மீள்,V,,,,,VBP
+ஆமதாபாத்திற்கே	V_VM_VF	ஆமதாபாத்திற்கே,unk
+திரும்பியது	RD_PUNC	திரும்பு,V,PAST,sg,3,n,|திரும்பு,V,PAST,sg,3,n,RP-PRP
+.		&dot;,punc
+
+குஜராத்	N_NN	குஜராத்,N
+மாநிலத்தில்	N_NN	மாநிலம்,N,il-LOC
+மழை	JJ	மழை,N
+தொடர்பான	N_NN	தொடர்பான,ADJ,,,,,|தொடர்பு,N,AnYa-ADJ
+விபத்து	N_NN	விபத்து,N
+சம்பவங்களில்	N_NNP	சம்பவம்,N,il-LOC,pl
+ஜூன்	N_NN	ஜூன்,N
+மாதத்தில்	V_VM_VNF_VBN	மாதம்,N,il-LOC
+இருந்து	QT_QTC	இருந்து,PSP,,,,,|இரு,V,,,,,VBP
+70	N_NN	70,num
+பேர்	V_VM_VNF_VBN	பேர்,N,,,,,|பேர்,V
+உயிரிழந்து	V_VM_VF	உயிரிழ,V,,,,,VBP
+உள்ளனர்	CC_CCS	உள்,V,PRESENT,pl,3,c,|உள்,V,PRESENT,,,,RP
+என	DM_DMQ	என,ADV,,,,,|என்,V,,,,,INF
+மீடியா	N_NN	மீடியா,N
+தகவல்கள்	V_VM_VF	தகவல்,N,,pl
+கூறுகிறது	RD_PUNC	கூறு,V,PRESENT,sg,3,n,|கூறு,V,PRESENT,sg,3,n,RP-PRP|கூறு,V,PRESENT,,,,RP-PRP
+.		&dot;,punc
+
+மேற்கு	N_NNP	மேற்கு,N
+வங்காள	N_NN	வங்காள,ADJ
+மாநிலத்திலும்	N_NN	மாநிலம்,N,il-LOC
+கனமழையினால்	N_NN	கனமழை,N,inY-GEN
+இயல்பு	N_NN	இயல்பு,N
+நிலை	V_VM_VNF_VBN	நிலை,N,,,,,|நிலை,V
+பாதிக்கப்பட்டு	V_VM_VF	பாதிக்கப்படு,V,,,,,VBP|பாதி,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc
+
+ஆனால்	RB	ஆனால்,CONJ,,,,,|ஆகு,V,PAST,,,,COND
+அங்கு	N_NN	அங்கு,ADV
+வெள்ளம்	PSP	வெள்ளம்,N
+போன்ற	N_NN	போன்ற,ADJ
+நிலை	RP_NEG	நிலை,N,,,,,|நிலை,V
+இல்லை	CC_CCS	இல்லை,V,,,,,|லை,N
+என	N_NN	என,ADV,,,,,|என்,V,,,,,INF
+மாநில	PSP	மாநிலம்,N,a-ADJ
+முதல்	RD_SYM	முதல்,ADJ,,,,,|முதல்,N
+-	N_NN	-,punc
+மந்திரி	N_NNP	மந்திரி,N,,,,,|மந்திரி,V
+மம்தா	N_NNP	மம்தா,N,,,,f
+பானர்ஜி	V_VM_VF	பானர்ஜி,N
+கூறிஉள்ளார்	RD_PUNC	கூறிஉள்ளார்,unk
+.		&dot;,punc
+
+மேற்கு	N_NNP	மேற்கு,N
+வங்காள	N_NN	வங்காள,ADJ
+மாநிலத்திலும்	N_NN	மாநிலம்,N,il-LOC
+கனமழை	V_VM_VF	கனமழை,N
+பெய்தது	RD_PUNC	பெய்,V,PAST,sg,3,n,RP-PRP|பெய்,V,PAST,sg,3,n
+.		&dot;,punc
+
+இதனால்	JJ	இதனால்,CONJ,,,,,|இதன்,PN,Al-INS
+தாழ்வான	N_NN	தாழ்வு,N,AnYa-ADJ
+பகுதிகளில்	PSP	பகுதி,N,il-LOC,pl
+மட்டும்	N_NN	மட்டும்,ADV,,,,,|மட்டும்,PSP,,,,,|மட்டு,N
+பாதிப்பு	V_VM_VNF_VBN	பாதிப்பு,N
+ஏற்பட்டு	RB	ஏற்படு,V,,,,,VBP
+உள்ளதாக	V_VM_VNF_VBN	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,,,,|உள்,V,PRESENT,,,,RP-PRP
+தெரிவிக்கப்பட்டு	V_VM_VF	தெரிவி,V,,,,,VBP
+உள்ளது	RD_PUNC	உள்,V,PRESENT,sg,3,n,RP-PRP|உள்,V,PRESENT,sg,3,n
+.		&dot;,punc

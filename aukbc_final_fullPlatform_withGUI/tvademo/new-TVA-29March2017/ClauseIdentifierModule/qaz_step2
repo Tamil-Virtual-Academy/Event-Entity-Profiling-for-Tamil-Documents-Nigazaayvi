@@ -1,0 +1,11 @@
+melum	CC_CCD	B-CCP	o	o
+np	np	n_nom	o	o
+accatiwwu	V_VM_VNF_VBN_VBP	V_VBP	VBN	{/NF}
+np	np	n_LOC	o	o
+vitta	V_VM_VNF_RP_RP	V_RP	RP	o
+np	np	n_ACC	o	{/RP}
+np	np	n_ACC	o	o
+kulEwwu	V_VM_VNF_VBN_VBP	V_VBP	VBN	o
+vittawu	V_VM_VF_RP	V_RP	o	o
+.	RD_PUNC_VGF	V_VGF	o	{/MCL}
+

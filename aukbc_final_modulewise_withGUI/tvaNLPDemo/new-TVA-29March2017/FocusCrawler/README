@@ -1,0 +1,37 @@
+Title:
+------
+AUKBC Focussed Crawler Tamil 1.0
+
+Description: 
+------------
+
+AUKBC Focussed Crawler Tamil  v1.0: This crawls the web for Tamil text automatically from five Tamil online news portals, downloads the web pages and cleans the content for getting the actual text content. 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system (preffered Ubuntu 14.04 LTS)
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) Perl LWP modules should be installed. If these are not there already in the system please install by following the instructions given in the CPAN web page. http://www.cpan.org/
+
+ If using Ubuntu 14.04 LTS OS, you can try to install using the command perl -MCPAN -e 'install Bundle::LWP'
+
+Note: There should be enough disk space available before you start the crawler. In general the crawler downloads 14000 to 20000 web pages at one instance of running. The time of running of the crawler would depend on various factors such as system RAM, Internet band width. It generally takes 8 hours for a resonable speed of internet bandwidth of 1 Mbps.
+
+
+How to Use?
+------------
+
+   $ sh tamil_focuscrawler.sh 
+
+
+The downloaded files would be stored inside a folder named "crawl-<date-timestamp>", for example 'crawl-Jun_13_113945_2016'.
+
+
+#################################
+Credits: Sobha Lalitha Devi, Pattabhi RK Rao
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

@@ -1,0 +1,136 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	N_NN	B-NP	News,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Wஓர்ல்d	N_NN	I-NP	World,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30101933	QT_QTC	B-NP	30101933,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Tதோ-டேஏநgஏர்ஸ்-dஇஏ-அங்டேர்-ட்ஹேய்-அரே-ஹிட்-bய்-அ-ப்லநே	RD_RDF	I-NP	Two-teenagers-die-after-they-are-hit-by-a-plane,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+த்ஹிலே	N_NN	B-NP	while,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	{RP}
+மெக்சிகோவின்சிவாவா	N_NNP	B-NP	meVkcikovinYcivAvA,unk,,,,,,	o
+மாநிலத்தை	N_NN	B-NP	mAnilam,N,E-ACC,,,,	o
+சேர்ந்தவர்கள்	V_VM_VNF_RP_PRP	B-VGNF	cer,V,PAST,,,,RP-PRP	{/RP}
+நிட்ஷியா	N_NNP	B-NP	nitRiyA,unk,,,,,,	{MCL}
+மெண்டோசா	N_NNP	I-NP	meVNtocA,unk,,,,,,	o
+கோரல்	N_NNP	I-NP	koral,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+18	QT_QTC	I-NP	18,num,,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	o
+மற்றும்	CC_CCD	B-CCP	marYrYum,CONJ,,,,,	o
+கிளாரிசா	N_NNP	B-NP	kilYAricA,unk,,,,,,	o
+மார்குசோ	N_NNP	I-NP	mArkuco,unk,,,,,,	o
+மிராண்டா	N_NNP	I-NP	mirANtA,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+17	QT_QTC	I-NP	17,num,,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	{/MCL}
+
+நிஷியா	N_NN	B-NP	niRi,N,,pl,,,	{MCL}
+சட்டப்படிப்பு	N_NN	I-NP	cattappatippu,unk,,,,,,	o
+படித்து	V_VM_VNF_VBN	B-VGF	pati,V,,,,,VBP	o
+வருகிறார்	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	{MCL}
+தோழி	N_NN	B-NP	wolYYi,N,,pl,,f,	o
+கிளாரிசா	N_NNP	B-NP	kilYAricA,unk,,,,,,	o
+பள்ளிப்படிப்பை	N_NN	I-NP	palYlYippatippE,unk,,,,,,	o
+முடித்துள்ளார்	V_VM_VF	B-VGF	muti,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்நிலையில்	N_NN	B-NP	innilE,N,il-LOC,,,,	{MCL}
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+இளம்	JJ	B-NP	ilYam,ADJ,,,,,	o
+பெண்களான	JJ	I-NP	peVNkalY,N,AnYa-ADJ,pl,,,	o
+இவர்கள்	PR_PRP	I-NP	ivar,PN,,pl,,,	o
+அங்குள்ள	RB	B-RBP	afkulYlYa,ADJ,,,,,	o
+விமான	N_NN	B-NP	vimAnYam,N,a-ADJ,,,,	o
+நிலையத்தின்	N_NN	I-NP	nilEyam,N,inY-GEN,,,,	o
+ஓடுபாதைக்கு	N_NN	B-NP	otupAwE,N,kku-DAT,,,,	o
+சென்றுள்ளனர்	V_VM_VF	B-VGF	ceVl,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பின்னர்	PSP	B-BLK	pinYnYar,N,,,,,	{NF}
+அங்கிருந்த	RB	B-RBP	afkiru,V,PAST,,,,RP	o
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	o
+வாகனத்தின்	N_NN	I-NP	vAkanYam,N,inY-GEN,pl,,,	o
+பின்பிறம்	N_NN	B-NP	pinYpirYam,unk,,,,,,	o
+நின்று	V_VM_VNF_VBN	B-VGNF	nil,V,,,,,VBP	o
+கொண்டு	V_VM_VNF_VBN	I-VGNF	koVlY,V,,,,,VBP	{/NF}
+இருவரும்	N_NN	B-NP	iruvar,N,,,,,	{MCL}
+செல்போனில்	N_NN	I-NP	ceVlponY,N,il-LOC,pl,,,	o
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	o
+எடுத்து	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+கொண்டிருந்தனர்	V_VM_VF	I-VGF	koVNtiru,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{RP}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+வாகனத்தை	N_NN	I-NP	vAkanYam,N,E-ACC,pl,,,	o
+உரசுவது	V_VM_VNF_RP_PRP	B-VGNF	uracu,V,FUTURE,,,,RP-PRP	o
+போல	PSP	B-BLK	pola,PSP,,,,,	o
+வந்த	V_VM_VNF_RP	B-VGNF	vA,V,PAST,,,,RP	o
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	{MCL}
+விமானத்தின்	N_NN	I-NP	vimAnYam,N,inY-GEN,,,,	{/RP}
+இறக்கை	N_NN	B-NP	irYakkE,N,,,,,	o
+இரு	QT_QTC	B-NP	iru,ADJ,,,,,	o
+பெண்களின்	N_NN	I-NP	peVNkalY,N,inY-GEN,pl,,,	o
+கழுத்தின்	N_NN	I-NP	kalYYuwwu,N,inY-GEN,,,,	o
+மீதும்	PSP	B-BLK	mIwum,PSP,,,,,	o
+வேகமாக	RB	B-VGF	vekam,N,Aka-ADV,,,,	o
+மோதியுள்ளது	V_VM_VF	I-VGF	mowu,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+விபத்தில்	N_NN	I-NP	vipawwu,N,il-LOC,,,,	o
+இருவரும்	N_NN	B-NP	iruvar,N,,,,,	o
+சம்பவ	N_NN	B-NP	campavam,N,a-ADJ,,,,	o
+இடத்திலேயே	N_NN	I-NP	itam,N,il-LOC,,,,	o
+பரிதாபமாக	RB	B-VGF	pariwApam,N,Aka-ADV,,,,	o
+பலியானார்கள்	V_VM_VF	I-VGF	paliyAku,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அருகிலிருந்தவர்கள்	V_VM_VF	B-VGNF	arukiliru,V,PAST,,,,RP-PRP	{COM}
+,	RD_PUNC	I-VGNF	&comma;,punc,,,,,	o
+இருவரையும்	N_NN	B-NP	iruvar,N,E-ACC,,,,	o
+அங்கு	RB	B-VGF	afku,ADV,,,,,	o
+நிற்காதீர்கள்	V_VM_VF	I-VGF	nil,V,,,,,NEG	o
+என	CC_CCS	B-CCP	eVnYa,ADV,,,,,	{/COM}
+கூறியும்	V_VM_VNF_RP	B-VGNF	kUrYu,V,PAST,sg,3,n,	{MCL}
+அதை	PR_PRP	B-NP	awu,PN,E-ACC,,,,	o
+அவர்கள்	PR_PRP	B-NP	avar,PN,,pl,,mf,	o
+பொருட்படுத்தவில்லை	RP_NEG	B-VGF	poVrutpatuwwu,V,,,,,NEG	o
+என	CC_CCS	B-CCP	eVnYa,ADV,,,,,	o
+தெரியவந்துள்ளது	V_VM_VF	B-VGF	weVri,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+சம்பவம்	N_NN	I-NP	campavam,N,,,,,	o
+குறித்து	PSP	B-BLK	kurYiwwu,ADV,,,,,	o
+பொலிசார்	N_NN	B-NP	poVlicAr,unk,,,,,,	o
+விசாரணை	N_NN	B-NP	vicAraNE,N,,,,,	o
+நடத்தி	V_VM_VNF_VBN	B-VGF	natawwu,V,,,,,VBP	o
+வருகிறார்கள்	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

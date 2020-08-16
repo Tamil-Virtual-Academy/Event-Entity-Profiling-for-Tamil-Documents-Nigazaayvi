@@ -1,0 +1,18 @@
+எனவே	CC_CCS	B-CCP	eVnYave,CONJ,,,,,
+,	RD_PUNC	I-CCP	&comma;,punc,,,,,
+விவசாயிகளுக்காக	RB	B-RBP	vivacAyi,N,,pl,,,
+அரசை	N_NN	B-NP	aracu,N,E-ACC,,,,
+முதலில்	RB	B-VGF	muwal,N,il-LOC,,,,
+செய்ய	V_VM_VNF_INF	I-VGNF	ceVy,V,,,,,INF
+வைக்க	V_VM_VNF_INF	I-VGNF	vE,V,,,,,INF
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,
+
+இதற்கான	JJ	B-NP	iwarYkAnYa,ADJ,,,,,
+முயற்சியாகவே	RB	B-RBP	muyarYci,N,Aka-ADV,,,,
+நாங்கள்	PR_PRP	B-NP	nAfkalY,PN,,,,,
+இங்கு	RB	B-VGF	ifku,ADV,,,,,
+வந்தோம்	V_VM_VF	I-VGF	vA,V,PAST,pl,1,f,
+”	N_NN	B-NP	”,punc,,,,,,
+என்றார்	V_VM_VF	B-VGF	eVnY,V,PAST,sg,3,c,
+

@@ -1,0 +1,1 @@
+crf_learn -f 5 temp-tva-suff tva-clia-train.txt model-new

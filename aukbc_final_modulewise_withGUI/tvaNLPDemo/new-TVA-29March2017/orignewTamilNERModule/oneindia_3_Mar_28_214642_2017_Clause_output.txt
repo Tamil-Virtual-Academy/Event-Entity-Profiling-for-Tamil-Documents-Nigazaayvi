@@ -1,0 +1,26 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	I-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+bஉஸிநேஸ்ஸ்	N_NNP	B-NP	business,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேஏட்-ஏxஅம்-மேடநேஏட்-அசdஏம்ய்-தில்ல்-ஹேல்ப்	N_NN	I-NP	neet-exam-metaneet-academy-will-help,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+யோஉ-277851	V_VM_VF	B-VGF	you-277851,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	o
+
+

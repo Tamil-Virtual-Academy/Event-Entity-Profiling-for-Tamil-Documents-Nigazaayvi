@@ -1,0 +1,12 @@
+3	2	wIviravAwa	RP_NEG	B-NEGP	0	FALSE	FALSE
+3	3	ceVyalpAtukalYil	N_NN	B-NP	0	FALSE	FALSE
+3	4	awanY	PR_PRP	B-NP	1	FALSE	FALSE
+3	5	wAkkam	N_NN	I-NP	0	FALSE	FALSE
+3	6	cAwakamAka	RB	B-VGF	0	FALSE	FALSE
+
+0	0	start	start	start	0	FALSE	FALSE
+0	0	start	start	start	0	FALSE	FALSE
+7	0	awwutanY	PR_PRP	B-NP	1	FALSE	FALSE
+7	1	havAlA	N_NNP	B-NP	0	FALSE	FALSE
+7	2	ceVyalpAtukalYEyum	N_NN	I-NP	0	FALSE	FALSE
+

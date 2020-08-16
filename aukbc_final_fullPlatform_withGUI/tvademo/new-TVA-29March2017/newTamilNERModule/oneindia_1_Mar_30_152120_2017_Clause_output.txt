@@ -1,0 +1,615 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	B-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்நdஉ	N_NN	I-NP	tamilnadu,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+சோந்gரேஸ்ஸ்-யோஉட்ஹ்-திந்gஸ்-சோம்ப்லஇந்ட்-ஙிலேd-அgஅஇந்ஸ்ட்-ஹ்	N_NNP	B-NP	congress-youth-wings-complaint-filed-against-h,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ரஜ-278352	N_NNP	B-NP	raja-278352,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஹ்ட்ம்ல்	N_NNP	B-NP	html,N,,,,,	o
+சோனியாவை	N_NNP	I-NP	conYiyA,N,E-ACC,,,f,	o
+இழிவுபடுத்திய	N_NNP	B-NP	ilYYivupatuwwu,V,PAST,,,,RP	o
+ஹெச்	N_NNP	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	o
+கொடும்பாவி	N_NN	I-NP	koVtumpAvi,N,,,,,	o
+எரிப்பு	N_NN	I-NP	eVrippu,N,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+போலீசிலும்	N_NN	B-NP	polIcu,N,il-LOC,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+!	RD_PUNC	I-NP	!,punc,,,,,,	o
+!	RD_PUNC	I-NP	!,punc,,,,,,	o
+
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	{MCL}
+காந்தியை	N_NN	I-NP	kAnwi,N,E-ACC,,,,	o
+இழிவாக	RB	B-VGNF	ilYYivu,N,Aka-ADV,,,,	o
+பேசிய	V_VM_VNF_RP	I-VGNF	pecu,V,PAST,,,,RP	o
+பாஜகவின்	N_NNP	B-NP	pAjaka,N,inY-GEN,,,,	o
+ஹெச்	N_NNP	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜாவின்	N_NNP	B-NP	rAjA,N,inY-GEN,,,m,	{MCL}
+கொடும்பாவியை	N_NNP	I-NP	koVtumpAvi,N,E-ACC,,,,	o
+எரித்த	V_VM_VNF_RP	B-VGNF	eVri,V,PAST,,,,RP	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+கட்சியினர்	N_NN	I-NP	katciyinYar,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+போலீசில்	N_NN	B-NP	polIcu,N,il-LOC,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+அளித்துள்ளனர்	V_VM_VF	B-VGF	alYi,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	{MCL}
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NN	I-NP	kAnwi,N,E-ACC,,,,	o
+இழிவாக	RB	B-VGNF	ilYYivu,N,Aka-ADV,,,,	o
+பேசிய	V_VM_VNF_RP	I-VGNF	pecu,V,PAST,,,,RP	o
+பாஜகவின்	N_NNP	B-NP	pAjaka,N,inY-GEN,,,,	o
+ஹெச்	N_NNP	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{NF}
+கொடும்பாவியை	N_NNP	B-NP	koVtumpAvi,N,E-ACC,,,,	o
+எரித்து	V_VM_VNF_VBN	B-VGNF	eVri,V,,,,,VBP	{/NF}
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	{MCL}
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+அமைப்பினர்	N_NN	I-NP	amEppinYar,N,,,,,	o
+போராட்டத்தில்	N_NN	B-NP	porAttam,N,il-LOC,,,,	o
+ஈடுபட்டனர்	V_VM_VF	B-VGF	Itupatu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மேலும்	CC_CCD	B-CCP	melum,ADV,,,,,	{MCL}
+அவருக்கு	PR_PRP	B-NP	avar,PN,ukku-DAT,,,mf,	o
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+காவல்நிலையத்தில்	N_NN	B-NP	kAvalnilEyam,N,il-LOC,,,,	o
+புகாரும்	N_NN	B-NP	pukAr,N,,,,,	o
+கொடுக்கப்பட்டுள்ளது	V_VM_VF	B-VGF	koVtu,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{RP}
+செய்தியாளர்களை	N_NN	B-NP	ceVywiyAlYar,N,E-ACC,pl,,,	o
+சந்தித்த	V_VM_VNF_RP	B-VGNF	canwi,V,PAST,,,,RP	o
+போது	PSP	B-BLK	powu,PSP,,,,,	{/RP}
+செய்தியாளர்	N_NN	B-NP	ceVywiyAlYar,N,,,,,	{RP}
+ஒருவர்	N_NN	B-NP	oVruvar,N,,,,,	o
+கென்யாவிற்கு	V_VM_VNF_RP_PRP	B-VGNF	keVnYyA,N,ku-DAT,,,,	{/RP}
+நிதி	N_NN	B-NP	niwi,N,,,,,	{COM}
+தரும்	N_NN	I-NP	war,N,,,,,	o
+இந்திய	N_NNP	B-NP	inwiya,ADJ,,,,,	o
+அரசு	N_NN	I-NP	aracu,N,,,,,	o
+தமிழர்களுக்கு	N_NNP	B-NP	wamilYYar,N,ukku-DAT,pl,,,	o
+நிதி	N_NN	B-NP	niwi,N,,,,,	o
+தர	V_VM_VNF_INF	B-VGNF	wA,V,,,,,INF	o
+மறுப்பது	V_VM_VNF_RP_PRP	I-VGNF	marYu,V,FUTURE,,,,RP-PRP	o
+ஏன்	DM_DMQ	B-BLK	enY,WQ,,,,,	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கேள்வி	N_NN	B-NP	kelYvi,N,,pl,,,	{MCL}
+எழுப்பினார்	V_VM_VF	B-VGF	eVlYYuppu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதற்கு	PR_PRP	B-NP	iwu,PN,ku-DAT,,,,	o
+அவரை	PR_PRP	B-NP	avar,PN,E-ACC,,,mf,	o
+தேசதுரோகி	N_NN	B-NP	wecawuroki,unk,,,,,,	o
+என	CC_CCS	B-CCP	eVnYa,ADV,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{MCL}
+திட்டினார்	V_VM_VF	B-VGF	wittu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மோடியை	N_NNP	B-NP	moti,N,E-ACC,,,,	{RP}
+தான்	PR_PRF	B-NP	wAnY,PN,,,,,	o
+ஊடகங்கள்	N_NN	I-NP	Utakam,N,,pl,,,	o
+தொடர்ந்து	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	o
+விமர்சித்து	V_VM_VNF_VBN	I-VGNF	vimarci,V,,,,,VBP	o
+வருவதாகவும்	RB	B-RBP	vA,V,FUTURE,,,,RP-PRP	o
+,	RD_PUNC	I-RBP	&comma;,punc,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+10	QT_QTC	B-NP	10,num,,,,,,	o
+ஆண்டுகள்	N_NN	I-NP	ANtu,N,,pl,,,	o
+ஆட்சி	N_NN	I-NP	Atci,N,,,,,	o
+செய்த	V_VM_VNF_RP	B-VGNF	ceVy,V,PAST,,,,RP	o
+போது	PSP	B-BLK	powu,PSP,,,,,	{/RP}
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	{COM}
+காந்தியை	N_NNP	I-NP	kAnwi,N,E-ACC,,,,	o
+இதுபோன்ற	PR_PRP	B-NP	iwuponYrYa,ADJ,,,,,	o
+விமர்சிக்கவில்லை	RP_NEG	B-VGF	vimarci,V,,,,,NEG	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கூறினார்	V_VM_VF	B-VGF	kUrYu,V,PAST,sg,3,c,	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வெள்ளைத்தோல்	N_NN	B-NP	veVlYlYEwwol,unk,,,,,,	{RP}
+கொண்ட	V_VM_VNF_RP	B-VGNF	koVlY,V,PAST,,,,RP	o
+இத்தாலி	N_NNP	B-NP	iwwAli,N,,,,,	o
+நாட்டை	N_NN	I-NP	nAtu,N,E-ACC,,,,	o
+சேர்ந்த	V_VM_VNF_RP	B-VGNF	cer,V,PAST,,,,RP	o
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NNP	I-NP	kAnwi,N,E-ACC,,,,	{/RP}
+பார்த்து	V_VM_VNF_VBN	B-VGNF	pAr,V,,,,,VBP	{/NF}
+ஊடகங்கள்	N_NN	B-NP	Utakam,N,,pl,,,	{MCL}
+பயந்தன	V_VM_VF	B-VGF	paya,V,PAST,pl,3,c,	o
+,	RD_PUNC	I-VGF	&comma;,punc,,,,,	{/MCL}
+அவரை	PR_PRP	B-NP	avar,PN,E-ACC,,,mf,	{COM}
+விமர்சிக்கவில்லை	RP_NEG	B-VGF	vimarci,V,,,,,NEG	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கொச்சையாக	RB	B-VGF	koVccE,N,Aka-ADV,,,,	{MCL}
+பேசினார்	V_VM_VF	I-VGF	pecu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	{MCL}
+விவசாயி	N_NN	I-NP	vivacAyi,N,,pl,,,	o
+கூட	PSP	B-BLK	kUta,PSP,,,,,	o
+10	QT_QTC	B-NP	10,num,,,,,,	o
+ஆண்டுகளாக	RB	B-RBP	ANtu,N,,pl,,,	o
+டெல்லிக்கு	N_NNP	B-NP	teVlli,N,kku-DAT,,,,	o
+செல்லவில்லை	RP_NEG	B-VGF	ceVl,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இப்போது	RB	B-RBP	ippowu,ADV,,,,,	{RP}
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	o
+இந்தியர்	N_NNP	I-NP	inwiyar,N,,,,,	o
+ஆளும்	V_VM_VNF_RP	B-VGNF	AlY,V,FUTURE,,,,RP	o
+போது	PSP	B-BLK	powu,PSP,,,,,	{/RP}
+தமிழக	N_NNP	B-NP	wamilYYaka,ADJ,,,,,	{COM}
+விவசாயிகள்	N_NN	I-NP	vivacAyi,N,,pl,,,	o
+செல்வது	V_VM_VNF_RP_PRP	B-VGNF	ceVl,V,FUTURE,sg,3,n,RP-PRP	o
+ஏன்	DM_DMQ	B-BLK	enY,WQ,,,,,	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கேள்வி	N_NN	B-NP	kelYvi,N,,pl,,,	{MCL}
+எழுப்பினார்	V_VM_VF	B-VGF	eVlYYuppu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதற்கு	PR_PRP	B-NP	iwu,PN,ku-DAT,,,,	{MCL}
+பல்வேறு	JJ	B-NP	palverYu,ADJ,,,,,	o
+தரப்பினரும்	N_NN	I-NP	warappinYar,N,,,,,	o
+எதிர்ப்பு	N_NN	I-NP	eVwirppu,N,,,,,	o
+தெரிவித்து	V_VM_VNF_VBN	B-VGF	weVrivi,V,,,,,VBP	o
+வருகின்றனர்	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மேலும்	CC_CCD	B-CCP	melum,ADV,,,,,	o
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	{MCL}
+காந்தியை	N_NN	B-NP	kAnwi,N,E-ACC,,,,	o
+இழிவாக	RB	B-VGNF	ilYYivu,N,Aka-ADV,,,,	o
+பேசியதால்	V_VM_VNF_COND	I-VGNF	pecu,V,PAST,,,,COND	o
+,	RD_PUNC	I-VGNF	&comma;,punc,,,,,	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+அமைப்பினர்	N_NN	I-NP	amEppinYar,N,,,,,	o
+ஹெச்	N_NN	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜாவின்	N_NNP	B-NP	rAjA,N,inY-GEN,,,m,	{NF}
+கொடும்பாவியை	N_NNP	I-NP	koVtumpAvi,N,E-ACC,,,,	o
+எரித்து	V_VM_VNF_VBN	B-VGNF	eVri,V,,,,,VBP	{/NF}
+போராட்டத்தில்	N_NN	B-NP	porAttam,N,il-LOC,,,,	{MCL}
+ஈடுபட்டனர்	V_VM_VF	B-VGF	Itupatu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மேலும்	CC_CCD	B-CCP	melum,ADV,,,,,	{MCL}
+அவருக்கு	PR_PRP	B-NP	avar,PN,ukku-DAT,,,mf,	o
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+காவல்துறையில்	N_NN	B-NP	kAvalwurYE,N,il-LOC,,,,	o
+புகாரும்	N_NN	B-NP	pukAr,N,,,,,	o
+கொடுக்கப்பட்டுள்ளது	V_VM_VF	B-VGF	koVtu,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+உருவபொம்மை	N_NN	B-NP	uruvapoVmmE,N,,,,,	{MCL}
+எரிப்பு	N_NN	I-NP	eVrippu,N,,,,,	o
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	o
+சத்தியமூர்த்தி	N_NN	I-NP	cawwiyamUrwwi,N,,,,m,	o
+பவனில்	N_NN	B-NP	pavanY,N,il-LOC,,,,	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+விஜய்	N_NNP	B-NP	vijay,N,,,,m,	o
+இளஞ்செழியன்	N_NNP	I-NP	ilYaFceVlYYiyanY,N,,,,,	o
+தலைமையில்	N_NN	I-NP	walEmE,N,il-LOC,,,,	o
+ஆர்ப்பாட்டம்	N_NN	B-NP	ArppAttam,N,,,,,	o
+நடந்தது	V_VM_VF	B-VGF	nata,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவுக்கு	N_NN	B-NP	rAjA,N,ukku-DAT,,,m,	{RP}
+எதிராக	RB	B-VGNF	eVwir,N,Aka-ADV,,,,	o
+முழக்கமிட்ட	V_VM_VNF_RP	I-VGNF	mulYYakkamitta,unk,,,,,,	o
+அவர்கள்	PR_PRP	B-NP	avar,PN,,pl,,mf,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	{/RP}
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவின்	N_NNP	B-NP	rAjA,N,inY-GEN,,,m,	{MCL}
+கொடும்பாவியை	N_NNP	I-NP	koVtumpAvi,N,E-ACC,,,,	o
+தீவைத்து	V_VM_VNF_VBN	B-VGF	wIvE,V,,,,,VBP	o
+கொளுத்தினார்கள்	V_VM_VF	I-VGF	koVlYuwwu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கமிஷனர்	N_NN	B-NP	kamiRanYar,N,,,,,	{RP}
+அலுவலகத்தில்	N_NN	I-NP	aluvalakam,N,il-LOC,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+செய்தியாளர்களிடம்	N_NN	B-NP	ceVywiyAlYar,N,itam-LOC,pl,,,	o
+பேசிய	V_VM_VNF_RP	B-VGNF	pecu,V,PAST,,,,RP	o
+விஜய்	N_NNP	B-NP	vijay,N,,,,m,	{MCL}
+இளஞ்செழியன்	N_NNP	I-NP	ilYaFceVlYYiyanY,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	{/RP}
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NNP	B-NP	kAnwi,N,E-ACC,,,,	o
+தரக்	V_VM_VNF_INF	B-VGNF	wA,V,,,,,INF	o
+குறைவாக	RB	I-VGNF	kurYEvu,N,Aka-ADV,,,,	o
+விமர்சித்த	V_VM_VNF_RP	I-VGNF	vimarci,V,PAST,,,,RP	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜாவை	N_NN	B-NP	rAjA,N,E-ACC,,,m,	o
+கைது	N_NN	B-NP	kEwu,N,,,,,	{MCL}
+செய்ய	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+இது	PR_PRP	B-NP	iwu,PN,,,,,	o
+தொடர்பாக	RB	B-RBP	woVtarpu,N,Aka-ADV,,,,	{MCL}
+போலீஸ்	N_NN	B-NP	polIs,N,,,,,	o
+கமி&zத்ந்ஜ்	N_NNP	I-NP	kami&zwnj,unk,,,,,,	o
+;	RD_PUNC	I-NP	;,punc,,,,,,	o
+ஷனர்	N_NN	B-NP	RanYar,unk,,,,,,	o
+அலுவலகத்தில்	N_NN	I-NP	aluvalakam,N,il-LOC,,,,	o
+மனு	N_NN	B-NP	manYu,N,,,,,	o
+கொடுக்க	V_VM_VNF_INF	B-VGNF	koVtu,V,,,,,INF	o
+உள்ளோம்	V_VM_VF	I-VGNF	ulY,V,PRESENT,pl,1,f,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NNP	I-NP	kAnwi,N,E-ACC,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{CON}
+தொடர்ந்து	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	o
+அவமதித்தால்	V_VM_VNF_COND	I-VGNF	avamawi,V,PAST,,,,COND	{/CON}
+அவருக்கு	PR_PRP	B-NP	avar,PN,ukku-DAT,,,mf,	{COM}
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+மிகப்பெரிய	JJ	B-NP	mikappeVriya,ADJ,,,,,	o
+அளவில்	N_NN	I-NP	alYavu,N,il-LOC,,,,	o
+போராட்டம்	N_NN	B-NP	porAttam,N,,,,,	o
+நடத்துவோம்	V_VM_VF	B-VGF	natawwu,V,FUTURE,pl,1,f,	{/COM}
+என்றார்	V_VM_VF	B-VGF	eVnY,V,PAST,sg,3,c,	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மகளிர்	N_NN	B-NP	makalYir,N,,pl,,,	o
+அமைப்பினர்	N_NN	I-NP	amEppinYar,N,,,,,	o
+போராட்டம்	N_NN	I-NP	porAttam,N,,,,,	o
+தமிழக	N_NNP	B-NP	wamilYYaka,ADJ,,,,,	o
+மகளிர்	N_NN	I-NP	makalYir,N,,pl,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+தலைவி	N_NN	I-NP	walEvi,N,,,,,	o
+ஜான்சி	N_NN	B-NP	jAnYci,N,,,,f,	o
+ராணி	N_NN	I-NP	rANi,N,,,,f,	o
+தலைமையில்	N_NN	I-NP	walEmE,N,il-LOC,,,,	o
+பெண்கள்	N_NN	B-NP	peVNkalY,N,,pl,,,	o
+ஹெச்	N_NN	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவை	N_NN	B-NP	rAjA,N,E-ACC,,,m,	{NF}
+கண்டித்து	V_VM_VNF_VBN	B-VGNF	kaNti,V,,,,,VBP	{/NF}
+போராட்டத்தில்	N_NN	B-NP	porAttam,N,il-LOC,,,,	{MCL}
+ஈடுபட்டனர்	V_VM_VF	B-VGF	Itupatu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{RP}
+எச்.ராஜாவை	N_NNP	B-NP	eVc.rAjA,N,E-ACC,,,,	o
+கண்டித்து	V_VM_VNF_VBN	B-VGF	kaNti,V,,,,,VBP	o
+கோ&zத்ந்ஜ்	V_VM_VF	I-VGF	ko&zwnj,unk,,,,,,	{/RP}
+;	RD_PUNC	I-VGF	;,punc,,,,,,	{MCL}
+ஷங்கள்	N_NN	B-NP	RafkalY,unk,,,,,,	o
+எழுப்பினார்கள்	V_VM_VF	B-VGF	eVlYYuppu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தொடர்ந்து	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	{MCL}
+பெண்களை	N_NN	B-NP	peVNkalY,N,E-ACC,pl,,,	o
+இழிவுபடுத்தும்	V_VM_VNF_VBN	B-VGNF	ilYYivupatuwwu,V,FUTURE,,,,RP	o
+பா.ஜனதா	N_NNP	B-NP	pA.janYawA,N,,,,,	o
+தலைவர்களை	N_NN	I-NP	walEvar,N,E-ACC,pl,,mf,	o
+கண்டிக்கிறோம்	V_VM_VF	B-VGF	kaNti,V,PRESENT,pl,1,f,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{RP}
+மன்னிப்பு	N_NN	I-NP	manYnYippu,N,,,,,	o
+கேட்கும்வரை	V_VM_VNF_RP_PRP	B-VGNF	ketkumvarE,unk,,,,,,	{/RP}
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	{MCL}
+போராட்டம்	N_NN	I-NP	porAttam,N,,,,,	o
+தொடரும்	N_NN	B-NP	woVtar,N,,,,,	o
+என்றனர்	V_VM_VF	B-VGF	eVnY,V,PAST,pl,3,c,	o
+பின்னர்	PSP	B-BLK	pinYnYar,N,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{MCL}
+கொடும்பாவியை	N_NNP	B-NP	koVtumpAvi,N,E-ACC,,,,	o
+தீவைத்து	V_VM_VNF_VBN	B-VGF	wIvE,V,,,,,VBP	o
+எரித்தனர்	V_VM_VF	I-VGF	eVri,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+காவல்நிலையத்தில்	N_NN	B-NP	kAvalnilEyam,N,il-LOC,,,,	{MCL}
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+சோனியா	DM_DMQ	B-BLK	conYiyA,N,,,,f,	o
+காந்தியை	N_NN	B-NP	kAnwi,N,E-ACC,,,,	o
+இழிவுபடுத்தும்	V_VM_VNF_RP	B-VGNF	ilYYivupatuwwu,V,FUTURE,,,,RP	o
+வகையில்	N_NN	B-NP	vakE,N,il-LOC,,,,	o
+பேசிய	V_VM_VNF_RP	B-VGNF	pecu,V,PAST,,,,RP	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{NF}
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+நடவடிக்கை	N_NN	B-NP	natavatikkE,N,,pl,,,	o
+எடுக்க	V_VM_VNF_INF	B-VGNF	eVtu,V,,,,,INF	o
+வலியுறுத்தி	V_VM_VNF_VBN	I-VGNF	valiyurYuwwu,V,,,,,VBP	{/NF}
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	{MCL}
+காவல்	N_NN	I-NP	kAval,N,,,,,	o
+நிலையத்தில்	N_NN	I-NP	nilEyam,N,il-LOC,,,,	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+கட்சியினர்	N_NN	I-NP	katciyinYar,N,,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+அளித்துள்ளனர்	V_VM_VF	B-VGF	alYi,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதேபோல்	PR_PRP	B-RBP	iwu,PN,,,,,	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவுக்கு	N_NN	B-NP	rAjA,N,ukku-DAT,,,m,	{MCL}
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+பல	QT_QTF	B-NP	pala,ADJ,,,,,	o
+இடங்களிலும்	N_NN	I-NP	itam,N,il-LOC,pl,,,	o
+போராட்டம்	N_NN	B-NP	porAttam,N,,,,,	o
+வெடித்துள்ளது	V_VM_VF	B-VGF	veVti,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+&ந்bஸ்ப்	N_NN	B-NP	&nbsp,unk,,,,,,	{MCL}
+;	RD_PUNC	I-NP	;,punc,,,,,,	o
+ந்bஸ்ப்	N_NN	B-NP	nbsp,unk,,,,,,	o
+;	RD_PUNC	I-NP	;,punc,,,,,,	o
+ஷேஅd	N_NNP	B-NP	Read,unk,,,,,,	o
+மோரே	N_NNP	I-NP	mor,N,,,,,	o
+அbஓஉட்	N_NN	I-NP	about,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்	RD_SYM	B-NP	h,unk,,,,,,	o
+ரஜ	N_NN	I-NP	rajA,N,a-ADJ,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+சோந்gரேஸ்ஸ்	N_NNP	B-NP	congress,unk,,,,,,	o
+யோஉட்ஹ்	N_NNP	I-NP	youth,unk,,,,,,	o
+திந்g	N_NNP	I-NP	wing,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+போலிசே	N_NNP	B-NP	policu,N,,,,,	o
+சோம்ப்லஇந்ட்	N_NNP	I-NP	complaint,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ஸோநிஅ	N_NNP	B-NP	sonia,unk,,,,,,	o
+gஅந்dஹி	N_NNP	I-NP	gandhi,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+ராஜா	N_NNP	I-NP	rAjA,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+சோனியாகாந்தி	N_NNP	B-NP	conYiyAkAnwi,N,,,,f,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+உருவபொம்மை	N_NN	B-NP	uruvapoVmmE,N,,,,,	o
+எரிப்பு	N_NN	I-NP	eVrippu,N,,,,,	o
+ஐந்gலிஸ்ஹ்	N_NNP	B-NP	English,unk,,,,,,	o
+ஸும்மர்ய்	N_NNP	I-NP	summary,unk,,,,,,	o
+உருவபொம்மை	N_NN	I-NP	uruvapoVmmE,N,,,,,	o
+எரிப்பு	N_NN	I-NP	eVrippu,N,,,,,	o
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	o
+சத்தியமூர்த்தி	N_NN	I-NP	cawwiyamUrwwi,N,,,,m,	o
+பவனில்	N_NN	B-NP	pavanY,N,il-LOC,,,,	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+விஜய்	N_NNP	B-NP	vijay,N,,,,m,	o
+இளஞ்செழியன்	N_NNP	I-NP	ilYaFceVlYYiyanY,N,,,,,	o
+தலைமையில்	N_NN	I-NP	walEmE,N,il-LOC,,,,	o
+ஆர்ப்பாட்டம்	N_NN	B-NP	ArppAttam,N,,,,,	o
+நடந்தது	V_VM_VF	B-VGF	nata,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவுக்கு	N_NN	B-NP	rAjA,N,ukku-DAT,,,m,	{RP}
+எதிராக	RB	B-VGNF	eVwir,N,Aka-ADV,,,,	o
+முழக்கமிட்ட	V_VM_VNF_RP	I-VGNF	mulYYakkamitta,unk,,,,,,	o
+அவர்கள்	PR_PRP	B-NP	avar,PN,,pl,,mf,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	{/RP}
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவின்	N_NNP	B-NP	rAjA,N,inY-GEN,,,m,	{MCL}
+கொடும்பாவியை	N_NNP	I-NP	koVtumpAvi,N,E-ACC,,,,	o
+தீவைத்து	V_VM_VNF_VBN	B-VGF	wIvE,V,,,,,VBP	o
+கொளுத்தினார்கள்	V_VM_VF	I-VGF	koVlYuwwu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கமிஷனர்	N_NN	B-NP	kamiRanYar,N,,,,,	{RP}
+அலுவலகத்தில்	N_NN	I-NP	aluvalakam,N,il-LOC,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+செய்தியாளர்களிடம்	N_NN	B-NP	ceVywiyAlYar,N,itam-LOC,pl,,,	o
+பேசிய	V_VM_VNF_RP	B-VGNF	pecu,V,PAST,,,,RP	o
+விஜய்	N_NNP	B-NP	vijay,N,,,,m,	{MCL}
+இளஞ்செழியன்	N_NNP	I-NP	ilYaFceVlYYiyanY,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	{/RP}
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NNP	B-NP	kAnwi,N,E-ACC,,,,	o
+தரக்	V_VM_VNF_INF	B-VGNF	wA,V,,,,,INF	o
+குறைவாக	RB	I-VGNF	kurYEvu,N,Aka-ADV,,,,	o
+விமர்சித்த	V_VM_VNF_RP	I-VGNF	vimarci,V,PAST,,,,RP	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜாவை	N_NN	B-NP	rAjA,N,E-ACC,,,m,	o
+கைது	N_NN	B-NP	kEwu,N,,,,,	{MCL}
+செய்ய	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+இது	PR_PRP	B-NP	iwu,PN,,,,,	o
+தொடர்பாக	RB	B-RBP	woVtarpu,N,Aka-ADV,,,,	{MCL}
+போலீஸ்	N_NN	B-NP	polIs,N,,,,,	o
+கமி&zத்ந்ஜ்	N_NNP	I-NP	kami&zwnj,unk,,,,,,	o
+;	RD_PUNC	I-NP	;,punc,,,,,,	o
+ஷனர்	N_NN	B-NP	RanYar,unk,,,,,,	o
+அலுவலகத்தில்	N_NN	I-NP	aluvalakam,N,il-LOC,,,,	o
+மனு	N_NN	B-NP	manYu,N,,,,,	o
+கொடுக்க	V_VM_VNF_INF	B-VGNF	koVtu,V,,,,,INF	o
+உள்ளோம்	V_VM_VF	I-VGNF	ulY,V,PRESENT,pl,1,f,	{/MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	o
+
+சோனியா	N_NNP	B-NP	conYiyA,N,,,,f,	o
+காந்தியை	N_NNP	I-NP	kAnwi,N,E-ACC,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{CON}
+தொடர்ந்து	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	o
+அவமதித்தால்	V_VM_VNF_COND	I-VGNF	avamawi,V,PAST,,,,COND	{/CON}
+அவருக்கு	PR_PRP	B-NP	avar,PN,ukku-DAT,,,mf,	{COM}
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+மிகப்பெரிய	JJ	B-NP	mikappeVriya,ADJ,,,,,	o
+அளவில்	N_NN	I-NP	alYavu,N,il-LOC,,,,	o
+போராட்டம்	N_NN	B-NP	porAttam,N,,,,,	o
+நடத்துவோம்	V_VM_VF	B-VGF	natawwu,V,FUTURE,pl,1,f,	{/COM}
+என்றார்	V_VM_VF	B-VGF	eVnY,V,PAST,sg,3,c,	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மகளிர்	N_NN	B-NP	makalYir,N,,pl,,,	o
+அமைப்பினர்	N_NN	I-NP	amEppinYar,N,,,,,	o
+போராட்டம்	N_NN	I-NP	porAttam,N,,,,,	o
+தமிழக	N_NNP	B-NP	wamilYYaka,ADJ,,,,,	o
+மகளிர்	N_NN	I-NP	makalYir,N,,pl,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+தலைவி	N_NN	I-NP	walEvi,N,,,,,	o
+ஜான்சி	N_NN	B-NP	jAnYci,N,,,,f,	o
+ராணி	N_NN	I-NP	rANi,N,,,,f,	o
+தலைமையில்	N_NN	I-NP	walEmE,N,il-LOC,,,,	o
+பெண்கள்	N_NN	B-NP	peVNkalY,N,,pl,,,	o
+ஹெச்	N_NN	I-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவை	N_NN	B-NP	rAjA,N,E-ACC,,,m,	{NF}
+கண்டித்து	V_VM_VNF_VBN	B-VGNF	kaNti,V,,,,,VBP	{/NF}
+போராட்டத்தில்	N_NN	B-NP	porAttam,N,il-LOC,,,,	{MCL}
+ஈடுபட்டனர்	V_VM_VF	B-VGF	Itupatu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{RP}
+எச்.ராஜாவை	N_NNP	B-NP	eVc.rAjA,N,E-ACC,,,,	o
+கண்டித்து	V_VM_VNF_VBN	B-VGF	kaNti,V,,,,,VBP	o
+கோ&zத்ந்ஜ்	V_VM_VF	I-VGF	ko&zwnj,unk,,,,,,	{/RP}
+;	RD_PUNC	I-VGF	;,punc,,,,,,	{MCL}
+ஷங்கள்	N_NN	B-NP	RafkalY,unk,,,,,,	o
+எழுப்பினார்கள்	V_VM_VF	B-VGF	eVlYYuppu,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தொடர்ந்து	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	{MCL}
+பெண்களை	N_NN	B-NP	peVNkalY,N,E-ACC,pl,,,	o
+இழிவுபடுத்தும்	V_VM_VNF_VBN	B-VGNF	ilYYivupatuwwu,V,FUTURE,,,,RP	o
+பா.ஜனதா	N_NNP	B-NP	pA.janYawA,N,,,,,	o
+தலைவர்களை	N_NN	I-NP	walEvar,N,E-ACC,pl,,mf,	o
+கண்டிக்கிறோம்	V_VM_VF	B-VGF	kaNti,V,PRESENT,pl,1,f,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{RP}
+மன்னிப்பு	N_NN	I-NP	manYnYippu,N,,,,,	o
+கேட்கும்வரை	V_VM_VNF_RP_PRP	B-VGNF	ketkumvarE,unk,,,,,,	{/RP}
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	{MCL}
+போராட்டம்	N_NN	I-NP	porAttam,N,,,,,	o
+தொடரும்	N_NN	B-NP	woVtar,N,,,,,	o
+என்றனர்	V_VM_VF	B-VGF	eVnY,V,PAST,pl,3,c,	o
+பின்னர்	PSP	B-BLK	pinYnYar,N,,,,,	o
+ஹெச்	N_NNP	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{MCL}
+கொடும்பாவியை	N_NNP	B-NP	koVtumpAvi,N,E-ACC,,,,	o
+தீவைத்து	V_VM_VNF_VBN	B-VGF	wIvE,V,,,,,VBP	o
+எரித்தனர்	V_VM_VF	I-VGF	eVri,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+காவல்நிலையத்தில்	N_NN	B-NP	kAvalnilEyam,N,il-LOC,,,,	{MCL}
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+சோனியா	DM_DMQ	B-BLK	conYiyA,N,,,,f,	o
+காந்தியை	N_NN	B-NP	kAnwi,N,E-ACC,,,,	o
+இழிவுபடுத்தும்	V_VM_VNF_RP	B-VGNF	ilYYivupatuwwu,V,FUTURE,,,,RP	o
+வகையில்	N_NN	B-NP	vakE,N,il-LOC,,,,	o
+பேசிய	V_VM_VNF_RP	B-VGNF	pecu,V,PAST,,,,RP	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	{/MCL}
+
+ராஜா	N_NN	B-NP	rAjA,N,,,,m,	{NF}
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+நடவடிக்கை	N_NN	B-NP	natavatikkE,N,,pl,,,	o
+எடுக்க	V_VM_VNF_INF	B-VGNF	eVtu,V,,,,,INF	o
+வலியுறுத்தி	V_VM_VNF_VBN	I-VGNF	valiyurYuwwu,V,,,,,VBP	{/NF}
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	{MCL}
+காவல்	N_NN	I-NP	kAval,N,,,,,	o
+நிலையத்தில்	N_NN	I-NP	nilEyam,N,il-LOC,,,,	o
+இளைஞர்	N_NN	B-NP	ilYEFar,N,,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+கட்சியினர்	N_NN	I-NP	katciyinYar,N,,,,,	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+அளித்துள்ளனர்	V_VM_VF	B-VGF	alYi,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதேபோல்	PR_PRP	B-RBP	iwu,PN,,,,,	o
+ஹெச்	N_NN	B-NP	heVc,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ராஜாவுக்கு	N_NN	B-NP	rAjA,N,ukku-DAT,,,m,	{MCL}
+எதிராக	RB	B-RBP	eVwir,N,Aka-ADV,,,,	o
+பல	QT_QTF	B-NP	pala,ADJ,,,,,	o
+இடங்களிலும்	N_NN	I-NP	itam,N,il-LOC,pl,,,	o
+போராட்டம்	N_NN	B-NP	porAttam,N,,,,,	o
+வெடித்துள்ளது	V_VM_VF	B-VGF	veVti,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

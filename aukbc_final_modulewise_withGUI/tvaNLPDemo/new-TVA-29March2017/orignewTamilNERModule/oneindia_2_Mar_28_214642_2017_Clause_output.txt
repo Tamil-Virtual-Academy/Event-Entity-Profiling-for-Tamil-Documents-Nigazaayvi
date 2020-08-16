@@ -1,0 +1,33 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	I-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+bஉஸிநேஸ்ஸ்	N_NNP	B-NP	business,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஙிநந்சே-bஇல்ல்	N_NN	B-NP	finance-bill,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+2017-	QT_QTC	B-NP	2017-,num,,,,,,	o
+ர்ஸ்	N_NNP	B-NP	rs,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+2-	QT_QTC	B-NP	2-,num,,,,,,	o
+லக்ஹ்	QT_QTC	I-NP	lakh,unk,,,,,,	o
+-சஸ்ஹ்-ட்ரந்ஸச்டிஓந்	N_NN	I-NP	-cash-transaction,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+லிமிட்-277790	N_NNP	B-NP	limit-277790,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	o
+
+

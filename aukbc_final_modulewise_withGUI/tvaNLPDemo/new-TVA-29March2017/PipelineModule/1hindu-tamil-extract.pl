@@ -1,0 +1,53 @@
+use HTML::Entities;
+open(F,$ARGV[0]);
+while(<F>)
+{
+$val=$_;
+push(@arr,$_);
+}
+for($i=0;$i<=@arr;$i++)
+{
+@str=("tamilnadu","business","india","world","sports","opinion","general");	
+for($j=0;$j<@str;$j++){
+	if($arr[$i]=~/(http:\/\/tamil.thehindu.com\/$str[$j]\/.*\/article.*ece)/)
+        {
+		$value=$arr[$i];
+		$hash{$1}++;
+        }
+	}
+}
+$t=1;$b=1;$in=1;$w=1;$s=1;$c=1;$op=1;$g=1;$m=1;
+foreach $k(sort keys %hash)
+{
+	if($k!~/\/\?/){
+	if(($k=~/\/tamilnadu\//)&&($t<=2)){	
+		print"$k\n";
+		$t++;
+	}
+	if(($k=~/\/business\//)&&($b<=2))
+	{
+		 print"$k\n";
+		$b++;
+	}
+	if(($k=~/\/india\//)&&($in<=2))
+        {
+                 print"$k\n";
+                $in++;
+        }
+	if(($k=~/\/world\//)&&($w<=2))
+        {
+                print"$k\n";
+                $w++;
+        }
+	if(($k=~/\/sports\//)&&($s<=2))
+        {
+                print"$k\n";
+                $s++;
+        }
+	if(($k=~/\/general\//)&&($g<=2))
+        {
+                print"$k\n";
+                $g++;
+        }
+	}
+}

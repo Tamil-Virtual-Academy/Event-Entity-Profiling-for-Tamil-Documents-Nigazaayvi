@@ -1,0 +1,26 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	B-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+இந்dஇஅ	N_NN	B-NP	india,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+gக்-வஸந்-ஹஸ்-மdஏ-அர்ரந்gஏமேந்ட்ஸ்-ட்ஹே-ஙர்மேர்ஸ்-மேஏட்-ட்ஹே	RD_RDF	I-NP	gk-vasan-has-made-arrangements-the-farmers-meet-the,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ப்ரேஸிdஏந்ட்-278132	V_VM_VF	B-VGF	president-278132,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	o
+
+

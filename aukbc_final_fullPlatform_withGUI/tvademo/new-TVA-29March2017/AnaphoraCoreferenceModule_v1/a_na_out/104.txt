@@ -1,0 +1,250 @@
+104    0    0  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               {MCL}  o     o     o       FALSE
+104    0    1  nivAraNa                  N_NN          I-NP    nivAraNam,N,a-ADJ,,,,                    o               o      o     o     o       FALSE
+104    0    2  paNikalYE                 N_NN          I-NP    paNi,N,E-ACC,pl,,,                       o               o      o     o     o       FALSE
+104    0    3  merYkoVlYlYa              V_VM_VNF_INF  B-VGNF  merYkoVlY,V,,,,,INF                      o               o      o     o     o       FALSE
+104    0    4  4                         QT_QTC        B-NP    4,num,,,,,,,unk,,,,,                     B-count         o      o     o     o       FALSE
+104    0    5  kulYYukkalY               N_NN          I-NP    kulYYu,N,,pl,,,                          o               o      o     o     o       FALSE
+104    0    6  amEppu                    N_NN          I-NP    amEppu,N,,,,,                            o               {/MCL} o     o     o       FALSE
+
+104    1    0  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      o     B-2.10 B-3     FALSE
+104    1    1  petti                     N_NN          I-NP    petti,N,,,,,                             o               o      o     o     o       FALSE
+104    1    2  peVfkalYUru               N_NNP         B-NP    peVfkalYUru,N,,,,,                       B-LOCATION      o      o     o     o       FALSE
+104    1    3  ,                         RD_PUNC       I-NP    ,unk,,,,,,                               o               o      o     o     o       FALSE
+
+104    2    0  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               {INF}  o     o     o       FALSE
+104    2    1  nivAraNa                  N_NN          I-NP    nivAraNam,N,a-ADJ,,,,                    o               o      o     o     o       FALSE
+104    2    2  paNikalYE                 N_NN          I-NP    paNi,N,E-ACC,pl,,,                       o               o      o     o     o       FALSE
+104    2    3  merYkoVlYlYa              V_VM_VNF_INF  B-VGNF  merYkoVlY,V,,,,,INF                      o               {/INF} o     o     o       FALSE
+104    2    4  manwirikalY               N_NN          B-NP    manwiri,N,,pl,,,                         o               {COM}  o     o     o       FALSE
+104    2    5  atafkiya                  JJ            I-NP    atafku,V,PAST,,,,RP                      o               o      o     o     o       FALSE
+104    2    6  4                         QT_QTC        I-NP    4,num,,,,,,,unk,,,,,                     B-count         o      o     o     o       FALSE
+104    2    7  kulYYukkalY               N_NN          I-NP    kulYYu,N,,pl,,,                          o               o      o     o     o       FALSE
+104    2    8  amEkkappattulYlYawu       V_VM_VF       B-VGF   amE,V,PRESENT,sg,3,n,RP-PRP              o               o      o     o     o       FALSE
+104    2    9  eVnYrYu                   CC_CCS        B-CCP   eVnYrYu,UT,,,,,                          o               {/COM} o     o     o       FALSE
+104    2   10  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        {MCL}  o     B-2.10;B-4.0 B-3     FALSE
+104    2   11  kUrYinYAr                 V_VM_VF       B-VGF   kUrYu,V,PAST,sg,3,c,                     o               o      o     o     o       FALSE
+104    2   12  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    3    0  UlYYal                    N_NN          B-NP    UlYYal,N,,,,,                            o               o      o     o     o       FALSE
+104    3    1  watuppu                   N_NN          I-NP    watuppu,N,,,,,                           o               o      o     o     o       FALSE
+104    3    2  patE                      N_NN          I-NP    patE,N,,,,,                              o               o      o     o     o       FALSE
+
+104    4    0  muwal-manwiri             N_NN          B-NP    muwal-manwiri,N,,,,,                     o               {MCL}  o     B-4.0;B-4.1 B-3     FALSE
+104    4    1  ciwwarAmEyA               N_NNP         I-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      o     B-6.1;B-4.1 B-3     FALSE
+104    4    2  nerYrYu                   N_NN          B-NP    nerYrYu,ADV,,,,,                         o               o      o     o     o       FALSE
+104    4    3  peVlakAvi                 N_NNP         B-NP    peVlakAvi,N,,,,,                         B-LOCATION      o      o     B-5.3 B-2     FALSE
+104    4    4  mAvattawwil               N_NN          I-NP    mAvattam,N,il-LOC,,,,                    I-LOCATION      o      o     I-5.3 I-2     FALSE
+104    4    5  curYrYuppayaNam           N_NN          B-NP    curYrYuppayaNam,N,,,,,                   o               o      o     o     o       FALSE
+104    4    6  ceVywAr                   V_VM_VF       B-VGF   ceVy,V,PAST,sg,3,c,                      o               o      o     o     o       FALSE
+104    4    7  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    5    0  iwarYkAka                 RB            B-RBP   iwu,PN,,,,,                              o               {MCL}  o     o     o       FALSE
+104    5    1  vimAnYam                  N_NN          B-NP    vimAnYam,N,,,,,                          o               o      o     o     o       FALSE
+104    5    2  mUlam                     PSP           B-BLK   mUlam,N,,,,,                             o               o      o     o     o       FALSE
+104    5    3  peVlakAvikku              N_NNP         B-NP    peVlakAvi,N,kku-DAT,,,,                  o               o      o     B-5.3;B-19.1 B-2     FALSE
+104    5    4  ceVnYrYAr                 V_VM_VF       B-VGF   ceVl,V,PAST,sg,3,c,                      o               o      o     o     o       FALSE
+104    5    5  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    6    0  afku                      RB            B-RBP   afku,ADV,,,,,                            o               {RP}   o     o     o       FALSE
+104    6    1  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      B-7.0 B-6.1;B-18.1 B-3     FALSE
+104    6    2  niruparkalYukku           N_NN          B-NP    nirupar,N,ukku-DAT,pl,,,                 o               o      o     o     o       FALSE
+104    6    3  alYiwwa                   V_VM_VNF_RP   B-VGNF  alYi,V,PAST,,,,RP                        o               o      o     o     o       FALSE
+104    6    4  pettiyil                  N_NN          B-NP    petti,N,il-LOC,,,,                       o                      o     o     o       FALSE
+104    6    5  kUrYiyawAvawu             V_VM_VNF_RP_PRP B-VGNF  kUrYiyawAvawu,ADJ,,,,,                   o               {MCL}  o     o     o       FALSE
+104    6    6  :                         RD_PUNC       I-VGNF  ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    7    0  nAnY                      PR_PRP        B-NP    nAnY,PN,,,,,                             o               {MCL}  B-7.0;B-8.3 o     B-3     TRUE
+104    7    1  makkalYAl                 N_NN          B-NP    makkalY,N,Al-INS,pl,,,                   o               o      o     o     o       FALSE
+104    7    2  muwal-manwiriyAka         RB            B-VGF   muwal-manwiri,N,Aka-ADV,,,,              o               o      o     o     o       FALSE
+104    7    3  wernwu                    V_VM_VNF_VBN  I-VGF   wer,V,,,,,VBP                            o               o      o     o     o       FALSE
+104    7    4  eVtukkappattulYlYenY      V_VM_VF       B-VGF   eVtu,V,PRESENT,sg,1,c,                   o               o      o     o     o       FALSE
+104    7    5  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    8    0  lok                       N_NN          B-NP    lok,N,,,,,                               o               {MCL}  o     B-10.0 B-0     FALSE
+104    8    1  ayukwA                    N_NN          I-NP    ayukwA,N,,,,,                            o               o      o     I-10.0 I-0     FALSE
+104    8    2  amEppAl                   N_NN          I-NP    amEppu,N,Al-INS,,,,                      o               o      o     I-10.0 I-0     FALSE
+104    8    3  nAnY                      PR_PRP        B-NP    nAnY,PN,,,,,                             o               o      B-8.3;B-9.0 o     B-3     TRUE
+104    8    4  inwa                      DM_DMR        B-NP    inwa,ADJ,,,,,                            o               o      o     o     o       FALSE
+104    8    5  pawavikku                 N_NN          I-NP    pawavi,N,kku-DAT,pl,,,                   o               o      o     o     o       FALSE
+104    8    6  varavillE                 RP_NEG        B-VGF   varavu,N,,,,,                            o               o      o     o     o       FALSE
+104    8    7  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104    9    0  nAnY                      PR_PRP        B-NP    nAnY,PN,,,,,                             o               {RP}   B-9.0;B-16.0;B-11.4 o     B-3     TRUE
+104    9    1  muwal-manwiri             N_NN          B-NP    muwal-manwiri,N,,,,,                     o               o      o     o     o       FALSE
+104    9    2  AvawarYku                 V_VM_VNF_RP_PRP B-VGNF  Aku,V,FUTURE,,,,RP-PRP                   o               {/RP}  o     o     o       FALSE
+104    9    3  makkalY                   N_NN          B-NP    makkalY,N,,pl,,,                         o               {MCL}  o     o     o       FALSE
+104    9    4  wAnY                      PSP           B-BLK   wAnY,PSP,,,,,                            o               o      o     o     o       FALSE
+104    9    5  kAraNam                   N_NN          B-NP    kAraNam,N,,,,,                           o               o      o     o     o       FALSE
+104    9    6  .                         RD_PUNC       I-NP    ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   10    0  lok                       N_NN          B-NP    lok,N,,,,,                               o               {NF}   o     B-10.0 B-0     FALSE
+104   10    1  ayukwA                    N_NN          I-NP    ayukwA,N,,,,,                            o               o      o     I-10.0 I-0     FALSE
+104   10    2  amEppE                    N_NN          I-NP    amEppu,N,E-ACC,,,,                       o               o      o     I-10.0 I-0     FALSE
+104   10    3  mUtuvawarYkAka            RB            B-RBP   mUtu,V,FUTURE,,,,RP-PRP                  o               o      o     o     o       FALSE
+104   10    4  UlYYal                    N_NN          B-NP    UlYYal,N,,,,,                            o               o      o     o     o       FALSE
+104   10    5  watuppu                   N_NN          I-NP    watuppu,N,,,,,                           o               o      o     o     o       FALSE
+104   10    6  patE                      N_NN          I-NP    patE,N,,,,,                              o               o      o     o     o       FALSE
+104   10    7  uruvAkkappattu            V_VM_VNF_VBN  B-VGNF  uruvAkku,V,,,,,VBP                       o               {/NF}  o     o     o       FALSE
+104   10    8  iruppawAka                RB            I-VGNF  iru,V,FUTURE,,,,RP-PRP                   o               o      o     o     o       FALSE
+104   10    9  kAfkiras                  N_NNP         B-NP    kAfkiras,N,,,,,                          B-POLITCAL      {RP}   o     B-10.12 B-1     FALSE
+104   10   10  mUwwa                     JJ            I-NP    mUwwa,ADJ,,,,,                           o               o      o     I-10.12 I-1     FALSE
+104   10   11  walEvar                   N_NN          I-NP    walEvar,N,,pl,,,                         o               o      o     I-10.12 I-1     FALSE
+104   10   12  janYArwwanYa              N_NNP         I-NP    janYArwwanYam,N,a-ADJ,,,m,               B-PERSON        o      o     B-10.12 B-1     FALSE
+104   10   13  pUjAri                    N_NNP         I-NP    pUjAri,N,,,,,                            B-PERSON        o      o     I-10.12 I-1     FALSE
+104   10   14  kUrYi                     V_VM_VNF_VBN  B-VGNF  kUrYu,V,,,,,VBP                          o               o      o     o     o       FALSE
+104   10   15  iruppawu                  V_VM_VNF_RP_PRP I-VGNF  iru,V,FUTURE,,,,RP-PRP                   o               o      o     o     o       FALSE
+104   10   16  parYrYi                   PSP           B-BLK   parYrYi,PSP,,,,,                         o               {/RP}  o     o     o       FALSE
+104   10   17  nIfkalY                   PR_PRP        B-NP    nIfkalY,PN,,,,,                          o               {MCL}  o     o     o       FALSE
+104   10   18  ketkirYIrkalY             V_VM_VF       B-VGF   kelY,V,PRESENT,,,,                       o               o      o     o     o       FALSE
+104   10   19  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   11    0  makkalYukku               N_NN          B-NP    makkalY,N,ukku-DAT,pl,,,                 o               {RP}   o     o     o       FALSE
+104   11    1  nallawu                   N_NN          B-NP    nallawu,N,,,,,                           o               o      o     o     o       FALSE
+104   11    2  ceVyvawu                  V_VM_VNF_RP_PRP B-VGNF  ceVy,V,FUTURE,sg,3,n,RP-PRP              o               o      o     o     o       FALSE
+104   11    3  wAnY                      PSP           B-BLK   wAnY,PSP,,,,,                            o               {/RP}  o     o     o       FALSE
+104   11    4  eVnYawu                   PR_PRP        B-NP    eVnY,PN,awu-GEN,,,,                      o               {MCL}  B-11.4 o     B-3     TRUE
+104   11    5  velE                      N_NN          B-NP    velE,N,,,,,                              o               o      o     o     o       FALSE
+104   11    6  .                         RD_PUNC       I-NP    ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   12    0  nallawE                   N_NN          B-NP    nallawu,N,E-ACC,,,,                      o               {MCL}  o     o     o       FALSE
+104   12    1  ceVywe                    V_VM_VNF_VBN  B-VGF   ceVy,V,,,,,                              o               o      o     o     o       FALSE
+104   12    2  wIruvenY                  V_VM_VF       I-VGF   wIruvenY,unk,,,,,,                       o               o      o     o     o       FALSE
+104   12    3  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   13    0  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               {MCL}  o     o     o       FALSE
+104   13    1  pakuwikalY                N_NN          I-NP    pakuwi,N,,pl,,,                          o               o      o     o     o       FALSE
+104   13    2  Ayvu                      N_NN          I-NP    Ayvu,N,,,,,                              o               {/MCL} o     o     o       FALSE
+104   13    3  karnAtakawwil             N_NNP         B-NP    karnAtakam,N,il-LOC,,,,                  B-LOCATION      {RP}   o     o     o       FALSE
+104   13    4  nilavum                   V_VM_VNF_RP   B-VGNF  nilavu,V,FUTURE,,,,RP                    o               o      o     o     o       FALSE
+104   13    5  varYatciyE                N_NN          B-NP    varYatci,N,E-ACC,,,,                     o               {/RP}  o     o     o       FALSE
+104   13    6  Ayvu                      N_NN          B-NP    Ayvu,N,,,,,                              o               {INF}  o     o     o       FALSE
+104   13    7  ceVyyavum                 V_VM_VNF_INF  B-VGNF  ceVy,V,,,,,INF                           o               {/INF} o     o     o       FALSE
+104   13    8  ,                         RD_PUNC       I-VGNF  ,unk,,,,,,                               o               o      o     o     o       FALSE
+104   13    9  nivAraNa                  N_NN          B-NP    nivAraNam,N,a-ADJ,,,,                    o               {INF}  o     o     o       FALSE
+104   13   10  paNikalYE                 N_NN          I-NP    paNi,N,E-ACC,pl,,,                       o               o      o     o     o       FALSE
+104   13   11  merYkoVlYlYavum           V_VM_VNF_INF  B-VGNF  merYkoVlY,V,PRESENT,sg,3,n,RP            o               {/INF} o     o     o       FALSE
+104   13   12  manwirikalY               N_NN          B-NP    manwiri,N,,pl,,,                         o               {MCL}  o     o     o       FALSE
+104   13   13  atafkiya                  JJ            I-NP    atafku,V,PAST,,,,RP                      o               o      o     o     o       FALSE
+104   13   14  4                         QT_QTC        I-NP    4,num,,,,,,,unk,,,,,                     B-count         o      o     o     o       FALSE
+104   13   15  kulYYukkalYE              N_NN          I-NP    kulYYu,N,E-ACC,pl,,,                     o               o      o     o     o       FALSE
+104   13   16  amEwwulYlYenY             V_VM_VF       B-VGF   amE,V,PRESENT,sg,1,c,                    o               o      o     o     o       FALSE
+104   13   17  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   14    0  inwa                      DM_DMR        B-NP    inwa,ADJ,,,,,                            o               {NF}   o     o     o       FALSE
+104   14    1  kulYYuvinYar              N_NN          I-NP    kulYYuvinYar,N,,pl,,,                    o               o      o     o     o       FALSE
+104   14    2  mAnilam                   N_NN          B-NP    mAnilam,N,,,,,                           o               o      o     o     o       FALSE
+104   14    3  mulYYuvawum               N_NN          I-NP    mulYYuvawum,N,,,,,                       o               o      o     o     o       FALSE
+104   14    4  curYrYuppayaNam           N_NN          B-NP    curYrYuppayaNam,N,,,,,                   o               o      o     o     o       FALSE
+104   14    5  ceVywu                    V_VM_VNF_VBN  B-VGNF  ceVy,V,,,,,VBP                           o               {/NF}  o     o     o       FALSE
+104   14    6  varYatciyE                N_NN          B-NP    varYatci,N,E-ACC,,,,                     o               {MCL}  o     o     o       FALSE
+104   14    7  Ayvu                      N_NN          B-NP    Ayvu,N,,,,,                              o               o      o     o     o       FALSE
+104   14    8  ceVywu                    V_VM_VNF_VBN  B-VGF   ceVy,V,,,,,VBP                           o               o      o     o     o       FALSE
+104   14    9  varukirYArkalY            V_VM_VF       I-VGF   vA,V,PRESENT,pl,3,c,                     o               o      o     o     o       FALSE
+104   14   10  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   15    0  inwa                      DM_DMR        B-NP    inwa,ADJ,,,,,                            o               {RP}   o     o     o       FALSE
+104   15    1  kulYYukkalY               N_NN          I-NP    kulYYu,N,,pl,,,                          o               o      o     o     o       FALSE
+104   15    2  arYikkE                   N_NN          B-NP    arYikkE,N,,,,,                           o               o      o     o     o       FALSE
+104   15    3  valYYafkiya               V_VM_VNF_RP   B-VGNF  valYYafku,V,PAST,,,,RP                   o               o      o     o     o       FALSE
+104   15    4  pirYaku                   PSP           B-BLK   pirYaku,PSP,,,,,                         o               {/RP}  o     o     o       FALSE
+104   15    5  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               {MCL}  o     o     o       FALSE
+104   15    6  nivAraNa                  N_NN          I-NP    nivAraNam,N,a-ADJ,,,,                    o               o      o     o     o       FALSE
+104   15    7  paNikalY                  N_NN          I-NP    paNi,N,,pl,,,                            o               o      o     o     o       FALSE
+104   15    8  inYnYum                   RB            B-VGF   inY,N,,,,,                               o               o      o     o     o       FALSE
+104   15    9  vekamAka                  RB            I-VGF   vekam,N,Aka-ADV,,,,                      o               o      o     o     o       FALSE
+104   15   10  merYkoVlYlYappatum        V_VM_VF       I-VGF   merYkoVlY,V,PRESENT,sg,3,n,RP            o               o      o     o     o       FALSE
+104   15   11  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   16    0  nAnY                      PR_PRP        B-NP    nAnY,PN,,,,,                             o               {RP}   B-16.0 o     B-3     TRUE
+104   16    1  erYkanYave                RB            B-RBP   erYkanYave,ADV,,,,,                      o               o      o     o     o       FALSE
+104   16    2  pala                      QT_QTF        B-NP    pala,ADJ,,,,,                            o               o      o     o     o       FALSE
+104   16    3  mAvattafkalYil            N_NN          I-NP    mAvattam,N,il-LOC,pl,,,                  o               o      o     o     o       FALSE
+104   16    4  varYatciyAl               N_NN          B-NP    varYatci,N,Al-INS,,,,                    o               o      o     o     o       FALSE
+104   16    5  pAwikkappatta             V_VM_VNF_RP   B-VGNF  pAwikkappatu,V,PAST,,,,RP                o               o      o     o     o       FALSE
+104   16    6  pakuwikalYEyum            N_NN          B-NP    pakuwi,N,E-ACC,pl,,,                     o               {/RP}  o     o     o       FALSE
+104   16    7  ,                         RD_PUNC       I-NP    ,unk,,,,,,                               o               o      o     o     o       FALSE
+104   16    8  afku                      RB            B-VGNF  afku,ADV,,,,,                            o               {RP}   o     o     o       FALSE
+104   16    9  merYkoVlYlYappattu        V_VM_VNF_VBN  I-VGNF  merYkoVlY,V,PRESENT,,,,RP                o               o      o     o     o       FALSE
+104   16   10  varum                     V_VM_VNF_RP   I-VGNF  vA,V,FUTURE,,,,RP                        o               o      o     o     o       FALSE
+104   16   11  nivAraNa                  N_NN          B-NP    nivAraNam,N,a-ADJ,,,,                    o               o      o     o     o       FALSE
+104   16   12  paNikalYEyum              N_NN          I-NP    paNi,N,E-ACC,pl,,,                       o               {/RP}  o     o     o       FALSE
+104   16   13  neril                     RB            B-RBP   ner,N,il-LOC,,,,                         o               {MCL}  o     o     o       FALSE
+104   16   14  Ayvu                      N_NN          B-NP    Ayvu,N,,,,,                              o               o      o     o     o       FALSE
+104   16   15  ceVywenY                  V_VM_VF       B-VGF   ceVy,V,PAST,sg,1,c,                      o               o      o     o     o       FALSE
+104   16   16  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   17    0  ippowu                    RB            B-RBP   ippowu,ADV,,,,,                          o               {RP}   o     o     o       FALSE
+104   17    1  2-vawu                    QT_QTO        B-NP    2,num,,sg,,,,unk,,,,,                    o               o      o     o     o       FALSE
+104   17    2  kattamAka                 RB            B-RBP   kattam,N,Aka-ADV,,,,                     o               o      o     o     o       FALSE
+104   17    3  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               o      o     o     o       FALSE
+104   17    4  pakuwikalYE               N_NN          I-NP    pakuwi,N,E-ACC,pl,,,                     o               o      o     o     o       FALSE
+104   17    5  Ayvu                      N_NN          B-NP    Ayvu,N,,,,,                              o               o      o     o     o       FALSE
+104   17    6  ceVyyum                   V_VM_VNF_RP   B-VGNF  ceVy,V,FUTURE,,,,RP                      o               o      o     o     o       FALSE
+104   17    7  paNiyE                    N_NN          B-NP    paNi,N,E-ACC,,,,                         o               {/RP}  o     o     o       FALSE
+104   17    8  woVtafkiyulYlYenY         V_VM_VF       B-VGF   woVtafku,V,PRESENT,sg,1,c,               o               {MCL}  o     o     o       FALSE
+104   17    9  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   18    0  ivvArYu                   RB            B-RBP   ivvArYu,ADV,,,,,                         o               {MCL}  o     o     o       FALSE
+104   18    1  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      o     B-18.1;B-19.4 B-3     FALSE
+104   18    2  kUrYinYAr                 V_VM_VF       B-VGF   kUrYu,V,PAST,sg,3,c,                     o               {/MCL} o     o     o       FALSE
+104   18    3  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               o      o     o     o       FALSE
+
+104   19    0  AyvukkUttam               N_NN          B-NP    AyvukkUttam,N,,,,,                       o               {MCL}  o     o     o       FALSE
+104   19    1  peVlakAvi                 N_NNP         B-NP    peVlakAvi,N,,,,,                         o               o      o     B-22.2;B-19.1 B-2     FALSE
+104   19    2  vimAnYa                   N_NN          I-NP    vimAnYam,N,a-ADJ,,,,                     o               o      o     o     o       FALSE
+104   19    3  nilEyawwilirunwu          N_NN          I-NP    nilEyam,N,ilirunwu-ABL,,,,               o               o      o     o     o       FALSE
+104   19    4  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      o     B-19.4;B-22.12 B-3     FALSE
+104   19    5  nerAka                    RB            B-RBP   ner,N,Aka-ADV,,,,                        o               o      o     o     o       FALSE
+104   19    6  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               o      o     o     o       FALSE
+104   19    7  pakuwikalYE               N_NN          I-NP    pakuwi,N,E-ACC,pl,,,                     o               o      o     o     o       FALSE
+104   19    8  pArvEyituvawarYkAka       RB            B-RBP   pArvEyitu,V,FUTURE,,,,RP-PRP             o               o      o     o     o       FALSE
+104   19    9  ampevAti                  N_NNP         B-NP    ampevAti,N,,,,,                          B-LOCATION             o     o     o       FALSE
+104   19   10  kirAmawwirYku             N_NN          I-NP    kirAmam,N,ku-DAT,,,,                     o               o      o     o     o       FALSE
+104   19   11  ceVnYrYAr                 V_VM_VF       B-VGF   ceVl,V,PAST,sg,3,c,                      o               o      o     o     o       FALSE
+104   19   12  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   20    0  afku                      RB            B-RBP   afku,ADV,,,,,                            o               {RP}   o     o     o       FALSE
+104   20    1  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               o      o     o     o       FALSE
+104   20    2  pakuwiyE                  N_NN          I-NP    pakuwi,N,E-ACC,,,,                       o               o      o     o     o       FALSE
+104   20    3  Ayvu                      N_NN          B-NP    Ayvu,N,,,,,                              o               o      o     o     o       FALSE
+104   20    4  ceVywa                    V_VM_VNF_RP   B-VGNF  ceVy,V,PAST,,,,RP                        o               o      o     o     o       FALSE
+104   20    5  pinY                      PSP           B-BLK   pinY,N,,,,,                              o               {/RP}  o     o     o       FALSE
+104   20    6  afkirunwu                 RB            B-RBP   afkirunwu,ADV,,,,,                       o               {MCL}  o     o     o       FALSE
+104   20    7  hukkeri                   N_NNP         B-NP    hukkeri,N,,,,,                           B-LOCATION      o      o     o     o       FALSE
+104   20    8  wAlukAvil                 N_NN          I-NP    wAlukA,N,il-LOC,,,,                      o               o      o     o     o       FALSE
+104   20    9  ulYlYa                    PSP           B-BLK   ulYlYa,PSP,,,,,                          o               o      o     o     o       FALSE
+104   20   10  naracifkapurA             N_NNP         B-NP    naracifkapurA,N,,,,,                     o               o      o     o     o       FALSE
+104   20   11  ,                         RD_PUNC       I-NP    ,unk,,,,,,                               o               o      o     o     o       FALSE
+104   20   12  kArimatam                 N_NNP         B-NP    kArimatam,N,,,,,                         B-PERSON        o      o     o     o       FALSE
+104   20   13  marYrYum                  CC_CCD        B-CCP   marYrYum,CONJ,,,,,                       o               o      o     o     o       FALSE
+104   20   14  cikkoti                   N_NNP         B-NP    cikkoti,N,,,,,                           B-LOCATION      o      o     o     o       FALSE
+104   20   15  wAlukAvukku               N_NN          I-NP    wAlukA,N,ukku-DAT,,,,                    o               o      o     o     o       FALSE
+104   20   16  ceVnYrYAr                 V_VM_VF       B-VGF   ceVl,V,PAST,sg,3,c,                      o               o      o     o     o       FALSE
+104   20   17  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   21    0  afku                      RB            B-RBP   afku,ADV,,,,,                            o               {RP}   o     o     o       FALSE
+104   21    1  varYatciyAl               N_NN          B-NP    varYatci,N,Al-INS,,,,                    o               o      o     o     o       FALSE
+104   21    2  pAwikkappatta             V_VM_VNF_RP   B-VGNF  pAwikkappatu,V,PAST,,,,RP                o               o      o     o     o       FALSE
+104   21    3  vivacAyikalYE             N_NN          B-NP    vivacAyi,N,E-ACC,pl,,,                   o                      o     o     o       FALSE
+104   21    4  canwiwwu                  V_VM_VNF_VBN  B-VGNF  canwi,V,,,,,VBP                          o               {NF}   o     o     o       FALSE
+104   21    5  kurYEkalYE                N_NN          B-NP    kurYE,N,E-ACC,pl,,,                      o               {MCL}  o     o     o       FALSE
+104   21    6  kettu                     V_VM_VNF_VBN  B-VGF   kelY,V,,,,,VBP                           o               o      o     o     o       FALSE
+104   21    7  arYinwAr                  V_VM_VF       I-VGF   arYi,V,PAST,sg,3,c,                      o               o      o     o     o       FALSE
+104   21    8  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+104   22    0  awEw                      PR_PRP        B-NP    awu,PN,E-ACC,,,,                         o               {MCL}  o     o     o       FALSE
+104   22    1  woVtarnwu                 V_VM_VNF_VBN  B-VGNF  woVtar,V,,,,,VBP                         o               o      o     o     o       FALSE
+104   22    2  peVlakAvi                 N_NNP         B-NP    peVlakAvi,N,,,,,                         B-PERSON        o      o     B-22.2 B-2     FALSE
+104   22    3  mAvatta                   N_NN          I-NP    mAvatta,ADJ,,,,,                         o               o      o     o     o       FALSE
+104   22    4  kaleVktar                 N_NN          I-NP    kaleVktar,N,,,,,                         o               o      o     o     o       FALSE
+104   22    5  aluvalakawwil             N_NN          I-NP    aluvalakam,N,il-LOC,,,,                  o               o      o     o     o       FALSE
+104   22    6  varYatci                  N_NN          B-NP    varYatci,N,,,,,                          o               o      o     o     o       FALSE
+104   22    7  nivAraNa                  N_NN          I-NP    nivAraNam,N,a-ADJ,,,,                    o               o      o     o     o       FALSE
+104   22    8  paNikalY                  N_NN          I-NP    paNi,N,,pl,,,                            o               o      o     o     o       FALSE
+104   22    9  kurYiwwa                  PSP           B-BLK   kurYiwwa,ADJ,,,,,                        o               o      o     o     o       FALSE
+104   22   10  Ayvuk                     N_NN          B-NP    Ayvu,N,,,,,                              o               o      o     o     o       FALSE
+104   22   11  kUttawwE                  N_NN          I-NP    kUttam,N,E-ACC,,,,                       o               o      o     o     o       FALSE
+104   22   12  ciwwarAmEyA               N_NNP         B-NP    ciwwarAmEyA,N,,,,m,                      B-PERSON        o      o     B-22.12 B-3     FALSE
+104   22   13  natawwinYAr               V_VM_VF       B-VGF   natawwu,V,PAST,sg,3,c,                   o               o      o     o     o       FALSE
+104   22   14  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+

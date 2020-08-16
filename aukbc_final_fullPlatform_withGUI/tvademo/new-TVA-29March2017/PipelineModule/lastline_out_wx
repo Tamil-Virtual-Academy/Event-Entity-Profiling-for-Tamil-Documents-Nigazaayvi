@@ -1,0 +1,18 @@
+pi.E     N_NN    pi.E,N,,,,,	N_NN	pi.E,N,,,,,	
+-       RD_sYM  -,punc,,,,,,	RD_sYM	-,punc,,,,,,	
+yinY      N_NN    yinY,unk,,,,,,	N_NN	yinY,unk,,,,,,	
+inwa     DM_DMR  inwa,ADJ,,,,,	DM_DMR	inwa,ADJ,,,,,	
+katEci     N_NN    katEci,N,,,,,	N_NN	katEci,N,,,,,	
+nera      N_NN    ner,V,,,,,INF	N_NN	ner,V,,,,,INF	
+natavatikkEye N_NN    natavatikkE,N,,pl,,,	N_NN	natavatikkE,N,,pl,,,	
+wanY      PR_PRF  wanY,PN,,,,,	PR_PRF	wanY,PN,,,,,	
+wolvikku   N_NN    wolvi,N,kku-DAT,,,,	N_NN	wolvi,N,kku-DAT,,,,	
+kAraNam    N_NN    kAraNam,N,,,,,	N_NN	kAraNam,N,,,,,	
+eVnYrYu     CC_CCs  eVnYrYu,ADV,,,,,|eVnYrYu,UT,,,,,	CC_CCs	eVnYrYu,ADV,,,,,|eVnYrYu,UT,,,,,	
+hilAri     N_NN    hilAri,N,,,,f,	N_NN	hilAri,N,,,,f,	
+kilYiNtanY   N_NN    kilYiNtanY,N,,,,m,	N_NN	kilYiNtanY,N,,,,m,	
+kurYrYam    N_NN    kurYrYam,N,,pl,,,	N_NN	kurYrYam,N,,pl,,,	
+cAttiyulYlYAr V_VM_VF cAttu,V,PREsENT,sg,3,c,	V_VM_VF	cAttu,V,PREsENT,sg,3,c,	
+.       RD_PUNC &dot;,punc,,,,,,	RD_PUNC	&dot;,punc,,,,,,	
+
+

@@ -1,0 +1,62 @@
+Title:
+------
+AUKBC Tamil Morphanalyser Light Weight  1.0
+
+Description: 
+------------
+
+AUKBC Tamil Morphanalyser v1.0: This takes a text file in UTF-8 as input, where each line consists of a single word and the word is analysed for its morphological features. It assigns the morph information to each word in the sentence. 
+This uses a paradigm based approach, using Finite State Automata (FSA). 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system (preffered Ubuntu 14.04 LTS)
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) The input file should be in UTF-8 encoding and should be tokenized and sentence splitted. 
+   The input file format should be as shown in sample_morph_input.txt
+
+
+Directory Structure:
+--------------------
+
+MorphanalyserModule
+     |
+     |---License.txt
+     |---README (How to run/use. The file that you are reading now.)
+     |---
+     	 |---TamilmorphAnalyser_v1.sh (to run the morphanalyser module)
+     	 |---tamil-morph-lightweight_v1.pl (core engine)
+	 |---convert_WX_UTF_tam.java (font encoding converter UTF8 to WX Roman form) 
+	 |---convert_UTF_WX_tam.java (font encoding converter WX Roman form to UTF8)
+	 |---prune.pl (format processor)
+     	 |---tam (contains the resource files required by the MA engine)
+		|---alloMorphMappingFile.txt
+		|---cmbd_DFSA_a3_10.txt
+		|---dict.txt
+		|---nedict.txt
+	 |---sample_morph_input.txt (reference input file)
+         |---sample_morph_output.txt (reference output file)
+     
+
+Installation:
+-------------
+There is no special installation required for this. Copy paste this folder in any place in your system and start using.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_morph_input.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word and the second column is the Morph Analysed output.
+
+   $ sh TamilmorphAnalyser_v1.sh sample_morph_input.txt
+
+
+The output will be written in the file name 'sample_morph_input.txt_morph_out.txt'
+
+
+#################################
+Credits: Sobha Lalitha Devi, Vijay Sundar Ram, Gracy L
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

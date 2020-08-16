@@ -1,0 +1,113 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	N_NN	B-NP	News,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஈந்dஇஅ	N_NN	I-NP	India,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30103630	QT_QTC	B-NP	30103630,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஞிஏர்சே-ஞிரே-ஈந்-ஃஓ-Cஹி-Mஇந்ஹ்ஸ்-Pஓஸ்ஹ்-ஃஓடேல்	N_NNP	I-NP	Fierce-Fire-In-Ho-Chi-Minhs-Posh-Hotel,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+2-	QT_QTC	B-NP	2-,num,,,,,,	o
+Dஏஅd	N_NN	I-NP	Dead,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	{MCL}
+மேற்கு	N_NNP	B-NP	merYku,N,,,,,	o
+வங்க	N_NNP	I-NP	vafkam,N,a-ADJ,,,,	o
+மாநிலம்	N_NN	I-NP	mAnilam,N,,,,,	o
+கொல்கத்தாவில்	N_NNP	B-NP	koVlkawwA,N,il-LOC,,,,	o
+உள்ள	PSP	B-BLK	ulYlYa,PSP,,,,,	o
+ஹோ	N_NNP	B-NP	ho,unk,,,,,,	o
+சி	N_NNP	I-NP	ci,N,,,,,	o
+மின்	N_NNP	B-NP	minY,N,,,,,	o
+சரானி	N_NNP	I-NP	carAnYi,unk,,,,,,	o
+பகுதியில்	N_NN	I-NP	pakuwi,N,il-LOC,,,,	o
+கோல்டன்	N_NNP	B-NP	koltanY,N,,,,,	o
+பார்க்	N_NNP	I-NP	pArk,N,,,,,	o
+ஓட்டல்	N_NN	I-NP	ottal,N,,,,,	o
+என்ற	CC_CCS	B-CCP	eVnYrYa,ADV,,,,,	o
+நட்சத்திர	N_NN	B-NP	natcawwiram,N,a-ADJ,,,,	o
+ஓட்டல்	N_NN	I-NP	ottal,N,,,,,	o
+உள்ளது	V_VM_VF	B-VGF	ulY,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இங்கு	RB	B-RBP	ifku,ADV,,,,,	{MCL}
+,	RD_PUNC	I-RBP	&comma;,punc,,,,,	o
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+காலை	N_NN	I-NP	kAlE,N,,,,,	o
+திடீரென	RB	B-RBP	witIreVnYa,ADV,,,,,	o
+சமையல்	N_NN	B-NP	camEyal,N,,,,,	o
+அறையில்	N_NN	I-NP	arYE,N,il-LOC,,,,	o
+தீவிபத்து	N_NN	B-NP	wIvipawwu,N,,,,,	o
+ஏற்பட்டது	V_VM_VF	B-VGF	erYpatu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+தீ	N_NN	I-NP	wI,N,,,,,	o
+மளமளவென	JJ	B-NP	malYamalYaveVnYa,ADV,,,,,	o
+ஓட்டல்	N_NN	I-NP	ottal,N,,,,,	o
+முழுவதும்	N_NN	I-NP	mulYYuvawum,N,,,,,	o
+பரவியது	V_VM_VF	B-VGF	paravu,V,PAST,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதையடுத்து	PR_PRP	B-NP	iwEyatuwwu,ADV,,,,,	{RP}
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+அங்கே	RB	B-VGNF	afke,ADV,,,,,	o
+தங்கியிருந்த	V_VM_VNF_RP	I-VGNF	wafkiyiru,V,PAST,,,,RP	o
+விருந்தினர்கள்	N_NN	B-NP	virunwinYar,N,,pl,,,	{/RP}
+பலரும்	N_NN	B-NP	palar,N,,,,,	o
+அதிர்ச்சியடைந்தனர்	V_VM_VF	B-VGF	awircciyatE,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சம்பவ	N_NN	B-NP	campavam,N,a-ADJ,,,,	{NF}
+இடத்துக்கு	N_NN	I-NP	itam,N,ukku-DAT,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+தீயணைப்பு	N_NN	B-NP	wIyaNEppu,N,,,,,	o
+வீரர்கள்	N_NN	B-NP	vIrar,N,,pl,,m,	o
+உடனடியாக	RB	B-VGNF	utanYatiyAka,ADV,,,,,	o
+விரைந்து	V_VM_VNF_VBN	I-VGNF	virE,V,,,,,VBP	o
+வந்து	V_VM_VNF_VBN	I-VGNF	vA,V,,,,,VBP	{/NF}
+மீட்புப்	N_NN	B-NP	mItpu,N,,,,,	{MCL}
+பணிகளை	N_NN	I-NP	paNi,N,E-ACC,pl,,,	o
+மேற்கொண்டனர்	V_VM_VF	B-VGF	merYkoVlY,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த்	N_NNP	B-NP	inw,unk,,,,,,	{MCL}
+விபத்தில்	N_NN	I-NP	vipawwu,N,il-LOC,,,,	o
+2	QT_QTC	B-NP	2,num,,,,,,	o
+பேர்	N_NN	I-NP	per,N,,,,,	o
+தீயில்	N_NN	I-NP	wI,N,il-LOC,,,,	o
+சிக்கி	V_VM_VNF_VBN	B-VGF	cikku,V,,,,,VBP	o
+பரிதாபமாக	RB	I-VGF	pariwApam,N,Aka-ADV,,,,	o
+உயிரிழந்திருந்தனர்	V_VM_VF	I-VGF	uyirilYYa,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மேலும்	CC_CCD	B-CCP	melum,ADV,,,,,	{MCL}
+,	RD_PUNC	I-CCP	&comma;,punc,,,,,	o
+7	QT_QTC	B-NP	7,num,,,,,,	o
+பேர்	N_NN	I-NP	per,N,,,,,	o
+காயங்களுடன்	N_NN	I-NP	kAyam,N,utanY-SOC,pl,,,	o
+மீட்கப்பட்டு	V_VM_VNF_VBN	B-VGNF	mIlY,V,,,,,VBP	o
+,	RD_PUNC	I-VGNF	&comma;,punc,,,,,	o
+மருத்துவமனையில்	N_NN	B-NP	maruwwuvamanYE,N,il-LOC,,,,	o
+சேர்க்கப்பட்டனர்	V_VM_VF	B-VGF	cer,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

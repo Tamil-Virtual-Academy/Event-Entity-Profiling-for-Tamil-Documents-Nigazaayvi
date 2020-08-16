@@ -1,0 +1,146 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+மஅலஇமலர்	N_NN	B-NP	maalaimalar,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	RD_RDF	B-NP	News,unk,,,,,,	o
+/	RD_SYM	I-NP	/,punc,,,,,,	o
+ஸ்டடே	RD_RDF	I-NP	State,unk,,,,,,	o
+/	RD_SYM	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	I-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+29205236	QT_QTC	B-NP	29205236,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+1076876	QT_QTC	B-NP	1076876,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+லேஅட்ஹேர்-ஙச்டோர்ய்-தோர்கேர்-dஇஏd-அங்டேர்-இந்ஹலிந்g	N_NNP	B-NP	leather-factory-worker-died-after-inhaling,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+போஇஸோநோஉஸ்	V_VM_VF	B-VGF	poisonous,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வ்ப்ங்	N_NNP	B-NP	vpf,unk,,,,,,	{NF}
+ஆம்பூர்	N_NNP	I-NP	AmpUr,N,,,,,	o
+அருகே	RB	B-RBP	aruku,N,,,,,	o
+தோல்	N_NN	B-NP	wol,N,,,,,	o
+தொழிற்சாலையில்	N_NN	I-NP	woVlYYirYcAlE,N,il-LOC,,,,	o
+விஷவாயு	N_NN	B-NP	viRavAyu,N,,,,,	o
+தாக்கி	V_VM_VNF_VBN	B-VGNF	wAkku,V,,,,,VBP	{/NF}
+தொழிலாளி	N_NN	B-NP	woVlYYilAlYi,N,,,,,	{MCL}
+உயிரிழப்பு	N_NN	I-NP	uyirilYYappu,N,,,,,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+லேஅட்ஹேர்	N_NNP	B-NP	leather,unk,,,,,,	o
+ஙச்டோர்ய்	N_NNP	I-NP	factory,unk,,,,,,	o
+தோர்கேர்	N_NN	I-NP	worker,unk,,,,,,	o
+dஇஏd	N_NN	I-NP	died,unk,,,,,,	o
+அங்டேர்	N_NN	I-NP	after,unk,,,,,,	o
+இந்ஹலிந்g	N_NNP	B-NP	inhaling,unk,,,,,,	o
+போஇஸோநோஉஸ்	N_NNP	I-NP	poisonous,unk,,,,,,	o
+gஅஸ்	N_NNP	I-NP	gas,unk,,,,,,	o
+த்ஹிலே	N_NN	I-NP	while,unk,,,,,,	o
+ச்லேஅநிந்g	N_NN	I-NP	cleaning,unk,,,,,,	o
+தோர்க்	N_NN	I-NP	work,unk,,,,,,	o
+ஆம்பூர்	N_NNP	B-NP	AmpUr,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+வேலூர்	N_NNP	B-NP	velUr,N,,,,,	o
+மாவட்டம்	N_NN	I-NP	mAvattam,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ஆம்பூர்	N_NNP	B-NP	AmpUr,N,,,,,	o
+அருகே	RB	B-RBP	aruku,N,,,,,	o
+உள்ள	PSP	B-BLK	ulYlYa,PSP,,,,,	o
+சோளூரில்	N_NNP	B-NP	colYUril,unk,,,,,,	o
+தனியாருக்கு	N_NN	I-NP	wanYiyAr,N,ukku-DAT,,,,	o
+சொந்தமான	JJ	B-NP	coVnwam,N,AnYa-ADJ,,,,	o
+தோல்	N_NN	I-NP	wol,N,,,,,	o
+தொழிற்சாலை	N_NN	B-NP	woVlYYirYcAlE,N,,,,,	o
+உள்ளது	V_VM_VF	B-VGF	ulY,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	{MCL}
+மாலை	N_NN	I-NP	mAlE,N,,,,,	o
+இங்குள்ள	RB	B-RBP	ifkulYlYa,ADJ,,,,,	o
+கழிவுநீர்	N_NN	B-NP	kalYYivunIr,N,,,,,	o
+தொட்டியை	N_NN	I-NP	woVtti,N,E-ACC,pl,,,	o
+சுத்தம்	N_NN	B-NP	cuwwam,N,,,,,	o
+செய்யும்	V_VM_VNF_RP	B-VGNF	ceVy,V,FUTURE,,,,RP	o
+பணி	N_NN	B-NP	paNi,N,,,,,	o
+நடைபெற்றது	V_VM_VF	B-VGF	natEpeVrYu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தொழிலாளி	N_NN	B-NP	woVlYYilAlYi,N,,,,,	{NF}
+பாலாஜி	N_NNP	B-NP	pAlAji,N,,,,m,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+தொட்டிக்குள்	N_NN	B-NP	woVtti,N,kku-DAT,pl,,,	o
+இறங்கி	V_VM_VNF_VBN	B-VGNF	irYafku,V,,,,,VBP	{/NF}
+சுத்தம்	N_NN	B-NP	cuwwam,N,,,,,	{RP}
+செய்தபோது	V_VM_VNF_RP_PSP	B-VGNF	ceVy,V,PAST,,,,RP-PSP-PSP	{/RP}
+விஷவாயு	N_NN	B-NP	viRavAyu,N,,,,,	{MCL}
+தாக்கியது	V_VM_VF	B-VGF	wAkku,V,PAST,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+விஷவாயுவை	N_NN	B-NP	viRavAyu,N,E-ACC,,,,	{MCL}
+சுவாசித்த	V_VM_VNF_RP	B-VGNF	cuvAci,V,PAST,,,,RP	o
+பாலாஜி	N_NNP	B-NP	pAlAji,N,,,,m,	o
+மயங்கி	V_VM_VNF_VBN	B-VGF	mayafku,V,,,,,VBP	o
+விழுந்தார்	V_VM_VF	I-VGF	vilYYu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+உடனடியாக	RB	B-RBP	utanYatiyAka,ADV,,,,,	{MCL}
+அவரை	PR_PRP	B-NP	avar,PN,E-ACC,,,mf,	o
+வெளியில்	N_NN	B-NP	veVlYi,N,il-LOC,,,,	o
+தூக்கினர்	V_VM_VF	B-VGF	wUkku,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஆனால்	CC_CCD	B-CCP	AnYAl,CONJ,,,,,	{MCL}
+,	RD_PUNC	I-CCP	&comma;,punc,,,,,	o
+அதற்குள்	PR_PRP	B-NP	awu,PN,ku-DAT,,,,	o
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+மரணம்	N_NN	B-NP	maraNam,N,,,,,	o
+அடைந்துவிட்டார்	V_VM_VF	B-VGF	atE,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இச்சம்பவம்	N_NN	B-NP	campavam,N,,,,,	{MCL}
+சக	N_NN	I-NP	cakam,N,a-ADJ,,,,	o
+தொழிலாளர்கள்	N_NN	I-NP	woVlYYilAlYar,N,,pl,,,	o
+மத்தியில்	PSP	B-BLK	mawwi,N,il-LOC,,,,	o
+அதிர்ச்சியையும்	N_NN	B-NP	awircci,N,E-ACC,,,,	o
+சோகத்தையும்	N_NN	B-NP	cokam,N,E-ACC,,,,	o
+ஏற்படுத்தியது	V_VM_VF	B-VGF	erYpatuwwu,V,PAST,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதேபோல்	PR_PRP	B-RBP	iwu,PN,,,,,	{RP}
+திருநெல்வேலி	N_NNP	B-NP	wiruneVlveli,N,,,,,	o
+அருகே	RB	B-RBP	aruku,N,,,,,	o
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+மாலை	N_NN	I-NP	mAlE,N,,,,,	o
+இடி	N_NN	B-NP	iti,N,,,,,	o
+தாக்கியதில்	V_VM_VNF_RP_PRP	B-VGNF	wAkku,V,PAST,,,,	{/RP}
+2	QT_QTC	B-NP	2,num,,,,,,	{MCL}
+பேர்	N_NN	I-NP	per,N,,,,,	o
+பலியாகினர்	V_VM_VF	B-VGF	paliyAku,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கோபாலசமுத்திரத்தில்	N_NNP	B-NP	kopAlacamuwwiram,N,il-LOC,,,,	{MCL}
+மாரியப்பன்	N_NNP	B-NP	mAriyappanY,N,,,,m,	o
+என்பவரும்	N_NN	I-NP	eVnYpavar,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+கீழதிடியூரில்	N_NNP	B-NP	kIlYYawitiyUr,N,il-LOC,,,,	o
+கோமு	N_NN	B-NP	komu,unk,,,,,,	o
+என்பவரும்	N_NN	I-NP	eVnYpavar,N,,,,,	o
+உயிரிழந்ததாக	RB	B-RBP	uyirilYYa,V,PAST,sg,3,n,RP-PRP	o
+தகவல்	N_NN	B-NP	wakaval,N,,,,,	o
+வெளியாகி	V_VM_VNF_VBN	B-VGF	veVlYiyAku,V,,,,,VBP	o
+உள்ளது	V_VM_VF	I-VGF	ulY,V,PRESENT,sg,3,n,RP-PRP	{/MCL}
+
+

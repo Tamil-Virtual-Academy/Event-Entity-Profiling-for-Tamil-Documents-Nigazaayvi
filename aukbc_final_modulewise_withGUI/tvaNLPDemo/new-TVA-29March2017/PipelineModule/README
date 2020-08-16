@@ -1,0 +1,52 @@
+Title:
+------
+AUKBC Tamil Syntactic and Semantic Workbench 1.0
+
+Description: 
+------------
+
+AUKBC Tamil Syntactic and Semantic Workbench v1.0: 
+
+This takes a text file in UTF-8 as input. And process for obtaining output `Syntactic information of Morph, POS, Chunk and clause Boundary. And also obtains semantic information of Named Entity, Anaphora resolution and Coreference chain.
+
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system(Prefarable Ubuntu 14.04LTS)
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) CRF++ Tool :
+we assume that CRF Tool kit is already installed in your system. If CRF Tool Kit is not installed in your system then you please download and install it. It can be obtained from 
+   https://taku910.github.io/crfpp/
+
+The version of CRF++ should be 0.42 or higher (you can download the latest version available for download). Please refer to CRF++ installation instructions as given the CRF++ web page.
+
+d) The input file is in UTF-8 encoding.
+   The input file format should be as shown in sample_input.txt
+
+e) This pipeline is dependent on the other syntactic processing modules Morphanalyser, POS, Chunker, Clause Tagging engine, NER and Anaphora and Coreference Engines. Ensure that you have those engines in place before this integrated pipeline is used.
+
+Installation:
+-------------
+There is no special installation required for this syntactic workbench pipeline. It is essential that the other syntactic processing modules have to be at the same place as this folder is situated in the system. Copy paste this folder in the same place in your system where you have put the other syntactic processing modules and start using it.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_input_17Oct2016.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word, the second column is the POS tag, third clumn is the Chunk or phrase Tag, fourth column is the morph information and fifth column is the clause information and other columns of anahora, noun-noun and coreference. The output will be in the format as shown in the sample output file "sample_output_17Oct2016.txt"
+
+sh TamilSyntactic-Semanticbench_v1.sh sample_input_17Oct2016.txt 
+
+
+References:
+-----------
+
+[1] Taku Kudo - https://taku910.github.io/crfpp/  (or) https://sourceforge.net/projects/crfpp/
+
+
+#################################
+Credits: Sobha Lalitha Devi, Vijay Sundar Ram and Pattabhi RK Rao
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

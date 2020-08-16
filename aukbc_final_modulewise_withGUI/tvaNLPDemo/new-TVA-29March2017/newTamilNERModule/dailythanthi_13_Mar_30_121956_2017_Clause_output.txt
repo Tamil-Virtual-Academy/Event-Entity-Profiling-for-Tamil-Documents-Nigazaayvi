@@ -1,0 +1,154 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	N_NN	I-NP	News,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Cரிச்கேட்	N_NNP	B-NP	Cricket,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30102956	QT_QTC	B-NP	30102956,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Mஓஹம்மd-ஈர்ஙந்-அபோலோgஇஸேஸ்-ஙோர்-மிஸ்டகே-PCB	RD_RDF	I-NP	Mohammad-Irfan-apologises-for-mistake-PCB,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ஸுஸ்பேந்dஸ்	N_NNP	B-NP	suspends,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	{RP}
+கராச்சி	N_NNP	B-NP	karAcci,N,,,,,	o
+இந்தியாவில்	N_NNP	I-NP	inwiyA,N,il-LOC,,,,	o
+நடக்கும்	V_VM_VNF_RP	B-VGNF	nata,V,FUTURE,,,,RP	o
+உள்ளூர்	N_NN	B-NP	ulYlYUr,N,,,,,	{MCL}
+கிரிக்கெட்	N_NN	I-NP	kirikkeVt,N,,,,,	o
+தொடரான	JJ	I-NP	woVtar,N,AnYa-ADJ,,,,	{/RP}
+ஐ.பி.எல்	N_NNP	B-NP	E.pi.eVl,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+தொடரைப்போல	N_NN	B-NP	woVtar,N,E-ACC,,,,	o
+பாகிஸ்தானில்	N_NNP	B-NP	pAkiswAnY,N,il-LOC,,,,	o
+சூப்பர்	N_NNP	B-NP	cUppar,N,,,,,	o
+லீக்	N_NNP	I-NP	lIk,N,,,,,	o
+'	RD_SYM	I-NP	',punc,,,,,,	o
+டி-20	N_NNP	I-NP	ti-20,unk,,,,,,	o
+'	RD_SYM	I-NP	',punc,,,,,,	o
+தொடர்	N_NN	B-NP	woVtar,N,,,,,	o
+நடக்கிறது	V_VM_VF	B-VGF	nata,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதில்	PR_PRP	B-NP	iwu,PN,il-LOC,,,,	{RP}
+தற்போது	RB	B-VGNF	warYpowu,ADV,,,,,	o
+நடந்த	V_VM_VNF_RP	I-VGNF	nata,V,PAST,,,,RP	o
+இரண்டாவது	QT_QTO	B-NP	iraNtu,N,Avawu-ADV,,,,	{MCL}
+சீசனில்	N_NN	I-NP	cIcanY,N,il-LOC,,,m,	{/RP}
+இஸ்லாமாபாத்	N_NNP	B-NP	islAmApAw,N,,,,,	{RP}
+அணிக்காக	RB	B-VGNF	aNi,N,kku-DAT,,,,	o
+விளையாடியவர்	V_VM_VNF_RP_PRP	I-VGNF	vilYEyAtu,V,PAST,,,,	{/RP}
+வேகப்பந்து	N_NN	B-NP	vekappanwu,N,,,,,	o
+வீச்சாளர்	N_NN	I-NP	vIccAlYar,N,,,,,	o
+முகமது	N_NN	B-NP	mukamawu,N,,,,m,	o
+இர்பான்	V_VM_VF	B-VGF	irpAnY,N,,,,m,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இவர்	PR_PRP	B-NP	ivar,PN,,,,,	{INF}
+தொடரின்	N_NN	B-NP	woVtar,N,inY-GEN,,,,	o
+போது	PSP	B-BLK	powu,PSP,,,,,	o
+சூதாட்ட	V_VM_VNF_INF	B-VGNF	cUwAttam,N,a-ADJ,,,,	{/INF}
+புக்கியை	N_NN	B-NP	pukkiyE,unk,,,,,,	{MCL}
+சந்தித்ததாக	RB	B-RBP	canwi,V,PAST,sg,3,n,RP-PRP	o
+புகார்	N_NN	B-NP	pukAr,N,,,,,	o
+எழுந்தது	V_VM_VF	B-VGF	eVlYYu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதனால்	CC_CCS	B-CCP	iwanYAl,CONJ,,,,,	{MCL}
+இவர்	PR_PRP	B-NP	ivar,PN,,,,,	o
+சஸ்பெண்ட்	N_NN	B-NP	caspeVNt,N,,,,,	o
+செய்யப்பட்டார்	V_VM_VF	B-VGF	ceVyyappatu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதுதொடர்பாக	RB	B-RBP	iwu,PN,woVtarpAka-ADV,,,,	{RP}
+விசாரணை	N_NN	B-NP	vicAraNE,N,,,,,	o
+செய்த	V_VM_VNF_RP	B-VGNF	ceVy,V,PAST,,,,RP	o
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	o
+கிரிக்கெட்	N_NNP	I-NP	kirikkeVt,N,,,,,	o
+போர்டு	N_NN	I-NP	portu,N,,,,,	{/RP}
+முகமது	N_NN	B-NP	mukamawu,N,,,,m,	{INF}
+இர்பான்	N_NN	I-NP	irpAnY,N,,,,m,	o
+போட்டிகளில்	N_NN	I-NP	potti,N,il-LOC,pl,,,	o
+பங்கேற்க	V_VM_VNF_INF	B-VGNF	pafkel,V,,,,,INF	{/INF}
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	{MCL}
+ஆண்டு	N_NN	I-NP	ANtu,N,,,,,	o
+தடை	N_NN	B-NP	watE,N,,pl,,,	o
+விதித்துள்ளது	V_VM_VF	B-VGF	viwi,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தவிர	PSP	B-BLK	wavira,PSP,,,,,	{MCL}
+,	RD_PUNC	I-BLK	&comma;,punc,,,,,	o
+இவருக்கு	PR_PRP	B-NP	ivar,PN,ukku-DAT,,,,	o
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	o
+ரூபாய்	N_NN	I-NP	rUpAy,N,,,,,	o
+மதிப்பில்	N_NN	I-NP	mawippu,N,il-LOC,,,,	o
+சுமார்	RB	B-RBP	cumAr,N,,,,,	o
+1	QT_QTC	B-NP	1,num,,,,,,	o
+லட்சம்	QT_QTC	I-NP	latcam,N,,,,,	o
+அபராதமும்	N_NN	I-NP	aparAwam,N,,,,,	o
+விதிக்கப்பட்டுள்ளது	V_VM_VF	B-VGF	viwikkappatu,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதுகுறித்து	PR_PRP	B-NP	iwukurYiwwu,ADV,,,,,	{MCL}
+முகமது	N_NN	B-NP	mukamawu,N,,,,m,	o
+இர்பான்	N_NN	I-NP	irpAnY,N,,,,m,	o
+கூறுகையில்	N_NNV	B-NP	kUrYu,V,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+‘	RD_SYM	I-NP	‘,punc,,,,,,	o
+நான்	PR_PRP	B-NP	nAnY,PN,,,,,	o
+எனது	PR_PRP	B-NP	eVnY,PN,awu-GEN,,,,	o
+தவறை	N_NN	B-NP	wavarYu,N,E-ACC,,,,	o
+ஒப்புக்கொள்கிறேன்	V_VM_VF	B-VGF	oVppukkoVlY,V,PRESENT,sg,1,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+என்னை	PR_PRP	B-NP	eVnY,PN,E-ACC,,,,	{RP}
+ஸ்பாட்	N_NNP	B-NP	spAt,N,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+பிக்சிங்கில்	N_NN	B-NP	pikcif,N,il-LOC,,,,	o
+ஈடுபட	V_VM_VNF_INF	B-VGNF	Itupatu,V,,,,,INF	o
+சொல்லி	V_VM_VNF_VBN	I-VGNF	coVl,V,,,,,VBP	o
+,	RD_PUNC	I-VGNF	&comma;,punc,,,,,	o
+புக்கிக்கள்	N_NN	B-NP	pukkikkalY,unk,,,,,,	o
+அணுகியது	V_VM_VNF_RP_PRP	B-VGNF	aNuku,V,PAST,sg,3,n,RP-PRP	{/RP}
+உண்மை	N_NN	B-NP	uNmE,N,,,,,	{MCL}
+தான்	PSP	B-BLK	wAnY,PSP,,,,,	o
+.	RD_PUNC	I-BLK	&dot;,punc,,,,,,	{/MCL}
+
+ஆனால்	CC_CCD	B-CCP	AnYAl,CONJ,,,,,	{MCL}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+தவறில்	N_NN	I-NP	wavarYu,N,il-LOC,,,,	o
+நான்	PR_PRP	B-NP	nAnY,PN,,,,,	o
+ஈடுபடவில்லை	RP_NEG	B-VGF	Itupatu,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நான்	PR_PRP	B-NP	nAnY,PN,,,,,	{RP}
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	o
+விஷயத்தை	N_NN	I-NP	viRayam,N,E-ACC,,,,	o
+கிரிக்கெட்	N_NNP	B-NP	kirikkeVt,N,,,,,	o
+போர்டு	N_NN	I-NP	portu,N,,,,,	o
+நிர்வாகிகள்	N_NN	B-NP	nirvAkikalY,N,,,,,	o
+இடம்	N_NN	B-NP	itam,N,,,,,	o
+தெரிவிக்காததே	V_VM_VNF_RP_PRP	B-VGNF	weVrivi,V,,,,,RP-PRP-NEG	{/RP}
+மிகப்பெரிய	JJ	B-NP	mikappeVriya,ADJ,,,,,	o
+தவறு‘	N_NN	I-NP	wavarYu,N,,,,,	{/RP}
+என்றார்	V_VM_VF	B-VGF	eVnY,V,PAST,sg,3,c,	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

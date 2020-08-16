@@ -1,0 +1,96 @@
+கேரள	N_NNP	B-NP	keralYa,ADJ,,,,,	{RP}
+காங்கிரஸ்	N_NNP	I-NP	kAfkiras,N,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+நியமனம்	N_NN	I-NP	niyamanYam,N,,,,,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+MM	RD_ECH	B-VGNF	MM,unk,,,,,,	o
+ஃஅஸ்ஸந்	RD_ECH	I-VGNF	Hassan,unk,,,,,,	o
+gஇவேந்	RD_ECH	I-VGNF	given,unk,,,,,,	o
+அd	RD_ECH	I-VGNF	ad,unk,,,,,,	o
+ஹோச்	RD_ECH	I-VGNF	hoc,unk,,,,,,	o
+ச்ஹர்gஏ	RD_ECH	I-VGNF	charge,unk,,,,,,	o
+ஓங்	RD_ECH	I-VGNF	of,unk,,,,,,	o
+Kஏரல	RD_ECH	I-VGNF	Kerala,unk,,,,,,	o
+Cஓந்gரேஸ்ஸ்	N_NNP	B-NP	Congress,unk,,,,,,	o
+ப்ரேஸிdஏந்ட்	N_NNP	I-NP	president,unk,,,,,,	o
+திருவனந்தபுரம்	N_NNP	I-NP	wiruvanYanwapuram,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+கேரள	N_NNP	B-NP	keralYa,ADJ,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+காங்கிரஸ்	N_NNP	I-NP	kAfkiras,N,,,,,	o
+தலைவராக	RB	B-VGNF	walEvar,N,Aka-ADV,,,mf,	o
+இருந்த	V_VM_VNF_RP	I-VGNF	iru,V,PAST,,,,RP	o
+சுதீரன்	N_NN	B-NP	cuwIranY,unk,,,,,,	o
+சமீபத்தில்	N_NN	I-NP	camIpam,N,il-LOC,,,,	{/RP}
+தனது	PR_PRF	B-NP	wanY,PN,awu-GEN,,,,	{NF}
+உடல்நிலையை	N_NN	B-NP	utalnilE,N,E-ACC,,,,	o
+காரணம்	N_NN	B-NP	kAraNam,N,,,,,	o
+காட்டி	V_VM_VNF_VBN	B-VGNF	kAttu,V,,,,,VBP	{/NF}
+பதவியை	N_NN	B-NP	pawavi,N,E-ACC,pl,,,	{MCL}
+ராஜினாமா	N_NN	B-NP	rAjinYAmA,N,,,,,	o
+செய்தார்	V_VM_VF	B-VGF	ceVy,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதனால்	CC_CCS	B-CCP	iwanYAl,CONJ,,,,,	{MCL}
+கடந்த	JJ	B-NP	katanwa,ADJ,,,,,	o
+ஒரு	QT_QTC	I-NP	oVru,ADJ,,,,,	o
+மாதமாக	RB	B-RBP	mAwam,N,Aka-ADV,,,,	o
+தலைமை	N_NN	B-NP	walEmE,N,,,,,	o
+இல்லாமல்	RP_NEG	B-NEGP	illAmal,ADV,,,,,	o
+கேரள	N_NNP	B-NP	keralYa,ADJ,,,,,	o
+காங்கிரஸ்	N_NNP	I-NP	kAfkiras,N,,,,,	o
+செயல்பட்டு	V_VM_VNF_VBN	B-VGF	ceVyalpatu,V,,,,,VBP	o
+வந்தது	V_VM_VF	I-VGF	vA,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கேரளாவில்	N_NNP	B-NP	keralYA,N,il-LOC,,,,	{MCL}
+வருகிற	V_VM_VNF_INF	B-VGNF	vA,V,PRESENT,,,,RP	o
+12-ந்தேதி	N_NN	B-NP	12-nwewi,N,,sg,,,	o
+மலப்புரம்	N_NNP	B-NP	malappuram,N,,,,,	o
+எம்.பி.	N_NN	B-NP	eVm.pi.,N,,,,,	o
+தொகுதி	N_NN	I-NP	woVkuwi,N,,,,,	o
+தேர்தல்	N_NN	I-NP	werwal,N,,,,,	o
+நடைபெறுகிறது	V_VM_VF	B-VGF	natEpeVrYu,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+தேர்தலில்	N_NN	I-NP	werwal,N,il-LOC,,,,	o
+காங்கிரஸ்	N_NNP	B-NP	kAfkiras,N,,,,,	o
+ஆதரவுடன்	N_NN	I-NP	Awaravu,N,utanY-SOC,,,,	o
+முஸ்லிம்லீக்	N_NN	B-NP	muslimlIk,unk,,,,,,	o
+வேட்பாளர்	N_NN	I-NP	vetpAlYar,N,,,,,	o
+குஞ்சாலிக்குட்டி	N_NNP	B-NP	kuFcAlikkutti,unk,,,,,,	o
+போட்டியிடுகிறார்	V_VM_VF	B-VGF	pottiyitu,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+எனவே	CC_CCS	B-CCP	eVnYave,CONJ,,,,,	{INF}
+விரைவில்	RB	B-RBP	virEvu,N,il-LOC,,,,	o
+மாநில	N_NN	B-NP	mAnilam,N,a-ADJ,,,,	o
+காங்கிரஸ்	N_NNP	I-NP	kAfkiras,N,,,,,	o
+தலைவரை	N_NN	I-NP	walEvar,N,E-ACC,,,mf,	o
+நியமிக்க	V_VM_VNF_INF	B-VGNF	niyami,V,,,,,INF	{/INF}
+கோரிக்கை	N_NN	B-NP	korikkE,N,,,,,	{MCL}
+விடுக்கப்பட்டு	V_VM_VNF_VBN	B-VGF	vitu,V,,,,,VBP	o
+வந்தது	V_VM_VF	I-VGF	vA,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+நிலையில்	N_NN	I-NP	nilE,N,il-LOC,,,,	o
+ராகுல்காந்தி	N_NNP	B-NP	rAkulkAnwi,N,,,,,	o
+உத்தரவின்	N_NNP	I-NP	uwwaravu,N,inY-GEN,,,,	o
+பேரில்	PSP	B-BLK	per,N,il-LOC,,,,	o
+கேரள	N_NNP	B-NP	keralYa,ADJ,,,,,	o
+மாநில	N_NN	I-NP	mAnilam,N,a-ADJ,,,,	o
+காங்கிரஸ்	N_NNP	I-NP	kAfkiras,N,,,,,	o
+தலைவராக	RB	B-RBP	walEvar,N,Aka-ADV,,,mf,	o
+தற்போதையை	N_NN	B-NP	warYpowEyE,unk,,,,,,	o
+துணைத்	N_NN	I-NP	wuNE,N,,,,,	o
+தலைவர்	N_NN	I-NP	walEvar,N,,,,mf,	o
+எம்.எம்.ஹசன்	N_NNP	B-NP	eVm.eVm.hacanY,unk,,,,,,	o
+நியமிக்கப்பட்டு	V_VM_VNF_VBN	B-VGF	niyami,V,,,,,VBP	o
+உள்ளார்	V_VM_VF	I-VGF	ulY,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

@@ -1,0 +1,12 @@
+cattavirowamAka	RB	B-VGNF	cattavirowam,N,Aka-ADV
+pawukki	V_VM_VNF_VBN	I-VGNF	pawukku,V,,,,,VBP
+vEkkappattirunwa	V_VM_VNF_RP	I-VGNF	vEkkappatu,V,PAST,,,,RP
+peVrumalYavilAnYa	JJ	B-NP	peVrumalYavilAnYa,ADJ
+paNam	N_NN	I-NP	paNam,N
+payanYarYrYu	RP_NEG	B-NEGP	payanYarYrYu,ADV,,,,,
+poyvittawu	V_VM_VF	B-VGF	poyvitu,V,PAST,sg,3,n,RP-PRP
+eVnYrYu	CC_CCS	B-CCP	eVnYrYu,ADV,,,,,
+kUrYinYAr	V_VM_VF	B-VGF	kUrYu,V,PAST,sg,3,c
+amEccar	N_NN	B-NP	amEccar,N
+.	RD_PUNC	I-NP	&dot;,punc
+

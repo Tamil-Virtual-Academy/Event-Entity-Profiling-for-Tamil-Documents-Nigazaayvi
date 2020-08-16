@@ -1,0 +1,15 @@
+1	0	0	makArARtira	N_NNP	B-NP	makArARtiram,N,a-ADJ	{RP}	<ARG1-START>
+1	0	1	mAnilam	N_NN	I-NP	mAnilam,N	o
+1	0	2	avurafkApAwil	N_NN	I-NP	avurafkApAw,N,il-LOC	o
+1	0	3	pattAcukkatE	N_NN	B-NP	pattAcukkatE,unk	o
+1	0	4	canwEyil	N_NN	B-NP	canwE,N,il-LOC	o
+1	0	5	erYpatta	V_VM_VNF_RP	B-VGNF	erYpatu,V,PAST,,,,RP	o
+1	0	6	wI	N_NN	B-NP	wI,N	{/RP}
+1	0	7	vipawwil	N_NN	I-NP	vipawwu,N,il-LOC	o	<ARG1-END>
+1	0	8	150kkum	V_VM_VNF_RP	B-VGNF	150,num,kku-dat,sg	o	<ARG2-START>
+1	0	9	awikamAnYa	JJ	B-NP	awikam,N,AnYa-ADJ	o
+1	0	10	katEkalY	N_NN	I-NP	katE,N,,pl	o
+1	0	11	eVrinwu	V_VM_VNF_VBN	B-VGF	eVri,V,,,,,VBP	o
+1	0	12	cAmpalAkinYa	V_VM_VF	I-VGF	cAmpalAku,V,,pl,3,n	o	<ARG2-END>
+1	0	13	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+

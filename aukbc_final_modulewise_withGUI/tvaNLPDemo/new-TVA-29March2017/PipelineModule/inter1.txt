@@ -1,0 +1,672 @@
+URL:http://makkalkural.net/news/
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>	<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>		<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>		<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>		<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+
+<link rel="pingback" href="http://makkalkural.net/news/xmlrpc.php" />
+
+<title>Makkal Kural &#8211; Online News Edition</title>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Makkal Kural &raquo; Feed" href="http://makkalkural.net/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Makkal Kural &raquo; Comments Feed" href="http://makkalkural.net/news/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/makkalkural.net\/news\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='default_gwf-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://makkalkural.net/news/wp-content/themes/mesocolumn/style.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://makkalkural.net/news/wp-content/themes/mesocolumn/responsive.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/superfish-menu/css/superfish.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-cdn-css'  href='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/font-awesome/css/font-awesome.css?ver=1.6.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://makkalkural.net/news/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/html5shiv.js?ver=1.6.5.1'></script>
+<link rel='https://api.w.org/' href='http://makkalkural.net/news/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://makkalkural.net/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://makkalkural.net/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<script type="text/javascript">
+	window._zem_rp_post_id = '43567';
+	window._zem_rp_thumbnails = true;
+	window._zem_rp_post_title = '%E0%AE%86%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%87%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AF%88+%E0%AE%95%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D+%E2%80%98%E0%AE%9F%E0%AF%86%E0%AE%AA%E0%AE%BF%E2%80%99+%E0%AE%AA%E0%AF%81%E0%AE%AF%E0%AE%B2%E0%AF%8D%3B+%E0%AE%AA%E0%AE%B2%E0%AE%A4%E0%AF%8D%E0%AE%A4+%E0%AE%AE%E0%AE%B4%E0%AF%88';
+	window._zem_rp_post_tags = [];
+	window._zem_rp_static_base_url = 'https://content.zemanta.com/static/';
+	window._zem_rp_wp_ajax_url = 'http://makkalkural.net/news/wp-admin/admin-ajax.php';
+	window._zem_rp_plugin_version = '1.14';
+	window._zem_rp_num_rel_posts = '6';
+</script>
+<link rel="stylesheet" href="http://makkalkural.net/news/wp-content/plugins/related-posts-by-zemanta/static/themes/pinterest.css?version=1.14" />
+<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><style type="text/css" media="all">
+#main-navigation li.tn_cat_color_4 a {border-bottom: 5px solid #ea9920;}#main-navigation ul.sf-menu li.tn_cat_color_4:hover {background-color: #ea9920;}#main-navigation li.tn_cat_color_4.current-menu-item a {background-color: #ea9920;color:white;}#main-navigation li.tn_cat_color_4.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_4 li a {color: #ea9920;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_4 a:hover {color: #fff !important;background-color: #ea9920;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_4 {border-bottom: 5px solid #ea9920;}h2.header-title.feat_tn_cat_color_4 {background-color: #ea9920;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_4 h1.post-title a,#custom .archive_tn_cat_color_4 h2.post-title a {color: #ea9920 !important;}aside.home-feat-cat.post_tn_cat_color_4 .widget a, aside.home-feat-cat.post_tn_cat_color_4 article a {color: #ea9920;}#custom #post-entry.archive_tn_cat_color_4 article .post-meta a:hover {color: #ea9920 !important;}#main-navigation .sf-menu li.tn_cat_color_4 ul  {background-color: #ea9920;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_4 ul li a:hover  {background-color:#b76600;background-image: none;}#main-navigation li.tn_cat_color_14 a {border-bottom: 5px solid #00687f;}#main-navigation ul.sf-menu li.tn_cat_color_14:hover {background-color: #00687f;}#main-navigation li.tn_cat_color_14.current-menu-item a {background-color: #00687f;color:white;}#main-navigation li.tn_cat_color_14.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_14 li a {color: #00687f;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_14 a:hover {color: #fff !important;background-color: #00687f;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_14 {border-bottom: 5px solid #00687f;}h2.header-title.feat_tn_cat_color_14 {background-color: #00687f;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_14 h1.post-title a,#custom .archive_tn_cat_color_14 h2.post-title a {color: #00687f !important;}aside.home-feat-cat.post_tn_cat_color_14 .widget a, aside.home-feat-cat.post_tn_cat_color_14 article a {color: #00687f;}#custom #post-entry.archive_tn_cat_color_14 article .post-meta a:hover {color: #00687f !important;}#main-navigation .sf-menu li.tn_cat_color_14 ul  {background-color: #00687f;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_14 ul li a:hover  {background-color:#00354c;background-image: none;}#main-navigation li.tn_cat_color_15 a {border-bottom: 5px solid #dd3333;}#main-navigation ul.sf-menu li.tn_cat_color_15:hover {background-color: #dd3333;}#main-navigation li.tn_cat_color_15.current-menu-item a {background-color: #dd3333;color:white;}#main-navigation li.tn_cat_color_15.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_15 li a {color: #dd3333;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_15 a:hover {color: #fff !important;background-color: #dd3333;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_15 {border-bottom: 5px solid #dd3333;}h2.header-title.feat_tn_cat_color_15 {background-color: #dd3333;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_15 h1.post-title a,#custom .archive_tn_cat_color_15 h2.post-title a {color: #dd3333 !important;}aside.home-feat-cat.post_tn_cat_color_15 .widget a, aside.home-feat-cat.post_tn_cat_color_15 article a {color: #dd3333;}#custom #post-entry.archive_tn_cat_color_15 article .post-meta a:hover {color: #dd3333 !important;}#main-navigation .sf-menu li.tn_cat_color_15 ul  {background-color: #dd3333;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_15 ul li a:hover  {background-color:#aa0000;background-image: none;}#main-navigation li.tn_cat_color_24 a {border-bottom: 5px solid #034296;}#main-navigation ul.sf-menu li.tn_cat_color_24:hover {background-color: #034296;}#main-navigation li.tn_cat_color_24.current-menu-item a {background-color: #034296;color:white;}#main-navigation li.tn_cat_color_24.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_24 li a {color: #034296;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_24 a:hover {color: #fff !important;background-color: #034296;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_24 {border-bottom: 5px solid #034296;}h2.header-title.feat_tn_cat_color_24 {background-color: #034296;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_24 h1.post-title a,#custom .archive_tn_cat_color_24 h2.post-title a {color: #034296 !important;}aside.home-feat-cat.post_tn_cat_color_24 .widget a, aside.home-feat-cat.post_tn_cat_color_24 article a {color: #034296;}#custom #post-entry.archive_tn_cat_color_24 article .post-meta a:hover {color: #034296 !important;}#main-navigation .sf-menu li.tn_cat_color_24 ul  {background-color: #034296;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_24 ul li a:hover  {background-color:#000f63;background-image: none;}#main-navigation li.tn_cat_color_8 a {border-bottom: 5px solid #2a7511;}#main-navigation ul.sf-menu li.tn_cat_color_8:hover {background-color: #2a7511;}#main-navigation li.tn_cat_color_8.current-menu-item a {background-color: #2a7511;color:white;}#main-navigation li.tn_cat_color_8.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_8 li a {color: #2a7511;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_8 a:hover {color: #fff !important;background-color: #2a7511;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_8 {border-bottom: 5px solid #2a7511;}h2.header-title.feat_tn_cat_color_8 {background-color: #2a7511;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_8 h1.post-title a,#custom .archive_tn_cat_color_8 h2.post-title a {color: #2a7511 !important;}aside.home-feat-cat.post_tn_cat_color_8 .widget a, aside.home-feat-cat.post_tn_cat_color_8 article a {color: #2a7511;}#custom #post-entry.archive_tn_cat_color_8 article .post-meta a:hover {color: #2a7511 !important;}#main-navigation .sf-menu li.tn_cat_color_8 ul  {background-color: #2a7511;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_8 ul li a:hover  {background-color:#004200;background-image: none;}#main-navigation li.tn_cat_color_25 a {border-bottom: 5px solid #541093;}#main-navigation ul.sf-menu li.tn_cat_color_25:hover {background-color: #541093;}#main-navigation li.tn_cat_color_25.current-menu-item a {background-color: #541093;color:white;}#main-navigation li.tn_cat_color_25.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_25 li a {color: #541093;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_25 a:hover {color: #fff !important;background-color: #541093;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_25 {border-bottom: 5px solid #541093;}h2.header-title.feat_tn_cat_color_25 {background-color: #541093;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_25 h1.post-title a,#custom .archive_tn_cat_color_25 h2.post-title a {color: #541093 !important;}aside.home-feat-cat.post_tn_cat_color_25 .widget a, aside.home-feat-cat.post_tn_cat_color_25 article a {color: #541093;}#custom #post-entry.archive_tn_cat_color_25 article .post-meta a:hover {color: #541093 !important;}#main-navigation .sf-menu li.tn_cat_color_25 ul  {background-color: #541093;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_25 ul li a:hover  {background-color:#210060;background-image: none;}#main-navigation li.tn_cat_color_20 a {border-bottom: 5px solid #4d6d06;}#main-navigation ul.sf-menu li.tn_cat_color_20:hover {background-color: #4d6d06;}#main-navigation li.tn_cat_color_20.current-menu-item a {background-color: #4d6d06;color:white;}#main-navigation li.tn_cat_color_20.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_20 li a {color: #4d6d06;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_20 a:hover {color: #fff !important;background-color: #4d6d06;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_20 {border-bottom: 5px solid #4d6d06;}h2.header-title.feat_tn_cat_color_20 {background-color: #4d6d06;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_20 h1.post-title a,#custom .archive_tn_cat_color_20 h2.post-title a {color: #4d6d06 !important;}aside.home-feat-cat.post_tn_cat_color_20 .widget a, aside.home-feat-cat.post_tn_cat_color_20 article a {color: #4d6d06;}#custom #post-entry.archive_tn_cat_color_20 article .post-meta a:hover {color: #4d6d06 !important;}#main-navigation .sf-menu li.tn_cat_color_20 ul  {background-color: #4d6d06;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_20 ul li a:hover  {background-color:#1a3a00;background-image: none;}#main-navigation li.tn_cat_color_10 a {border-bottom: 5px solid #c92e2e;}#main-navigation ul.sf-menu li.tn_cat_color_10:hover {background-color: #c92e2e;}#main-navigation li.tn_cat_color_10.current-menu-item a {background-color: #c92e2e;color:white;}#main-navigation li.tn_cat_color_10.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_10 li a {color: #c92e2e;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_10 a:hover {color: #fff !important;background-color: #c92e2e;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_10 {border-bottom: 5px solid #c92e2e;}h2.header-title.feat_tn_cat_color_10 {background-color: #c92e2e;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_10 h1.post-title a,#custom .archive_tn_cat_color_10 h2.post-title a {color: #c92e2e !important;}aside.home-feat-cat.post_tn_cat_color_10 .widget a, aside.home-feat-cat.post_tn_cat_color_10 article a {color: #c92e2e;}#custom #post-entry.archive_tn_cat_color_10 article .post-meta a:hover {color: #c92e2e !important;}#main-navigation .sf-menu li.tn_cat_color_10 ul  {background-color: #c92e2e;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_10 ul li a:hover  {background-color:#960000;background-image: none;}#main-navigation li.tn_cat_color_19 a {border-bottom: 5px solid #aa2764;}#main-navigation ul.sf-menu li.tn_cat_color_19:hover {background-color: #aa2764;}#main-navigation li.tn_cat_color_19.current-menu-item a {background-color: #aa2764;color:white;}#main-navigation li.tn_cat_color_19.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_19 li a {color: #aa2764;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_19 a:hover {color: #fff !important;background-color: #aa2764;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_19 {border-bottom: 5px solid #aa2764;}h2.header-title.feat_tn_cat_color_19 {background-color: #aa2764;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_19 h1.post-title a,#custom .archive_tn_cat_color_19 h2.post-title a {color: #aa2764 !important;}aside.home-feat-cat.post_tn_cat_color_19 .widget a, aside.home-feat-cat.post_tn_cat_color_19 article a {color: #aa2764;}#custom #post-entry.archive_tn_cat_color_19 article .post-meta a:hover {color: #aa2764 !important;}#main-navigation .sf-menu li.tn_cat_color_19 ul  {background-color: #aa2764;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_19 ul li a:hover  {background-color:#770031;background-image: none;}#main-navigation li.tn_cat_color_2 a {border-bottom: 5px solid #00687f;}#main-navigation ul.sf-menu li.tn_cat_color_2:hover {background-color: #00687f;}#main-navigation li.tn_cat_color_2.current-menu-item a {background-color: #00687f;color:white;}#main-navigation li.tn_cat_color_2.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_2 li a {color: #00687f;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_2 a:hover {color: #fff !important;background-color: #00687f;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_2 {border-bottom: 5px solid #00687f;}h2.header-title.feat_tn_cat_color_2 {background-color: #00687f;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_2 h1.post-title a,#custom .archive_tn_cat_color_2 h2.post-title a {color: #00687f !important;}aside.home-feat-cat.post_tn_cat_color_2 .widget a, aside.home-feat-cat.post_tn_cat_color_2 article a {color: #00687f;}#custom #post-entry.archive_tn_cat_color_2 article .post-meta a:hover {color: #00687f !important;}#main-navigation .sf-menu li.tn_cat_color_2 ul  {background-color: #00687f;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_2 ul li a:hover  {background-color:#00354c;background-image: none;}#main-navigation li.tn_cat_color_23 a {border-bottom: 5px solid #1e73be;}#main-navigation ul.sf-menu li.tn_cat_color_23:hover {background-color: #1e73be;}#main-navigation li.tn_cat_color_23.current-menu-item a {background-color: #1e73be;color:white;}#main-navigation li.tn_cat_color_23.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_23 li a {color: #1e73be;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_23 a:hover {color: #fff !important;background-color: #1e73be;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_23 {border-bottom: 5px solid #1e73be;}h2.header-title.feat_tn_cat_color_23 {background-color: #1e73be;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_23 h1.post-title a,#custom .archive_tn_cat_color_23 h2.post-title a {color: #1e73be !important;}aside.home-feat-cat.post_tn_cat_color_23 .widget a, aside.home-feat-cat.post_tn_cat_color_23 article a {color: #1e73be;}#custom #post-entry.archive_tn_cat_color_23 article .post-meta a:hover {color: #1e73be !important;}#main-navigation .sf-menu li.tn_cat_color_23 ul  {background-color: #1e73be;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_23 ul li a:hover  {background-color:#00408b;background-image: none;}#main-navigation li.tn_cat_color_12 a {border-bottom: 5px solid #c92e2e;}#main-navigation ul.sf-menu li.tn_cat_color_12:hover {background-color: #c92e2e;}#main-navigation li.tn_cat_color_12.current-menu-item a {background-color: #c92e2e;color:white;}#main-navigation li.tn_cat_color_12.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_12 li a {color: #c92e2e;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_12 a:hover {color: #fff !important;background-color: #c92e2e;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_12 {border-bottom: 5px solid #c92e2e;}h2.header-title.feat_tn_cat_color_12 {background-color: #c92e2e;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_12 h1.post-title a,#custom .archive_tn_cat_color_12 h2.post-title a {color: #c92e2e !important;}aside.home-feat-cat.post_tn_cat_color_12 .widget a, aside.home-feat-cat.post_tn_cat_color_12 article a {color: #c92e2e;}#custom #post-entry.archive_tn_cat_color_12 article .post-meta a:hover {color: #c92e2e !important;}#main-navigation .sf-menu li.tn_cat_color_12 ul  {background-color: #c92e2e;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_12 ul li a:hover  {background-color:#960000;background-image: none;}#main-navigation li.tn_cat_color_28 a {border-bottom: 5px solid #01aef0;}#main-navigation ul.sf-menu li.tn_cat_color_28:hover {background-color: #01aef0;}#main-navigation li.tn_cat_color_28.current-menu-item a {background-color: #01aef0;color:white;}#main-navigation li.tn_cat_color_28.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_28 li a {color: #01aef0;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_28 a:hover {color: #fff !important;background-color: #01aef0;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_28 {border-bottom: 5px solid #01aef0;}h2.header-title.feat_tn_cat_color_28 {background-color: #01aef0;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_28 h1.post-title a,#custom .archive_tn_cat_color_28 h2.post-title a {color: #01aef0 !important;}aside.home-feat-cat.post_tn_cat_color_28 .widget a, aside.home-feat-cat.post_tn_cat_color_28 article a {color: #01aef0;}#custom #post-entry.archive_tn_cat_color_28 article .post-meta a:hover {color: #01aef0 !important;}#main-navigation .sf-menu li.tn_cat_color_28 ul  {background-color: #01aef0;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_28 ul li a:hover  {background-color:#007bbd;background-image: none;}</style>
+<style type="text/css" media="all">
+</style>
+<link rel="icon" href="http://makkalkural.net/news/wp-content/uploads/2016/08/favicon.jpg" type="images/x-icon" /><link rel="icon" href="http://makkalkural.net/news/wp-content/uploads/2016/08/favicon.jpg" sizes="32x32" />
+<link rel="icon" href="http://makkalkural.net/news/wp-content/uploads/2016/08/favicon.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://makkalkural.net/news/wp-content/uploads/2016/08/favicon.jpg" />
+<meta name="msapplication-TileImage" content="http://makkalkural.net/news/wp-content/uploads/2016/08/favicon.jpg" />
+<style type="text/css" media="all">
+body {font-family: 'Open Sans', sans-serif;font-weight: 400;}
+#siteinfo div,h1,h2,h3,h4,h5,h6,.header-title,#main-navigation, #featured #featured-title, #cf .tinput, #wp-calendar caption,.flex-caption h1,#portfolio-filter li,.nivo-caption a.read-more,.form-submit #submit,.fbottom,ol.commentlist li div.comment-post-meta, .home-post span.post-category a,ul.tabbernav li a {font-family: 'Open Sans', sans-serif;font-weight:600;}
+#main-navigation, .sf-menu li a {font-family: 'Open Sans', sans-serif;font-weight: 600;}
+#top-navigation {background-color: #01aef0;}#top-navigation .sf-menu li a:hover,#top-navigation .sf-menu li:hover,#top-navigation .sf-menu ul {background-color: #0094d6;}#top-navigation .sf-menu ul li a:hover {background-color: #007bbd;background-image: none;}#mobile-nav .mobile-open a {background: #01aef0 none;}#mobile-nav ul li a {background: #0094d6 none;}#mobile-nav ul li a:hover {background:#007bbd none;}#custom footer.footer-bottom, #custom footer.footer-bottom .fbottom {background-color:#303440;color:#fff !important;}
+img.home-feat-rss {display:none;}@media only screen and (min-width:768px) {
+#post-entry article.post-style-magazine {width:48%;float:left;height:475px;}
+#post-entry article.feat-thumbnail.post-style-magazine {height:325px;}
+#post-entry article.post-style-magazine.alt-post {margin-right:4%;}
+#post-entry article.post-style-magazine .post-right {margin:0;}
+#post-entry article.post-style-magazine .post-right h2,
+#post-entry article.post-style-magazine .post-right .post-meta,
+#post-entry article.post-style-magazine .post-right .post-content {float:none;width:auto;}
+#post-entry article.post-style-magazine.feat-thumbnail div.post-thumb {margin: 0 15px 8px 0;}
+#post-entry article.post-style-magazine:last-of-type {border-bottom:1px solid #ddd;}
+#post-entry article.post-style-magazine.feat-medium div.post-thumb,#post-entry article.post-style-magazine.feat-large div.post-thumb {width:100%;max-height:200px;float:left;margin:0 0 12px;}
+#post-entry article.post-style-magazine.feat-medium div.post-thumb img,#post-entry article.post-style-magazine.feat-large div.post-thumb img {width:100%;height:auto;}
+}
+#custom #siteinfo a {color: # !important;text-decoration: none;}
+#custom #siteinfo p#site-description {color: # !important;text-decoration: none;}
+#post-entry div.post-thumb.size-thumbnail {float:left;width:150px;}
+#post-entry article .post-right {margin:0 0 0 170px;}
+#main-navigation,.post-meta,a.button,input[type='button'], input[type='submit'],h1.post-title,.wp-pagenavi a,#sidebar .item-options,.iegradient,h3.widget-title,.footer-bottom,.sf-menu .current_page_item a, .sf-menu .current_menu_item a, .sf-menu .current-menu-item a,.sf-menu .current_page_item a:hover, .sf-menu .current_menu_item a:hover, .sf-menu .current-menu-item a:hover {filter: none !important;} #buddypress .activity-list .activity-avatar {float: none !important;}
+</style>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(3,122,221,.88);}</style>
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="Makkal Kural"/>
+  <meta property="og:url" content="http://makkalkural.net/news/"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Makkal Kural | Nadunilai Naaleadu"/>
+  <meta property="og:image" content="http://makkalkural.net/news/wp-content/uploads/2015/02/mk-logo.png"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="image" content="http://makkalkural.net/news/wp-content/uploads/2015/02/mk-logo.png"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Makkal Kural"/>
+  <meta name="twitter:url" content="http://makkalkural.net/news/"/>
+  <meta name="twitter:image" content="http://makkalkural.net/news/wp-content/uploads/2015/02/mk-logo.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+
+
+</head>
+
+<body class="home blog ie" id="custom">
+
+<div class="product-with-desc secbody">
+
+<div id="wrapper">
+
+<div id="wrapper-main">
+
+<div id="bodywrap" class="innerwrap">
+
+<div id="bodycontent">
+
+<div id="container">
+
+<nav class="top-nav iegradient effect-1" id="top-navigation">
+<div class="innerwrap">
+<ul id="menu-header-menu1" class="sf-menu"><li id='menu-item-16953'  class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home no_desc   "><a  href="http://makkalkural.net/news/">முகப்பு</a></li>
+<li id='menu-item-16954'  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children no_desc   "><a  href="http://makkalkural.net/news/blog/category/1/">மாவட்டம்</a>
+<ul class="sub-menu">
+<li id='menu-item-16956'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/1/%e0%ae%9a%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%88/">சென்னை</a></li>
+<li id='menu-item-16955'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/1/%e0%ae%95%e0%af%87%e0%ae%be%e0%ae%b5%e0%af%88/">கோவை</a></li>
+<li id='menu-item-16957'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/1/%e0%ae%ae%e0%ae%a4%e0%af%81%e0%ae%b0%e0%af%88/">மதுரை</a></li>
+</ul>
+</li>
+<li id='menu-item-16965'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%ae%e0%af%81%e0%ae%a9%e0%af%8d/">சற்றுமுன்</a></li>
+<li id='menu-item-28766'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%a4%e0%af%88-%e0%ae%aa%e0%ae%be%e0%ae%9f-%e0%ae%b5%e0%ae%be/">கவிதை பாட வா</a></li>
+<li id='menu-item-35990'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%b0%e0%af%88/">கட்டுரை</a></li>
+<li id='menu-item-28764'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%81-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d/">சிறு கதைகள்</a></li>
+<li id='menu-item-18229'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a8%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%ae%e0%af%8d/">நாடும் நடப்பும்</a></li>
+<li id='menu-item-35985'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_desc   "><a  href="#">ePaper</a>
+<ul class="sub-menu">
+<li id='menu-item-35986'  class="menu-item menu-item-type-custom menu-item-object-custom no_desc   "><a  href="http://makkalkural.net/?cat=1">PDF Version</a></li>
+<li id='menu-item-35987'  class="menu-item menu-item-type-custom menu-item-object-custom no_desc   "><a  href="http://makkalkural.net/?page_id=10591">Digital Version</a></li>
+</ul>
+</li>
+<li id='menu-item-35988'  class="menu-item menu-item-type-custom menu-item-object-custom no_desc   "><a  href="http://www.trinityites.net/">Trinity ITES</a></li>
+<li id='menu-item-35989'  class="menu-item menu-item-type-custom menu-item-object-custom no_desc   "><a  href="http://trinitycareerfair.net/">Trinity Career Fair</a></li>
+</ul></div>
+</nav>
+<!-- HEADER START -->
+<header class="iegradient _head" id="header">
+<div class="header-inner">
+<div class="innerwrap">
+<div id="siteinfo">
+<a href="http://makkalkural.net/news/" title="Makkal Kural"><img src="http://makkalkural.net/news/wp-content/uploads/2016/08/logo.jpg" alt="Makkal Kural" /></a>
+<span class="header-seo-span">
+<h1 ><a href="http://makkalkural.net/news/" title="Makkal Kural" rel="home">Makkal Kural</a></h1 ><p id="site-description">Online News Edition</p>
+</span>
+</div>
+<!-- SITEINFO END -->
+</div>
+</div>
+</header>
+<!-- HEADER END -->
+<div class="container-wrap">
+
+<!-- NAVIGATION START -->
+<nav class="main-nav iegradient" id="main-navigation">
+<ul id="menu-header-menu2" class="sf-menu"><li id='menu-item-35981'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_4 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%85%e0%ae%b0%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">அரசியல்</a></li>
+<li id='menu-item-35983'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_8 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">உலகம்</a></li>
+<li id='menu-item-18233'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_12 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%b5%e0%ae%bf%e0%ae%9a%e0%af%87%e0%ae%b7-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">விசேஷ</a></li>
+<li id='menu-item-35982'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_14 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d/">அறிவியல்</a></li>
+<li id='menu-item-35984'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%b5%e0%ae%bf%e0%ae%b3%e0%af%88%e0%ae%af%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">விளையாட்டு</a></li>
+<li id='menu-item-16969'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_19 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%ae%be/">சினிமா</a></li>
+<li id='menu-item-16970'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_23 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%8d/">நாட்டியம்</a></li>
+<li id='menu-item-16968'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_25 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%af%87%e0%ae%b0%e0%ae%bf/">கச்சேரி</a></li>
+<li id='menu-item-16972'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_20 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%af%87%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%8d/">கோவில்</a></li>
+<li id='menu-item-16971'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_24 "><a  href="http://makkalkural.net/news/blog/category/%e0%ae%89%e0%ae%b0%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d/">உரைகள்</a></li>
+</ul></nav>
+<!-- NAVIGATION END -->
+
+
+<!-- CONTENT START -->
+<div class="content">
+<div class="content-inner">
+
+
+<!-- POST ENTRY START -->
+<div id="post-entry">
+
+<div class="post-entry-inner">
+
+
+
+<aside class="home-feat-cat post_tn_cat_color_10">
+<h4 class="homefeattitle feat_tn_cat_color_10"><a href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%ae%e0%af%80%e0%ae%aa%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">சமீபத்திய செய்திகள்</a>&nbsp;&nbsp;<a title="Get Feed for சமீபத்திய செய்திகள்" href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%ae%e0%af%80%e0%ae%aa%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for சமீபத்திய செய்திகள்" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-43548 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9f%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-15-%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%a8%e0%ae%be%e0%ae%b3%e0%ae%be%e0%ae%95-%e0%ae%a8%e0%af%80%e0%ae%9f/" title="டெல்லியில் 15 வது நாளாக நீடிப்பு போராட்டத்தை  கைவிட தம்பிதுரை-, அமைச்சர்  வலியுறுத்தல்"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/delhi.jpg' alt='டெல்லியில் 15 வது நாளாக நீடிப்பு போராட்டத்தை  கைவிட தம்பிதுரை-, அமைச்சர்  வலியுறுத்தல்' title='டெல்லியில் 15 வது நாளாக நீடிப்பு போராட்டத்தை  கைவிட தம்பிதுரை-, அமைச்சர்  வலியுறுத்தல்' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9f%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-15-%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%a8%e0%ae%be%e0%ae%b3%e0%ae%be%e0%ae%95-%e0%ae%a8%e0%af%80%e0%ae%9f/" title="டெல்லியில் 15 வது நாளாக நீடிப்பு போராட்டத்தை  கைவிட தம்பிதுரை-, அமைச்சர்  வலியுறுத்தல்">டெல்லியில் 15 வது நாளாக நீடிப்பு போராட்டத்தை  கைவிட தம்பிதுரை-, அமைச்சர்  வலியுறுத்தல்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:35:52+00:00">March 28, 2017</abbr></span><span class="date updated meta-no-display">2017-03-28T09:35:52+00:00</span></div>
+
+<div class="entry-content feat-content">புதுடெல்ல,மார்ச்.28– டெல்லியில் 15 நாட்களாக போராட்டம் நடத்தி வரும் விவசாயிகளிடம் போராட்டத்தை கைவிட&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-43549 post type-post status-publish format-standard has-post-thumbnail hentry category-10 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%86%e0%ae%b0%e0%af%8d-%e0%ae%95%e0%af%87-%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%af%8d-%e0%ae%a4%e0%af%8a%e0%ae%95%e0%af%81%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%81-2/" title="ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2824-150x150.jpg' alt='ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி' title='ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%86%e0%ae%b0%e0%af%8d-%e0%ae%95%e0%af%87-%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%af%8d-%e0%ae%a4%e0%af%8a%e0%ae%95%e0%af%81%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%81-2/" title="ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி">ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:34:55+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ஆர்.கே.நகர் தொகுதி மக்களுக்கு  டிடிவி. தினகரன் வாக்குறுதி</span></span></span><span class="date updated meta-no-display">2017-03-28T09:34:55+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, மார்ச் 28– ஆர்.கே.நகர் தொகுதி அண்ணா தி.மு.க. (அம்மா) வேட்பாளர் டிடிவி.&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-43550 post type-post status-publish format-standard has-post-thumbnail hentry category-10 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%ae%e0%ae%a4%e0%af%81%e0%ae%9a%e0%af%82%e0%ae%a4%e0%ae%a9%e0%ae%a9%e0%af%88-%e0%ae%8e%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81-%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d/" title="மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2821-150x150.jpg' alt='மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு' title='மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%ae%e0%ae%a4%e0%af%81%e0%ae%9a%e0%af%82%e0%ae%a4%e0%ae%a9%e0%ae%a9%e0%af%88-%e0%ae%8e%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81-%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d/" title="மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு">மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:34:49+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on மதுசூதனனை எதிர்த்து போட்டியிடும்  அனைவரும் டெபாசிட் இழப்பார்கள்   ஓ.பன்னீர்செல்வம் பேச்சு</span></span></span><span class="date updated meta-no-display">2017-03-28T09:34:49+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை,மார்ச்.28– சென்னை ஆர்.கே.நகர் தொகுதியில் மதுசூதனனை எதிர்த்து போட்டியிடும் அனைவரும் டெபாசிட் இழப்பார்கள்&hellip;</div></div></article>
+<article class="feat-post apost fp3 post-43501 post type-post status-publish format-standard has-post-thumbnail hentry category-10 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/27/%e0%ae%86%e0%ae%b0%e0%af%8d-%e0%ae%95%e0%af%87-%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%a3%e0%af%81-%e0%ae%8e%e0%ae%a8%e0%af%8d/" title="ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/27colour-150x150.jpg' alt='ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்' title='ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/27/%e0%ae%86%e0%ae%b0%e0%af%8d-%e0%ae%95%e0%af%87-%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%a3%e0%af%81-%e0%ae%8e%e0%ae%a8%e0%af%8d/" title="ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்">ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-27T09:39:13+00:00">March 27, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ஆர்.கே.நகரில் மின்னணு  எந்திரத்தில் வாக்குபதிவு: தேர்தல் கமிஷன் தகவல்</span></span></span><span class="date updated meta-no-display">2017-03-27T09:39:13+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை,மார்ச்.27– யாருக்கு ஓட்டு போடுகிறோம் என்பதை வாக்காளர்கள் அறிந்துகொள்ள வசதியாக ரசீது கொடுக்கும்&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_4">
+<h4 class="homefeattitle feat_tn_cat_color_4"><a href="http://makkalkural.net/news/blog/category/%e0%ae%85%e0%ae%b0%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">அரசியல் செய்திகள்</a>&nbsp;&nbsp;<a title="Get Feed for அரசியல் செய்திகள்" href="http://makkalkural.net/news/blog/category/%e0%ae%85%e0%ae%b0%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for அரசியல் செய்திகள்" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-43558 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9c%e0%ae%be%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%88-%e0%ae%95%e0%af%82%e0%ae%b1%e0%ae%bf/" title="ஜாதி, மதத்தின் பெயரை கூறி  ஓட்டு கேட்க கூடாது  தேர்தல் கமி‌ஷன் அறிவிப்பு"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2-21-480x320.jpg' alt='ஜாதி, மதத்தின் பெயரை கூறி  ஓட்டு கேட்க கூடாது  தேர்தல் கமி‌ஷன் அறிவிப்பு' title='ஜாதி, மதத்தின் பெயரை கூறி  ஓட்டு கேட்க கூடாது  தேர்தல் கமி‌ஷன் அறிவிப்பு' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9c%e0%ae%be%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%88-%e0%ae%95%e0%af%82%e0%ae%b1%e0%ae%bf/" title="ஜாதி, மதத்தின் பெயரை கூறி  ஓட்டு கேட்க கூடாது  தேர்தல் கமி‌ஷன் அறிவிப்பு">ஜாதி, மதத்தின் பெயரை கூறி  ஓட்டு கேட்க கூடாது  தேர்தல் கமி‌ஷன் அறிவிப்பு</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:41:50+00:00">March 28, 2017</abbr></span><span class="date updated meta-no-display">2017-03-28T09:41:50+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை,மார்ச்.28– ஜாதி, மதத்தின் பெயரை கூறி ஓட்டு கேட்க கூடாது என்று தேர்தல்&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-43559 post type-post status-publish format-standard has-post-thumbnail hentry category-4 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%ae%b2%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%93%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%9f-18-%e0%ae%b5%e0%ae%af/" title="தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/1-10-150x150.jpg' alt='தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு' title='தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%ae%b2%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%93%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%9f-18-%e0%ae%b5%e0%ae%af/" title="தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு">தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:41:45+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on தேர்தலில் ஓட்டுப்போட 18 வயது &#8211;  தேர்தலில் நிற்க 25 வயதா?  பெண் சுப்ரீம் கோர்ட்டில் வழக்கு</span></span></span><span class="date updated meta-no-display">2017-03-28T09:41:45+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை,மார்ச்.28– ஓட்டுப்போட 18 வயது தேர்தலில் போட்டியிட 25 வயது என்பது முரணாக&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-43557 post type-post status-publish format-standard has-post-thumbnail hentry category-4 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%95%e0%ae%be%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%b8%e0%af%8d-%e0%ae%85%e0%ae%ae%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%ae%b2/" title="காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/1-24-150x150.jpg' alt='காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:' title='காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%95%e0%ae%be%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%b8%e0%af%8d-%e0%ae%85%e0%ae%ae%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%ae%b2/" title="காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:">காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:41:38+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on காங்கிரஸ் அமைப்பு தேர்தலை நடத்த  மேலும் 6 மாதம் அவகாசம்:</span></span></span><span class="date updated meta-no-display">2017-03-28T09:41:38+00:00</span></div>
+
+<div class="entry-content feat-content">புதுடெல்லி,மார்ச்.28– காங்கிரஸ் அமைப்பு தேர்தலை நடத்த தேர்தல் கமிஷன் மேலும் 6 மாதம்&hellip;</div></div></article>
+<article class="feat-post apost fp3 post-43538 post type-post status-publish format-standard has-post-thumbnail hentry category-4 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/27/%e0%ae%9c%e0%af%86%e0%ae%af%e0%ae%b2%e0%ae%b2%e0%ae%bf%e0%ae%a4%e0%ae%be-%e0%ae%a4%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%a8%e0%ae%bf%e0%ae%b1%e0%af%88/" title="ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2721-150x150.jpg' alt='ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி' title='ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/27/%e0%ae%9c%e0%af%86%e0%ae%af%e0%ae%b2%e0%ae%b2%e0%ae%bf%e0%ae%a4%e0%ae%be-%e0%ae%a4%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%a8%e0%ae%bf%e0%ae%b1%e0%af%88/" title="ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி">ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-27T09:50:47+00:00">March 27, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ஜெயலலிதா திட்டங்களை நிறைவேற்றுவேன்: டிடிவி. தினகரன் உறுதி</span></span></span><span class="date updated meta-no-display">2017-03-27T09:50:47+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, மார்ச் 27– ஆர்.கே.நகர் தொகுதியை முதன்மை தொகுதியாக்குவேன். இந்த தொகுதிக்கு ஜெயலலிதா&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_8">
+<h4 class="homefeattitle feat_tn_cat_color_8"><a href="http://makkalkural.net/news/blog/category/%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">உலகம் செய்திகள்</a>&nbsp;&nbsp;<a title="Get Feed for உலகம் செய்திகள்" href="http://makkalkural.net/news/blog/category/%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for உலகம் செய்திகள்" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-43567 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%86%e0%ae%b8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%87%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b5%e0%af%88-%e0%ae%95%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b2%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81/" title="ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2831-480x320.jpg' alt='ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை' title='ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%86%e0%ae%b8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%87%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b5%e0%af%88-%e0%ae%95%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b2%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81/" title="ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை">ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-03-28T10:00:43+00:00">March 28, 2017</abbr></span><span class="date updated meta-no-display">2017-03-28T10:00:43+00:00</span></div>
+
+<div class="entry-content feat-content">ஆஸ்திரேலியா, மார்ச் 28– ‘‘டெபி’’ என்ற 4-ம் எண் வலுவுள்ள புயல், ஆஸ்திரேலியாவின்&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-43566 post type-post status-publish format-standard has-post-thumbnail hentry category-8 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9c%e0%af%86%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%a9%e0%ae%bf-%e0%ae%85%e0%ae%b0%e0%af%81%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%95%e0%ae%a4%e0%af%8d/" title="ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/1490681932-1369-150x150.jpg' alt='ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை' title='ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9c%e0%af%86%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%a9%e0%ae%bf-%e0%ae%85%e0%ae%b0%e0%af%81%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%95%e0%ae%a4%e0%af%8d/" title="ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை">ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:54:58+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை</span></span></span><span class="date updated meta-no-display">2017-03-28T09:54:58+00:00</span></div>
+
+<div class="entry-content feat-content">பெர்லின்,மார்ச்.28– ஜெர்மனி அருங்காட்சியகத்தில் 100 கிலோ எடையுள்ள தங்க நாணயம் கொள்ளையடிக்கப்பட்ட சம்பவம்&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-43576 post type-post status-publish format-standard has-post-thumbnail hentry category-8 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9a%e0%af%86%e0%ae%b5%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%af%e0%af%8d-%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%95%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%a9%e0%ae%bf/" title="செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/60FACB0C-E293-4899-88BB-6A31FE5F878B_L_styvpf.gif-150x150.jpg' alt='செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு' title='செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9a%e0%af%86%e0%ae%b5%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%af%e0%af%8d-%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%95%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%a9%e0%ae%bf/" title="செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு">செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:54:53+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு</span></span></span><span class="date updated meta-no-display">2017-03-28T09:54:53+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை,மார்ச்.28– செவ்வாய் கிரகத்தில் மனிதன் வாழ்வதற்கான சூழல் இருப்பதாக ‘மங்கள்யான்’ விண்கலம் செய்த&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_2">
+<h4 class="homefeattitle feat_tn_cat_color_2"><a href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/">செய்திகள்</a>&nbsp;&nbsp;<a title="Get Feed for செய்திகள்" href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for செய்திகள்" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-43581 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%a4%e0%ae%b0%e0%ae%ae%e0%af%8d%e0%ae%9a%e0%ae%be%e0%ae%b2%e0%ae%be-%e0%ae%9f%e0%af%86%e0%ae%b8%e0%af%8d%e0%ae%9f%e0%af%8d-8-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%86%e0%ae%9f/" title="தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2830-480x320.jpg' alt='தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா' title='தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%a4%e0%ae%b0%e0%ae%ae%e0%af%8d%e0%ae%9a%e0%ae%be%e0%ae%b2%e0%ae%be-%e0%ae%9f%e0%af%86%e0%ae%b8%e0%af%8d%e0%ae%9f%e0%af%8d-8-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%86%e0%ae%9f/" title="தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா">தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:58:31+00:00">March 28, 2017</abbr></span><span class="date updated meta-no-display">2017-03-28T09:59:11+00:00</span></div>
+
+<div class="entry-content feat-content">தரம்சாலா, மார்ச் 28– தரம்சாலாவில் நடைபெற்ற ஆஸ்திரேலியாவுக்கு எதிரான இறுதி டெஸ்ட் போட்டியில்&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-43573 post type-post status-publish format-standard has-post-thumbnail hentry category-2 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%8e%e0%ae%b2%e0%af%8d-%e0%ae%a8%e0%ae%bf%e0%ae%a9%e0%af%87%e0%ae%be-%e0%ae%b5%e0%af%86%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%af%88-%e0%ae%ae%e0%ae%be%e0%ae%b1%e0%af%81/" title="எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/m-4-150x150.jpg' alt='எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு' title='எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%8e%e0%ae%b2%e0%af%8d-%e0%ae%a8%e0%ae%bf%e0%ae%a9%e0%af%87%e0%ae%be-%e0%ae%b5%e0%af%86%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%af%88-%e0%ae%ae%e0%ae%be%e0%ae%b1%e0%af%81/" title="எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு">எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:48:16+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு</span></span></span><span class="date updated meta-no-display">2017-03-28T09:48:16+00:00</span></div>
+
+<div class="entry-content feat-content">புதுடெல்லி,மார்ச்.28– நடப்பு ஆண்டில் ஜூன் மாதம் துவங்கும் தென்மேற்கு பருவமழை பொழிவு ஆண்டு&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-43570 post type-post status-publish format-standard has-post-thumbnail hentry category-2 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%b0%e0%ae%be%e0%ae%9c%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a9%e0%ae%bf-%e0%ae%8e%e0%ae%95%e0%af%8d%e0%ae%b8%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%b0%e0%ae%b8%e0%af%8d-%e0%ae%b0%e0%af%86%e0%ae%af/" title="ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/201703281240420751_Passengers-fall-sick-after-eating-food-served-in-Sealdah_SECVPF.gif-150x150.jpg' alt='ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்' title='ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%b0%e0%ae%be%e0%ae%9c%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a9%e0%ae%bf-%e0%ae%8e%e0%ae%95%e0%af%8d%e0%ae%b8%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%b0%e0%ae%b8%e0%af%8d-%e0%ae%b0%e0%af%86%e0%ae%af/" title="ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்">ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-28T09:46:49+00:00">March 28, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ராஜ்தானி எக்ஸ்பிரஸ்  ரெயிலில் கெட்டுப்போன உணவு  பயணிகள் ஆர்ப்பாட்டம்</span></span></span><span class="date updated meta-no-display">2017-03-28T09:46:49+00:00</span></div>
+
+<div class="entry-content feat-content">கொல்கத்தா,மார்ச்.28– ராஜ்தானி எக்ஸ்பிரஸ் ரெயிலில் வழங்கப்பட்ட கெட்டுப்போன உணவை சாப்பிட்ட சிலருக்கு உடல்&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_19">
+<h4 class="homefeattitle feat_tn_cat_color_19"><a href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%ae%be/">சினிமா</a>&nbsp;&nbsp;<a title="Get Feed for சினிமா" href="http://makkalkural.net/news/blog/category/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%ae%be/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for சினிமா" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-43357 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/23/%e0%ae%aa-%e0%ae%aa%e0%ae%be%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf-%e0%ae%aa%e0%ae%9f%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%86%e0%ae%a9%e0%af%8d%e0%ae%ae/" title="‘‘ப. பாண்டி படத்தின் ஆன்மாவே    ஷான் ரோல்டனின் இசைதான்’’"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/2308.jpg' alt='‘‘ப. பாண்டி படத்தின் ஆன்மாவே    ஷான் ரோல்டனின் இசைதான்’’' title='‘‘ப. பாண்டி படத்தின் ஆன்மாவே    ஷான் ரோல்டனின் இசைதான்’’' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/23/%e0%ae%aa-%e0%ae%aa%e0%ae%be%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf-%e0%ae%aa%e0%ae%9f%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%86%e0%ae%a9%e0%af%8d%e0%ae%ae/" title="‘‘ப. பாண்டி படத்தின் ஆன்மாவே    ஷான் ரோல்டனின் இசைதான்’’">‘‘ப. பாண்டி படத்தின் ஆன்மாவே    ஷான் ரோல்டனின் இசைதான்’’</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-03-23T11:13:52+00:00">March 23, 2017</abbr></span><span class="date updated meta-no-display">2017-03-23T11:13:52+00:00</span></div>
+
+<div class="entry-content feat-content">நடிகர் தனுஷ் முதன் முறையாக இயக்குனராக களமிறங்கும் படம் பவர்பாண்டி, தற்போது ப.&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-43051 post type-post status-publish format-standard has-post-thumbnail hentry category-19 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/15/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%ae%be%e0%ae%b5%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%9a%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%af%87-%e0%ae%87/" title="சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/1505-150x150.jpg' alt='சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!' title='சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/15/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%ae%be%e0%ae%b5%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%9a%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%af%87-%e0%ae%87/" title="சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!">சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-15T09:25:58+00:00">March 15, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on சினிமாவுக்கு சம்பந்தமே இல்லாத மூவரை அழைத்து  ‘‘கடுகு’’ பாடல் சிடி வெளியிட்ட சூர்யா!</span></span></span><span class="date updated meta-no-display">2017-03-15T09:25:58+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, மார்ச் 15– "கடுகு" திரைப்படத்தின் பாடல்கள் வெளியீட்டு விழா சென்னை பிரசாத்&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-43005 post type-post status-publish format-standard has-post-thumbnail hentry category-19 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/03/14/%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d-%e0%ae%ae%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a8%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%b0%e0%af%8d-%e0%ae%a8/" title="&#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/03/1401-150x150.jpg' alt='&#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!' title='&#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/03/14/%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d-%e0%ae%ae%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a8%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%b0%e0%af%8d-%e0%ae%a8/" title="&#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!">&#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-03-14T09:24:03+00:00">March 14, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on &#8220;மகளிர் மட்டும்&#8221; : நடிகர்–நடிகைகளுக்கு  பயிற்சி பட்டறை நடத்திய இயக்குநர் பிரம்மா!</span></span></span><span class="date updated meta-no-display">2017-03-14T09:24:03+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, மார்ச். 14 "மகளிர் மட்டும்’ எமோஷனலான திரைப்படம். படத்தின் ஒவ்வொரு ஃபிரேமையும்&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_23">
+<h4 class="homefeattitle feat_tn_cat_color_23"><a href="http://makkalkural.net/news/blog/category/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%8d/">நாட்டியம்</a>&nbsp;&nbsp;<a title="Get Feed for நாட்டியம்" href="http://makkalkural.net/news/blog/category/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%8d/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for நாட்டியம்" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-23471 fp0">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2015/07/07/%e0%ae%95%e0%af%81%e0%ae%b0%e0%af%81-%e0%ae%95%e0%ae%be%e0%ae%b5%e0%af%87%e0%ae%b0%e0%ae%bf-%e0%ae%b0%e0%ae%ae%e0%af%87%e0%ae%b7%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d/" title="குரு காவேரி ரமேஷின் தில்லானா; ஜுகல் பந்தியை கண்முன் கொண்டு வந்தார் சிஷ்யை ஜ்யோஸ்னா!">குரு காவேரி ரமேஷின் தில்லானா; ஜுகல் பந்தியை கண்முன் கொண்டு வந்தார் சிஷ்யை ஜ்யோஸ்னா!</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2015-07-07T10:51:53+00:00">July 7, 2015</abbr></span><span class="date updated meta-no-display">2015-07-07T10:51:53+00:00</span></div>
+
+<div class="entry-content feat-content">நிருத்யாஞ்சலி கலைப் பள்ளியின் முதல்வர் குரு காவேரி ரமேஷின் மாணவியும் கிருஷ்ணன், சசிரேகா&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-17844 post type-post status-publish format-standard hentry category-uncategorized category-23 has_no_thumb">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2015/03/03/%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%a4%e0%ae%b4%e0%af%8d%e0%ae%a8%e0%ae%be%e0%ae%9f/" title="புதுக்கோட்டையில் தழ்நாடு அரசு  இசைப் பள்ளி நடத்திய கலை நிகழ்ச்சி">புதுக்கோட்டையில் தழ்நாடு அரசு  இசைப் பள்ளி நடத்திய கலை நிகழ்ச்சி</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2015-03-03T11:31:16+00:00">March 3, 2015</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on புதுக்கோட்டையில் தழ்நாடு அரசு  இசைப் பள்ளி நடத்திய கலை நிகழ்ச்சி</span></span></span><span class="date updated meta-no-display">2015-03-03T11:31:37+00:00</span></div>
+
+<div class="entry-content feat-content">புதுக்கோட்டை, மார்ச் 3– புதுக்கோட்டை   நகராட்சி திலகர் திடலில்  மாவட்ட செய்தி மக்கள் &hellip;</div></div></article>
+<article class="feat-post apost fp2 post-16432 post type-post status-publish format-standard hentry category-10 category-38 category-23 has_no_thumb">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2015/01/23/%e0%ae%ae%e0%ae%be%e0%ae%ae%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%aa%e0%af%81%e0%ae%b0%e0%ae%ae%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af-%e0%ae%b5%e0%ae%bf%e0%ae%b4-2/" title="மாமல்லபுரம் நாட்டிய விழா நிறைவு: 1 லட்சம் சுற்றுலா பயணிகள் கண்டு களித்தனர்">மாமல்லபுரம் நாட்டிய விழா நிறைவு: 1 லட்சம் சுற்றுலா பயணிகள் கண்டு களித்தனர்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2015-01-23T09:31:55+00:00">January 23, 2015</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on மாமல்லபுரம் நாட்டிய விழா நிறைவு: 1 லட்சம் சுற்றுலா பயணிகள் கண்டு களித்தனர்</span></span></span><span class="date updated meta-no-display">2015-02-06T09:12:39+00:00</span></div>
+
+<div class="entry-content feat-content">காஞ்சீபுரம், ஜன. 23-– மாமல்லபுரத்தில் ஒரு மாதம் நடைபெற்று வந்த நாட்டிய விழா&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_25">
+<h4 class="homefeattitle feat_tn_cat_color_25"><a href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%af%87%e0%ae%b0%e0%ae%bf/">கச்சேரி</a>&nbsp;&nbsp;<a title="Get Feed for கச்சேரி" href="http://makkalkural.net/news/blog/category/%e0%ae%95%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%af%87%e0%ae%b0%e0%ae%bf/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for கச்சேரி" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-16431 fp0">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2015/01/23/%e0%ae%9a%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%b0%e0%ae%b7%e0%af%8d%e0%ae%af-%e0%ae%87%e0%ae%b3%e0%ae%ae%e0%af%8d-%e0%ae%85%e0%ae%b4%e0%ae%95/" title="சென்னையில் ரஷ்ய இளம் அழகிகளின் பாலே–ஜிம்னாஸ்டிக் விருந்து: வியப்பில் ஆழ்ந்த பார்வையாளர்கள்">சென்னையில் ரஷ்ய இளம் அழகிகளின் பாலே–ஜிம்னாஸ்டிக் விருந்து: வியப்பில் ஆழ்ந்த பார்வையாளர்கள்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span><span class="feat_time entry-date"><abbr class="published" title="2015-01-23T09:35:37+00:00">January 23, 2015</abbr></span><span class="date updated meta-no-display">2015-01-23T09:35:37+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, ஜன. 23– சென்னையில் உள்ள ரஷ்ய கலாச்சார மையத்தில் ரஷ்ய இளம்&hellip;</div></div></article>
+<article class="feat-post apost fp1 post-15194 post type-post status-publish format-standard hentry category-25 category-10 has_no_thumb">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2014/12/28/%e0%ae%9f%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf-%e0%ae%86%e0%ae%b0%e0%af%8d%e0%ae%9f%e0%af%8d%e0%ae%b8%e0%af%8d-%e0%ae%95%e0%ae%b2%e0%af%88-%e0%ae%b5/" title="டிரினிட்டி ஆர்ட்ஸ் கலை விழா 2 ஆம் நாள் நிகழ்ச்சி பார்வையாளர்களை மகுடிமுன் பாம்பாக்கிய &#8220;கொன்னக்கோல்&#8221; வி.வி.எஸ்.மணியன்">டிரினிட்டி ஆர்ட்ஸ் கலை விழா 2 ஆம் நாள் நிகழ்ச்சி பார்வையாளர்களை மகுடிமுன் பாம்பாக்கிய &#8220;கொன்னக்கோல்&#8221; வி.வி.எஸ்.மணியன்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2014-12-28T09:46:56+00:00">December 28, 2014</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on டிரினிட்டி ஆர்ட்ஸ் கலை விழா 2 ஆம் நாள் நிகழ்ச்சி பார்வையாளர்களை மகுடிமுன் பாம்பாக்கிய &#8220;கொன்னக்கோல்&#8221; வி.வி.எஸ்.மணியன்</span></span></span><span class="date updated meta-no-display">2014-12-28T09:46:56+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, டிச.28 – 'மக்கள் குரல்', 'டிரினிட்டி மிரர்' இணைந்து நடத்தும் "டிரினிட்டி&hellip;</div></div></article>
+<article class="feat-post apost fp2 post-15173 post type-post status-publish format-standard hentry category-25 category-10 has_no_thumb">
+
+
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2014/12/27/%e0%ae%ae%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%95%e0%af%81%e0%ae%b0%e0%ae%b2%e0%af%8d-%e0%ae%9f%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f/" title="‘மக்கள் குரல்–டிரினிட்டி மிரர்’ இணைந்து சென்னையில் 3–ம் ஆண்டு ‘டிரினிட்டி கலை விழா’: நாட்டிய மேதை வைஜெயந்தி மாலா துவக்கினார்">‘மக்கள் குரல்–டிரினிட்டி மிரர்’ இணைந்து சென்னையில் 3–ம் ஆண்டு ‘டிரினிட்டி கலை விழா’: நாட்டிய மேதை வைஜெயந்தி மாலா துவக்கினார்</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/editor/" title="Posts by editor" rel="author">editor</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2014-12-27T09:41:13+00:00">December 27, 2014</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on ‘மக்கள் குரல்–டிரினிட்டி மிரர்’ இணைந்து சென்னையில் 3–ம் ஆண்டு ‘டிரினிட்டி கலை விழா’: நாட்டிய மேதை வைஜெயந்தி மாலா துவக்கினார்</span></span></span><span class="date updated meta-no-display">2014-12-27T09:41:13+00:00</span></div>
+
+<div class="entry-content feat-content">சென்னை, டிச. 27– ‘மக்கள் குரல்–டிரினிட்டி மிரர்’ இணைந்து வழங்கும் ‘டிரினிட்டி ஆர்ட்ஸ்&hellip;</div></div></article>
+</div>
+</aside>
+<aside class="home-feat-cat post_tn_cat_color_28">
+<h4 class="homefeattitle feat_tn_cat_color_28"><a href="http://makkalkural.net/news/blog/category/%e0%ae%b5%e0%af%80%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%af%8b/">வீடியோ</a>&nbsp;&nbsp;<a title="Get Feed for வீடியோ" href="http://makkalkural.net/news/blog/category/%e0%ae%b5%e0%af%80%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%af%8b/feed/"><img class="home-feat-rss" src="http://makkalkural.net/news/wp-content/themes/mesocolumn/images/rss2.png" alt="Get Feed for வீடியோ" /></a></h4>
+<div class="homefeat">
+<article class="hentry hnews feat-post fpost feat-42242 fp0">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/21/top-three-news-in-one-minute-14th-february-2017/" title="Top three news in one minute | 14th February 2017"><img width='480' height='200' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Top-three-news-in-one-minute-14th-February-2017-480x320.jpg' alt='Top three news in one minute | 14th February 2017' title='Top three news in one minute | 14th February 2017' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/21/top-three-news-in-one-minute-14th-february-2017/" title="Top three news in one minute | 14th February 2017">Top three news in one minute | 14th February 2017</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span><span class="feat_time entry-date"><abbr class="published" title="2017-02-21T09:55:34+00:00">February 21, 2017</abbr></span><span class="date updated meta-no-display">2017-02-21T09:55:56+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+<article class="feat-post apost fp1 post-42016 post type-post status-publish format-standard has-post-thumbnail hentry category-28 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/16/top-three-news-in-one-minute-13th-february-2017/" title="Top three news in one minute | 13th February 2017"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Top-three-news-in-one-minute-13th-February-2017-150x150.jpg' alt='Top three news in one minute | 13th February 2017' title='Top three news in one minute | 13th February 2017' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/16/top-three-news-in-one-minute-13th-february-2017/" title="Top three news in one minute | 13th February 2017">Top three news in one minute | 13th February 2017</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-02-16T08:47:06+00:00">February 16, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on Top three news in one minute | 13th February 2017</span></span></span><span class="date updated meta-no-display">2017-02-16T08:47:30+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+<article class="feat-post apost fp2 post-41970 post type-post status-publish format-standard has-post-thumbnail hentry category-28 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/15/felicitation-function-of-dr-r-seetharaman-group-ceo-doha-bank-qatar/" title="Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Felicitation-function-of-Dr-R-Seetharaman-150x150.jpg' alt='Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar' title='Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/15/felicitation-function-of-dr-r-seetharaman-group-ceo-doha-bank-qatar/" title="Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar">Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-02-15T08:51:54+00:00">February 15, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on Felicitation function of Dr R Seetharaman, Group CEO, Doha Bank, Qatar</span></span></span><span class="date updated meta-no-display">2017-02-15T08:51:54+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+<article class="feat-post apost fp3 post-41967 post type-post status-publish format-standard has-post-thumbnail hentry category-28 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/15/top-three-news-in-one-minute-08th-february-2017/" title="Top three news in one minute | 08th February 2017"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Top-three-news-in-one-minute-08th-February-2017-150x150.jpg' alt='Top three news in one minute | 08th February 2017' title='Top three news in one minute | 08th February 2017' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/15/top-three-news-in-one-minute-08th-february-2017/" title="Top three news in one minute | 08th February 2017">Top three news in one minute | 08th February 2017</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-02-15T08:48:39+00:00">February 15, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on Top three news in one minute | 08th February 2017</span></span></span><span class="date updated meta-no-display">2017-02-15T08:49:35+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+<article class="feat-post apost fp4 post-41873 post type-post status-publish format-standard has-post-thumbnail hentry category-28 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/13/top-three-news-in-one-minute-31st-january/" title="Top three news in one minute | 31st January"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Top-three-news-in-one-minute-31st-January-150x150.jpg' alt='Top three news in one minute | 31st January' title='Top three news in one minute | 31st January' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/13/top-three-news-in-one-minute-31st-january/" title="Top three news in one minute | 31st January">Top three news in one minute | 31st January</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-02-13T08:51:30+00:00">February 13, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on Top three news in one minute | 31st January</span></span></span><span class="date updated meta-no-display">2017-02-13T08:51:30+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+<article class="feat-post apost fp5 post-41859 post type-post status-publish format-standard has-post-thumbnail hentry category-28 has_thumb">
+
+<div class="feat-thumb"><a href="http://makkalkural.net/news/blog/2017/02/13/top-three-news-in-one-minute-29th-january-2017/" title="Top three news in one minute | 29th January 2017"><img width='120' height='120' class='alignleft' src='http://makkalkural.net/news/wp-content/uploads/2017/02/Top-three-news-in-one-minute-29th-January-2017-150x150.jpg' alt='Top three news in one minute | 29th January 2017' title='Top three news in one minute | 29th January 2017' /></a></div>
+<div class="feat-right">
+<h2 class="entry-title feat-title"><a rel="bookmark" href="http://makkalkural.net/news/blog/2017/02/13/top-three-news-in-one-minute-29th-january-2017/" title="Top three news in one minute | 29th January 2017">Top three news in one minute | 29th January 2017</a></h2>
+
+<div class="feat-meta"><span class="feat_author vcard"><a class="url fn" href="http://makkalkural.net/news/blog/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+<span class="feat_time entry-date"><abbr class="published" title="2017-02-13T04:26:05+00:00">February 13, 2017</abbr></span>
+<span class="feat_comment"><span>Comments Off<span class="screen-reader-text"> on Top three news in one minute | 29th January 2017</span></span></span><span class="date updated meta-no-display">2017-02-13T04:27:17+00:00</span></div>
+
+<div class="entry-content feat-content"></div></div></article>
+</div>
+</aside>
+
+
+
+</div>
+</div>
+<!-- POST ENTRY END -->
+
+
+</div><!-- CONTENT INNER END -->
+</div><!-- CONTENT END -->
+
+
+
+<div id="right-sidebar" class="sidebar right-sidebar">
+<div class="sidebar-inner">
+<div class="widget-area the-icons">
+<aside id="text-23" class="widget widget_text">			<div class="textwidget"><iframe width="100%" height="250" src="https://www.youtube.com/embed/yDboVjeYhbg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/btqRd9wj1jY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/DYs8js4cnWs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/gaRzlNfYfNM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/gwCPxCMqlZk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/3HLLtwwE4-U?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/z85j5BJ4xSo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/G62HrubdD6o?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/dvhKFPK4C0Q?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/6OYaSlgYrAQ?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/6fpxj88gCEA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/1XxJybKeysA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/FnyYiO1EbOI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/yuGsFH5TXrc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<a href="http://citystroll.net/">
+More Videos</a></div>
+		</aside><aside id="text-14" class="widget widget_text">			<div class="textwidget"><a href="http://www.luckybabyname.com/" target="_blank"><img src="http://makkalkural.net/news/wp-content/uploads/2016/08/baby-name-ads-tamil.jpg"/> </a> </div>
+		</aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">சமீபத்திய செய்திகள்</h3>		<ul>
+					<li>
+				<a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%86%e0%ae%b8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%87%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b5%e0%af%88-%e0%ae%95%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b2%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81/">ஆஸ்திரேலியாவை கதிகலக்கும் ‘டெபி’ புயல்; பலத்த மழை</a>
+							<span class="post-date">March 28, 2017</span>
+						</li>
+					<li>
+				<a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%a4%e0%ae%b0%e0%ae%ae%e0%af%8d%e0%ae%9a%e0%ae%be%e0%ae%b2%e0%ae%be-%e0%ae%9f%e0%af%86%e0%ae%b8%e0%af%8d%e0%ae%9f%e0%af%8d-8-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%86%e0%ae%9f/">தரம்சாலா டெஸ்ட்: 8 விக்கெட் வித்தியாசத்தில் ஆஸ்திரேலியாவை வீழ்த்தியது     இந்தியா</a>
+							<span class="post-date">March 28, 2017</span>
+						</li>
+					<li>
+				<a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9c%e0%af%86%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%a9%e0%ae%bf-%e0%ae%85%e0%ae%b0%e0%af%81%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%95%e0%ae%a4%e0%af%8d/">ஜெர்மனி அருங்காட்சியகத்தில்  100 கிலோ எடையுள்ள  தங்க நாணயம் கொள்ளை</a>
+							<span class="post-date">March 28, 2017</span>
+						</li>
+					<li>
+				<a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%9a%e0%af%86%e0%ae%b5%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%af%e0%af%8d-%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%95%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%a9%e0%ae%bf/">செவ்வாய் கிரகத்தில்  மனிதன் வாழ்வதற்கான சூழல்  மங்கள்யான் விண்கலம் ஆய்வு</a>
+							<span class="post-date">March 28, 2017</span>
+						</li>
+					<li>
+				<a href="http://makkalkural.net/news/blog/2017/03/28/%e0%ae%8e%e0%ae%b2%e0%af%8d-%e0%ae%a8%e0%ae%bf%e0%ae%a9%e0%af%87%e0%ae%be-%e0%ae%b5%e0%af%86%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%af%88-%e0%ae%ae%e0%ae%be%e0%ae%b1%e0%af%81/">எல் நினோ வெப்பநிலை மாறுபாட்டால்  தென்மேற்கு பருவமழைக்கு பாதிப்பு</a>
+							<span class="post-date">March 28, 2017</span>
+						</li>
+				</ul>
+		</aside>		</div>
+</div><!-- SIDEBAR-INNER END -->
+</div><!-- RIGHT SIDEBAR END -->
+
+
+</div><!-- CONTAINER WRAP END -->
+
+</div><!-- CONTAINER END -->
+
+</div><!-- BODYCONTENT END -->
+
+</div><!-- INNERWRAP BODYWRAP END -->
+
+</div><!-- WRAPPER MAIN END -->
+
+</div><!-- WRAPPER END -->
+
+
+<footer class="footer-bottom">
+<div class="innerwrap">
+<div class="fbottom">
+<div class="footer-left">
+<!--Copyright &copy;2017. Makkal Kural--> 
+Copyright &copy; 2017. Makkal Kural. All Rights Reserved.
+</div>
+<div class="footer-right">
+<!-- Mesocolumn Theme by Dezzain, download and info at https://wordpress.org/themes/mesocolumn -->Powered by <a href="http://navasun.com" target="_blank">Navasun</a>.
+</div>
+</div>
+</div>
+</footer>
+<!-- FOOTER BOTTOM END -->
+
+
+</div>
+<!-- SECBODY END -->
+
+<!-- Powered by WPtouch: 4.3.13 --><script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://makkalkural.net/news?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><script type='text/javascript' src='http://makkalkural.net/news/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/modernizr/modernizr.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/superfish-menu/js/superfish.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/superfish-menu/js/supersubs.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/themes/mesocolumn/lib/scripts/custom.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://makkalkural.net/news/wp-content/plugins/related-posts-by-zemanta/static/js/pinterest.js?ver=1.14'></script>
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+amEccar=>TITLE
+hanYsrAj kafkArAm=>INDIVIDUAL
+havAlA=>INDIVIDUAL
+iNE amEccar=>TITLE
+jUlE 25 &comma; 2017 &comma; 07:29 PM=>DATE
+mawwiya aracu=>GOV
+mawwiya ulYwurYE=>GOV
+pAkiswAnY=>NATION
+puwuteVlli=>CITY
+rU 1000=>MONEY
+rU 500=>MONEY

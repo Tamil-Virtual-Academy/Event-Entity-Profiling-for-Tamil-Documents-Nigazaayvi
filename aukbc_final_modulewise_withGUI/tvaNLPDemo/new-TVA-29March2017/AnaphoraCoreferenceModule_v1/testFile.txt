@@ -1,0 +1,8 @@
+avar	-	nposs	nom	-	yes	no	no	no	no	0	0	dat	0	0	IC	0	mcl	0	no
+avar	-	nposs	nom	-	yes	no	no	no	no	nom	0	0	0	0	0	non_IC	mcl	0	no
+avar	-	nposs	nom	-	no	yes	no	no	no	nom	0	0	0	0	0	0	0	subcl	no
+avar	-	nposs	nom	-	no	yes	no	no	no	nom	0	0	0	0	0	0	0	subcl	no
+avar	-	nposs	nom	-	no	yes	no	no	no	0	0	0	other	0	0	0	mcl	0	no
+avar	-	nposs	nom	-	no	yes	no	no	no	0	0	0	other	0	0	0	mcl	0	no
+avar	-	nposs	nom	-	no	yes	no	no	no	nom	0	0	0	0	0	0	mcl	0	no
+avar	-	nposs	nom	-	no	yes	no	no	no	nom	0	0	0	0	0	0	mcl	0	no

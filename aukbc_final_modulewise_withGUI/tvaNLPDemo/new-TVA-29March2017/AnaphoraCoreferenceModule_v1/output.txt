@@ -1,0 +1,141 @@
+1	11	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>0	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	1	no	6	yes
+
+1	14	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-<dim>0	11	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-
+cureRpirapu	cureRpirapu	yes	no	cureRpirapu	cureRpirapu	yes	no	yes	yes	yes	no	1	no	11	yes
+
+2	1	mawurE	mawurE	yes	no	LOC	n	-	-	-<dim>1	0	mawurE	mawurE	yes	no	nom	n	-	-	-
+mawurE	mawurE	yes	no	mawurE	mawurE	yes	no	no	yes	yes	no	1	no	17	yes
+
+2	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>0	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	2	no	36	yes
+
+2	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>1	11	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	1	no	40	yes
+
+2	11	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-<dim>0	11	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-
+cureRpirapu	cureRpirapu	yes	no	cureRpirapu	cureRpirapu	yes	no	yes	yes	yes	no	2	no	46	yes
+
+2	11	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-<dim>1	14	cureRpirapu	cureRpirapu	yes	no	nom	m	-	-	-
+cureRpirapu	cureRpirapu	yes	no	cureRpirapu	cureRpirapu	yes	no	yes	yes	yes	no	1	no	50	yes
+
+2	12	mawurE	mawurE	yes	no	LOC	n	-	-	-<dim>1	0	mawurE	mawurE	yes	no	nom	n	-	-	-
+mawurE	mawurE	yes	no	mawurE	mawurE	yes	no	no	yes	yes	no	1	no	57	yes
+
+2	12	mawurE	mawurE	yes	no	LOC	n	-	-	-<dim>2	1	mawurE	mawurE	yes	no	LOC	n	-	-	-
+mawurE	mawurE	yes	no	mawurE	mawurE	yes	no	no	yes	yes	yes	0	no	61	yes
+
+3	0	mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	nom	n	-	-	-<dim>1	0	mawurE	mawurE	yes	no	nom	n	-	-	-
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	mawurE	mawurE	yes	no	no	no	no	no	2	no	93	yes
+
+3	0	mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	nom	n	-	-	-<dim>2	1	mawurE	mawurE	yes	no	LOC	n	-	-	-
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	mawurE	mawurE	yes	no	no	no	no	no	1	no	97	yes
+
+3	0	mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	nom	n	-	-	-<dim>2	12	mawurE	mawurE	yes	no	LOC	n	-	-	-
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	mawurE	mawurE	yes	no	no	no	no	no	1	no	102	yes
+
+6	1	narenwira_moti	moti	yes	no	nom	m	-	-	-<dim>6	0	pirawamar	pirawamar	yes	yes	nom	n	-	-	-
+narenwira_moti	moti	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	yes	0	no	189	yes
+
+7	0	mawwiya_aracu	aracu	yes	no	nom	m	-	-	-<dim>6	3	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	yes	no	1	no	251	yes
+
+9	2	mawwiya_aracu	aracu	yes	no	INS	m	-	-	-<dim>6	3	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	yes	no	3	no	296	yes
+
+9	2	mawwiya_aracu	aracu	yes	no	INS	m	-	-	-<dim>7	0	mawwiya_aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	2	no	298	yes
+
+12	0	celam	celam	yes	no	LOC	n	-	-	-<dim>11	0	celam	celam	yes	no	nom	n	-	-	-
+celam	celam	yes	no	celam	celam	yes	no	no	yes	yes	no	1	no	350	yes
+
+12	5	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>0	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	12	no	378	yes
+
+12	5	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>1	11	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	11	no	382	yes
+
+12	5	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>2	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	10	no	387	yes
+
+12	12	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	ACC	n	pl	-	-<dim>2	5	pA.ja.ka._vetpAlYar	vetpAlYar	yes	no	ACC	n	pl	-	-
+pA.janYawA_vetpAlYar	vetpAlYar	yes	no	pA.ja.ka._vetpAlYar	vetpAlYar	yes	no	no	no	yes	no	10	no	443	yes
+
+12	12	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	ACC	n	pl	-	-<dim>12	3	pA.janYawA	pA.janYawA	yes	no	nom	n	-	-	-
+pA.janYawA_vetpAlYar	vetpAlYar	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	yes	0	no	462	yes
+
+14	8	wi.mu.ka._nAtu	nAtu	yes	no	GEN	n	-	-	-<dim>4	0	wi.mu.ka	wi.mu.ka	yes	no	nom	n	-	-	-
+wi.mu.ka._nAtu	nAtu	yes	no	wi.mu.ka	wi.mu.ka	yes	no	no	no	no	no	10	no	543	yes
+
+15	9	pArAlYumanYrYa_werwal	werwal	yes	no	LOC	n	-	-	-<dim>2	2	cattapperavE_werwal	werwal	yes	no	LOC	n	-	-	-
+pArAlYumanYrYa_werwal	werwal	yes	no	cattapperavE_werwal	werwal	yes	no	no	no	yes	no	13	no	568	yes
+
+15	11	narenwira_moti	moti	yes	no	nom	m	-	-	-<dim>6	1	narenwira_moti	moti	yes	no	nom	m	-	-	-
+narenwira_moti	moti	yes	no	narenwira_moti	moti	yes	no	yes	yes	yes	no	9	no	614	yes
+
+18	1	pirawamar	pirawamar	yes	yes	nom	n	-	-	-<dim>6	0	pirawamar	pirawamar	yes	yes	nom	n	-	-	-
+pirawamar	pirawamar	yes	yes	pirawamar	pirawamar	yes	yes	no	yes	yes	no	12	no	684	yes
+
+18	1	pirawamar	pirawamar	yes	yes	nom	n	-	-	-<dim>6	1	narenwira_moti	moti	yes	no	nom	m	-	-	-
+pirawamar	pirawamar	yes	yes	narenwira_moti	moti	yes	no	no	no	no	no	12	no	685	yes
+
+18	1	pirawamar	pirawamar	yes	yes	nom	n	-	-	-<dim>15	11	narenwira_moti	moti	yes	no	nom	m	-	-	-
+pirawamar	pirawamar	yes	yes	narenwira_moti	moti	yes	no	no	no	no	no	3	no	701	yes
+
+18	2	moti	moti	yes	no	nom	n	-	-	-<dim>6	0	pirawamar	pirawamar	yes	yes	nom	n	-	-	-
+moti	moti	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	no	12	no	721	yes
+
+18	2	moti	moti	yes	no	nom	n	-	-	-<dim>6	1	narenwira_moti	moti	yes	no	nom	m	-	-	-
+moti	moti	yes	no	narenwira_moti	moti	yes	no	no	no	yes	no	12	no	722	yes
+
+18	2	moti	moti	yes	no	nom	n	-	-	-<dim>15	11	narenwira_moti	moti	yes	no	nom	m	-	-	-
+moti	moti	yes	no	narenwira_moti	moti	yes	no	no	no	yes	no	3	no	738	yes
+
+18	2	moti	moti	yes	no	nom	n	-	-	-<dim>18	1	pirawamar	pirawamar	yes	yes	nom	n	-	-	-
+moti	moti	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	yes	0	no	740	yes
+
+19	0	mawwiya_aracu	aracu	yes	no	GEN	m	-	-	-<dim>6	3	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	yes	no	13	no	761	yes
+
+19	0	mawwiya_aracu	aracu	yes	no	GEN	m	-	-	-<dim>7	0	mawwiya_aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	12	no	763	yes
+
+19	0	mawwiya_aracu	aracu	yes	no	GEN	m	-	-	-<dim>9	2	mawwiya_aracu	aracu	yes	no	INS	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	10	no	765	yes
+
+19	3	wamilYYakam	wamilYYakam	yes	no	DAT	n	-	-	-<dim>7	3	wamilYYnAtu	wamilYYnAtu	yes	no	DAT	n	-	-	-
+wamilYYakam	wamilYYakam	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	12	no	803	yes
+
+19	7	mawwiya_aracu	aracu	yes	no	SOC	m	-	-	-<dim>6	3	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	yes	no	13	no	840	yes
+
+19	7	mawwiya_aracu	aracu	yes	no	SOC	m	-	-	-<dim>7	0	mawwiya_aracu	aracu	yes	no	nom	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	12	no	842	yes
+
+19	7	mawwiya_aracu	aracu	yes	no	SOC	m	-	-	-<dim>9	2	mawwiya_aracu	aracu	yes	no	INS	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	10	no	844	yes
+
+19	7	mawwiya_aracu	aracu	yes	no	SOC	m	-	-	-<dim>19	0	mawwiya_aracu	aracu	yes	no	GEN	m	-	-	-
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	yes	0	no	859	yes
+
+19	11	wamilYYakam	wamilYYakam	yes	no	LOC	n	-	-	-<dim>7	3	wamilYYnAtu	wamilYYnAtu	yes	no	DAT	n	-	-	-
+wamilYYakam	wamilYYakam	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	12	no	884	yes
+
+19	11	wamilYYakam	wamilYYakam	yes	no	LOC	n	-	-	-<dim>19	3	wamilYYakam	wamilYYakam	yes	no	DAT	n	-	-	-
+wamilYYakam	wamilYYakam	yes	no	wamilYYakam	wamilYYakam	yes	no	no	yes	yes	yes	0	no	901	yes
+
+20	1	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>0	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	20	no	903	yes
+
+20	1	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>1	11	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	19	no	907	yes
+
+20	1	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>2	8	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	18	no	912	yes
+
+20	1	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-<dim>12	5	mawwiya_reVyilve_manwiri	manwiri	yes	yes	nom	mf	-	-	-
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	yes	yes	no	8	no	931	yes
+
+20	4	cureR_pirapu	pirapu	yes	no	nom	m	-	-	-<dim>12	8	cureR_pirapu	pirapu	yes	no	nom	m	-	-	-
+cureR_pirapu	pirapu	yes	no	cureR_pirapu	pirapu	yes	no	yes	yes	yes	no	8	no	975	yes
+

@@ -1,0 +1,188 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	RD_RDF	B-NP	News,unk,,,,,,	o
+/	RD_SYM	I-NP	/,punc,,,,,,	o
+ஸ்டடே	RD_RDF	I-NP	State,unk,,,,,,	o
+/	RD_SYM	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	I-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+29133954	QT_QTC	B-NP	29133954,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணோ-போலிடிசல்-பர்ட்ய்-dஇஸ்ச்லோஸிந்g-ட்ஹேஐலேச்டிஓந்	RD_RDF	I-NP	No-political-party-disclosing-theElection,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+Mஅநிஙேஸ்டோ	V_VM_VF	B-VGF	Manifesto,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	{MCL}
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+முன்னாள்	JJ	B-NP	munYnYAlY,N,,,,,	o
+முதல்	PSP	I-NP	muwal,N,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+அமைச்	N_NN	B-NP	amE,V,,,,,	o
+சர்	N_NN	I-NP	car,N,,,,,	o
+ஓ.பன்னீர்செல்வம்	N_NN	B-NP	o.panYnYIrceVlvam,N,,,,m,	o
+ஆதரவாளரான	JJ	I-NP	AwaravAlYar,N,AnYa-ADJ,,,,	o
+மாஃபா	N_NNP	I-NP	mAHpA,unk,,,,,,	o
+பாண்டியராஜன்	N_NNP	I-NP	pANtiyarAjanY,N,,,,m,	o
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+நிருபர்களுக்கு	N_NN	B-NP	nirupar,N,ukku-DAT,pl,,,	o
+பேட்டியளித்தார்	V_VM_VF	B-VGF	pettiyalYi,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	{MCL}
+கூறியதாவது	V_VM_VNF_RP_PRP	B-VGNF	kUrYiyawAvawu,ADJ,,,,,	o
+:	RD_PUNC	I-VGNF	:,punc,,,,,,	o
+-	RD_SYM	I-VGNF	-,punc,,,,,,	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+அணியின்	N_NN	I-NP	aNi,N,inY-GEN,,,,	o
+தேர்தல்	N_NN	B-NP	werwal,N,,,,,	o
+அறிக்கை	N_NN	I-NP	arYikkE,N,,,,,	o
+நாளை	N_NN	B-NP	nAlYE,N,,,,,	o
+காலை	N_NN	I-NP	kAlE,N,,,,,	o
+10	QT_QTC	I-NP	10,num,,,,,,	o
+மணிக்கு	N_NN	I-NP	maNi,N,kku-DAT,,,,	o
+வெளியிடப்படும்	V_VM_VF	B-VGF	veVlYiyitu,V,FUTURE,,,,RP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்தியாவிலேயே	N_NNP	B-NP	inwiyA,N,il-LOC,,,,	{MCL}
+இதுவரை	RB	B-RBP	iwuvarE,ADV,,,,,	o
+எந்த	DM_DMQ	B-NP	eVnwa,ADJ,,,,,	o
+அரசியல்	N_NN	I-NP	araciyal,N,,,,,	o
+கட்சியும்	N_NN	B-NP	katci,N,,,,,	o
+வெளியிடாத	RP_NEG	B-NEGP	veVlYiyitu,V,,,,,neg_rp-NEG	o
+வகையில்	N_NN	B-NP	vakE,N,il-LOC,,,,	o
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	o
+தேர்தல்	N_NN	I-NP	werwal,N,,,,,	o
+அறிக்கை	N_NN	I-NP	arYikkE,N,,,,,	o
+தயாரிக்கப்பட்டுள்ளது	V_VM_VF	B-VGF	wayArikkappatu,V,PRESENT,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஆர்.கே.நகர்	N_NNP	B-NP	Ar.ke.nakar,N,,,,,	o
+தேர்தல்	N_NN	I-NP	werwal,N,,,,,	o
+களத்தில்	N_NN	I-NP	kalYam,N,il-LOC,,,,	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+முதல்	QT_QTO	I-NP	muwal,ADJ,,,,,	o
+எதிரியே	N_NN	I-NP	eVwiri,N,,,,,	o
+தி.மு.க.தான்.	N_NNP	B-NP	wi.mu.ka.,N,wAnY-PSP,,,,	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+பிரசாரம்	N_NN	I-NP	piracAram,N,,,,,	o
+அவர்களுக்கு	PR_PRP	B-NP	avar,PN,ukku-DAT,pl,,mf,	o
+எதிராகத்தான்	N_NN	B-NP	eVwir,N,Aka-ADV,,,,	o
+அமையும்	N_NN	I-NP	amE,V,FUTURE,sg,3,n,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஆர்.கே.நகரில்	N_NNP	B-NP	Ar.ke.nakar,N,il-LOC,,,,	{MCL}
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+மாலை	N_NN	I-NP	mAlE,N,,,,,	o
+ஓ.பன்னீர்செல்வம்	N_NN	I-NP	o.panYnYIrceVlvam,N,,,,m,	o
+பிரசாரம்	N_NN	B-NP	piracAram,N,,,,,	o
+செய்கிறார்	V_VM_VF	B-VGF	ceVy,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{MCL}
+மு.க.ஸ்டாலின்	N_NNP	B-NP	mu.ka.stAlinY,N,,,,m,	o
+குற்றச்சாட்டுக்கு	N_NN	I-NP	kurYrYaccAttu,N,kku-DAT,pl,,,	o
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+பதில்	N_NN	B-NP	pawil,N,,,,,	o
+அளிப்பார்	V_VM_VF	B-VGF	alYi,V,FUTURE,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சசிகலாவும்	N_NNP	B-NP	cacikalA,N,,,,f,	{MCL}
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+தி.மு.க.வும்	N_NNP	B-NP	wi.mu.ka.,N,,,,,	o
+குடும்ப	N_NN	B-NP	kutumpam,N,a-ADJ,,,,	o
+அரசியல்	N_NN	I-NP	araciyal,N,,,,,	o
+செய்கிறார்கள்	V_VM_VF	B-VGF	ceVy,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+குடும்ப	N_NN	B-NP	kutumpam,N,a-ADJ,,,,	o
+ஆட்சி	N_NN	I-NP	Atci,N,,,,,	o
+மீண்டும்	RB	B-RBP	mINtum,ADV,,,,,	o
+வரக்கூடாது	RP_NEG	B-NEGP	vA,V,,,,,NEG	o
+என்பதுதான்	CC_CCS	B-CCP	eVnY,V,FUTURE,sg,3,n,PSP	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+அணியின்	N_NN	I-NP	aNi,N,inY-GEN,,,,	o
+குறிக்கோள்	N_NN	I-NP	kurYikkolY,N,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஆர்.கே.நகர்	N_NNP	B-NP	Ar.ke.nakar,N,,,,,	{MCL}
+தொகுதியில்	N_NN	I-NP	woVkuwi,N,il-LOC,,,,	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+அணியின்	N_NN	I-NP	aNi,N,inY-GEN,,,,	o
+கை	N_NN	B-NP	kE,N,,,,,	o
+ஓங்கி	V_VM_VNF_VBN	B-VGF	ofku,V,,,,,VBP	o
+வருகிறது	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அதனால்தான்	CC_CCS	B-CCP	awanYAl,CONJ,wAnY-PSP,,,,	{MCL}
+மு.க.ஸ்டாலின்	N_NNP	B-NP	mu.ka.stAlinY,N,,,,m,	o
+எங்கள்	PR_PRP	B-NP	eVfkalY,PN,,,,,	o
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+பாய்கிறார்	V_VM_VF	B-VGF	pAy,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+முரண்பாடுகளின்	N_NN	B-NP	muraNpAtu,N,inY-GEN,pl,,,	{MCL}
+முழு	N_NN	I-NP	mulYYu,ADJ,,,,,	o
+உருவமாக	RB	B-RBP	uruvam,N,Aka-ADV,,,,	o
+தி.மு.க.	N_NNP	B-NP	wi.mu.ka,N,,,,,	o
+விளங்குகிறது	V_VM_VF	B-VGF	vilYafku,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+முதல்வர்	N_NN	B-NP	muwalvar,N,,,,,	{RP}
+ஜெயலலிதா	N_NNP	B-NP	jeVyalaliwA,N,,,,f,	o
+மறைந்த	V_VM_VNF_RP	B-VGNF	marYE,V,PAST,,,,RP	o
+போது	PSP	B-BLK	powu,PSP,,,,,	{/RP}
+பா.ஜ.க.	N_NNP	B-NP	pA.ja.ka,N,,,,,	{CON}
+நிர்ப்பந்தத்தால்	V_VM_VNF_COND	B-VGNF	nirppanwam,N,Al-INS,,,,	{/CON}
+தான்	PSP	B-BLK	wAnY,PSP,,,,,	{/RP}
+ஓ.பன்னீர்செல்வம்	N_NN	B-NP	o.panYnYIrceVlvam,N,,,,m,	{COM}
+முதல்வர்	N_NN	I-NP	muwalvar,N,,,,,	o
+பொறுப்பை	N_NN	B-NP	poVrYuppu,N,E-ACC,,,,	o
+ஏற்றுக்	V_VM_VNF_VBN	B-VGF	el,V,,,,,VBP	o
+கொண்டார்	V_VM_VF	I-VGF	koVlY,V,PAST,sg,3,c,	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கூறுவது	V_VM_VNF_VBN	B-VGNF	kUrYu,V,FUTURE,sg,3,n,	{/NF}
+உண்மை	N_NN	B-NP	uNmE,N,,,,,	{MCL}
+இல்லை	RP_NEG	B-VGF	illE,V,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{CON}
+ஓ.பி.எஸ்.சை	N_NN	B-NP	o.pi.eVs.cE,unk,,,,,,	o
+விட்டால்	V_VM_VNF_COND	B-VGNF	vitu,V,PAST,,,,COND	{/CON}
+வேறு	N_NN	B-NP	verYu,ADJ,,,,,	{MCL}
+யாரும்	DM_DMQ	B-BLK	yAr,PN,,,,,	o
+ஆள்	N_NN	B-NP	AlY,N,,,,m,	o
+கிடையாது	RP_NEG	B-VGF	kitE,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஓஇவ்வாறு	RB	B-RBP	oivvArYu,unk,,,,,,	{MCL}
+அவர்	PR_PRP	B-NP	avar,PN,,,,mf,	o
+கூறினார்	V_VM_VF	B-VGF	kUrYu,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஓ.பி.எஸ்.	N_NNP	B-NP	o.pi.eVs.,unk,,,,,,	{MCL}
+அணியில்	N_NN	I-NP	aNi,N,il-LOC,,,,	o
+எம்.ஜி.ஆர்.	N_NNP	B-NP	eVm.ji.Ar.,N,,,,m,	o
+வளர்ப்பு	N_NN	I-NP	valYarppu,N,,,,,	o
+மகன்	N_NN	I-NP	makanY,N,,,,m,	o
+தீபன்	N_NN	I-NP	wIpanY,N,,,,,	o
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+இணைந்தார்	V_VM_VF	B-VGF	iNE,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+

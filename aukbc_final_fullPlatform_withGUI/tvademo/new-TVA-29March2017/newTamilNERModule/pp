@@ -1,0 +1,65 @@
+kujarAwwil	N_NNP	B-NP	kuja	kuj	wwil	wil	0	B-PLACE
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam	Yam	0	O
+:	RD_PUNC	I-NP	0	0	0	0	0	O
+25	QT_QTC	B-NP	0	0	0	0	0	B-COUNT
+Ayiram	QT_QTC	I-NP	Ayir	Ayi	iram	ram	0	I-COUNT
+per	N_NN	I-NP	0	0	0	0	0	O
+pAwukAppAnYa	JJ	B-NP	pAwu	pAw	AnYa	nYa	0	O
+itafkalYukku	N_NN	I-NP	itaf	ita	ukku	kku	0	O
+mArYrYam	N_NN	B-NP	mArY	mAr	rYam	Yam	0	O
+
+kujarAwwil	N_NNP	B-NP	kuja	kuj	wwil	wil	0	O
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam	Yam	0	O
+25	QT_QTC	B-NP	0	0	0	0	0	B-COUNT
+Ayiram	QT_QTC	I-NP	Ayir	Ayi	iram	ram	0	I-COUNT
+per	N_NN	I-NP	0	0	0	0	0	O
+pAwukAppAnYa	JJ	B-NP	pAwu	pAw	AnYa	nYa	0	O
+itafkalYukku	N_NN	I-NP	itaf	ita	ukku	kku	0	O
+mArYrYam	N_NN	B-NP	mArY	mAr	rYam	Yam	0	O
+,	RD_PUNC	I-NP	0	0	0	0	0	O
+rAjaswAnYil	N_NNP	B-NP	rAja	rAj	nYil	Yil	0	O
+iruvar	N_NN	B-NP	iruv	iru	uvar	var	0	O
+uyirilYYappu	N_NN	I-NP	uyir	uyi	appu	ppu	0	O
+
+jUlE	N_NNP	B-NP	0	jUl	0	UlE	0	B-POLITICAL
+25	QT_QTC	B-NP	0	0	0	0	0	I-PHONENO
+,	RD_PUNC	I-NP	0	0	0	0	0	I-PHONENO
+2017	QT_QTC	B-NP	0	201	0	017	0	I-PHONENO
+,	RD_PUNC	I-NP	0	0	0	0	0	I-PHONENO
+09:34	QT_QTC	B-NP	09:3	09:	9:34	:34	0	I-PHONENO
+AM	QT_QTC	I-NP	0	0	0	0	0	I-PHONENO
+
+panYAskAnwA	PSP	B-BLK	panY	pan	AnwA	nwA	0	O
+mAvattawwil	N_NN	B-NP	mAva	mAv	wwil	wil	0	O
+mattum	V_VM_VNF_RP	B-VGNF	matt	mat	ttum	tum	0	O
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam	Yam	0	O
+pAwikkappatta	N_NN	I-NP	pAwi	pAw	atta	tta	0	O
+itafkalYil	RB	B-RBP	itaf	ita	lYil	Yil	0	O
+irunwu	QT_QTC	B-NP	irun	iru	unwu	nwu	0	B-COUNT
+cumAr	QT_QTC	I-NP	cumA	cum	umAr	mAr	0	I-COUNT
+11	N_NN	I-NP	0	0	0	0	0	O
+Ayiram	RB	B-RBP	Ayir	Ayi	iram	ram	0	O
+per	N_NN	B-NP	0	0	0	0	0	O
+pawwiramAka	JJ	B-NP	paww	paw	mAka	Aka	0	O
+mItkappattu	N_NN	I-NP	mItk	mIt	attu	ttu	0	O
+warYkAlika	N_NNP	B-NP	warY	war	lika	ika	0	B-INDIVIDUAL
+mukAmkalYil	V_VM_VNF_VBN	B-VGF	mukA	muk	lYil	Yil	0	O
+wafka	V_VM_VF	I-VGF	wafk	waf	afka	fka	0	O
+vEkkappattu	RD_PUNC	I-VGF	vEkk	vEk	attu	ttu	0	O
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar	Yar	0	O
+
+AnYAl	N_NN	B-NP	AnYA	AnY	nYAl	YAl	0	O
+afku	PSP	B-BLK	0	afk	0	fku	0	O
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam	Yam	0	O
+ponYrYa	RP_NEG	B-VGF	ponY	pon	YrYa	rYa	0	O
+nilE	CC_CCS	B-CCP	0	nil	0	ilE	0	O
+illE	N_NN	B-NP	0	ill	0	llE	0	O
+eVnYa	PSP	B-BLK	eVnY	eVn	VnYa	nYa	0	O
+mAnila	RD_SYM	B-NP	mAni	mAn	nila	ila	0	O
+muwal	N_NN	I-NP	muwa	muw	uwal	wal	0	O
+-	N_NNP	B-NP	0	0	0	0	0	O
+manwiri	N_NNP	I-NP	manw	man	wiri	iri	0	O
+mamwA	V_VM_VF	B-VGF	mamw	mam	amwA	mwA	0	O
+pAnYarji	RD_PUNC	I-VGF	pAnY	pAn	arji	rji	0	O
+kUrYiulYlYAr	&dot;,punc	I-VGF	kUrY	kUr	lYAr	YAr	0	O
+

@@ -1,0 +1,59 @@
+Title:
+------
+AUKBC Tamil Clause Tagger 1.0
+
+Description: 
+------------
+
+AUKBC Tamil Clause Tagger v1.0: This takes a text file in UTF-8 with Part-of-Speech(POS) tag, Chunk tags and morph tags as input and assigns the clause boundary for each sentence. 
+This is developed using Hybrid approach, where both Machine Learning and Linguistic rules are used. We have used Conditional Random Fields (CRFs)(Taku Kudo's'[1] CRFs implementation) for the Machine Learning(ML). 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) CRF++ Tool :
+we assume that CRF Tool kit is already installed in your system. If CRF Tool Kit is not installed in your system then you please download and install it. It can be obtained from 
+   https://taku910.github.io/crfpp/
+
+The version of CRF++ should be 0.42 or higher (you can download the latest version available for download). Please refer to CRF++ installation instructions as given the CRF++ web page.
+
+
+
+Directory Structure:
+--------------------
+
+ClauseIdentifierModule
+     |
+     |---License.txt
+     |---README (How to run/use. The file that you are reading now.)
+     |---TamilClauseEngine_v1.sh (to run the clause Tagger module)
+     |---sample_clause_inp.txt (reference input file)
+     |---sample_clause_out.txt (reference output file)
+     
+
+Installation:
+-------------
+There is no special installation required for this Clause Tagger. Copy paste this folder in any place in your system and start using it.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_clause_inp.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word, the second column is the POS tag, third clumn is the Chunk or phrase Tag, fourth column is the morph information and fifth column is clause information. 
+
+sh TamilClauseEngine_v1.sh sample_clause_inp.txt
+
+
+References:
+-----------
+
+[1] Taku Kudo - https://taku910.github.io/crfpp/  (or) https://sourceforge.net/projects/crfpp/
+
+
+#################################
+Credits: Sobha Lalitha Devi and Vijay Sundar Ram
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

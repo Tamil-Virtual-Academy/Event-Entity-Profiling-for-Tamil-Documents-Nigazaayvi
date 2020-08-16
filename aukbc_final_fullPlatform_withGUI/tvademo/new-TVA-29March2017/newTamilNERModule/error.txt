@@ -1,0 +1,81 @@
+rU.     N_NN    B-NP    0       0       0       0       0       o       #B-MONEY        rU,N,,,,,
+570     QT_QTC  I-NP    0       0       0       0       0       o       #I-MONEY        570,num,,,,,,
+kotiyutanY      QT_QTC  I-NP    0       koti    kot     tanY    anY     o       #I-MONEY        koti,N,utanY-SOC,,,,
+3       QT_QTC  I-NP    0       0       0       0       0       o       I-MONEY 3,num,,,,,,
+kaNteVynYar     N_NN    I-NP    0       kaNt    kaN     nYar    Yar     o       B-LOCOMOTIVE    kaNteVynYar,N,,,,,
+lArikalYum      N_NN    I-NP    0       lAri    lAr     lYum    Yum     o       I-LOCOMOTIVE    lAri,N,,pl,,,
+
+rEcif   B-INDIVIDUAL                                      |  rEcif   B-INDIVIDUAL                                     
+  punYe   I-INDIVIDUAL                                      |  punYe   B-LOCATION                                       
+  cUppar  I-INDIVIDUAL                                      |  cUppar  I-INDIVIDUAL                                     
+  jeVyanYts       I-INDIVIDUAL                              |  jeVyanYts       I-INDIVIDUAL                             
+  ,       o                                                 |  ,       o                                                
+  kifs    B-INDIVIDUAL                                      |  kifs    B-ASSOCIATION                                    
+  leVvanY I-INDIVIDUAL                                      |  leVvanY I-ASSOCIATION                                    
+  paFcAp  I-INDIVIDUAL                                      |  paFcAp  B-STATE                                          
+  Akiya   o                                                 |  Akiya   o                      
+
+awe     o                                                 |  awe     o                                                
+  camayam o                                                 |  camayam o                                                
+  kujarAw B-STATE                                           |  kujarAw #B-ASSOCIATION                                   
+  aNikku  B-GROUP                                           |  aNikku  I-ASSOCIATION                                    
+  iwu     o                                                 |  iwu     o                                                
+  2-vawu  o                                                 |  2-vawu  #B-DISTANCE                                      
+  atiyAkum        o                                         |  atiyAkum        #I-DISTANCE
+
+3-0-29  B-COUNT                                           |  3-0-29  B-COUNT                                          
+  -0      I-COUNT                                           |  -0      I-COUNT                                          
+  heVnYriks       B-GROUP                                   |  heVnYriks       B-INDIVIDUAL                             
+  1-0-12  o                                                 |  1-0-12  ##B-DATE                                         
+  -0      o                                                 |  -0      o                                                
+  EwarApAw        B-ASSOCIATION                             |  EwarApAw        B-ASSOCIATION                            
+  canYrEcars      I-ASSOCIATION                             |  canYrEcars      I-ASSOCIATION      
+
+.       o                                                 |  .       o                                                
+  mumpE   B-ASSOCIATION                                     |  mumpE   #B-ASSOCIATION                                   
+  aNiyil  I-ASSOCIATION                                     |  aNiyil  I-ASSOCIATION                                    
+  iru     B-COUNT                                           |  iru     B-COUNT                                          
+  mArYrYamAka     o                                         |  mArYrYamAka     o                                        
+  tim     o                                                 |  tim     o                                                
+  cavuwi  o                                                 |  cavuwi  B-NATION                                         
+  ,       o                                                 |  ,       o                       
+
+pANte   B-INDIVIDUAL                                      |  pANte   B-INDIVIDUAL                                     
+  awirati o                                                 |  awirati o                                                
+  neVrukkatiyil   o                                         |  neVrukkatiyil   o                                        
+  cikkiya o                                                 |  cikkiya o                                                
+  koVlkawwA       B-CITY                                    |  koVlkawwA       #B-ASSOCIATION                           
+  aNikku  B-GROUP                                           |  aNikku  I-ASSOCIATION                                    
+  manYiR  B-INDIVIDUAL                                      |  manYiR  B-INDIVIDUAL                                     
+  pANte   I-INDIVIDUAL                                      |  pANte   I-INDIVIDUAL                                     
+  ApawpAnwavanYAka        o                                 |  ApawpAnwavanYAka        o                                
+  kEkoVtuwwAr     o                                         |  kEkoVtuwwAr     o                                        
+  .       o                                                 |  .       o                                  
+
+araciyal        o                                         |  araciyal        o                                        
+  katciyinYar     o                                         |  katciyinYar     o                                        
+  oVru    o                                                 |  oVru    B-COUNT                                          
+  ottukku o                                                 |  ottukku o                                                
+  rU.4    B-COUNT                                           |  rU.4    #B-MONEY                                         
+  Ayiram  I-COUNT                                           |  Ayiram  #I-MONEY                                         
+  vIwamum o                                                 |  vIwamum o                                                
+  ,       o                                                 |  ,       o                                                
+  kAmAtci o                                                 |  kAmAtci B-INDIVIDUAL                                     
+  vilYakku        o                                         |  vilYakku        o                          
+
+mutiyAwu        o                                         |  mutiyAwu        o
+  rU.5,400        B-COUNT                                   |  rU.5,400        #B-MONEY                                 
+  koti    I-COUNT                                           |  koti    #I-MONEY                                         
+  karuppup        o                                         |  karuppup        o
+  paNam   o                                                 |  paNam   o
+
+
+awimuka N_NNP   B-NP    1       awim    awi     muka    uka     o       B-POLITICAL
+ammA    N_NN    I-NP    0       0       amm     0       mmA     o       B-INDIVIDUAL
+katci   N_NN    I-NP    0       katc    kat     atci    tci     o       I-TITLE
+wuNE    N_NN    I-NP    0       0       wuN     0       uNE     o       I-TITLE
+poVwuc  N_NN    I-NP    0       poVw    poV     Vwuc    wuc     o       I-TITLE
+ceVyalAlYar     N_NN    I-NP    0       ceVy    ceV     lYar    Yar     o       B-TITLE
+titivi  N_NNP   B-NP    1       titi    tit     tivi    ivi     o       B-INDIVIDUAL
+winYakaranY     N_NNP   I-NP    1       winY    win     ranY    anY     o       I-INDIVIDUAL
+

@@ -1,0 +1,19 @@
+avar	3	sg	mf
+avanY	3	sg	m
+avalY	3	sg	f
+awE	3	sg	n
+awanY	3	sg	n
+awarYku	3	sg	n
+awil	3	sg	n
+awotu	3	sg	n
+awu	3	sg	n
+eVnY	1	sg	mf	possesive
+eVnYakku	1	sg	mf	possesive
+eVnYawu	1	sg	mf	possesive
+unY	2	sg	mf	possesive
+unYawu	2	sg	mf	possesive
+ivar	3	sg	mf
+nAnY	1	sg	mf
+nIrum	2	sg	mf
+wamawu	2	sg	mf
+wanY	3	sg	mf	possesive

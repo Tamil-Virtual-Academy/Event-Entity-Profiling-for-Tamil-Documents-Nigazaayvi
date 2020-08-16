@@ -1,0 +1,3 @@
+avar	-	nposs	nom	-	no	yes	no	no	no	nom	0	0	0	0	0	0	0	subcl	Ante
+avar	-	nposs	nom	avar	no	no	no	yes	no	nom	0	0	0	0	0	0	0	subcl	no
+avar	-	nposs	nom	-	no	no	no	no	yes	0	0	0	other	0	0	0	0	subcl	no

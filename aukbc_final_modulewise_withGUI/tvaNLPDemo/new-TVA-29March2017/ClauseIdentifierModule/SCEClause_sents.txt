@@ -1,0 +1,14 @@
+kupwarkalYinY	N_NNP	B-NP	kupwar,N,inY-GEN,pl
+Atciyil	N_NN	I-NP	Atci,N,il-LOC
+erYpattirunwa	V_VM_VNF_RP	B-VGNF	erYpattiru,V,PAST,,,,RP
+amEwiyum	N_NN	B-NP	amEwi,N
+,	RD_PUNC	I-NP	&comma;,punc
+valYamum	N_NN	B-NP	valYam,N,,pl
+arYiviyal	N_NN	I-NP	arYiviyal,N
+marYrYum	CC_CCD	B-CCP	marYrYum,CONJ
+kalEw	N_NN	B-NP	kalE,N
+wurYEkalYil	N_NN	I-NP	wurYE,N,il-LOC,pl
+valYarcci	N_NN	B-NP	valYarcci,N
+erYpatuvawE	V_VM_VNF_RP_PRP	B-VGF	erYpatu,V,FUTURE,,,,RP-PRP
+.	RD_PUNC	I-VGF	&dot;,punc
+

@@ -1,0 +1,37 @@
+93    0    0  virAt                     N_NNP         B-NP    virAt,N,,,,m,                             B-LOCATION      {MCL}  o     o     o       FALSE
+93    0    1  koli                      N_NNP         I-NP    koli,N,,,,m,                              o               o      o     o     o       FALSE
+93    0    2  ,                         RD_PUNC       I-NP    ,unk,,,,,,                               o               o      o     o     o       FALSE
+93    0    3  ti                        N_NNP         B-NP    ti,N,,,,,                                o               o      o     o     o       FALSE
+93    0    4  villiyars                 N_NNP         I-NP    villiyars,N,,,,,                         o               o      o     o     o       FALSE
+93    0    5  cawam                     N_NN          B-NP    cawam,N,,,,,                             o               o      o     o     o       FALSE
+93    0    6  vilYAcal                  N_NN          I-NP    vilYAcal,N,,,,,                          o               o      o     o     o       FALSE
+93    0    7  :                         RD_PUNC       I-NP    ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+93    1    0  peVfkalYUru               N_NNP         B-NP    peVfkalYUru,N,,,,,                       B-LOCATION      {MCL}  o     B-3.7 B-0     FALSE
+93    1    1  aNi                       N_NN          I-NP    aNi,N,,,,,                               o               o      o     I-3.7 I-0     FALSE
+93    1    2  apAra                     N_NN          B-NP    apAra,ADJ,,,,,                           o               o      o     o     o       FALSE
+93    1    3  veVrYrYi                  N_NN          I-NP    veVrYrYi,N,,,,,                          o               o      o     o     o       FALSE
+93    1    4  -                         RD_SYM        I-NP    ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+
+93    2    0  wi                        N_NNP         B-NP    wi,N,,,,,                                o               o      o     o     o       FALSE
+93    2    1  inwu                      N_NNP         I-NP    inwu,N,,,,,                              o               o      o     o     o       FALSE
+93    2    2  .                         RD_PUNC       I-NP    ,unk,,,,,,                               o               o      o     o     o       FALSE
+
+93    3    0  EpiyeVl                   N_NNP         B-NP    EpiyeVl,N,,,,,                           o               {MCL}  o     o     o       FALSE
+93    3    1  woVtaril                  N_NN          I-NP    woVtar,N,il-LOC,,,,                      o               o      o     o     o       FALSE
+93    3    2  kujarAw                   N_NNP         B-NP    kujarAw,N,,,,,                           B-LOCATION      o      o     o     o       FALSE
+93    3    3  layanYs                   N_NNP         I-NP    layanYs,N,,,,,                           o               o      o     o     o       FALSE
+93    3    4  aNikku                    N_NN          I-NP    aNi,N,kku-DAT,,,,                        o               o      o     o     o       FALSE
+93    3    5  eVwirAnYa                 JJ            B-NP    eVwir,N,AnYa-ADJ,,,,                     o               o      o     o     o       FALSE
+93    3    6  Attawwil                  N_NN          I-NP    Attam,N,il-LOC,,,,                       o               o      o     o     o       FALSE
+93    3    7  rAyal                     N_NNP         B-NP    rAyal,N,,,,,                             o               o      o     B-3.7 B-0     FALSE
+93    3    8  cAlaFcars                 N_NNP         I-NP    cAlaFcars,N,,,,,                         o               o      o     I-3.7 I-0     FALSE
+93    3    9  peVfkalYUru               N_NNP         I-NP    peVfkalYUru,N,,,,,                       B-LOCATION      o      o     I-3.7 I-0     FALSE
+93    3   10  aNi                       N_NN          I-NP    aNi,N,,,,,                               o               o      o     I-3.7 I-0     FALSE
+93    3   11  144                       QT_QTC        B-NP    144,num,,,,,,,unk,,,,,                   B-count         o      o     o     o       FALSE
+93    3   12  ranYkalY                  N_NN          I-NP    ranY,N,,pl,,,                            o               o      o     o     o       FALSE
+93    3   13  viwwiyAcawwil             N_NN          I-NP    viwwiyAcam,N,il-LOC,,,,                  o               o      o     o     o       FALSE
+93    3   14  veVrYrYi                  N_NN          B-NP    veVrYrYi,N,,,,,                          o               o      o     o     o       FALSE
+93    3   15  peVrYrYawu                V_VM_VF       B-VGF   peVrYu,V,PAST,sg,3,n,RP-PRP              o               o      o     o     o       FALSE
+93    3   16  .                         RD_PUNC       I-VGF   ,unk,,,,,,                               o               {/MCL} o     o     o       FALSE
+

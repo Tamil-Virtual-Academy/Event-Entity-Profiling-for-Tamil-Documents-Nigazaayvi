@@ -1,0 +1,73 @@
+Title:
+------
+AUKBC Tamil POS Tagger 1.0
+
+Description: 
+------------
+
+AUKBC Tamil POS Tagger v1.0: This takes a text file in UTF-8 as input and assigns the part of speech tag (e.g. noun, verb, adjective etc.) to each word in the sentence. 
+This uses a Machine Learning based approach. We have used Conditional Random Fields (CRFs)(Taku Kudo's'[1] CRFs implementation), to develop the tagging engine. 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) CRF++ Tool :
+we assume that CRF Tool kit is already installed in your system. If CRF Tool Kit is not installed in your system then you please download and install it. It can be obtained from 
+   https://taku910.github.io/crfpp/
+
+The version of CRF++ should be 0.42 or higher (you can download the latest version available for download). Please refer to CRF++ installation instructions as given the CRF++ web page.
+
+
+
+Directory Structure:
+--------------------
+
+POSModule
+     |
+     |---License.txt
+     |---README (How to run/use. The file that you are reading now.)
+     |---TamilPOSEngine_v1.sh (to run the postagger module)
+     |---feature_vector_creation.pl (does the pre-processing of text file)
+     |---model_aukbctam_pos_v1 (Machine Learnt model)
+     |---sample_postagger_inp.txt (reference input file)
+     |---sample_postagger_out.txt (reference output file)
+     
+
+Installation:
+-------------
+There is no special installation required for this POS tagger engine. Copy paste this folder in any place in your system and start using it.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'tests/postagger_inp.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word and the second column is the POS tag.
+
+sh TamilPOSEngine_v1.sh sample_postagger_inp.txt
+
+More Details:
+-------------
+
+This POS tagger engine uses BIS Tagset[2] for Tamil. This tagset is standardised by the Government of India and Government of Tamil Nadu. 
+The engine is trained using a 450K word corpus of a Tamil text which includes different genres such as political, disaster, sports, novel titled "Ponniyan Selvan" written by "Kalki Krishnamurthy".
+i)Possible Errors the tagger gives
+---------------------------------
+The most common type of errors are :
+1.Proper Noun(N_NNP) being tagged as Common Noun(N_NN) and vice versa.
+2.Relative Participle (RP) being tagged as Adjective.
+3.Verbal Nouns as Nouns
+
+References:
+-----------
+
+[1] Taku Kudo - https://taku910.github.io/crfpp/  (or) https://sourceforge.net/projects/crfpp/
+[2] BIS POS Standardization - http://www.tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf
+
+
+#################################
+Credits: Sobha Lalitha Devi, Pattabhi RK Rao and Vijay Sundar Ram
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

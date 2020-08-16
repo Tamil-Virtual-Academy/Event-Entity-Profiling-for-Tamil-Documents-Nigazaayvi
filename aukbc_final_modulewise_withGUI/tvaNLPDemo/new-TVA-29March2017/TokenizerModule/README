@@ -1,0 +1,55 @@
+Title:
+------
+AUKBC Tokenizer  1.0
+
+Description: 
+------------
+
+AUKBC Tokenizer v1.0: This takes a text file in UTF-8 as input. The sentences and tokens are indentifed and split. 
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system (preffered Ubuntu 14.04 LTS)
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) The input file is in UTF-8 encoding. 
+   The input file format should be as shown in sample_input.txt
+
+
+Directory Structure:
+--------------------
+
+Tokenizer
+     |
+     |---License.txt
+     |---README (How to run/use. The file that you are reading now.)
+     |---tokenizer-splitter-v1.pl (core tokenizer engine)
+     |---notbesplittedwords.txt (resource file)
+     |---sample_input.txt (reference input file)
+     |---sample_output.txt (reference output file)
+     
+
+Installation:
+-------------
+There is no special installation required for this. Copy paste the folder in any place in your system and start using.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_input.txt'. The encoding of the file should be in utf-8. 
+
+	$ perl tokenizer-splitter-v1.pl < sample_input.txt > sample_output.txt
+
+The output will be written in the standard ouput ('>')
+
+Limitation:
+-----------
+This will not handle the section and sub-section headings which are not delimited by a dot (.). 
+
+
+#################################
+Credits: Sobha Lalitha Devi, Vijay Sundar Ram 
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

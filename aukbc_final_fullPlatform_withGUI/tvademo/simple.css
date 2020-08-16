@@ -1,0 +1,12 @@
+#wrapper {
+    white-space: nowrap;
+    /* Optional overflow-x:hidden */
+}
+#wrapper div {
+    display: inline-block;
+    border-radius: 15px;
+    height: 350px;
+    width: 250px;
+    background: #F2F2F2;
+    word-wrap: break-word;
+}

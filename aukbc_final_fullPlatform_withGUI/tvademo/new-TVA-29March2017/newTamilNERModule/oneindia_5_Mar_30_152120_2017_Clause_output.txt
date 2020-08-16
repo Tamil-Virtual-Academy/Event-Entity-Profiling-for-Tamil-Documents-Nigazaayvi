@@ -1,0 +1,168 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+டமில்	N_NN	B-NP	tamil,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஓநேஇந்dஇஅ	N_NN	B-NP	oneindia,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+நேத்ஸ்	N_NN	B-NP	news,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+இந்டேர்நடிஓநல்	N_NN	B-NP	international,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ட்தோ-gஇர்ல்ஸ்-dஇஏd-த்ஹிலே-டகிந்g-ஸேல்ஙிஏ	RD_RDF	I-NP	two-girls-died-while-taking-selfie,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ருந்தய்-278336	N_NNP	B-NP	runway-278336,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+ஹ்ட்ம்ல்	N_NN	B-NP	html,N,,,,,	{NF}
+மெக்சிகோவில்	N_NN	I-NP	meVkciko,N,il-LOC,,,,	o
+விமானம்	N_NN	B-NP	vimAnYam,N,,,,,	o
+மோதி	V_VM_VNF_VBN	B-VGNF	mowu,V,,,,,VBP	{/NF}
+இரு	QT_QTC	B-NP	iru,ADJ,,,,,	{MCL}
+பெண்கள்	N_NN	I-NP	peVNkalY,N,,pl,,,	o
+சாவு	V_VM_VF	B-VGF	cAvu,N,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+எப்படி	DM_DMQ	B-BLK	pati,N,,,,,	{RP}
+நடந்தது	V_VM_VNF_RP_PRP	B-VGNF	nata,V,PAST,sg,3,n,RP-PRP	{/RP}
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,	{MCL}
+கொடுமை	N_NN	I-NP	koVtumE,N,,,,,	o
+தெரியுமா	DM_DMQ	B-BLK	weVri,V,FUTURE,,,,RP	o
+?	RD_PUNC	I-BLK	?,punc,,,,,,	{/MCL}
+
+மெக்சிக்கோவில்	N_NN	B-NP	meVkcikko,N,il-LOC,,,,	{CON}
+விமான	N_NN	B-NP	vimAnYam,N,a-ADJ,,,,	o
+ஓடுபாதையில்	N_NN	I-NP	otupAwE,N,il-LOC,,,,	o
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	o
+எடுத்த	V_VM_VNF_INF	B-VGNF	eVtu,V,PAST,,,,RP	o
+இரண்டு	QT_QTC	B-NP	iraNtu,N,,,,,	o
+பெண்கள்	N_NN	I-NP	peVNkalY,N,,pl,,,	o
+மீது	PSP	B-BLK	mIwu,PSP,,,,,	o
+விமானம்	N_NN	B-NP	vimAnYam,N,,,,,	o
+மோதியதால்	V_VM_VNF_COND	B-VGNF	mowu,V,PAST,,,,COND	{/CON}
+இருவரும்	N_NN	B-NP	iruvar,N,,,,,	{MCL}
+உயிரிழந்தனர்	V_VM_VF	B-VGF	uyirilYYa,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதனால்	CC_CCS	B-CCP	iwanYAl,CONJ,,,,,	{MCL}
+பரபரப்பு	N_NN	B-NP	paraparappu,N,,,,,	o
+ஏற்பட்டது	V_VM_VF	B-VGF	erYpatu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மெக்சிக்கோ	N_NN	B-NP	meVkcikko,N,,,,,	{CON}
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+மெக்சிக்கோவில்	N_NN	B-NP	meVkcikko,N,il-LOC,,,,	o
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	o
+மோகத்தால்	N_NN	I-NP	mokam,N,Al-INS,,,,	o
+விமான	N_NN	B-NP	vimAnYam,N,a-ADJ,,,,	o
+ஓடுதளத்தில்	N_NN	I-NP	otuwalYam,N,il-LOC,,,,	o
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	o
+எடுத்த	V_VM_VNF_INF	B-VGNF	eVtu,V,PAST,,,,RP	o
+இரண்டு	QT_QTC	B-NP	iraNtu,N,,,,,	o
+பெண்கள்	N_NN	I-NP	peVNkalY,N,,pl,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+விமானம்	N_NN	B-NP	vimAnYam,N,,,,,	o
+மோதியதால்	V_VM_VNF_COND	B-VGF	mowu,V,PAST,,,,COND	{/CON}
+உயிரிழந்துவிட்டனர்	V_VM_VF	I-VGF	uyirilYYa,V,PAST,pl,3,c,	{MCL}
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+மெக்சிகோவின்	N_NNP	B-NP	meVkciko,N,inY-GEN,,,,	{RP}
+ஷிவாவா	N_NNP	I-NP	RivAv,N,,,,,	o
+மாநிலத்தைச்	N_NN	B-NP	mAnilam,N,E-ACC,,,,	o
+சேர்ந்தவர்கள்	V_VM_VNF_RP_PRP	B-VGNF	cer,V,PAST,,,,RP-PRP	{/RP}
+நிட்ஷியா	N_NNP	B-NP	nitRiyA,unk,,,,,,	{MCL}
+மெண்டோசா	N_NNP	I-NP	meVNtocA,unk,,,,,,	o
+கோரல்	N_NNP	I-NP	koral,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+18	QT_QTC	I-NP	18,num,,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	o
+மற்றும்	CC_CCD	B-CCP	marYrYum,CONJ,,,,,	o
+கிளாரிசா	N_NNP	B-NP	kilYAricA,unk,,,,,,	o
+மார்குசோ	N_NNP	I-NP	mArkuco,unk,,,,,,	o
+மிராண்டா	N_NNP	I-NP	mirANtA,N,,,,,	o
+(	RD_SYM	B-NP	(,punc,,,,,,	o
+17	QT_QTC	I-NP	17,num,,,,,,	o
+)	RD_SYM	I-NP	),punc,,,,,,	{/MCL}
+
+நிஷியா	N_NN	B-NP	niRi,N,,pl,,,	{MCL}
+சட்டம்	N_NN	I-NP	cattam,N,,,,,	o
+படித்திருந்தார்	V_VM_VF	B-VGF	pati,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அவரது	PR_PRP	B-NP	avar,PN,awu-GEN,,,mf,	{MCL}
+தோழி	N_NN	I-NP	wolYYi,N,,pl,,f,	o
+கிளாரிசா	N_NNP	B-NP	kilYAricA,unk,,,,,,	o
+பள்ளிப்படிப்பை	N_NN	I-NP	palYlYippatippE,unk,,,,,,	o
+முடித்திருந்தார்	V_VM_VF	B-VGF	muti,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்நிலையில்	N_NN	B-NP	innilE,N,il-LOC,,,,	{MCL}
+இவர்கள்	PR_PRP	B-NP	ivar,PN,,pl,,,	o
+இருவரும்	N_NN	B-NP	iruvar,N,,,,,	o
+அங்குள்ள	RB	B-RBP	afkulYlYa,ADJ,,,,,	o
+விமான	N_NN	B-NP	vimAnYam,N,a-ADJ,,,,	o
+நிலையத்தின்	N_NN	I-NP	nilEyam,N,inY-GEN,,,,	o
+ஓடுபாதைக்கு	N_NN	B-NP	otupAwE,N,kku-DAT,,,,	o
+வந்தனர்	V_VM_VF	B-VGF	vA,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{NF}
+அங்கிருந்த	RB	I-RBP	afkiru,V,PAST,,,,RP	o
+விமானத்தின்	N_NN	B-NP	vimAnYam,N,inY-GEN,,,,	o
+பின்புறம்	N_NN	I-NP	pinYpurYam,N,,,,,	o
+நின்று	V_VM_VNF_VBN	B-VGNF	nil,V,,,,,VBP	{/NF}
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	{MCL}
+எடுத்துக்	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+கொண்டிருந்தனர்	V_VM_VF	I-VGF	koVNtiru,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	{RP}
+வாகனத்தை	N_NN	I-NP	vAkanYam,N,E-ACC,pl,,,	o
+உரசுவது	V_VM_VNF_RP_PRP	B-VGNF	uracu,V,FUTURE,,,,RP-PRP	o
+போன்று	PSP	B-BLK	ponYrYu,ADV,,,,,	o
+வந்த	V_VM_VNF_RP	B-VGNF	vA,V,PAST,,,,RP	o
+ஒரு	QT_QTC	B-NP	oVru,ADJ,,,,,	{MCL}
+வாகனத்தின்	N_NN	I-NP	vAkanYam,N,inY-GEN,pl,,,	o
+இறக்கை	N_NN	I-NP	irYakkE,N,,,,,	{/RP}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+பெண்களின்	N_NN	I-NP	peVNkalY,N,inY-GEN,pl,,,	o
+கழுத்தில்	N_NN	B-NP	kalYYuwwu,N,il-LOC,,,,	o
+பலமாக	RB	B-VGF	palam,N,Aka-ADV,,,,	o
+வெட்டியது	V_VM_VF	I-VGF	veVttu,V,PAST,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதில்	PR_PRP	B-NP	iwu,PN,il-LOC,,,,	{MCL}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+இரு	QT_QTC	I-NP	iru,ADJ,,,,,	o
+பெண்களும்	N_NN	I-NP	peVNkalY,N,,pl,,,	o
+சம்பவ	N_NN	B-NP	campavam,N,a-ADJ,,,,	o
+இடத்திலேயே	N_NN	I-NP	itam,N,il-LOC,,,,	o
+உயிரிழந்துவிட்டனர்	V_VM_VF	B-VGF	uyirilYYa,V,PAST,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஷேஅd	N_NNP	B-NP	Read,unk,,,,,,	o
+மோரே	N_NNP	I-NP	mor,N,,,,,	o
+அbஓஉட்	N_NN	I-NP	about,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஸேல்ஙிஏ	N_NNP	B-NP	selfie,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+டேஏநgஏர்ஸ்	N_NNP	B-NP	teenagers,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+ப்லநே	N_NN	B-NP	plane,unk,,,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+செல்பி	N_NN	B-NP	ceVlpi,N,,,,f,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+இளம்பெண்கள்	N_NN	B-NP	ilYampeVN,N,,pl,,f,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+விமானங்கள்	N_NN	B-NP	vimAnYam,N,,pl,,,	o
+ஐந்gலிஸ்ஹ்	N_NN	I-NP	English,unk,,,,,,	o
+ஸும்மர்ய்	N_NN	I-NP	summary,unk,,,,,,	o
+
+

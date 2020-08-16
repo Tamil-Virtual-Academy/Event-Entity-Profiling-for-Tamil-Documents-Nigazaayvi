@@ -1,0 +1,974 @@
+1	0	0	arukil	RB	B-VGNF	aruku,N,il-LOC	{INF}	<ARG1-START>
+1	0	1	vilYEyAtik	V_VM_VNF_VBN	I-VGNF	vilYEyAtu,V,,,,,VBP	o
+1	0	2	koVNtirunwa	V_VM_VNF_RP	I-VGNF	koVNtiru,V,PAST,,,,RP	o
+1	0	3	cirYuvarkalYAl	N_NN	B-NP	cirYuvar,N,Al-INS,pl,,m	o	<ARG1-END>
+1	0	4	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	5	peVrum	JJ	B-NP	peVrum,ADJ	o	<ARG2-START>
+1	0	6	vipawwu	N_NN	I-NP	vipawwu,N	o
+1	0	7	erYpatAmal	RP_NEG	B-NEGP	erYpatu,V,,,,,NEG	o
+1	0	8	watukkappattawotu	V_VM_VNF_VBN	B-VGNF	watukkappattawotu,unk	o
+1	0	9	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	10	vakupparYEyil	N_NN	B-NP	vakupparYE,N,il-LOC	o
+1	0	11	irunwa	V_VM_VNF_RP	B-VGNF	iru,V,PAST,,,,RP	o
+1	0	12	ilavaca	N_NN	B-NP	ilavaca,ADJ	o
+1	0	13	pAtap	V_VM_VNF_INF	B-VGNF	pAtu,V,,,,,INF	{/INF}
+1	0	14	puwwakafkalYum	N_NN	B-NP	puwwakam,N,,pl	{MCL}
+1	0	15	wappinYa	V_VM_VF	B-VGF	wappu,V,,pl,3,n	o	<ARG2-END>
+1	0	16	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	maNikku	N_NN	B-NP	maNi,N,kku-DAT,,,m	{MCL}	<ARG1-START>
+1	0	1	148	QT_QTC	B-NP	148,num	o
+1	0	2	ki.mI.	N_NN	I-NP	ki.mI,N	o
+1	0	3	muwal	PSP	B-BLK	muwal,N	o
+1	0	4	185	QT_QTC	B-NP	185,num	o
+1	0	5	ki.mI.	N_NN	I-NP	ki.mI,N	o
+1	0	6	vekawwil	N_NN	I-NP	vekam,N,il-LOC	o
+1	0	7	palawwa	JJ	B-NP	palawwa,ADJ	o
+1	0	8	kArYrYu	N_NN	I-NP	kArYrYu,N	o
+1	0	9	vIciyawu	V_VM_VF	B-VGF	vIcu,V,PAST,sg,3,n	o
+1	0	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYkAraNamAka	RB	B-RBP	iwanYkAraNamAka,unk	{MCL}	<CON>
+1	1	1	mApinYi	N_NNP	B-NP	mApinYi,unk	o	<ARG2-START>
+1	1	2	nakara	N_NN	I-NP	nakar,V,,,,,INF	o
+1	1	3	katal	N_NN	B-NP	katal,N	o
+1	1	4	pakuwiyil	N_NN	I-NP	pakuwi,N,il-LOC	o
+1	1	5	2	QT_QTC	B-NP	2,num	o
+1	1	6	carakku	N_NN	I-NP	carakku,N	o
+1	1	7	kappalkalY	N_NN	B-NP	kappal,N,,pl	o
+1	1	8	warEwattinYa	V_VM_VF	B-VGF	warEwattu,V,,pl,3,n	o
+1	1	9	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG2-END>
+
+1	0	0	ippakuwiyil	N_NN	B-NP	pakuwi,N,il-LOC	{CON}	<ARG1-START>
+1	0	1	mika	RP_INTF	B-NP	mika,ADJ	o
+1	0	2	neVrukkamAka	RB	B-RBP	neVrukkam,N,Aka-ADV	o
+1	0	3	kattitafkalY	N_NN	B-NP	kattitam,N,,pl	o
+1	0	4	amEnwulYlYawAl	V_VM_VNF_COND	B-VGNF	amE,V,PRESENT,,,,COND	{/CON}	<ARG1-END>
+1	0	5	munYnYeVccarikkE	N_NN	B-NP	munYnYeVccarikkE,N	{MCL}	<ARG2-START>
+1	0	6	natavatikkEyAka	RB	B-RBP	natavatikkE,N,Aka-ADV,pl	o
+1	0	7	minYcAram	N_NN	B-NP	minYcAram,N	o
+1	0	8	wuNtikkappattulYlYawu	V_VM_VF	B-VGF	wuNtikkappatu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	9	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	woVtarnwu	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	{MCL}	<ARG1-START>
+1	0	1	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	2	anwa	DM_DMR	B-NP	anwa,ADJ	o
+1	0	3	pakuwiyE	N_NN	I-NP	pakuwi,N,E-ACC	o
+1	0	4	pAwukAppu	N_NN	B-NP	pAwukAppu,N	o
+1	0	5	patEyinYar	N_NN	I-NP	patEyinYar,N,,pl,,mf	o
+1	0	6	curYrYi	V_VM_VNF_VBN	B-VGNF	curYrYu,V,,,,,VBP	o
+1	0	7	valYEwwu	V_VM_VNF_VBN	I-VGNF	valYE,V,,,,,VBP	o
+1	0	8	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	9	wAkkuwal	N_NN	B-NP	wAkkuwal,N	o
+1	0	10	natawwi	V_VM_VNF_VBN	B-VGF	natawwu,V,,,,,VBP	o
+1	0	11	varukinYrYanYar	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,c	o
+1	0	12	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	,	RD_PUNC	I-CCP	&comma;,punc	o	
+1	1	2	afku	RB	B-RBP	afku,ADV	o	<ARG2-START>
+1	1	3	paraparappu	N_NN	B-NP	paraparappu,N	o
+1	1	4	erYpattulYlYawu	V_VM_VF	B-VGF	erYpatu,V,PRESENT,sg,3,n,RP-PRP	o
+1	1	5	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG2-END>
+
+1	0	0	erYkanYave	RB	B-RBP	erYkanYave,ADV	{MCL}	<ARG1-START>
+1	0	1	rU.500	N_NN	B-NP	rU.500,num	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	rU.1,000	QT_QTC	B-NP	rU.1,000,num	o
+1	0	4	nottukalY	N_NN	I-NP	not,N,,pl	o
+1	0	5	ceVllAwu	RP_NEG	B-NEGP	ceVl,V,,,,,NEG	o
+1	0	6	eVnYum	CC_CCS	B-CCP	eVnY,PN	o
+1	0	7	arYivippAl	N_NN	B-NP	arYivippu,N,Al-INS	o
+1	0	8	erYpatta	V_VM_VNF_RP	B-VGNF	erYpatu,V,PAST,,,,RP	o
+1	0	9	paNawwattuppAtu	N_NN	B-NP	paNawwattuppAtu,unk	o	<ARG1-END>
+1	0	10	kAraNamAka	RB	B-RBP	kAraNam,N,Aka-ADV	o	<CON>
+1	0	11	puwuvE	N_NNP	B-NP	puwuvE,N	o	<ARG2-START>
+1	0	12	nakaril	N_NN	I-NP	nakar,N,il-LOC	o
+1	0	13	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	14	anYEwwu	N_NN	B-NP	anYEwwu,ADJ	o
+1	0	15	e.ti.eVm.kalY	N_NN	I-NP	e.ti.eVm.kalY,unk	o
+1	0	16	marYrYum	CC_CCD	B-CCP	marYrYum,CONJ	o
+1	0	17	vafkikalY	N_NN	B-NP	vafki,N,,pl	o
+1	0	18	munYpum	V_VM_VNF_RP	B-VGNF	munYpu,ADV	o
+1	0	19	winYamum	N_NN	B-NP	winYam,N	o
+1	0	20	makkalY	N_NN	B-NP	makkalY,N,,pl,,mf	o
+1	0	21	kUttam	N_NN	I-NP	kUttam,N,,pl,,mf	o
+1	0	22	alEmowukirYawu	V_VM_VF	B-VGF	alEmowu,V,PRESENT,sg,3,n	{/MCL}	<ARG2-END>
+
+1	0	0	eVwirpArwwa	V_VM_VNF_RP	B-VGNF	eVwirpAr,V,PAST,,,,RP	{RP}	<ARG1-START>
+1	0	1	alYavE	N_NN	B-NP	alYavE,N	o
+1	0	2	vita	PSP	B-BLK	vita,PSP	{/RP}
+1	0	3	kUtuwal	N_NN	B-NP	kUtuwal,N	{MCL}
+1	0	4	alYavil	N_NN	I-NP	alYavu,N,il-LOC	o
+1	0	5	vafkiyil	N_NN	B-NP	vafki,N,il-LOC	o
+1	0	6	tipAcit	N_NNP	B-NP	tipAcit,N,,,,mf	o
+1	0	7	woVkE	N_NN	B-NP	woVkE,N	o
+1	0	8	cernwu	V_VM_VNF_VBN	B-VGF	cer,V,,,,,VBP	o
+1	0	9	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG1-END>
+1	0	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	awarYku	PR_PRP	B-NP	awu,PN,ku-DAT	o	<CON>
+1	1	1	iNEyAka	RB	B-RBP	iNE,N,Aka-ADV	{MCL}	</CON>
+1	1	2	vafkikalYAl	N_NN	B-NP	vafki,N,Al-INS,pl	o	<ARG2-START>
+1	1	3	puwiya	JJ	B-NP	puwiya,ADJ	o
+1	1	4	paNawwE	N_NN	I-NP	paNam,N,E-ACC	o
+1	1	5	koVtukka	V_VM_VNF_INF	B-VGNF	koVtu,V,,,,,INF	o
+1	1	6	mutiyavillE	RP_NEG	I-VGNF	muti,V,,,,,NEG	{/MCL}	<ARG2-END>
+1	1	7	.	RD_PUNC	I-VGF	&dot;,punc	o
+
+1	0	0	pUmiyil	N_NN	B-NP	pUmi,N,il-LOC	{MCL}	<ARG1-START>
+1	0	1	viNkal	N_NN	B-NP	viNkal,N	o
+1	0	2	vilYYunwa	V_VM_VNF_RP	B-VGNF	vilYYu,V,PAST,,,,RP	o
+1	0	3	itawwE	N_NN	B-NP	itam,N,E-ACC	o
+1	0	4	kurYiwwa	PSP	B-BLK	kurYiwwa,ADJ	o
+1	0	5	wIvira	JJ	B-NP	wIviram,N,a-ADJ	o
+1	0	6	Ayvu	N_NN	I-NP	Ayvu,N	o
+1	0	7	merYkoVlYlYappattu	V_VM_VNF_VBN	B-VGF	merYkoVlY,V,PRESENT,,,,RP	o
+1	0	8	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	</ARG1-END>
+1	0	9	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	enYeVnYil	CC_CCS	B-CCP	enYeVnYil,CONJ	{COM}	<CON>
+1	1	1	awu	PR_PRP	B-NP	awu,PN	o	<ARG2-START>
+1	1	2	wafkawwE	N_NN	B-NP	wafkam,N,E-ACC	o
+1	1	3	vita	PSP	B-BLK	vita,PSP	o
+1	1	4	nArYpawu	QT_QTC	B-NP	nArYpawu,N	o
+1	1	5	matafku	N_NN	I-NP	matafku,N	o
+1	1	6	vilE	N_NN	I-NP	vilE,N	o
+1	1	7	uyarnwawu	V_VM_VF	B-VGF	uyar,V,PAST,sg,3,n,RP-PRP	o
+1	1	8	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	1	9	kUrYappatukirYawu	V_VM_VF	B-VGF	kUrYu,V,PRESENT,sg,3,n	{MCL}	<ARG2-END>
+1	1	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	cekar	N_NNP	B-NP	cekar,N,,,,m	{COND}	<ARG1-START>
+1	0	1	reVtti	N_NNP	I-NP	reVtti,N,,,,m	o
+1	0	2	valYYakkil	N_NN	I-NP	valYYakku,N,il-LOC	o
+1	0	3	pala	QT_QTF	B-NP	pala,ADJ	o
+1	0	4	amEccarkalY	N_NN	I-NP	amEccar,N,,pl,,mf	o
+1	0	5	marYrYum	CC_CCD	B-CCP	marYrYum,CONJ	o
+1	0	6	a.wi.mu.ka	N_NNP	B-NP	a.wi.mu.ka,N	o
+1	0	7	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	8	mukkiya	JJ	B-NP	mukkiya,ADJ	o
+1	0	9	pulYlYikalY	N_NN	I-NP	pulYlYi,N,,pl	o
+1	0	10	cikka	V_VM_VNF_INF	B-VGNF	cikku,V,,,,,INF	{/INF}
+1	0	11	vAyppu	N_NN	B-NP	vAyppu,N	{MCL}
+1	0	12	ulYlYawAl	V_VM_COND	B-VGNF	llY,V,PAST,,COND 	<ARG1-END>
+1	0	14	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	15	araciyal	N_NN	B-NP	araciyal,N	o	<ARG2-START>
+1	0	16	nikalYYvukalYE	N_NN	I-NP	nikalYYvu,N,E-ACC,pl	o
+1	0	17	varumAnYa	N_NN	B-NP	varumAnYam,N,a-ADJ	o
+1	0	18	variwwurYE	N_NN	I-NP	variwwurYE,N	o
+1	0	19	yinYar	N_NN	I-NP	yinYar,unk	o
+1	0	20	unYnYippAka	RB	B-VGF	unYnYippu,N,Aka-ADV	o
+1	0	21	kavanYiwwu	V_VM_VNF_VBN	I-VGF	kavanYi,V,,,,,VBP	o
+1	0	22	varukinYrYanYar	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,c	{/MCL}	<ARG2-END>
+
+1	0	1	jeVyalaliwA	N_NNP	B-NP	jeVyalaliwA,N,,,,f	o	<ARG1-START>
+1	0	2	marYEnwa	V_VM_VNF_RP	B-VGNF	marYE,V,PAST,,,,RP	o
+1	0	3	wukkam	N_NN	B-NP	wukkam,N	o
+1	0	4	marYEvawarYkulY	N_NN	I-NP	marYE,V,FUTURE,sg,3,n,PSP	o
+1	0	5	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	6	poVwuc	N_NN	B-NP	poVwu,N	o
+1	0	7	ceVyalarE	N_NN	I-NP	ceVyalar,N,E-ACC,,,mf	o
+1	0	8	wervu	N_NN	B-NP	wervu,N	o
+1	0	9	ceVyya	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	o
+1	0	10	eVnYnYa	DM_DMQ	B-BLK	eVnYnYa,WQ	o
+1	0	11	avacaram	N_NN	B-NP	avacaram,N	o
+1	0	12	;	RD_PUNC	I-NP	;,punc	o
+1	0	13	niwAnYamAka	RB	B-VGF	niwAnYam,N,Aka-ADV	o
+1	0	14	ceVyyalAme	V_VM_VF	I-VGF	ceVy,V	o
+1	0	15	'	RD_SYM	I-VGF	',punc	o
+1	0	16	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	o
+1	0	17	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	0	18	kelYvi	N_NN	B-NP	kelYvi,N,,pl	o
+1	0	19	eVlYYuppinYAr	V_VM_VF	B-VGF	eVlYYuppu,V,PAST,sg,3,c	o	<ARG1-END>
+1	0	20	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	1	2	cacikalA	N_NNP	B-NP	cacikalA,N,,,,f	o	<ARG2-START>
+1	1	3	kutumpawwinYarinY	N_NN	I-NP	kutumpawwinYar,N,inY-GEN,pl,,mf	o
+1	1	4	eVwirppukkulYlYAnYAr	V_VM_VF	B-VGF	eVwirppukkulYlYAnYAr,unk	{/MCL}	<ARG2-END>
+
+1	0	0	anwa	DM_DMR	B-NP	anwa,ADJ	{MCL}	<ARG1-START>
+1	0	1	erYpAttE	N_NN	I-NP	erYpAtu,N,E-ACC	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	wamilYYaka	N_NNP	B-NP	wamilYYaka,ADJ	o
+1	0	4	aracu	N_NN	I-NP	aracu,N,,,,m	o
+1	0	5	ceVyyavillE	RP_NEG	B-VGF	ceVy,V,,,,,NEG	o	<ARG1-END>
+1	0	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	awanYAl	CC_CCS	B-CCP	awanYAl,CONJ	o	<CON>
+1	1	1	,	RD_PUNC	I-CCP	&comma;,punc	{MCL}
+1	1	2	ceVnYnYE	N_NNP	B-NP	ceVnYnYE,N	o	<ARG2-START>
+1	1	3	mAvattawwil	N_NN	I-NP	mAvattam,N,il-LOC	o
+1	1	4	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	1	5	,	RD_PUNC	I-BLK	&comma;,punc	o
+1	1	6	wi.mu.ka.	N_NNP	B-NP	wi.mu.ka,N	o
+1	1	7	,	RD_PUNC	I-NP	&comma;,punc	o
+1	1	8	-	RD_SYM	B-NP	-,punc	o
+1	1	9	eVm.eVl.e.	N_NN	I-NP	eVm.eVl.e.,N	o
+1	1	10	,	RD_PUNC	I-NP	&comma;,punc	o
+1	1	11	kkalY	N_NN	B-NP	kkalY,unk	o
+1	1	12	,	RD_PUNC	I-NP	&comma;,punc	o
+1	1	13	mawwiya	JJ	B-NP	mawwiya,ADJ	o
+1	1	14	kulYYuvE	N_NN	I-NP	kulYYu,N,E-ACC,pl,,mf	o
+1	1	15	canwiwwu	V_VM_VNF_VBN	B-VGNF	canwi,V,,,,,VBP	o
+1	1	16	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	1	17	puyal	N_NN	B-NP	puyal,N	o
+1	1	18	pAwippukalY	N_NN	I-NP	pAwippu,N,,pl	o
+1	1	19	marYrYum	CC_CCD	B-CCP	marYrYum,CONJ	o
+1	1	20	cewafkalY	N_NN	B-NP	cewam,N,,pl	o
+1	1	21	kurYiwwu	PSP	B-BLK	kurYiwwu,ADV	o
+1	1	22	,	RD_PUNC	I-BLK	&comma;,punc	o
+1	1	23	manYukkalY	N_NN	B-NP	manYu,N,,pl,,m	o
+1	1	24	alYikka	V_VM_VNF_INF	B-VGNF	alYi,V,,,,,INF	o
+1	1	25	veNtum	V_VM_VF	I-VGNF	veNtum,V	{/MCL}	<ARG2-END>
+1	1	26	.	RD_PUNC	I-VGF	&dot;,punc	o
+
+1	0	0	ippatippatta	JJ	B-NP	ippatippatta,ADJ	{MCL}	<ARG1-START>
+1	0	1	cUlYYalil	N_NN	I-NP	cUlYYal,N,il-LOC	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	mawwiya	JJ	B-NP	mawwiya,ADJ	o
+1	0	4	aracu	N_NN	I-NP	aracu,N,,,,m	o
+1	0	5	warappilum	N_NN	I-NP	warappu,N,il-LOC	o
+1	0	6	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	7	inwa	DM_DMR	B-NP	inwa,ADJ	o
+1	0	8	viRayawwil	N_NN	I-NP	viRayam,N,il-LOC	o
+1	0	9	wIvira	JJ	B-NP	wIviram,N,a-ADJ	o
+1	0	10	kavanYam	N_NN	I-NP	kavanYam,N	o
+1	0	11	ceVluwwuvawu	V_VM_VNF_RP_PRP	B-VGNF	ceVluwwu,V,FUTURE,,,,RP-PRP	o
+1	0	12	pola	PSP	B-BLK	pola,PSP	o
+1	0	13	veVlYiye	RB	B-VGNF	veVlYi,N	o
+1	0	14	weVrinwAl	V_VM_VNF_COND	I-VGNF	weVri,V,PAST,,,,COND	o	<ARG1-END>
+1	0	15	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	16	makkalY	N_NN	B-NP	makkalY,N,,pl,,mf	o	<ARG2-START>
+1	0	17	mawwiyil	PSP	B-BLK	mawwi,N,il-LOC	o
+1	0	18	pA.ja	N_NNP	B-NP	pA.ja,N	o
+1	0	19	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	20	aracu	N_NN	B-NP	aracu,N,,,,m	o
+1	0	21	mIwu	PSP	B-BLK	mIwu,PSP	o
+1	0	22	kopam	N_NN	B-NP	kopam,N	o
+1	0	23	erYpatalAm	V_VM_VF	B-VGF	erYpatu,V	{/MCL}	</ARG2-END>
+
+1	0	0	erYkanYave	RB	B-RBP	erYkanYave,ADV	{INF}	<ARG1-START>
+1	0	1	araciyal	N_NN	B-NP	araciyal,N	o
+1	0	2	anYupavam	N_NN	I-NP	anYupavam,N	o
+1	0	3	cirYiwu	N_NN	B-NP	cirYiwu,N	o
+1	0	4	iruppawAl	V_VM_VNF_COND	B-VGNF	iru,V,FUTURE,,,,COND	o	</ARG1-END>
+1	0	5	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	6	avarE	PR_PRP	B-NP	avar,PN,E-ACC,,,mf	o	<ARG2-START>
+1	0	7	kalYawwil	N_NN	B-NP	kalYam,N,il-LOC	o
+1	0	8	irYakki	V_VM_VNF_VBN	B-VGNF	irYakku,V,,,,,VBP	o
+1	0	9	vittu	V_VM_VNF_VBN	I-VGNF	vitu,V,,,,,VBP	o
+1	0	10	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	11	katciyinYarE	N_NN	B-NP	katciyinYar,N,E-ACC,pl,,mf	o
+1	0	12	camAlYikka	V_VM_VNF_INF	B-VGNF	camAlYi,V,,,,,INF	{/INF}
+1	0	13	muyarYci	N_NN	B-NP	muyarYci,N	{MCL}
+1	0	14	eVtukkappattawu	V_VM_VF	B-VGF	eVtu,V,PAST,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	15	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	erYkanYave	RB	B-VGNF	erYkanYave,ADV	{CON}	<ARG1-START>
+1	0	1	arYivikkappatta	V_VM_VNF_RP	I-VGNF	arYivi,V,PAST,,,,RP	o
+1	0	2	kattuppAtukalY	N_NN	B-NP	kattuppAtu,N,,pl	o
+1	0	3	nAlYE	N_NN	B-NP	nAlYE,N	o
+1	0	4	marYunAlYutanY	N_NN	B-NP	marYunAlY,N,utanY-SOC	o
+1	0	5	mutivatEya	V_VM_VNF_INF	B-VGNF	mutivatE,V,,,,,INF	o
+1	0	6	ulYlYawAl	V_VM_VNF_COND	I-VGNF	ulY,V,PRESENT,,,,COND	o	<ARG1-END>
+1	0	7	,	RD_PUNC	I-VGNF	&comma;,punc	{/CON}
+1	0	8	paNam	N_NN	B-NP	paNam,N	{COM}	<ARG2-START>
+1	0	9	eVtukka	V_VM_VNF_INF	B-VGNF	eVtu,V,,,,,INF	o
+1	0	10	viwikkappatta	V_VM_VNF_RP	I-VGNF	viwikkappatu,V,PAST,,,,RP	o
+1	0	11	kattuppAtukalY	N_NN	B-NP	kattuppAtu,N,,pl	o
+1	0	12	walYarwwappatalAm	V_VM_VF	B-VGF	walYarwwu,V	o
+1	0	13	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	0	14	eVwirpArkkappatukirYawu	V_VM_VF	B-VGF	eVwirpAr,V,PRESENT,sg,3,n	{/MCL}	<ARG2-END>
+
+1	0	0	vArnYarinY	N_NNP	B-NP	vArnYar,N,inY-GEN,,,m	{MCL}	<ARG1-START>
+1	0	1	‘	RD_SYM	I-NP	‘,punc	o
+1	0	2	caraveVti	N_NN	B-NP	caraveVti,N	o
+1	0	3	’	RD_SYM	I-NP	’,punc	o
+1	0	4	AttawwAl	N_NN	I-NP	Attam,N,Al-INS	o	<ARG1-END>
+1	0	5	AswireliyAvum	N_NNP	B-NP	AswireliyA,N	o	<ARG2-START>
+1	0	6	pawilati	N_NN	I-NP	pawilati,N	o
+1	0	7	koVtuwwirukkirYawu	V_VM_VF	B-VGF	koVtuwwiru,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	0	8	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	wamilYYakawwil	N_NNP	B-NP	wamilYYakam,N,il-LOC	{CON}	<ARG1-START>
+1	0	1	paruvamalYYE	N_NN	B-NP	paruvamalYYE,N	o
+1	0	2	powiya	JJ	B-NP	powiya,ADJ	o
+1	0	3	alYavu	N_NN	I-NP	alYavu,N	o
+1	0	4	peVyyAwawAl	V_VM_VNF_COND	B-VGNF	peVy,V,,,,,COND-NEG	{/CON}	<ARG1-END>
+1	0	5	vivacAyikalY	N_NN	B-NP	vivacAyi,N,,pl,,mf	{MCL}	<ARG2-START>
+1	0	6	peVrum	JJ	B-NP	peVrum,ADJ	o
+1	0	7	pAwippukku	N_NN	I-NP	pAwippu,N,kku-DAT	o
+1	0	8	ulYlYAki	V_VM_VNF_VBN	B-VGF	ulYlYAku,V,,,,,VBP	o
+1	0	9	irukkirYArkalY	V_VM_VF	I-VGF	iru,V,PRESENT,pl,3,c	o	<ARG2-END>
+1	0	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	makkalY	N_NN	B-NP	makkalY,N,,pl,,mf	{NF}	<ARG1-START>
+1	0	1	natamAttam	N_NN	B-NP	natamAttam,N	o
+1	0	2	awikam	N_NN	I-NP	awikam,N	o
+1	0	3	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	4	nerawwil	N_NN	B-NP	neram,N,il-LOC	o
+1	0	5	inwa	DM_DMR	B-NP	inwa,ADJ	o
+1	0	6	vipawwu	N_NN	I-NP	vipawwu,N	o
+1	0	7	erYpattawAl	V_VM_VNF_COND	B-VGNF	erYpatu,V,PAST,,,,COND	o	<ARG1-END>
+1	0	8	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	9	makkalY	N_NN	B-NP	makkalY,N,,pl,,mf	o	<ARG2-START>
+1	0	10	alarYi	V_VM_VNF_VBN	B-VGNF	alarYu,V,,,,,VBP	o
+1	0	11	atiwwuk	V_VM_VNF_VBN	I-VGNF	ati,V,,,,,VBP	o
+1	0	12	koVNtu	V_VM_VNF_VBN	I-VGNF	koVlY,V,,,,,VBP	{/NF}
+1	0	13	reVyil	N_NN	B-NP	reVyil,N	{MCL}
+1	0	14	nilEyawwE	N_NN	I-NP	nilEyam,N,E-ACC	o
+1	0	15	vittu	V_VM_VNF_VBN	B-VGF	vitu,V,,,,,VBP	o
+1	0	16	veVlYiyerYinYar	V_VM_VF	I-VGF	veVlYiyerYu,V,PAST,pl,3,c	o	<ARG2-END>
+1	0	17	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	wi.mu.ka.	N_NNP	B-NP	wi.mu.ka,N	{RP}	<ARG1-START>
+1	0	1	ilYEFar	N_NN	I-NP	ilYEFar,N,,,,m	o
+1	0	2	aNic	N_NN	I-NP	aNi,N,,,,mf	o
+1	0	3	ceVyalAlYarAka	RB	B-RBP	ceVyalAlYar,N,Aka-ADV,,,mf	o
+1	0	4	kUtuwal	N_NN	B-NP	kUtuwal,N	o
+1	0	5	poVrYupperYrYu	N_NN	I-NP	poVrYuppel,V,,,,,VBP	o
+1	0	6	paNiyArYrYi	V_VM_VNF_VBN	B-VGNF	paNiyArYrYu,V,,,,,VBP	o
+1	0	7	varum	V_VM_VNF_RP	I-VGNF	vA,V,FUTURE,,,,RP	o
+1	0	8	mu.ka.stAlinY	N_NNP	B-NP	mu.ka.stAlinY,N,,,,m	{MCL}
+1	0	9	,	RD_PUNC	I-NP	&comma;,punc	{/RP}
+1	0	10	katciyinY	N_NN	B-NP	katci,N,inY-GEN	o
+1	0	11	ceVyal	N_NN	I-NP	ceVyal,N	o
+1	0	12	walEvarAka	RB	B-VGNF	walEvar,N,Aka-ADV,,,mf	o
+1	0	13	poVrYupperYrYuk	V_VM_VNF_VBN	I-VGNF	poVrYuppel,V,,,,,VBP	o
+1	0	14	koVNtawAl	V_VM_VNF_COND	I-VGNF	koVlY,V,PAST,,,,COND	o	<ARG1-END>
+1	0	15	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	16	avarukku	PR_PRP	B-NP	avar,PN,ukku-DAT,,,mf	o	<ARG2-START>
+1	0	17	pawilAka	RB	B-RBP	pawil,N,Aka-ADV	o
+1	0	18	,	RD_PUNC	I-RBP	&comma;,punc	o
+1	0	19	wi.mu.ka.	N_NNP	B-NP	wi.mu.ka,N	o
+1	0	20	cattawitta	N_NN	I-NP	cattawittam,N,a-ADJ	o
+1	0	21	viwi	N_NN	I-NP	viwi,N	o
+1	0	22	18	QT_QTC	B-NP	18,num	o
+1	0	23	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	24	19	QT_QTC	B-NP	19,num	o
+1	0	25	pirivukalYinYpati	N_NN	I-NP	pirivu,N,inY-GEN,pl	o
+1	0	26	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	27	ilYEFar	N_NN	B-NP	ilYEFar,N,,,,m	o
+1	0	28	aNic	N_NN	I-NP	aNi,N,,,,mf	o
+1	0	29	ceVyalAlYarAka	RB	B-RBP	ceVyalAlYar,N,Aka-ADV,,,mf	o
+1	0	30	mu.peV.	N_NNP	B-NP	mu.peV.,N,,,,mf	o
+1	0	31	cAminAwanY	N_NNP	I-NP	cAminAwanY,N,,,,m	o
+1	0	32	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	33	ilYEFar	N_NN	B-NP	ilYEFar,N,,,,m	o
+1	0	34	aNi	N_NN	I-NP	aNi,N,,,,mf	o
+1	0	35	iNEc	N_NN	I-NP	iNE,N	o
+1	0	36	ceVyalAlYarAka	RB	B-VGF	ceVyalAlYar,N,Aka-ADV,,,mf	o
+1	0	37	cupA	V_VM_VF	I-VGF	cupA,N,,,,f	o	
+1	0	38	.	RD_PUNC	I-VGF	&dot;,punc	o
+1	0	0	canwiracekar	N_NNP	B-NP	canwiracekar,N,,,,mf	o
+1	0	1	Akiyor	N_NN	B-NP	Akiyor,N	o
+1	0	2	walEmEk	N_NN	B-NP	walEmE,N	o
+1	0	3	kalYYakawwAl	N_NN	I-NP	kalYYakam,N,Al-INS	o
+1	0	4	niyamikkappatukirYArkalY	V_VM_VF	B-VGF	niyami,V,PRESENT,pl,3,c	o	<ARG2-END>
+1	0	5	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	inwa	DM_DMR	B-NP	inwa,ADJ	{MCL}	<ARG1-START>
+1	0	1	reVyil	N_NN	I-NP	reVyil,N	o
+1	0	2	EwarApAw	N_NNP	B-NP	EwarApAw,N	o
+1	0	3	aruke	RB	B-RBP	aruku,N	o
+1	0	4	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	5	vikirkAnY	N_NNP	B-NP	vikirkAnY,unk	o
+1	0	6	reVyil	N_NN	I-NP	reVyil,N	o
+1	0	7	nilEyam	N_NN	I-NP	nilEyam,N	o
+1	0	8	aruke	RB	B-VGNF	aruku,N	o
+1	0	9	ceVnYrYapowu	V_VM_VNF_RP_PSP	I-VGNF	ceVl,V,PAST,,,,RP-PSP-PSP	o
+1	0	10	witIreVnYa	RB	B-RBP	witIreVnYa,ADV	o
+1	0	11	watam	N_NN	B-NP	watam,N	o
+1	0	12	puraNtu	V_VM_VNF_VBN	B-VGF	puralY,V,,,,,VBP	o
+1	0	13	vipawwukkulYlYAnYawu	V_VM_VF	I-VGF	vipawwukkulYlYAnYawu,unk	o
+1	0	14	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	awikAlE	N_NN	B-NP	awikAlE,N	o	<ARG2-START>
+1	1	2	nerawwil	N_NN	I-NP	neram,N,il-LOC	o
+1	1	3	afku	RB	B-RBP	afku,ADV	o
+1	1	4	peVrum	JJ	B-NP	peVrum,ADJ	o
+1	1	5	paraparappu	N_NN	I-NP	paraparappu,N	o
+1	1	6	erYpattawu	V_VM_VF	B-VGF	erYpatu,V,PAST,sg,3,n,RP-PRP	o	<ARG2-END>
+1	1	7	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	4	QT_QTC	B-NP	4,num	{RP}	<ARG1-START>
+1	0	1	nAtkalYAka	RB	B-VGNF	nAlY,N,,pl	o
+1	0	2	nilavum	V_VM_VNF_RP	I-VGNF	nilavu,V,FUTURE,,,,RP	o
+1	0	3	katum	JJ	B-NP	katu,V,FUTURE,sg,3,n	o
+1	0	4	panYippoVlYYivAl	N_NN	I-NP	panYippoVlYYivu,N,Al-INS	{/RP}	<ARG1-END>
+1	0	5	kARmIrE	N_NN	B-NP	kARmIr,N,E-ACC	{RP}	<ARG2-START>
+1	0	6	pirYa	JJ	B-NP	pirYa,ADJ	o
+1	0	7	mAnilafkalYutanY	N_NN	I-NP	mAnilam,N,utanY-SOC,pl	o
+1	0	8	iNEkkum	V_VM_VNF_RP	B-VGNF	iNE,V,FUTURE,,,,RP	o
+1	0	9	srInakar	N_NNP	B-NP	srInakar,N,,,,mf	{MCL}
+1	0	10	-	RD_SYM	I-NP	-,punc	{/RP}
+1	0	11	jammu	N_NNP	B-NP	jammu,N	o
+1	0	12	weciya	N_NN	B-NP	weciyam,N,a-ADJ	o
+1	0	13	neVtuFcAlE	N_NN	I-NP	neVtuFcAlE,N	o
+1	0	14	mUtappattulYlYawu	V_VM_VF	B-VGF	mUtu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	15	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	innilEyil	N_NN	B-NP	innilE,N,il-LOC	{CON}	<ARG1-START>
+1	0	1	paruvamalYYE	N_NN	B-NP	paruvamalYYE,N	o
+1	0	2	peVyyAmal	RP_NEG	B-NEGP	peVy,V,,,,,NEG	o
+1	0	3	emArYrYivittawAlum	V_VM_VNF_COND	B-VGNF	emArYrYivittawAlum,unk	{/CON}
+1	0	4	AyirakkaNakkAnYa	JJ	B-NP	AyirakkaNakku,N,AnYa-ADJ	{MCL}
+1	0	5	ekkaril	N_NN	I-NP	ekkar,N,il-LOC	o
+1	0	6	payiritappatta	V_VM_VNF_RP	B-VGNF	payiritu,V,PAST,,,,RP	o
+1	0	7	payirkalY	N_NN	B-NP	payir,N,,pl	o
+1	0	8	valYarnwa	V_VM_VNF_RP	B-VGNF	valYar,V,PAST,,,,RP	o
+1	0	9	nilEyil	N_NN	B-NP	nilE,N,il-LOC	o
+1	0	10	waNNIrinYrYi	N_NN	B-NP	waNNIr,N	o
+1	0	11	karuki	V_VM_VNF_VBN	B-VGF	karuku,V,,,,,VBP	o
+1	0	12	varukinYrYanYa	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,n	o	<ARG1-END>
+1	0	13	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{COM}	<CON>
+1	1	1	vivacAyikalY	N_NN	B-NP	vivacAyi,N,,pl,,mf	o	<ARG2-START>
+1	1	2	vAfkiya	V_VM_VNF_RP	B-VGNF	vAfku,V,PAST,,,,RP	o
+1	1	3	katanYE	N_NN	B-NP	katanY,N,E-ACC	o
+1	1	4	eVppati	DM_DMQ	B-BLK	pati,N	o
+1	1	5	atEppawu	V_VM_VF	B-VGF	atE,V,FUTURE,sg,3,n	o
+1	1	6	eVnYrYu	CC_CCS	B-CCP	eVnYrYu,UT	{/COM}
+1	1	7	weVriyAmalum	RP_NEG	B-VGNF	weVri,V,,,,,NEG	{CON}
+1	1	8	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	1	9	wafkalYawu	PR_PRP	B-NP	wafkalY,PN,awu-GEN	o
+1	1	10	vAlYYvAwAram	N_NN	I-NP	vAlYYvAwAram,N,,pl	o
+1	1	11	pAwikkappattawAlum	V_VM_VNF_COND	B-VGNF	pAwikkappatu,V,PAST,,,,COND	{/CON}
+1	1	12	vivacAyikalY	N_NN	B-NP	vivacAyi,N,,pl,,mf	{MCL}
+1	1	13	waviwwu	V_VM_VNF_VBN	B-VGNF	wavi,V,,,,,VBP	o
+1	1	14	varum	V_VM_VNF_RP	I-VGNF	vA,V,FUTURE,,,,RP	o
+1	1	15	cUlYYnilE	N_NN	B-NP	cUlYYnilE,N	o
+1	1	16	uruvAki	V_VM_VNF_VBN	B-VGF	uruvAku,V,,,,,VBP	o
+1	1	17	ulYlYawu	V_VM_VF	I-VGF	ulY,V,PRESENT,sg,3,n,RP-PRP	{/MCL}	<ARG2-END>
+
+1	0	0	waNNIr	N_NN	B-NP	waNNIr,N	{NF}	<ARG1-START>
+1	0	1	woVtti	V_VM_VNF_VBN	B-VGNF	woVtti,N,,pl	{/NF}
+1	0	2	mAti	N_NN	B-NP	mAti,N,,pl	{NF}
+1	0	3	walYawwil	N_NN	I-NP	walYam,N,il-LOC	o
+1	0	4	irunwu	V_VM_VNF_VBN	B-VGNF	iru,V,,,,,VBP	{/NF}
+1	0	5	6	QT_QTC	B-NP	6,num	{CON}
+1	0	6	ati	N_NN	I-NP	ati,N	o
+1	0	7	uyarawwil	N_NN	I-NP	uyaram,N,il-LOC	o
+1	0	8	ulYlYawAl	V_VM_VNF_COND	B-VGNF	ulY,V,PRESENT,,,,COND	{/CON}	<ARG1-END>
+1	0	9	kulYYanwE	N_NN	B-NP	kulYYanwE,N,,,,mf	{INF}	<ARG2-START>
+1	0	10	wAnYAka	RB	B-VGNF	wAnYAka,ADV	o
+1	0	11	erYi	V_VM_VNF_VBN	I-VGNF	erYu,V,,,,,VBP	o
+1	0	12	vilYYunwu	V_VM_VNF_VBN	I-VGNF	vilYYu,V,,,,,VBP	o
+1	0	13	irukka	V_VM_VNF_INF	I-VGNF	iru,V,,,,,INF	{/INF}
+1	0	14	vAyppu	N_NN	B-NP	vAyppu,N	{MCL}
+1	0	15	illE	RP_NEG	B-VGF	illE,V	o
+1	0	16	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG2-END>
+
+1	0	0	pottiyil	N_NN	B-NP	potti,N,il-LOC	{RP}	<ARG1-START>
+1	0	1	ArvamAka	RB	B-VGNF	Arvam,N,Aka-ADV	o
+1	0	2	pafkerYrYa	V_VM_VNF_RP	I-VGNF	pafkel,V,PAST,,,,RP	o
+1	0	3	wafkE	N_NN	B-NP	wafkE,N,,,,f	{/RP}
+1	0	4	mArIcuvariyE	N_NN	B-NP	mArIcuvariyE,unk	{CON}
+1	0	5	carYrYu	JJ	B-NP	carYrYu,ADJ	o
+1	0	6	nerawwil	N_NN	I-NP	neram,N,il-LOC	o
+1	0	7	piNamAka	RB	B-VGNF	piNam,N,Aka-ADV	o
+1	0	8	pArkka	V_VM_VNF_INF	I-VGNF	pAr,V,,,,,INF	o
+1	0	9	nerittawAl	V_VM_VNF_COND	I-VGNF	neritu,V,PAST,,,,COND	{/CON}	<ARG1-END>
+1	0	10	cokam	N_NN	B-NP	cokam,N	{NF}	<ARG2-START>
+1	0	11	wAfkAmal	RP_NEG	B-NEGP	wAfku,V,,,,,NEG	o
+1	0	12	kawarYi	V_VM_VNF_VBN	B-VGNF	kawarYu,V,,,,,VBP	{/NF}
+1	0	13	alYYuwa	JJ	B-NP	alYYu,V,PAST,,,,RP	{MCL}
+1	0	14	mAricceVlvanY	N_NN	I-NP	mAricceVlvanY,N	o
+1	0	15	kaNNIr	N_NN	B-NP	kaNNIr,N	o
+1	0	16	malka	N_NN	I-NP	malku,V,,,,,INF	o
+1	0	17	kUrYukEyil	N_NNV	B-NP	kUrYu,V	o
+1	0	18	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	19	‘	RD_SYM	I-NP	‘,punc	o
+1	0	20	eVnY	PR_PRP	B-NP	eVnY,PN	o
+1	0	21	wafkEkku	N_NN	I-NP	wafkE,N,kku-DAT,,,f	o
+1	0	22	kuwwuccaNtE	N_NN	B-NP	kuwwuccaNtE,N	o
+1	0	23	pottiyil	N_NN	I-NP	potti,N,il-LOC	o
+1	0	24	awika	JJ	B-NP	awika,ADJ	o
+1	0	25	Arvam	N_NN	I-NP	Arvam,N	o
+1	0	26	irunwawu	V_VM_VF	B-VGF	iru,V,PAST,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	27	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	warYpowu	RB	B-RBP	warYpowu,ADV	{INF}	<ARG1-START>
+1	0	1	kulYirkAlam	N_NN	B-NP	kulYirkAlam,N	o
+1	0	2	eVnYpawAl	CC_CCS	B-CCP	eVnY,V,FUTURE,,,,COND	o	<ARG1-END>
+1	0	3	panYrYi	N_NN	B-NP	panYrYi,N	o	<ARG2-START>
+1	0	4	kAyccal	N_NN	I-NP	kAyccal,N	o
+1	0	5	paravAmal	RP_NEG	B-NEGP	paravu,V,,,,,NEG	o
+1	0	6	watukka	V_VM_VNF_INF	B-VGNF	watu,V,,,,,INF	{/INF}
+1	0	7	natavatikkE	N_NN	B-NP	natavatikkE,N,,pl	{MCL}
+1	0	8	eVtukkappattu	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+1	0	9	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	0	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	
+
+1	0	0	kutumpa	N_NN	B-NP	kutumpam,N,a-ADJ,pl,,mf	{NF}	<ARG1-START>
+1	0	1	piraccanYE	N_NN	I-NP	piraccanYE,N	o	<ARG1-END>
+1	0	2	kAraNamAka	RB	B-RBP	kAraNam,N,Aka-ADV	o	<CON>
+1	0	3	katanwa	JJ	B-NP	katanwa,ADJ	o	<ARG2-START>
+1	0	4	1	QT_QTC	I-NP	1,num	o
+1	0	5	varutamAka	RB	B-RBP	varutam,N,Aka-ADV	o
+1	0	6	kaNavanY	N_NN	B-NP	kaNavanY,N,,,,m	o
+1	0	7	-	RD_SYM	I-NP	-,punc	o
+1	0	8	manYEvi	N_NN	B-NP	manYEvi,N,,,,f	o
+1	0	9	itEye	PSP	B-BLK	itE,N	o
+1	0	10	karuwwuverYupAtu	N_NN	B-NP	karuwwuverYupAtu,N	o
+1	0	11	erYpattu	V_VM_VNF_VBN	B-VGNF	erYpatu,V,,,,,VBP	{/NF}
+1	0	12	iruvarum	N_NN	B-NP	iruvar,N,,pl,,mf	{MCL}
+1	0	13	pirinwanYar	V_VM_VF	B-VGF	piri,V,PAST,pl,3,c	o	<ARG2-END>
+1	0	14	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	wamilYYakawwil	N_NNP	B-NP	wamilYYakam,N,il-LOC	{CON}	<ARG1-START>
+1	0	1	paruvamalYYE	N_NN	B-NP	paruvamalYYE,N	o
+1	0	2	peVyyAwawAl	V_VM_VNF_COND	B-VGNF	peVy,V,,,,,COND-NEG	{/CON}
+1	0	3	katum	JJ	B-NP	katu,V,FUTURE,sg,3,n	{MCL}
+1	0	4	varYatci	N_NN	I-NP	varYatci,N	o
+1	0	5	nilavi	V_VM_VNF_VBN	B-VGF	nilavu,V,,,,,VBP	o
+1	0	6	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o
+1	0	7	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>	
+1	1	1	vivacAya	N_NN	B-NP	vivacAya,ADJ	o	<ARG2-START>
+1	1	2	paNikalY	N_NN	I-NP	paNi,N,,pl	o
+1	1	3	murYrYilum	RB	B-VGF	murYrYilum,ADV	o
+1	1	4	pAwikkappattu	V_VM_VNF_VBN	I-VGF	pAwikkappatu,V,,,,,VBP	o
+1	1	5	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	1	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	ameVrikkAvinY	N_NNP	B-NP	ameVrikkA,N,inY-GEN	o	<ARG1-START>
+1	0	1	pulYoritA	N_NNP	B-NP	pulYoritA,N	{MCL}
+1	0	2	mAkANawwil	N_NN	I-NP	mAkANam,N,il-LOC	o
+1	0	3	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	4	port	N_NN	B-NP	port,N	o
+1	0	5	lANtartel	N_NNP	B-NP	lANtartel,unk	o
+1	0	6	carvaweca	N_NN	I-NP	carvaweca,ADJ	o
+1	0	7	vimAnYa	N_NN	I-NP	vimAnYam,N,a-ADJ	o
+1	0	8	nilEyawwirYkulY	N_NN	I-NP	nilEyam,N,ku-DAT	o
+1	0	9	pukunwa	V_VM_VNF_RP	B-VGNF	puku,V,PAST,,,,RP	o
+1	0	10	marma	JJ	B-NP	marma,ADJ	o
+1	0	11	napar	N_NN	I-NP	napar,N,,,,mf	o
+1	0	12	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	13	payaNikalY	N_NN	B-NP	payaNi,N,,pl,,mf	o
+1	0	14	mIwu	PSP	B-BLK	mIwu,PSP	o
+1	0	15	caramAriyAka	RB	B-RBP	caramAri,N,Aka-ADV	o
+1	0	16	wuppAkkiyAl	N_NN	B-NP	wuppAkki,N,Al-INS	o
+1	0	17	cutaw	V_VM_VNF_INF	B-VGNF	cutu,V,,,,,INF	o
+1	0	18	wuvafkinYAnY	V_VM_VF	I-VGNF	wuvafku,V,PAST,sg,3,m	{/MCL}	<ARG1-END>
+1	0	19	.	RD_PUNC	I-VGF	&dot;,punc	o
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	o	<CON>
+1	1	1	,	RD_PUNC	I-CCP	&comma;,punc	{MCL}	
+1	1	2	pawarYrYamatEnwa	JJ	B-NP	pawarYrYamatEnwa,unk	o	<ARG2-START>
+1	1	3	payaNikalY	N_NN	I-NP	payaNi,N,,pl,,mf	o
+1	1	4	otaw	V_VM_VNF_INF	B-VGNF	otu,V,,,,,INF	o
+1	1	5	wuvafkinYar	V_VM_VF	I-VGNF	wuvafku,V,PAST,pl,3,c	{/MCL}	<ARG2-END>
+1	1	6	.	RD_PUNC	I-VGF	&dot;,punc	o
+
+1	0	0	rayilve	N_NN	B-NP	rayilve,N,,,,mf	{RP}	<ARG1-START>
+1	0	1	viwikalYinY	N_NN	I-NP	viwi,N,inY-GEN,pl	o
+1	0	2	pati	PSP	B-BLK	pati,N	o
+1	0	3	,	RD_PUNC	I-BLK	&comma;,punc	{/RP}
+1	0	4	rayilvekku	N_NNP	B-NP	rayilve,N,kku-DAT	{COM}
+1	0	5	muwalil	RB	B-RBP	muwal,N,il-LOC	o
+1	0	6	paNawwE	N_NN	B-NP	paNam,N,E-ACC	o
+1	0	7	kattivittu	V_VM_VNF_VBN	B-VGNF	kattu,V,,,,,VBP	o
+1	0	8	wAnY	PSP	B-BLK	wAnY,PSP	o
+1	0	9	,	RD_PUNC	I-BLK	&comma;,punc	o
+1	0	10	tikkeVtkalYE	N_NN	B-NP	tikkeVt,N,E-ACC,pl	o
+1	0	11	virYka	V_VM_VNF_INF	B-VGNF	vil,V,,,,,INF	o
+1	0	12	veNtum	V_VM_VF	I-VGNF	veNtum,V	o
+1	0	13	'	RD_SYM	I-VGF	',punc	{/COM}
+1	0	14	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	0	15	,	RD_PUNC	I-CCP	&comma;,punc	{RP}
+1	0	16	ci.e.ji.	N_NNP	B-NP	ci.e.ji.,N,,,,mf	o
+1	0	17	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	18	eVnYappatum	CC_CCS	B-CCP	eVnYappatu,V,FUTURE,,,,RP	o
+1	0	19	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	0	20	mawwiya	JJ	B-NP	mawwiya,ADJ	o
+1	0	21	kaNakku	N_NN	I-NP	kaNakku,N	o
+1	0	22	waNikkE	N_NN	I-NP	waNikkE,N	o
+1	0	23	aluvalakam	N_NN	I-NP	aluvalakam,N	o
+1	0	24	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	25	kaNtippAka	RB	B-VGF	kaNtippu,N,Aka-ADV	o
+1	0	26	kUrYiyulYlYawu	V_VM_VF	I-VGF	kUrYu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG1-END>
+1	0	27	;	RD_PUNC	I-VGF	;,punc	o
+1	0	28	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	o	<CON>
+1	0	29	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	0	30	'	RD_SYM	B-NP	',punc	o	<ARG2-START>
+1	0	31	i	RD_PUNC	I-NP	i,DEM_DET	o
+1	0	32	-	RD_SYM	I-NP	-,punc	o
+1	0	33	vAlat	N_NN	B-NP	vAlam,N,a-ADJ	o
+1	0	34	'	RD_SYM	I-NP	',punc	o
+1	0	35	murYEyil	N_NN	B-NP	murYE,N,il-LOC,pl	o
+1	0	36	paNapparimArYrYam	N_NN	B-NP	paNapparimArYrYam,unk	o
+1	0	37	natakka	V_VM_VNF_INF	B-VGNF	nata,V,,,,,INF	o
+1	0	38	mutiyAwawAl	V_VM_VNF_COND	I-VGNF	muti,V,,,,,COND-NEG	o
+1	0	39	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	40	rayilveyE	N_NNP	B-NP	rayilve,N,E-ACC,,,mf	o
+1	0	41	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	42	100	QT_QTC	B-NP	100,num	o
+1	0	43	cawavIwam	N_NN	I-NP	cawavIwam,N	o
+1	0	44	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	45	'	RD_SYM	B-NP	',punc	o
+1	0	46	tijittal	N_NN	B-NP	tijittal,N	o
+1	0	47	'	RD_SYM	I-NP	',punc	o
+1	0	48	murYEkku	N_NN	B-NP	murYE,N,kku-DAT,pl	o
+1	0	49	mArYrYuvawil	V_VM_VNF_RP_PRP	B-VGNF	mArYrYu,V,FUTURE,,,,RP-PRP	{/RP}
+1	0	50	cikkal	N_NN	B-NP	cikkal,N	{/RP}
+1	0	51	erYpattulYlYawu	V_VM_VF	B-VGF	erYpatu,V,PRESENT,sg,3,n,RP-PRP	{MCL}	<ARG2-END>
+1	0	52	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	innilEyil	N_NN	B-NP	innilE,N,il-LOC	{COM}	<ARG1-START>
+1	0	1	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	2	a.wi.mu.ka	N_NNP	B-NP	a.wi.mu.ka,N	o
+1	0	3	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	4	vutanY	N_NN	B-NP	vutanY,unk	o
+1	0	5	kUttaNi	N_NN	I-NP	kUttaNi,N,,pl,,mf	o
+1	0	6	amEkka	V_VM_VNF_INF	B-VGNF	amE,V,,,,,INF	o
+1	0	7	veNtum	V_VM_VF	I-VGNF	veNtum,V	o
+1	0	8	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	0	9	,	RD_PUNC	I-CCP	&comma;,punc	{COM}
+1	0	10	oVru	QT_QTC	B-NP	oVru,ADJ	o
+1	0	11	koRtiyum	N_NN	I-NP	koRti,N	o
+1	0	12	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	13	wi.mu.ka	N_NNP	B-NP	wi.mu.ka,N	o
+1	0	14	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	15	vutanY	N_NN	B-NP	vutanY,unk	o
+1	0	16	kUttaNi	N_NN	B-NP	kUttaNi,N,,pl,,mf	o
+1	0	17	woVtara	V_VM_VNF_INF	B-VGNF	woVtar,V,,,,,INF	o
+1	0	18	veNtum	V_VM_VF	I-VGNF	veNtum,V	o
+1	0	19	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	0	20	,	RD_PUNC	I-CCP	&comma;,punc	{MCL}
+1	0	21	marYrYoVru	JJ	B-NP	marYrYoVru,ADJ	o
+1	0	22	koRtiyum	N_NN	I-NP	koRti,N	o
+1	0	23	virumpukinYrYanYa	V_VM_VF	B-VGF	virumpu,V,PRESENT,pl,3,n	o	<ARG1-END>
+1	0	24	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	1	2	ceVyarYkulYYu	N_NN	B-NP	ceVyarYkulYYu,N	o	<ARG2-START>
+1	1	3	urYuppinYarkalYitam	N_NN	I-NP	urYuppinYar,N,itam-LOC,pl,,mf	o
+1	1	4	karuwwu	N_NN	B-NP	karuwwu,N,,pl	o
+1	1	5	ketkappatukirYawu	V_VM_VF	B-VGF	kelY,V,PRESENT,sg,3,n	o
+1	1	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG2-END>
+
+1	0	0	immurYE	N_NN	B-NP	murYE,N,,pl	{CON}	<ARG1-START>
+1	0	1	wanYi	N_NN	B-NP	wanYi,ADV	o
+1	0	2	vArtAka	RB	B-VGNF	vArtu,N,Aka-ADV	o
+1	0	3	arYivikkappattawAl	V_VM_VNF_COND	I-VGNF	arYivi,V,PAST,,,,COND	{/CON}	<ARG1-END>
+1	0	4	avar	PR_PRP	B-NP	avar,PN,,,,mf	{MCL}	<ARG2-START>
+1	0	5	pottiyita	V_VM_VNF_INF	B-VGNF	pottiyitu,V,,,,,INF	o
+1	0	6	mutiyavillE	RP_NEG	B-NEGP	muti,V,,,,,NEG	{/MCL}	<ARG2-END>
+
+1	0	0	wamilYYakawwil	N_NNP	B-NP	wamilYYakam,N,il-LOC	{MCL}	<ARG1-START>
+1	0	1	vatakilYYakku	N_NNP	B-NP	vatakilYYakku,N	o
+1	0	2	paruvamalYYE	N_NN	I-NP	paruvamalYYE,N	o
+1	0	3	67	QT_QTC	B-NP	67,num	o
+1	0	4	cawavIwam	N_NN	I-NP	cawavIwam,N	o
+1	0	5	poVywwuvittawu	V_VM_VF	B-VGF	poVy,V,PAST	o
+1	0	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	wamilYYakawwil	N_NNP	B-NP	wamilYYakam,N,il-LOC	o	<ARG2-START>
+1	1	2	katum	JJ	B-NP	katu,V,FUTURE,sg,3,n	o
+1	1	3	varYatci	N_NN	I-NP	varYatci,N	o
+1	1	4	nilavi	V_VM_VNF_VBN	B-VGF	nilavu,V,,,,,VBP	o
+1	1	5	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	1	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	eVnYinYum	CC_CCS	B-CCP	eVnYinYum,CONJ	{CON}	<ARG1-START>
+1	0	1	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	0	2	avar	PR_PRP	B-NP	avar,PN,,,,mf	o
+1	0	3	alYYEwwAl	V_VM_VNF_COND	B-VGF	alYYE,V,PAST,,,,COND	{/CON}	<ARG1-END>
+1	0	4	pokalAm	V_VM_VF	I-VGF	po,V	{COM}	<ARG2-START>
+1	0	5	eVnYa	CC_CCS	B-CCP	eVnYa,ADV	{/COM}
+1	0	6	ninYEwwirunwanYar	V_VM_VF	B-VGF	ninYE,V,PAST,pl,3,c	{MCL}	<ARG2-END>
+1	0	7	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	wIrppu	N_NN	B-NP	wIrppu,N	{MCL}	<ARG1-START>
+1	0	1	cAwakamAka	RB	B-RBP	cAwakam,N,Aka-ADV	o
+1	0	2	varavillE	RP_NEG	B-NEGP	varavu,N	o
+1	0	3	eVnYrYAl	CC_CCS	B-CCP	eVnYrYAl,ADV	o
+1	0	4	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	0	5	wIrppu	N_NN	B-NP	wIrppu,N	o
+1	0	6	eVppati	DM_DMQ	B-BLK	pati,N	o
+1	0	7	veNtumAnYAlum	CC_CCS	B-CCP	veNtumAnYAlum,CONJ	o
+1	0	8	irukkalAm	V_VM_VF	B-VGF	iru,V	o	<ARG1-END>
+1	0	9	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	1	0	awanYAl	CC_CCS	B-NP	awanYAl,CONJ	{MCL}	<ARG2-START>
+1	1	1	,	RD_PUNC	I-NP	&comma;,punc	o
+1	1	2	kanYavukalY	N_NN	B-NP	kanYavu,N,,pl	o
+1	1	3	anYEwwum	N_NN	I-NP	anYEwwum,N	o
+1	1	4	wavitu	V_VM_VNF_VBN	B-VGF	wavitu,N	o
+1	1	5	poVtiyAkum	V_VM_VF	I-VGF	poVti,N,Aka-ADV	{/MCL}
+1	1	6	eVnYrYu	CC_CCS	B-CCP	eVnYrYu,UT	{MCL}
+1	1	7	,	RD_PUNC	I-CCP	&comma;,punc	o
+1	1	8	cacikalA	N_NNP	B-NP	cacikalA,N,,,,f	o
+1	1	9	warappinYar	N_NN	I-NP	warappinYar,N,,,,mf	o
+1	1	10	pawattawwil	N_NN	I-NP	pawattam,N,il-LOC	o
+1	1	11	AlYYnwulYlYanYar	V_VM_VF	B-VGF	AlYY,V,PRESENT,pl,3,c	{/MCL}	<ARG2-END>
+
+
+1	0	0	inwa	DM_DMR	B-NP	inwa,ADJ	{MCL}	<ARG1-START>
+1	0	1	vimAnYam	N_NN	I-NP	vimAnYam,N	o
+1	0	2	ciriyAvinY	N_NNP	B-NP	ciriyA,N,inY-GEN,,,mf	o
+1	0	3	latAkiyA	N_NNP	I-NP	latAkiyA,N,,,,mf	o
+1	0	4	eVnYrYa	CC_CCS	B-CCP	eVnYrYa,ADV	o
+1	0	5	nakarukku	N_NN	B-NP	nakar,N,ukku-DAT	o
+1	0	6	purYappatta	V_VM_VNF_RP	B-VGNF	purYappatu,V,PAST,,,,RP	o
+1	0	7	cirYiwu	N_NN	B-NP	cirYiwu,N	o
+1	0	8	nerawwil	N_NN	I-NP	neram,N,il-LOC	o
+1	0	9	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	10	retAr	N_NNP	B-NP	retAr,N	o
+1	0	11	karuviyil	N_NN	I-NP	karuvi,N,il-LOC	o
+1	0	12	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	13	ciknYal	N_NN	B-NP	ciknYal,N	o
+1	0	14	wuNtikkappattawu	V_VM_VF	B-VGF	wuNtikkappatu,V,PAST,sg,3,n,RP-PRP	o
+1	0	15	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	paraparappu	N_NN	B-NP	paraparappu,N	o	<ARG2-START>
+1	1	2	erYpattulYlYawu	V_VM_VF	B-VGF	erYpatu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	1	3	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	cili	N_NN	B-NP	cili,N	{MCL}	<ARG1-START>
+1	0	1	nAttil	N_NN	I-NP	nAtu,N,il-LOC	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	riktar	N_NN	B-NP	riktar,N	o
+1	0	4	alYavil	N_NN	I-NP	alYavu,N,il-LOC	o
+1	0	5	7.6	QT_QTC	B-NP	7.6,num	o
+1	0	6	eVnYrYa	CC_CCS	B-CCP	eVnYrYa,ADV	o
+1	0	7	alYavil	N_NN	B-NP	alYavu,N,il-LOC	o
+1	0	8	cakwi	N_NN	B-NP	cakwi,N,,,,f	o
+1	0	9	vAynwa	JJ	I-NP	vAy,V,PAST,,,,RP	o
+1	0	10	nilanatukkam	N_NN	I-NP	nilanatukkam,N	o
+1	0	11	erYpattawu	V_VM_VF	B-VGF	erYpatu,V,PAST,sg,3,n,RP-PRP	o
+1	0	12	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	cunYAmi	N_NNP	B-NP	cunYAmi,N	o	<ARG2-START>
+1	1	2	eVccarikkE	N_NN	I-NP	eVccarikkE,N	o
+1	1	3	vitukkappattulYlYawu	V_VM_VF	B-VGF	vitu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	1	4	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	1.	QT_QTC	B-NP	1.,num	{MCL}	<ARG1-START>
+1	0	1	awiwIvira	JJ	I-NP	awiwIviram,N,a-ADJ	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	‛varwA	N_NNP	B-NP	‛varwA,unk	o
+1	0	4	'	RD_SYM	I-NP	',punc	o
+1	0	5	puyal	N_NN	I-NP	puyal,N	o
+1	0	6	ceVnYnYE	N_NNP	B-NP	ceVnYnYE,N	o
+1	0	7	aruke	RB	B-RBP	aruku,N	o
+1	0	8	nAlYE	N_NN	B-NP	nAlYE,N	o
+1	0	9	mawiyam	N_NN	I-NP	mawiyam,N	o
+1	0	10	karEyE	N_NN	B-NP	karE,N,E-ACC	o
+1	0	11	katakka	V_VM_VNF_INF	B-VGNF	kata,V,,,,,INF	o
+1	0	12	ulYlYawAl	V_VM_VNF_COND	I-VGNF	ulY,V,PRESENT,,,,COND	o	<ARG1-END>
+1	0	13	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	14	ceVnYnYE	N_NNP	B-NP	ceVnYnYE,N	o	<ARG2-START>
+1	0	15	marYrYum	CC_CCD	B-CCP	marYrYum,CONJ	o
+1	0	16	awanY	PR_PRP	B-NP	awanY,PN	o
+1	0	17	curYrYuvattAra	N_NN	I-NP	curYrYuvattAram,N,a-ADJ	o
+1	0	18	pakuwikalYil	N_NN	I-NP	pakuwi,N,il-LOC,pl	o
+1	0	19	uRAr	N_NN	B-NP	uRAr,N	o
+1	0	20	nilEyil	N_NN	I-NP	nilE,N,il-LOC	o
+1	0	21	irukkumArYu	RB	B-VGF	irukku,V,FUTURE,,,,RP-PSP-PSP	o
+1	0	22	kettu	V_VM_VNF_VBN	I-VGF	kelY,V,,,,,VBP	o
+1	0	23	koVlYlYappattulYlYawu	V_VM_VF	I-VGF	koVlY,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	24	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	varwA	N_NN	B-NP	varwA,N	{MCL}	<ARG1-START>
+1	0	1	puyalAl	N_NN	I-NP	puyal,N,Al-INS	o	<ARG1-END>
+1	0	2	wiruvalYlYUril	N_NNP	B-NP	wiruvalYlYUr,N,il-LOC,,,mf	o	<ARG2-START>
+1	0	3	62,888	QT_QTC	B-NP	62,888,num	o
+1	0	4	vItukalY	N_NN	I-NP	vIt,N,,pl	o
+1	0	5	cewam	N_NN	B-NP	cewam,N	o
+1	0	6	atEnwulYlYawAka	RB	B-RBP	atE,V,PRESENT,sg,3,n,RP-PRP	o
+1	0	7	wamilYYaka	N_NNP	B-NP	wamilYYaka,ADJ	o
+1	0	8	uNavuw	N_NN	I-NP	uNavu,N	o
+1	0	9	wurYE	N_NN	I-NP	wurYE,N	o
+1	0	10	amEccar	N_NN	I-NP	amEccar,N,,,,mf	o
+1	0	11	kAmarAj	N_NNP	B-NP	kAmarAj,N,,,,m	o
+1	0	12	weVriviwwAr	V_VM_VF	B-VGF	weVrivi,V,PAST,sg,3,c	o	<ARG2-END>
+1	0	13	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	cili	N_NN	B-NP	cili,N	{MCL}	<ARG1-START>
+1	0	1	nAttil	N_NN	I-NP	nAtu,N,il-LOC	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	riktar	N_NN	B-NP	riktar,N	o
+1	0	4	alYavil	N_NN	I-NP	alYavu,N,il-LOC	o
+1	0	5	7.6	QT_QTC	B-NP	7.6,num	o
+1	0	6	eVnYrYa	CC_CCS	B-CCP	eVnYrYa,ADV	o
+1	0	7	alYavil	N_NN	B-NP	alYavu,N,il-LOC	o
+1	0	8	cakwi	N_NN	B-NP	cakwi,N,,,,f	o
+1	0	9	vAynwa	JJ	I-NP	vAy,V,PAST,,,,RP	o
+1	0	10	nilanatukkam	N_NN	I-NP	nilanatukkam,N	o
+1	0	11	erYpattawu	V_VM_VF	B-VGF	erYpatu,V,PAST,sg,3,n,RP-PRP	o
+1	0	12	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	cunYAmi	N_NNP	B-NP	cunYAmi,N	o	<ARG2-START>
+1	1	2	eVccarikkE	N_NN	I-NP	eVccarikkE,N	o
+1	1	3	vitukkappattulYlYawu	V_VM_VF	B-VGF	vitu,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	1	4	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	1.	QT_QTC	B-NP	1.,num	{MCL}	<ARG1-START>
+1	0	1	awiwIvira	JJ	I-NP	awiwIviram,N,a-ADJ	o
+1	0	2	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	3	‛varwA	N_NNP	B-NP	‛varwA,unk	o
+1	0	4	'	RD_SYM	I-NP	',punc	o
+1	0	5	puyal	N_NN	I-NP	puyal,N	o
+1	0	6	ceVnYnYE	N_NNP	B-NP	ceVnYnYE,N	o
+1	0	7	aruke	RB	B-RBP	aruku,N	o
+1	0	8	nAlYE	N_NN	B-NP	nAlYE,N	o
+1	0	9	mawiyam	N_NN	I-NP	mawiyam,N	o
+1	0	10	karEyE	N_NN	B-NP	karE,N,E-ACC	o
+1	0	11	katakka	V_VM_VNF_INF	B-VGNF	kata,V,,,,,INF	o
+1	0	12	ulYlYawAl	V_VM_VNF_COND	I-VGNF	ulY,V,PRESENT,,,,COND	o	<ARG1-END>
+1	0	13	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	14	ceVnYnYE	N_NNP	B-NP	ceVnYnYE,N	o	<ARG2-START>
+1	0	15	marYrYum	CC_CCD	B-CCP	marYrYum,CONJ	o
+1	0	16	awanY	PR_PRP	B-NP	awanY,PN	o
+1	0	17	curYrYuvattAra	N_NN	I-NP	curYrYuvattAram,N,a-ADJ	o
+1	0	18	pakuwikalYil	N_NN	I-NP	pakuwi,N,il-LOC,pl	o
+1	0	19	uRAr	N_NN	B-NP	uRAr,N	o
+1	0	20	nilEyil	N_NN	I-NP	nilE,N,il-LOC	o
+1	0	21	irukkumArYu	RB	B-VGF	irukku,V,FUTURE,,,,RP-PSP-PSP	o
+1	0	22	kettu	V_VM_VNF_VBN	I-VGF	kelY,V,,,,,VBP	o
+1	0	23	koVlYlYappattulYlYawu	V_VM_VF	I-VGF	koVlY,V,PRESENT,sg,3,n,RP-PRP	o	<ARG2-END>
+1	0	24	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	varwA	N_NN	B-NP	varwA,N	{MCL}	<ARG1-START>
+1	0	1	puyalAl	N_NN	I-NP	puyal,N,Al-INS	o	<ARG1-END>
+1	0	2	wiruvalYlYUril	N_NNP	B-NP	wiruvalYlYUr,N,il-LOC,,,mf	o	<ARG2-START>
+1	0	3	62,888	QT_QTC	B-NP	62,888,num	o
+1	0	4	vItukalY	N_NN	I-NP	vIt,N,,pl	o
+1	0	5	cewam	N_NN	B-NP	cewam,N	o
+1	0	6	atEnwulYlYawAka	RB	B-RBP	atE,V,PRESENT,sg,3,n,RP-PRP	o
+1	0	7	wamilYYaka	N_NNP	B-NP	wamilYYaka,ADJ	o
+1	0	8	uNavuw	N_NN	I-NP	uNavu,N	o
+1	0	9	wurYE	N_NN	I-NP	wurYE,N	o
+1	0	10	amEccar	N_NN	I-NP	amEccar,N,,,,mf	o
+1	0	11	kAmarAj	N_NNP	B-NP	kAmarAj,N,,,,m	o
+1	0	12	weVriviwwAr	V_VM_VF	B-VGF	weVrivi,V,PAST,sg,3,c	o	<ARG2-END>
+1	0	13	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	1.	QT_QTC	B-NP	1.,num	{MCL}	<ARG1-START>
+1	0	1	jeVyalaliwA	N_NNP	I-NP	jeVyalaliwA,N,,,,f	o
+1	0	2	cilE	N_NN	B-NP	cilE,N	o
+1	0	3	vEppawarYku	V_VM_VNF_VBN	B-VGNF	vE,V,FUTURE,,,,RP-PRP	o
+1	0	4	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	5	a.wi.mu.ka	N_NNP	B-NP	a.wi.mu.ka,N	o
+1	0	6	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	7	vinYar	N_NN	B-NP	vinYar,unk	o
+1	0	8	Arvam	N_NN	B-NP	Arvam,N	o
+1	0	9	kAttuvawAl	V_VM_VNF_COND	B-VGNF	kAttu,V,FUTURE,,,,COND	o	<ARG1-END>
+1	0	10	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	11	cilEkkAnYa	JJ	B-NP	cilE,N,kku-DAT	o	<ARG2-START>
+1	0	12	Artar	N_NN	I-NP	Artar,N	o
+1	0	13	kuvinwu	V_VM_VNF_VBN	B-VGF	kuvi,V,,,,,VBP	o
+1	0	14	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	0	15	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	nerYrYu	N_NN	B-NP	nerYrYu,ADV	{RP}	<ARG1-START>
+1	0	1	mAlE	N_NN	I-NP	mAlE,N	o
+1	0	2	kArtiyAk	N_NNP	B-NP	kArtiyAk,N,,,,mf	o
+1	0	3	areVstAl	N_NNP	I-NP	areVstAl,N,,,,mf	o	<ARG1-END>
+1	0	4	pAwikkappatta	V_VM_VNF_RP	B-VGNF	pAwikkappatu,V,PAST,,,,RP	o	<ARG2-START>
+1	0	5	muwalvar	N_NN	B-NP	muwalvar,N,,,,mf	{/RP}
+1	0	6	jeVyalaliwA	N_NNP	B-NP	jeVyalaliwA,N,,,,f	{NF}
+1	0	7	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	8	woVtarnwu	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	{/NF}
+1	0	9	kavalEkkitamAnYa	JJ	B-NP	kavalEkkitam,N,AnYa-ADJ	{MCL}
+1	0	10	nilEyil	N_NN	I-NP	nilE,N,il-LOC	o
+1	0	11	ulYlYAr	V_VM_VF	B-VGF	ulY,V,PRESENT,sg,3,c	o	<ARG2-END>
+1	0	12	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	1.	QT_QTC	B-NP	1.,num	{MCL}	<ARG1-START>
+1	0	1	jeVyalaliwA	N_NNP	I-NP	jeVyalaliwA,N,,,,f	o
+1	0	2	cilE	N_NN	B-NP	cilE,N	o
+1	0	3	vEppawarYku	V_VM_VNF_VBN	B-VGNF	vE,V,FUTURE,,,,RP-PRP	o
+1	0	4	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	5	a.wi.mu.ka	N_NNP	B-NP	a.wi.mu.ka,N	o
+1	0	6	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	7	vinYar	N_NN	B-NP	vinYar,unk	o
+1	0	8	Arvam	N_NN	B-NP	Arvam,N	o
+1	0	9	kAttuvawAl	V_VM_VNF_COND	B-VGNF	kAttu,V,FUTURE,,,,COND	o	<ARG1-END>
+1	0	10	,	RD_PUNC	I-VGNF	&comma;,punc	o
+1	0	11	cilEkkAnYa	JJ	B-NP	cilE,N,kku-DAT	o	<ARG2-START>
+1	0	12	Artar	N_NN	I-NP	Artar,N	o
+1	0	13	kuvinwu	V_VM_VNF_VBN	B-VGF	kuvi,V,,,,,VBP	o
+1	0	14	varukirYawu	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	0	15	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	nerYrYu	N_NN	B-NP	nerYrYu,ADV	{RP}	<ARG1-START>
+1	0	1	mAlE	N_NN	I-NP	mAlE,N	o
+1	0	2	kArtiyAk	N_NNP	B-NP	kArtiyAk,N,,,,mf	o
+1	0	3	areVstAl	N_NNP	I-NP	areVstAl,N,,,,mf	o	<ARG1-END>
+1	0	4	pAwikkappatta	V_VM_VNF_RP	B-VGNF	pAwikkappatu,V,PAST,,,,RP	o	<ARG2-START>
+1	0	5	muwalvar	N_NN	B-NP	muwalvar,N,,,,mf	{/RP}
+1	0	6	jeVyalaliwA	N_NNP	B-NP	jeVyalaliwA,N,,,,f	{NF}
+1	0	7	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	8	woVtarnwu	V_VM_VNF_VBN	B-VGNF	woVtar,V,,,,,VBP	{/NF}
+1	0	9	kavalEkkitamAnYa	JJ	B-NP	kavalEkkitam,N,AnYa-ADJ	{MCL}
+1	0	10	nilEyil	N_NN	I-NP	nilE,N,il-LOC	o
+1	0	11	ulYlYAr	V_VM_VF	B-VGF	ulY,V,PRESENT,sg,3,c	o	<ARG2-END>
+1	0	12	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	poVwumakkalY	N_NN	B-NP	poVwumakkalY,N,,pl,,mf	{NF}	<ARG1-START>
+1	0	1	wafkalYitam	PR_PRP	B-NP	wafkalY,PN,itam-LOC	o
+1	0	2	ulYlYa	PSP	B-BLK	ulYlYa,PSP	o
+1	0	3	palYYEya	JJ	B-NP	palYYEya,ADJ	o
+1	0	4	500	QT_QTC	I-NP	500,num	o
+1	0	5	,	RD_PUNC	I-NP	&comma;,punc	o
+1	0	6	1000	QT_QTC	B-NP	1000,num	o
+1	0	7	rUpAy	N_NN	I-NP	rUpAy,N	o
+1	0	8	nottukalYE	N_NN	B-NP	not,N,E-ACC,pl	o
+1	0	9	vafkikalYil	N_NN	B-NP	vafki,N,il-LOC,pl	o
+1	0	10	mattume	PSP	B-BLK	mattu,N	o
+1	0	11	warYpowu	RB	B-RBP	warYpowu,ADV	o
+1	0	12	teVpAcit	N_NNP	B-NP	teVpAcit,N,,,,mf	o
+1	0	13	ceVywu	V_VM_VNF_VBN	B-VGNF	ceVy,V,,,,,VBP	{/NF}
+1	0	14	puwiya	JJ	B-NP	puwiya,ADJ	{MCL}
+1	0	15	nottu	N_NN	I-NP	nottu,N	o
+1	0	16	peVrYa	V_VM_VNF_INF	B-VGNF	peVrYu,V,,,,,INF	o
+1	0	17	mutiyum	V_VM_VF	I-VGNF	muti,V,FUTURE,sg,3,n	{/MCL}
+1	0	18	.	RD_PUNC	I-VGF	&dot;,punc	o	<ARG1-END>
+
+1	1	0	awanYAl	CC_CCS	B-CCP	awanYAl,CONJ	{INF}	<CON>
+1	1	1	vafkikalYil	N_NN	B-NP	vafki,N,il-LOC,pl	o	<ARG2-START>
+1	1	2	paNawwE	N_NN	B-NP	paNam,N,E-ACC	o
+1	1	3	teVpAcit	N_NNP	B-NP	teVpAcit,N,,,,mf	o
+1	1	4	ceVyyavum	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	o
+1	1	5	potta	V_VM_VNF_RP	I-VGNF	potu,V,PAST,,,,RP	o
+1	1	6	paNawwE	N_NN	B-NP	paNam,N,E-ACC	o
+1	1	7	eVtukkavum	V_VM_VNF_INF	B-VGNF	eVtu,V,,,,,INF	{/INF}
+1	1	8	kUttam	N_NN	B-NP	kUttam,N,,pl,,mf	{MCL}
+1	1	9	alE	N_NN	B-NP	alE,N	o
+1	1	10	mowukirYawu	V_VM_VF	B-VGF	mowu,V,PRESENT,sg,3,n	o	<ARG2-END>
+1	1	11	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+
+1	0	0	melum	CC_CCD	B-CCP	melum,ADV	{MCL}	<ARG1-START>
+1	0	1	inwa	DM_DMR	B-NP	inwa,ADJ	o
+1	0	2	natavatikkE	N_NN	I-NP	natavatikkE,N,,pl	o
+1	0	3	paNa	N_NN	B-NP	paNam,N,a-ADJ	o
+1	0	4	vIkkawwE	N_NN	I-NP	vIkkam,N,E-ACC	o
+1	0	5	kattuppatuwwuvawarYku	V_VM_VNF_RP_PRP	B-VGNF	kattuppatuwwu,V,FUTURE,,,,RP-PRP	o
+1	0	6	pawilAka	RB	B-RBP	pawil,N,Aka-ADV	o
+1	0	7	paNa	N_NN	B-NP	paNam,N,a-ADJ	o
+1	0	8	vIkkawwE	N_NN	I-NP	vIkkam,N,E-ACC	o
+1	0	9	awikarikkum	V_VM_VF	B-VGF	awikari,V,FUTURE,sg,3,n	o
+1	0	10	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}	<ARG1-END>
+
+1	1	0	iwanYAl	CC_CCS	B-CCP	iwanYAl,CONJ	{MCL}	<CON>
+1	1	1	vilEvAci	N_NNP	B-NP	vilEvAci,N	o	<ARG2-START>
+1	1	2	uyarum	N_NN	I-NP	uyar,V,FUTURE,,,,RP	o
+1	1	3	eVnYrYum	CC_CCS	B-CCP	eVnYrYum,ADV	o
+1	1	4	avarkalY	PR_PRP	B-NP	avar,PN,,pl,,mf	o
+1	1	5	kUrYinYArkalY	V_VM_VF	B-VGF	kUrYu,V,PAST,pl,3,c	o	<ARG2-END>
+1	1	6	.	RD_PUNC	I-VGF	&dot;,punc	{/MCL}
+

@@ -1,0 +1,18 @@
+பி.ஐ	N_NN	B-NP	pi.E,N,,,,,
+-	RD_SYM	I-NP	-,punc,,,,,,
+யின்	N_NN	B-NP	yinY,unk,,,,,,
+இந்த	DM_DMR	B-NP	inwa,ADJ,,,,,
+கடைசி	N_NN	I-NP	katEci,N,,,,,
+நேர	N_NN	I-NP	ner,V,,,,,INF
+நடவடிக்கையே	N_NN	I-NP	natavatikkE,N,,pl,,,
+தன்	PR_PRF	B-NP	wanY,PN,,,,,
+தோல்விக்கு	N_NN	I-NP	wolvi,N,kku-DAT,,,,
+காரணம்	N_NN	B-NP	kAraNam,N,,,,,
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,
+ஹிலாரி	N_NN	B-NP	hilAri,N,,,,f,
+கிளிண்டன்	N_NN	I-NP	kilYiNtanY,N,,,,m,
+குற்றம்	N_NN	B-NP	kurYrYam,N,,pl,,,
+சாட்டியுள்ளார்	V_VM_VF	B-VGF	cAttu,V,PRESENT,sg,3,c,
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,
+
+

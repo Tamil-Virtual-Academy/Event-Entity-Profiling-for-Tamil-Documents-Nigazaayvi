@@ -1,0 +1,86 @@
+27	QT_QTC	B-NP	27,num,,,,,,	{INF}
+வார	N_NN	I-NP	vAru,V,,,,,INF	o
+கருவை	N_NN	B-NP	karu,N,E-ACC,,,,	o
+கலைக்க	V_VM_VNF_INF	B-VGNF	kalE,V,,,,,INF	{/INF}
+பெண்ணுக்கு	N_NN	B-NP	peVN,N,ukku-DAT,,,f,	{MCL}
+அனுமதி	N_NN	B-NP	anYumawi,N,,,,,	o
+மறுப்பு	N_NN	I-NP	marYuppu,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+சுப்ரீம்	N_NN	B-NP	cuprIm,N,,,,,	o
+கோர்ட்டு	N_NN	I-NP	korttu,N,,,,,	o
+உத்தரவு	N_NN	I-NP	uwwaravu,N,,,,,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+ஸுப்ரேமே	N_NNP	B-NP	Supreme,unk,,,,,,	o
+Cஓஉர்ட்	N_NNP	I-NP	Court,unk,,,,,,	o
+Dஏநிஏஸ்	N_NNP	I-NP	Denies,unk,,,,,,	o
+Pஏர்மிஸ்ஸிஓந்	N_NNP	I-NP	Permission,unk,,,,,,	o
+டோ	N_NNP	I-NP	to,unk,,,,,,	o
+Wஓமந்	N_NNP	I-NP	Woman,unk,,,,,,	o
+டோ	N_NNP	I-NP	to,unk,,,,,,	o
+Tஏர்மிநடே	N_NNP	I-NP	Terminate,unk,,,,,,	o
+27	QT_QTC	B-NP	27,num,,,,,,	o
+Wஏஏக்	N_NN	I-NP	Week,unk,,,,,,	o
+ஞோஏடுஸ்	N_NNP	B-NP	Foetus,unk,,,,,,	o
+புதுடெல்லி	N_NNP	I-NP	puwuteVlli,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+மராட்டிய	N_NNP	B-NP	marAttiyam,N,a-ADJ,,,,	o
+மாநிலத்தை	N_NN	I-NP	mAnilam,N,E-ACC,,,,	o
+சேர்ந்த	JJ	B-NP	cernwa,ADJ,,,,,	o
+ஒரு	QT_QTC	I-NP	oVru,ADJ,,,,,	o
+பெண்	N_NN	I-NP	peVN,N,,,,f,	o
+தனது	PR_PRF	B-NP	wanY,PN,awu-GEN,,,,	o
+வயிற்றில்	N_NN	I-NP	vayirYu,N,il-LOC,,,,	o
+வளரும்	V_VM_VNF_RP	B-VGNF	valYar,V,FUTURE,,,,RP	o
+குழந்தையின்	N_NN	B-NP	kulYYanwE,N,inY-GEN,,,,	o
+வளர்ச்சி	N_NN	B-NP	valYarcci,N,,,,,	o
+தொடர்பாக	RB	B-RBP	woVtarpu,N,Aka-ADV,,,,	o
+ஸ்கேன்	N_NN	B-NP	skenY,N,,,,,	o
+எடுத்து	V_VM_VNF_VBN	B-VGF	eVtu,V,,,,,VBP	o
+பார்த்தார்	V_VM_VF	I-VGF	pAr,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{MCL}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+குழந்தை	N_NN	I-NP	kulYYanwE,N,,,,,	o
+வளர்ச்சி	N_NN	B-NP	valYarcci,N,,,,,	o
+மிகவும்	RB	B-RBP	mikavum,ADV,,,,,	o
+குறைவாக	RB	I-RBP	kurYEvu,N,Aka-ADV,,,,	o
+உடல்	N_NN	B-NP	utal,N,,,,,	o
+அங்கீகனத்துடன்	N_NN	I-NP	afkIkanYawwutanY,unk,,,,,,	o
+இருப்பது	V_VM_VNF_RP_PRP	B-VGF	iru,V,FUTURE,,,,RP-PRP	o
+தெரியவந்தது	V_VM_VF	I-VGF	weVri,V,,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இதையடுத்து	PR_PRP	B-NP	iwEyatuwwu,ADV,,,,,	{RP}
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+பெண்	N_NN	I-NP	peVN,N,,,,f,	o
+அந்த	DM_DMR	B-NP	anwa,ADJ,,,,,	o
+கருவை	N_NN	I-NP	karu,N,E-ACC,,,,	o
+கலைத்து	V_VM_VNF_VBN	B-VGNF	kalE,V,,,,,VBP	o
+விட	PSP	B-BLK	vita,PSP,,,,,	{/RP}
+முடிவு	N_NN	B-NP	mutivu,N,,,,,	{MCL}
+செய்தார்	V_VM_VF	B-VGF	ceVy,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+ஆனால்	CC_CCD	B-CCP	AnYAl,CONJ,,,,,	{MCL}
+டாக்டர்கள்	N_NN	B-NP	tAktar,N,,pl,,,	o
+அதற்கு	PR_PRP	B-NP	awu,PN,ku-DAT,,,,	o
+சம்மதிக்கவில்லை	RP_NEG	B-VGF	cammawi,V,,,,,NEG	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இந்திய	N_NNP	B-NP	inwiya,ADJ,,,,,	{NF}
+கருக்கலைப்பு	N_NN	I-NP	karukkalEppu,N,,,,,	o
+சட்டப்படி	N_NN	B-NP	cattam,N,pati-PSP,,,,	o
+குழந்தை	N_NN	I-NP	kulYYanwE,N,,,,,	o
+தரித்து	V_VM_VNF_VBN	B-VGNF	wari,V,,,,,VBP	{/NF}
+20	QT_QTC	B-NP	20,num,,,,,,	{RP}
+வாரங்களுக்கு	N_NN	I-NP	vAram,N,ukku-DAT,pl,,,	o
+பிறகு	PSP	B-BLK	pirYaku,PSP,,,,,	o
+கருவை	N_NN	B-NP	karu,N,E-ACC,,,,	o
+கலைப்பது	V_VM_VNF_RP_PRP	B-VGNF	kalE,V,FUTURE,,,,RP-PRP	{/RP}
+குற்றம்	N_NN	B-NP	kurYrYam,N,,pl,,,	{MCL}
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	o
+வரவேற்கப்பட்டுள்ளது	V_VM_VF	B-VGF	varavel,V,PRESENT,sg,3,n,RP-PRP	{/MCL}
+
+

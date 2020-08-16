@@ -1,0 +1,80 @@
+விவசாயிகள்	N_NN	B-NP	vivacAyi,N,,pl,,,	{MCL}
+தற்கொலை	N_NN	I-NP	warYkoVlE,N,,,,,	o
+விவகாரம்	N_NN	I-NP	vivakAram,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+மத்திய	JJ	B-NP	mawwiya,ADJ,,,,,	o
+அரசு	N_NN	I-NP	aracu,N,,,,,	o
+4	QT_QTC	B-NP	4,num,,,,,,	o
+வாரத்தில்	N_NN	I-NP	vAram,N,il-LOC,,,,	o
+பதில்	N_NN	B-NP	pawil,N,,,,,	o
+அளிக்க	V_VM_VNF_INF	B-VGNF	alYi,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	o
+-	RD_SYM	I-VGF	-,punc,,,,,,	o
+சுப்ரீம்கோர்ட்டு	N_NN	B-NP	cuprImkorttu,unk,,,,,,	o
+உத்தரவு	N_NN	I-NP	uwwaravu,N,,,,,	o
+|	RD_PUNC	I-NP	o	
+|	RD_PUNC	I-NP	o	
+ஞர்மேர்	N_NNP	B-NP	Farmer,unk,,,,,,	o
+ஸுஇசிdஏ	N_NNP	I-NP	suicide,unk,,,,,,	o
+ஸ்C	N_NNP	I-NP	SC,unk,,,,,,	o
+அஸ்க்ஸ்	N_NNP	I-NP	asks,unk,,,,,,	o
+Cஏந்ட்ரல்	N_NNP	I-NP	Central,unk,,,,,,	o
+gஓவேர்ந்மேந்ட்	N_NNP	I-NP	government,unk,,,,,,	o
+டோ	N_NNP	I-NP	to,unk,,,,,,	o
+ப்ரேபரே	N_NNP	I-NP	prepare,unk,,,,,,	o
+ரேபோர்ட்	N_NNP	I-NP	report,unk,,,,,,	o
+திட்ஹிந்	N_NNP	I-NP	within,unk,,,,,,	o
+4	QT_QTC	B-NP	4,num,,,,,,	o
+தேஏக்ஸ்	N_NNP	I-NP	weeks,unk,,,,,,	o
+புதுடெல்லி	N_NNP	I-NP	puwuteVlli,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+வறட்சி	N_NN	B-NP	varYatci,N,,,,,	o
+காரணமாக	RB	B-RBP	kAraNam,N,Aka-ADV,,,,	o
+விவசாயிகள்	N_NN	B-NP	vivacAyi,N,,pl,,,	o
+தற்கொலை	N_NN	B-NP	warYkoVlE,N,,,,,	o
+அதிகரித்து	V_VM_VNF_VBN	B-VGF	awikari,V,,,,,VBP	o
+வருகிறது	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தமிழ்நாட்டிலும்	N_NNP	B-NP	wamilYYnAtu,N,il-LOC,,,,	{MCL}
+விவசாயிகள்	N_NN	B-NP	vivacAyi,N,,pl,,,	o
+தற்கொலைகள்	N_NN	B-NP	warYkoVlE,N,,pl,,,	o
+அதிகரித்து	V_VM_VNF_VBN	B-VGF	awikari,V,,,,,VBP	o
+வருகின்றன	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+கடன்	N_NN	B-NP	katanY,N,,,,,	{NF}
+சுமை	N_NN	I-NP	cumE,N,,,,,	o
+உள்பட	PSP	B-BLK	ulYpata,PSP,,,,,	o
+பல்வேறு	JJ	B-NP	palverYu,ADJ,,,,,	o
+கோரிக்கைகளை	N_NN	I-NP	korikkE,N,E-ACC,pl,,,	o
+வலியுறுத்தி	V_VM_VNF_VBN	B-VGNF	valiyurYuwwu,V,,,,,VBP	{/NF}
+தமிழக	N_NNP	B-NP	wamilYYaka,ADJ,,,,,	{MCL}
+விவசாயிகள்	N_NN	I-NP	vivacAyi,N,,pl,,,	o
+டெல்லியில்	N_NNP	B-NP	teVlli,N,il-LOC,,,,	o
+தொடர்	N_NN	B-NP	woVtar,N,,,,,	o
+போராட்டத்தில்	N_NN	I-NP	porAttam,N,il-LOC,,,,	o
+ஈடுபட்டு	V_VM_VNF_VBN	B-VGF	Itupatu,V,,,,,VBP	o
+வருகிறார்கள்	V_VM_VF	I-VGF	vA,V,PRESENT,pl,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+நாடு	N_NN	B-NP	nAtu,N,,,,,	{INF}
+முழுவதும்	N_NN	I-NP	mulYYuvawum,N,,,,,	o
+விவசாயிகள்	N_NN	B-NP	vivacAyi,N,,pl,,,	o
+தற்கொலையை	N_NN	I-NP	warYkoVlE,N,E-ACC,,,,	o
+தடுக்க	V_VM_VNF_INF	B-VGNF	watu,V,,,,,INF	{/INF}
+மத்திய	JJ	B-NP	mawwiya,ADJ,,,,,	{COM}
+அரசு	N_NN	I-NP	aracu,N,,,,,	o
+நடவடிக்கை	N_NN	B-NP	natavatikkE,N,,pl,,,	o
+எடுக்க	V_VM_VNF_INF	B-VGNF	eVtu,V,,,,,INF	o
+வேண்டும்	V_VM_VF	I-VGNF	veNtum,V,,,,,	o
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{/COM}
+கோரி	V_VM_VNF_VBN	B-VGNF	koru,V,,,,,VBP	{/NF}
+சுப்ரீம்	N_NN	B-NP	cuprIm,N,,,,,	{MCL}
+கோர்ட்டில்	N_NN	I-NP	kort,N,il-LOC,pl,,,	o
+பொது	N_NN	B-NP	poVwu,N,,,,,	o
+நல	N_NN	I-NP	nalam,N,a-ADJ,,,,	o
+வழக்கு	N_NN	I-NP	valYYakku,N,,,,,	o
+தொடரப்பட்டது	V_VM_VF	B-VGF	woVtar,V,PAST,sg,3,n,RP-PRP	{/MCL}
+
+

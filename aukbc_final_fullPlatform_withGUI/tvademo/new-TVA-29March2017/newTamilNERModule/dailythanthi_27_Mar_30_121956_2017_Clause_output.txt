@@ -1,0 +1,32 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஸ்போர்ட்ஸ்	N_NNP	B-NP	Sports,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Cரிச்கேட்	N_NNP	B-NP	Cricket,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30111552	QT_QTC	B-NP	30111552,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Kஓஹ்லி-ஸய்ஸ்-ங்ரிஏந்dஸ்ஹிப்-சோம்மேந்ட்-தஸ்-bலோத்ந்-ஓஉட்-ஓங்	N_NNP	B-NP	Kohli-says-friendship-comment-was-blown-out-of,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+ப்ரோபோர்டிஓந்	V_VM_VF	B-VGF	proportion,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	o
+
+

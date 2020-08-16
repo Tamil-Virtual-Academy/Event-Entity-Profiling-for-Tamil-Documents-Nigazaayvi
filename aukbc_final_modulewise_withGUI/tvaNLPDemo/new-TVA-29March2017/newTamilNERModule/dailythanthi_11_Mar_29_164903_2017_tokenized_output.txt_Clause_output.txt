@@ -1,0 +1,32 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+dஅஇல்ய்ட்ஹந்ட்ஹி	N_NNP	B-NP	dailythanthi,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	{MCL}
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	N_NN	B-NP	News,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஈந்dஇஅ	N_NN	I-NP	India,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+29151904	QT_QTC	B-NP	29151904,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Bஅந்நேd-bய்-ஆஇர்-ஈந்dஇஅ-ஸ்ஹிவ்-ஸேந-MP-ஷவிந்dர	RD_RDF	I-NP	Banned-by-Air-India-Shiv-Sena-MP-Ravindra,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+Gஅஇக்தd	V_VM_VF	B-VGF	Gaikwad,unk,,,,,,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+வ்ப்ங்	N_NN	B-NP	vpf,unk,,,,,,	o
+
+

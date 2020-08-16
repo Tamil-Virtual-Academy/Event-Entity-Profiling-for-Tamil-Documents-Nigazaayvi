@@ -1,0 +1,5 @@
+3_0<dim><iitk> புதுடெல்லி </iitk><dim>place
+3_13<dim>ஹன்ஸ்ராஜ் <iitk> கங்காராம் </iitk><dim>person
+6_1<dim><iitk> பாகிஸ்தான் </iitk><dim>place
+7_1<dim><iitk> ஹவாலா </iitk><dim>person
+

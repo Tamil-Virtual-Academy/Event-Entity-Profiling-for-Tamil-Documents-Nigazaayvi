@@ -1,0 +1,8 @@
+Pronoun: 3	6	avar	PR_PRP	B-NP	avar,PN,,,,mf,	-	-	{/RP}	B-3.6;B-10.1	o	B-7	TRUE - ../a_na_output.txt - Non_Anaphoric
+2	11	cureRpirapu	N_NNP	B-NP	cureRpirapu,N,,,,m,	B-INDIVIDUAL	-	o	B-3.6	B-2.11;B-12.6	B-7	FALSE
+____________________
+Pronoun: 10	1	avar	PR_PRP	B-NP	avar,PN,,,,mf,	-	-	o	B-10.1	o	B-7	TRUE - ../a_na_output.txt - Non_Anaphoric
+____________________
+Pronoun: 13	1	avar	PR_PRP	B-NP	avar,PN,,,,mf,	-	-	o	B-13.1	o	B-7	TRUE - ../a_na_output.txt - Non_Anaphoric
+12	8	cureR	N_NNP	B-NP	cureR,N,,,,m,	B-INDIVIDUAL	-	o	B-13.1	B-12.8;B-20.2	B-7	FALSE<delim>12	9	pirapu	N_NNP	I-NP	pirapu,N,,,,m,	I-INDIVIDUAL	-	o	I-13.1	I-12.8;I-20.2	I-7	FALSE
+____________________

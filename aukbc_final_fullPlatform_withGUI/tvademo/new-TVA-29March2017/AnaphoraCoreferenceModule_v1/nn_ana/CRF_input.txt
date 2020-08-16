@@ -1,0 +1,280 @@
+cureRpirapu	cureRpirapu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	yes	0	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	cureRpirapu	cureRpirapu	yes	no	yes	no	no	no	1	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawurE	mawurE	yes	no	no	no	no	yes	0	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwi	mawwi	yes	no	no	no	no	yes	0	no
+
+cureRpirapu	cureRpirapu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	yes	0	yes
+
+mawurE	mawurE	yes	no	mawurE	mawurE	yes	no	no	yes	yes	no	1	yes
+
+mawurE	mawurE	yes	no	mawwi	mawwi	yes	no	no	no	no	no	1	no
+
+mawurE	mawurE	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	no	no	no	no	1	no
+
+mawurE	mawurE	yes	no	cureRpirapu	cureRpirapu	yes	no	no	no	no	no	1	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	cureRpirapu	cureRpirapu	yes	no	yes	no	no	no	1	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawurE	mawurE	yes	no	no	no	no	yes	0	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	cattapperavE_werwal	werwal	yes	no	no	no	no	yes	0	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pA.ja.ka._vetpAlYar	vetpAlYar	yes	no	no	no	no	yes	0	no
+
+cureRpirapu	cureRpirapu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	yes	0	yes
+
+mawurE	mawurE	yes	no	mawurE	mawurE	yes	no	no	yes	yes	yes	0	yes
+
+mawurE	mawurE	yes	no	cattapperavE_werwal	werwal	yes	no	no	no	no	yes	0	no
+
+mawurE	mawurE	yes	no	pA.ja.ka._vetpAlYar	vetpAlYar	yes	no	no	no	no	yes	0	no
+
+mawurE	mawurE	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	no	no	no	yes	0	no
+
+mawurE	mawurE	yes	no	cureRpirapu	cureRpirapu	yes	no	no	no	no	yes	0	no
+
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	mawurE	mawurE	yes	no	no	no	no	no	1	yes
+
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	nerYrYu	nerYrYu	yes	no	no	no	no	no	1	no
+
+mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	piracAram	piracAram	yes	no	no	no	no	no	1	no
+
+narenwira_moti	moti	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	yes	0	yes
+
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	2	yes
+
+mawwiya_aracu	aracu	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	2	no
+
+celam	celam	yes	no	celam	celam	yes	no	no	yes	yes	no	1	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	cureRpirapu	cureRpirapu	yes	no	yes	no	no	no	10	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawurE	mawurE	yes	no	no	no	no	no	10	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	nerYrYu	nerYrYu	yes	no	no	no	no	no	10	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	piracAram	piracAram	yes	no	no	no	no	no	10	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawurE_ArappAlYEyam_kirAsrotu	kirAsrotu	yes	no	no	no	no	no	9	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wi.mu.ka	wi.mu.ka	yes	no	no	no	no	no	8	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	a.wi.mu.ka._Atci_kAlam	kAlam	yes	no	no	no	no	no	8	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wamilYYaka_makkalY	makkalY	yes	no	no	no	no	no	8	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pirawamar	pirawamar	yes	yes	no	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	narenwira_moti	moti	yes	no	yes	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mInYavar	mInYavar	yes	no	no	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_aracu	aracu	yes	no	yes	no	no	no	5	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	5	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_aracu	aracu	yes	no	yes	no	no	no	3	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	celam	celam	yes	no	no	no	no	no	1	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	celam	celam	yes	no	no	no	no	yes	0	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pA.janYawA	pA.janYawA	yes	no	no	no	no	yes	0	no
+
+cureR_pirapu	pirapu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	yes	0	yes
+
+pA.janYawA_vetpAlYar	vetpAlYar	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	yes	0	yes
+
+pA.janYawA_vetpAlYar	vetpAlYar	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	no	no	no	yes	0	no
+
+pA.janYawA_vetpAlYar	vetpAlYar	yes	no	cureR_pirapu	pirapu	yes	no	no	no	no	yes	0	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	wi.mu.ka	wi.mu.ka	yes	no	no	no	no	no	10	yes
+
+wi.mu.ka._nAtu	nAtu	yes	no	a.wi.mu.ka._Atci_kAlam	kAlam	yes	no	no	no	no	no	10	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	wamilYYaka_makkalY	makkalY	yes	no	no	no	no	no	10	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	no	8	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	narenwira_moti	moti	yes	no	no	no	no	no	8	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	no	no	no	no	8	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	mInYavar	mInYavar	yes	no	no	no	no	no	8	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	7	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	7	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	5	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	celam	celam	yes	no	no	no	no	no	3	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	celam	celam	yes	no	no	no	no	no	2	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	no	2	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	no	no	no	no	2	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	cureR_pirapu	pirapu	yes	no	no	no	no	no	2	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	no	no	no	no	2	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	katanwa_ANtu	ANtu	yes	no	no	no	no	yes	0	no
+
+wi.mu.ka._nAtu	nAtu	yes	no	kAfkiras	kAfkiras	yes	no	no	no	no	yes	0	no
+
+narenwira_moti	moti	yes	no	narenwira_moti	moti	yes	no	yes	yes	yes	no	9	yes
+
+narenwira_moti	moti	yes	no	walEmEyilAnYa_mawwiya_pA.ja.ka._aracu	aracu	yes	no	yes	no	no	no	9	no
+
+narenwira_moti	moti	yes	no	mInYavar	mInYavar	yes	no	no	no	no	no	9	no
+
+narenwira_moti	moti	yes	no	mawwiya_aracu	aracu	yes	no	yes	no	no	no	8	no
+
+narenwira_moti	moti	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	8	no
+
+narenwira_moti	moti	yes	no	mawwiya_aracu	aracu	yes	no	yes	no	no	no	6	no
+
+narenwira_moti	moti	yes	no	celam	celam	yes	no	no	no	no	no	4	no
+
+narenwira_moti	moti	yes	no	celam	celam	yes	no	no	no	no	no	3	no
+
+narenwira_moti	moti	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	no	3	no
+
+narenwira_moti	moti	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	no	3	no
+
+narenwira_moti	moti	yes	no	cureR_pirapu	pirapu	yes	no	yes	no	no	no	3	no
+
+narenwira_moti	moti	yes	no	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	no	no	no	no	3	no
+
+narenwira_moti	moti	yes	no	katanwa_ANtu	ANtu	yes	no	no	no	no	no	1	no
+
+narenwira_moti	moti	yes	no	kAfkiras	kAfkiras	yes	no	no	no	no	no	1	no
+
+narenwira_moti	moti	yes	no	wi.mu.ka._nAtu	nAtu	yes	no	no	no	no	no	1	no
+
+narenwira_moti	moti	yes	no			yes	no	no	no	no	yes	0	no
+
+narenwira_moti	moti	yes	no	pArAlYumanYrYa_werwal	werwal	yes	no	no	no	no	yes	0	no
+
+pirawamar	pirawamar	yes	yes	narenwira_moti	moti	yes	no	no	no	no	no	3	yes
+
+pirawamar	pirawamar	yes	yes	inwiyA	inwiyA	yes	no	no	no	no	no	1	no
+
+moti	moti	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	yes	0	yes
+
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	no	10	yes
+
+mawwiya_aracu	aracu	yes	no	celam	celam	yes	no	no	no	no	no	8	no
+
+mawwiya_aracu	aracu	yes	no	celam	celam	yes	no	no	no	no	no	7	no
+
+mawwiya_aracu	aracu	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	no	7	no
+
+mawwiya_aracu	aracu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	no	7	no
+
+mawwiya_aracu	aracu	yes	no	cureR_pirapu	pirapu	yes	no	yes	no	no	no	7	no
+
+mawwiya_aracu	aracu	yes	no	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	no	no	no	no	7	no
+
+mawwiya_aracu	aracu	yes	no	katanwa_ANtu	ANtu	yes	no	no	no	no	no	5	no
+
+mawwiya_aracu	aracu	yes	no	kAfkiras	kAfkiras	yes	no	no	no	no	no	5	no
+
+mawwiya_aracu	aracu	yes	no	wi.mu.ka._nAtu	nAtu	yes	no	no	no	no	no	5	no
+
+mawwiya_aracu	aracu	yes	no			yes	no	no	no	no	no	4	no
+
+mawwiya_aracu	aracu	yes	no	pArAlYumanYrYa_werwal	werwal	yes	no	no	no	no	no	4	no
+
+mawwiya_aracu	aracu	yes	no	narenwira_moti	moti	yes	no	yes	no	no	no	4	no
+
+mawwiya_aracu	aracu	yes	no	inwiyA	inwiyA	yes	no	no	no	no	no	2	no
+
+mawwiya_aracu	aracu	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	no	1	no
+
+mawwiya_aracu	aracu	yes	no	moti	moti	yes	no	no	no	no	no	1	no
+
+wamilYYakam	wamilYYakam	yes	no	wamilYYnAtu	wamilYYnAtu	yes	no	no	no	no	no	12	yes
+
+wamilYYakam	wamilYYakam	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	10	no
+
+wamilYYakam	wamilYYakam	yes	no	celam	celam	yes	no	no	no	no	no	8	no
+
+wamilYYakam	wamilYYakam	yes	no	celam	celam	yes	no	no	no	no	no	7	no
+
+wamilYYakam	wamilYYakam	yes	no	pA.janYawA	pA.janYawA	yes	no	no	no	no	no	7	no
+
+wamilYYakam	wamilYYakam	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	no	no	no	no	7	no
+
+wamilYYakam	wamilYYakam	yes	no	cureR_pirapu	pirapu	yes	no	no	no	no	no	7	no
+
+wamilYYakam	wamilYYakam	yes	no	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	no	no	no	no	7	no
+
+wamilYYakam	wamilYYakam	yes	no	katanwa_ANtu	ANtu	yes	no	no	no	no	no	5	no
+
+wamilYYakam	wamilYYakam	yes	no	kAfkiras	kAfkiras	yes	no	no	no	no	no	5	no
+
+wamilYYakam	wamilYYakam	yes	no	wi.mu.ka._nAtu	nAtu	yes	no	no	no	no	no	5	no
+
+wamilYYakam	wamilYYakam	yes	no			yes	no	no	no	no	no	4	no
+
+wamilYYakam	wamilYYakam	yes	no	pArAlYumanYrYa_werwal	werwal	yes	no	no	no	no	no	4	no
+
+wamilYYakam	wamilYYakam	yes	no	narenwira_moti	moti	yes	no	no	no	no	no	4	no
+
+wamilYYakam	wamilYYakam	yes	no	inwiyA	inwiyA	yes	no	no	no	no	no	2	no
+
+wamilYYakam	wamilYYakam	yes	no	pirawamar	pirawamar	yes	yes	no	no	no	no	1	no
+
+wamilYYakam	wamilYYakam	yes	no	moti	moti	yes	no	no	no	no	no	1	no
+
+wamilYYakam	wamilYYakam	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	yes	0	no
+
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	yes	yes	yes	yes	0	yes
+
+mawwiya_aracu	aracu	yes	no	wamilYYakam	wamilYYakam	yes	no	no	no	no	yes	0	no
+
+wamilYYakam	wamilYYakam	yes	no	wamilYYakam	wamilYYakam	yes	no	no	yes	yes	yes	0	yes
+
+wamilYYakam	wamilYYakam	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	yes	0	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	cureR_pirapu	pirapu	yes	no	yes	no	no	no	8	yes
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pA.janYawA_vetpAlYar	vetpAlYar	yes	no	no	no	no	no	8	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	katanwa_ANtu	ANtu	yes	no	no	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	kAfkiras	kAfkiras	yes	no	no	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wi.mu.ka._nAtu	nAtu	yes	no	no	no	no	no	6	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes			yes	no	no	no	no	no	5	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pArAlYumanYrYa_werwal	werwal	yes	no	no	no	no	no	5	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	narenwira_moti	moti	yes	no	yes	no	no	no	5	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	inwiyA	inwiyA	yes	no	no	no	no	no	3	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	pirawamar	pirawamar	yes	yes	no	no	no	no	2	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	moti	moti	yes	no	no	no	no	no	2	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_aracu	aracu	yes	no	yes	no	no	no	1	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wamilYYakam	wamilYYakam	yes	no	no	no	no	no	1	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	mawwiya_aracu	aracu	yes	no	yes	no	no	no	1	no
+
+mawwiya_reVyilve_manwiri	manwiri	yes	yes	wamilYYakam	wamilYYakam	yes	no	no	no	no	no	1	no
+
+cureR_pirapu	pirapu	yes	no	mawwiya_reVyilve_manwiri	manwiri	yes	yes	yes	no	no	yes	0	yes
+

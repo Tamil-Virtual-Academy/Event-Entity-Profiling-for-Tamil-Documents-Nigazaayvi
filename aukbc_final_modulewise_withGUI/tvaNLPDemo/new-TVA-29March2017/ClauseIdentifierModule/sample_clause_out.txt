@@ -1,0 +1,75 @@
+வறட்சியை	N_NN	B-NP	varYatci,N,E-ACC,,,,	{INF}
+ஆய்வு	N_NN	B-NP	Ayvu,N,,,,,	o
+செய்ய	V_VM_VNF_INF	B-VGNF	ceVy,V,,,,,INF	{/INF}
+முன்னாள்	JJ	B-NP	munYnYAlY,N,,,,,	{MCL}
+முதல்வர்	N_NN	I-NP	muwalvar,N,,,,,	o
+எடியூரப்பா	N_NNP	B-NP	eVtiyUrappA,N,,,,m,	o
+சுற்றுப்பயணம்	N_NN	B-NP	curYrYuppayaNam,N,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	{/MCL}
+
+முன்னாள்	JJ	B-NP	munYnYAlY,N,,,,,	{MCL}
+முதல்வர்	N_NN	I-NP	muwalvar,N,,,,,	o
+எடியூரப்பா	N_NNP	B-NP	eVtiyUrappA,N,,,,m,	o
+அண்மையில்	N_NN	B-NP	aNmE,N,il-LOC,,,,	o
+மாநில	N_NN	B-NP	mAnilam,N,a-ADJ,,,,	o
+பாஜக	N_NNP	I-NP	pAjaka,N,,,,,	o
+தலைவராக	RB	B-RBP	walEvar,N,Aka-ADV,pl,,,	o
+பதவி	N_NN	B-NP	pawavi,N,,pl,,,	o
+ஏற்றார்	V_VM_VF	B-VGF	el,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+அப்போது	RB	B-RBP	appowu,ADV,,,,,	{CON}
+மாநிலத்தில்	N_NN	B-NP	mAnilam,N,il-LOC,,,,	o
+கடும்	JJ	B-NP	katu,V,FUTURE,sg,3,n,	o
+வறட்சி	N_NN	I-NP	varYatci,N,,,,,	o
+நிலவுவதால்	V_VM_VNF_COND	B-VGNF	nilavu,V,FUTURE,,,,COND	{/CON}
+,	RD_PUNC	I-VGNF	&comma;,punc,,,,,	{NF}
+மாநிலம்	N_NN	B-NP	mAnilam,N,,,,,	o
+முழுவதும்	N_NN	B-NP	mulYYuvawum,N,,,,,	o
+சுற்றுப்பயணம்	N_NN	B-NP	curYrYuppayaNam,N,,,,,	o
+மேற்கொண்டு	V_VM_VNF_VBN	B-VGNF	merYkoVlY,V,,,,,VBP	{/NF}
+வறட்சி	N_NN	B-NP	varYatci,N,,,,,	{NF}
+குறித்து	PSP	B-BLK	kurYiwwu,ADV,,,,,	o
+ஆய்வு	N_NN	B-NP	Ayvu,N,,,,,	o
+செய்து	V_VM_VNF_VBN	B-VGNF	ceVy,V,,,,,VBP	{/NF}
+அறிக்கை	N_NN	B-NP	arYikkE,N,,,,,	{MCL}
+அளிக்க	V_VM_VNF_INF	B-VGF	alYi,V,,,,,INF	o
+உள்ளதாக	RB	I-VGF	ulY,V,PRESENT,sg,3,n,RP-PRP	o
+தெரிவித்தார்	V_VM_VF	I-VGF	weVrivi,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+சென்னை	N_NNP	B-NP	ceVnYnYE,N,,,,,	
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	
+
+ஏப்	N_NNP	B-NP	e,N,,,,,	
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	
+22	QT_QTC	B-NP	22,num,,,,,,	
+–	RD_SYM	I-NP	–,punc,,,,,,	
+
+அண்ணாநகர்	N_NNP	B-NP	aNNAnakar,N,,,,,	{RP}
+தொகுதியில்	N_NN	I-NP	woVkuwi,N,il-LOC,,,,	o
+செய்த	V_VM_VNF_RP	B-VGNF	ceVy,V,PAST,,,,RP	o
+சாதனைகளை	N_NN	B-NP	cAwanYE,N,E-ACC,pl,,,	{/RP}
+சொல்லி	V_VM_VNF_VBN	B-VGNF	coVl,V,,,,,VBP	{/NF}
+அண்ணாநகர்	N_NNP	B-NP	aNNAnakar,N,,,,,	{MCL}
+தொகுதி	N_NN	I-NP	woVkuwi,N,,,,,	o
+வேட்பாளரும்	N_NN	B-NP	vetpAlYar,N,,,,,	o
+அமைச்சருமான	JJ	B-NP	amEccar,N,,,,,	o
+எஸ்.கோகுல	N_NNP	B-NP	eVs.kokula,unk,,,,,,	o
+இந்திரா	N_NNP	I-NP	inwirA,N,,,,f,	o
+ஓட்டு	N_NN	B-NP	ottu,N,,,,,	o
+கேட்டார்	V_VM_VF	B-VGF	kelY,V,PAST,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+தினமும்	N_NN	B-NP	winYam,N,,,,,	{NF}
+காலையிலும்	N_NN	B-NP	kAlE,N,il-LOC,,,,	o
+,	RD_PUNC	I-NP	&comma;,punc,,,,,	o
+மாலையிலும்	N_NN	B-NP	mAlE,N,il-LOC,,,,	o
+வீடு	N_NN	B-NP	vItu,N,,,,,	o
+வீடாக	RB	B-VGNF	vItu,N,Aka-ADV,,,,	o
+சென்று	V_VM_VNF_VBN	I-VGNF	ceVl,V,,,,,VBP	{/NF}
+ஓட்டு	N_NN	B-NP	ottu,N,,,,,	{MCL}
+கேட்டு	V_VM_VNF_VBN	B-VGF	kelY,V,,,,,VBP	o
+வருகிறார்	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,c,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+

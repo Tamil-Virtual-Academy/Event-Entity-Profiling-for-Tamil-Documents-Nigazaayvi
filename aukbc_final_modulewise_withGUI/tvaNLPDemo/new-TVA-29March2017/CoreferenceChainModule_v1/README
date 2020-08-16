@@ -1,0 +1,53 @@
+Title:
+------
+AUKBC Tamil Coreference Chain Builder Module 1.0
+
+Description: 
+------------
+
+AUKBC Tamil Coreference Chain Builder Module v1.0: 
+
+This takes a text file in UTF-8 as input having the syntactic information of Morph, POS, Chunk and clause Boundary. And also having semantic information of Named Entity, Anaphora resolution for 3rd person pronominals, Noun-Noun Anaphora, Definte Description relations. This outputs Coreference chain.
+
+
+
+Requirements (Pre-requisites):
+-----------------------------
+a)Operating System		:    LINUX/UNIX system(Prefarable Ubuntu 14.04LTS)
+
+b)Compiler/Interpreter/Librarie(s):    Perl (v 5.18 or higher) and C++ compiler (gcc 3.0 or higher)
+
+c) CRF++ Tool :
+we assume that CRF Tool kit is already installed in your system. If CRF Tool Kit is not installed in your system then you please download and install it. It can be obtained from 
+   https://taku910.github.io/crfpp/
+
+The version of CRF++ should be 0.42 or higher (you can download the latest version available for download). Please refer to CRF++ installation instructions as given the CRF++ web page.
+
+d) The input file is in UTF-8 encoding.
+   The input file format should be as shown in sample_input.txt
+
+e) This engine is dependent on the other syntactic processing modules Morphanalyser, POS, Chunker, Clause Tagging engine, Named Entity Recognizer (NER) and Anaphora resolution engine for 3rd person pronominals, noun-noun anaphora, definte description.Ensure that you have those engines in place before this integrated pipeline is used.
+
+Installation:
+-------------
+There is no special installation required for this syntactic workbench pipeline. It is essential that the other syntactic processing modules have to be at the same place as this folder is situated in the system. Copy paste this folder in the same place in your system where you have put the other syntactic processing modules and start using it.
+
+How to Use?
+------------
+The format of the input file should be as shown in the sample file 'sample_input.txt'. The encoding of the file should be in utf-8. The output format is a column format where the 1st column is the word, the second column is the POS tag, third clumn is the Chunk or phrase Tag, fourth column is the morph information and fifth column is the clause information, sixth is 3rd person pronominal resolution, seventh is noun-noun resolution and last column is complete coreference chain.
+
+sh CoreferenceChain.sh sample_input.txt 
+
+The output would be as shown in the sample outut file sample_corefchain_output.txt for the sample input file.
+
+References:
+-----------
+
+[1] Taku Kudo - https://taku910.github.io/crfpp/  (or) https://sourceforge.net/projects/crfpp/
+
+
+#################################
+Credits: Sobha Lalitha Devi, Vijay Sundar Ram
+CLRG, AU-KBC Research Centre, Chennai, India
+#################################
+

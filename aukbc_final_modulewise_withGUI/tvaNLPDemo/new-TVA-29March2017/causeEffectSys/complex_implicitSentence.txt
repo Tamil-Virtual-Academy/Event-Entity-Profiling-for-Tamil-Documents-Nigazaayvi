@@ -1,0 +1,33 @@
+1       0       0       jammu   N_NNP   B-NP    jammu,N {MCL}   <ARG1-START>
+1       0       1       kARmIril        N_NNP   I-NP    kARmIr,N,il-LOC o
+1       0       2       pAkiswAnY       N_NNP   B-NP    pAkiswAnY,N,,pl,,mf     o
+1       0       3       patEyinYarinY   N_NN    I-NP    patEyinYar,N,inY-GEN,pl,,mf     o
+1       0       4       awwumIrYiya     JJ      B-NP    awwumIrYu,V,PAST,,,,RP  o
+1       0       5       wAkkuwalil      N_NN    I-NP    wAkkuwal,N,il-LOC       o       <ARG1-END>
+1       0       6       eVllE   N_NN    B-NP    eVllE,N o       <ARG2-START>
+1       0       7       pAwukAppu       N_NN    I-NP    pAwukAppu,N     o
+1       0       8       patE    N_NN    I-NP    patE,N,,pl,,mf  o
+1       0       9       (       RD_SYM  B-NP    (,punc  o
+1       0       10      pieVseVp        RD_RDF  I-NP    pieVseVp,unk    o
+1       0       11      )       RD_SYM  I-NP    ),punc  o
+1       0       12      vIrar   N_NN    B-NP    vIrar,N,,,,m    o
+1       0       13      oVruvar N_NN    B-NP    oVruvar,N,,,,mf o
+1       0       14      uyirilYYanwAr   V_VM_VF B-VGF   uyirilYYa,V,PAST,sg,3,c o       </ARG2-END>
+1       0       15      .       RD_PUNC I-VGF   &dot;,punc      {/MCL}
+
+1       0       0       varwA   N_NN    B-NP    varwA,N {MCL}   <ARG1-START>
+1       0       1       puyalAl N_NN    I-NP    puyal,N,Al-INS  o       <ARG1-END>
+1       0       2       wiruvalYlYUril  N_NNP   B-NP    wiruvalYlYUr,N,il-LOC,,,mf      o       <ARG2-START>
+1       0       3       62,888  QT_QTC  B-NP    62,888,num      o
+1       0       4       vItukalY        N_NN    I-NP    vIt,N,,pl       o
+1       0       5       cewam   N_NN    B-NP    cewam,N o
+1       0       6       atEnwulYlYawAka RB      B-RBP   atE,V,PRESENT,sg,3,n,RP-PRP     o
+1       0       7       wamilYYaka      N_NNP   B-NP    wamilYYaka,ADJ  o
+1       0       8       uNavuw  N_NN    I-NP    uNavu,N o
+1       0       9       wurYE   N_NN    I-NP    wurYE,N o
+1       0       10      amEccar N_NN    I-NP    amEccar,N,,,,mf o
+1       0       11      kAmarAj N_NNP   B-NP    kAmarAj,N,,,,m  o
+1       0       12      weVriviwwAr     V_VM_VF B-VGF   weVrivi,V,PAST,sg,3,c   o       <ARG2-END>
+1       0       13      .       RD_PUNC I-VGF   &dot;,punc      {/MCL}
+
+

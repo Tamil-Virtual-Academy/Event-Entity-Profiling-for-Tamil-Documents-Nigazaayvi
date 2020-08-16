@@ -1,0 +1,349 @@
+kujarAwwil	N_NNP	B-NP	kuja	kuj	wwil##	wil	0
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam##	Yam	0
+:	RD_PUNC	I-NP	0	0	0##	0	0
+25	QT_QTC	B-NP	0	0	0##	0	0
+Ayiram	QT_QTC	I-NP	Ayir	Ayi	iram##	ram	0
+per	N_NN	I-NP	0	0	0##	0	0
+pAwukAppAnYa	JJ	B-NP	pAwu	pAw	AnYa##	nYa	0
+itafkalYukku	N_NN	I-NP	itaf	ita	ukku##	kku	0
+mArYrYam	N_NN	B-NP	mArY	mAr	rYam##	Yam	0
+
+kujarAwwil	N_NNP	B-NP	kuja	kuj	wwil##	wil	0
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam##	Yam	0
+25	QT_QTC	B-NP	0	0	0##	0	0
+Ayiram	QT_QTC	I-NP	Ayir	Ayi	iram##	ram	0
+per	N_NN	I-NP	0	0	0##	0	0
+pAwukAppAnYa	JJ	B-NP	pAwu	pAw	AnYa##	nYa	0
+itafkalYukku	N_NN	I-NP	itaf	ita	ukku##	kku	0
+mArYrYam	N_NN	B-NP	mArY	mAr	rYam##	Yam	0
+,	RD_PUNC	I-NP	0	0	0##	0	0
+rAjaswAnYil	N_NNP	B-NP	rAja	rAj	nYil##	Yil	0
+iruvar	N_NN	B-NP	iruv	iru	uvar##	var	0
+uyirilYYappu	N_NN	I-NP	uyir	uyi	appu##	ppu	0
+
+jUlE	N_NNP	B-NP	0	jUl	0##	UlE	0
+25	QT_QTC	B-NP	0	0	0##	0	0
+,	RD_PUNC	I-NP	0	0	0##	0	0
+2017	QT_QTC	B-NP	0	201	0##	017	0
+,	RD_PUNC	I-NP	0	0	0##	0	0
+09:34	QT_QTC	B-NP	09:3	09:	9:34##	:34	0
+AM	QT_QTC	I-NP	0	0	0##	0	0
+
+
+puwuteVlli	N_NNP	I-NP	puwu	puw	Vlli##	lli	0
+,	N_NN	B-NP	0	0	0##	0	0
+vata	N_NN	I-NP	0	vat	0##	ata	0
+mAnilafkalYil	N_NN	B-NP	mAni	mAn	lYil##	Yil	0
+paruvamalYYE	V_VM_VNF_VBN	B-VGF	paru	par	lYYE##	YYE	0
+wIviram	V_VM_VF	I-VGF	wIvi	wIv	iram##	ram	0
+atEnwu	RD_PUNC	I-VGF	atEn	atE	Enwu##	nwu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+marAttiyam	N_NNP	I-NP	marA	mar	iyam##	yam	0
+,	RD_PUNC	B-NP	0	0	0##	0	0
+kujarAw	N_NNP	I-NP	kuja	kuj	arAw##	rAw	0
+,	CC_CCD	B-CCP	0	0	0##	0	0
+rAjaswAnY	PR_PRP	B-NP	rAja	rAj	wAnY##	AnY	0
+marYrYum	PSP	B-BLK	marY	mar	rYum##	Yum	0
+awanYEyoVtti	N_NN	B-NP	awan	awa	Vtti##	tti	0
+ulYlYa	N_NN	B-NP	ulYl	ulY	YlYa##	lYa	0
+mAnilafkalYil	V_VM_VNF_VBN	B-VGF	mAni	mAn	lYil##	Yil	0
+kanYamalYYE	V_VM_VF	I-VGF	kanY	kan	lYYE##	YYE	0
+peVywu	RD_PUNC	I-VGF	peVy	peV	Vywu##	ywu	0
+varukirYawu	&dot;,punc	I-VGF	varu	var	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+merYku	CC_CCD	B-CCP	merY	mer	rYku##	Yku	0
+vafkAlYam	N_NNP	B-NP	vafk	vaf	lYam##	Yam	0
+marYrYum	N_NN	I-NP	marY	mar	rYum##	Yum	0
+oVticA	N_NN	B-NP	oVti	oVt	ticA##	icA	0
+mAnilafkalYilum	V_VM_VNF_VBN	B-VGF	mAni	mAn	ilum##	lum	0
+kanYamalYYE	V_VM_VF	I-VGF	kanY	kan	lYYE##	YYE	0
+peVywu	RD_PUNC	I-VGF	peVy	peV	Vywu##	ywu	0
+varukirYawu	&dot;,punc	I-VGF	varu	var	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+kanYamalYYE	N_NNP	B-NP	kanY	kan	lYYE##	YYE	0
+kAraNamAka	CC_CCD	B-CCP	kAra	kAr	mAka##	Aka	0
+kujarAw	N_NNP	B-NP	kuja	kuj	arAw##	rAw	0
+marYrYum	N_NN	B-NP	marY	mar	rYum##	Yum	0
+rAjaswAnYil	N_NN	I-NP	rAja	rAj	nYil##	Yil	0
+ArYukalYil	V_VM_VNF_VBN	B-VGF	ArYu	ArY	lYil##	Yil	0
+veVlYlYam	V_VM_VF	I-VGF	veVl	veV	lYam##	Yam	0
+karEpuraNtu	RD_PUNC	I-VGF	karE	kar	aNtu##	Ntu	0
+otukirYawu	&dot;,punc	I-VGF	otuk	otu	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+wAlYYvAnYa	N_NN	I-NP	wAlY	wAl	AnYa##	nYa	0
+pakuwikalYil	N_NN	B-NP	paku	pak	lYil##	Yil	0
+vacikkum	N_NN	B-NP	vaci	vac	kkum##	kum	0
+makkalY	N_NN	I-NP	makk	mak	kalY##	alY	0
+veVlYlYawwinYAl	V_VM_VF	B-VGF	veVl	veV	nYAl##	YAl	0
+pAwikkappattu	RD_PUNC	I-VGF	pAwi	pAw	attu##	ttu	0
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar##	Yar	0
+.	{/MCL}		0	0	0##	0	0
+
+pAwikkappatta	RB	B-RBP	pAwi	pAw	atta##	tta	0
+makkalY	N_NN	B-NP	makk	mak	kalY##	alY	0
+pawwiramAka	V_VM_VF	B-VGF	paww	paw	mAka##	Aka	0
+mItkappattu	RD_PUNC	I-VGF	mItk	mIt	attu##	ttu	0
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar##	Yar	0
+.	{/MCL}		0	0	0##	0	0
+
+iwarYkAnYa	N_NN	I-NP	iwar	iwa	AnYa##	nYa	0
+paNiyil	N_NN	B-NP	paNi	paN	iyil##	yil	0
+weciya	N_NN	B-NP	weci	wec	ciya##	iya	0
+peritar	N_NN	I-NP	peri	per	itar##	tar	0
+mItpu	RD_PUNC	I-NP	mItp	mIt	Itpu##	tpu	0
+patEyinYar	N_NN	I-NP	patE	pat	nYar##	Yar	0
+,	N_NN	B-NP	0	0	0##	0	0
+mAnila	N_NN	I-NP	mAni	mAn	nila##	ila	0
+mItpu	CC_CCD	B-CCP	mItp	mIt	Itpu##	tpu	0
+kulYYu	N_NN	B-NP	kulY	kul	lYYu##	YYu	0
+marYrYum	V_VM_VNF_VBN	B-VGF	marY	mar	rYum##	Yum	0
+rANuvamum	V_VM_VF	I-VGF	rANu	rAN	amum##	mum	0
+kalYamirYafki	RD_PUNC	I-VGF	kalY	kal	afki##	fki	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+pAwikkappatta	RB	B-RBP	pAwi	pAw	atta##	tta	0
+makkalY	N_NN	B-NP	makk	mak	kalY##	alY	0
+pawwiramAka	JJ	B-NP	paww	paw	mAka##	Aka	0
+mItkappattu	N_NN	I-NP	mItk	mIt	attu##	ttu	0
+warYpowEya	N_NN	B-NP	warY	war	wEya##	Eya	0
+mukAmkalYil	V_VM_VNF_VBN	B-VGF	mukA	muk	lYil##	Yil	0
+waFcam	V_VM_VF	I-VGF	waFc	waF	Fcam##	cam	0
+atEnwu	RD_PUNC	I-VGF	atEn	atE	Enwu##	nwu	0
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar##	Yar	0
+.	{/MCL}		0	0	0##	0	0
+
+cumAr	N_NN	I-NP	cumA	cum	umAr##	mAr	0
+25	JJ	B-NP	0	0	0##	0	0
+per	N_NN	I-NP	0	0	0##	0	0
+pAwukAppAnYa	N_NN	I-NP	pAwu	pAw	AnYa##	nYa	0
+itafkalYukku	V_VM_VF	B-VGF	itaf	ita	ukku##	kku	0
+itampeVyarnwu	RD_PUNC	I-VGF	itam	ita	rnwu##	nwu	0
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar##	Yar	0
+.	{/MCL}		0	0	0##	0	0
+
+kujarAw	N_NN	I-NP	kuja	kuj	arAw##	rAw	0
+mAnilawwil	N_NNP	B-NP	mAni	mAn	wwil##	wil	0
+veVlYlYawwinYAl	RD_PUNC	B-NP	veVl	veV	nYAl##	YAl	0
+panYAskAnwA	N_NNP	B-NP	panY	pan	AnwA##	nwA	0
+,	RD_PUNC	I-NP	0	0	0##	0	0
+cApArkAnwA	N_NNP	I-NP	cApA	cAp	AnwA##	nwA	0
+,	RD_PUNC	I-NP	0	0	0##	0	0
+AnYanw	N_NN	I-NP	AnYa	AnY	Yanw##	anw	0
+,	CC_CCD	B-CCP	0	0	0##	0	0
+pawAnY	N_NNP	B-NP	pawA	paw	wAnY##	AnY	0
+marYrYum	N_NN	I-NP	marY	mar	rYum##	Yum	0
+vAlcAw	JJ	B-NP	vAlc	vAl	lcAw##	cAw	0
+mAvattafkalYil	N_NN	I-NP	mAva	mAv	lYil##	Yil	0
+peVrumpAlAnYa	N_NN	B-NP	peVr	peV	AnYa##	nYa	0
+pakuwikalY	N_NN	B-NP	paku	pak	kalY##	alY	0
+veVlYlYawwinYAl	V_VM_VF	B-VGF	veVl	veV	nYAl##	YAl	0
+pAwikkappattu	RD_PUNC	I-VGF	pAwi	pAw	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+panYAskAnwA	PSP	B-BLK	panY	pan	AnwA##	nwA	0
+mAvattawwil	N_NN	B-NP	mAva	mAv	wwil##	wil	0
+mattum	V_VM_VNF_RP	B-VGNF	matt	mat	ttum##	tum	0
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam##	Yam	0
+pAwikkappatta	N_NN	I-NP	pAwi	pAw	atta##	tta	0
+itafkalYil	RB	B-RBP	itaf	ita	lYil##	Yil	0
+irunwu	QT_QTC	B-NP	irun	iru	unwu##	nwu	0
+cumAr	QT_QTC	I-NP	cumA	cum	umAr##	mAr	0
+11	N_NN	I-NP	0	0	0##	0	0
+Ayiram	RB	B-RBP	Ayir	Ayi	iram##	ram	0
+per	N_NN	B-NP	0	0	0##	0	0
+pawwiramAka	JJ	B-NP	paww	paw	mAka##	Aka	0
+mItkappattu	N_NN	I-NP	mItk	mIt	attu##	ttu	0
+warYkAlika	N_NNP	B-NP	warY	war	lika##	ika	0
+mukAmkalYil	V_VM_VNF_VBN	B-VGF	mukA	muk	lYil##	Yil	0
+wafka	V_VM_VF	I-VGF	wafk	waf	afka##	fka	0
+vEkkappattu	RD_PUNC	I-VGF	vEkk	vEk	attu##	ttu	0
+ulYlYanYar	&dot;,punc	I-VGF	ulYl	ulY	nYar##	Yar	0
+
+vatakku	CC_CCD	B-CCP	vata	vat	akku##	kku	0
+kujarAw	N_NNP	B-NP	kuja	kuj	arAw##	rAw	0
+marYrYum	N_NN	I-NP	marY	mar	rYum##	Yum	0
+cavurARtirAvil	N_NN	I-NP	cavu	cav	Avil##	vil	0
+peVywa	N_NN	B-NP	peVy	peV	Vywa##	ywa	0
+kanYamalYYEyAl	N_NN	B-NP	kanY	kan	EyAl##	yAl	0
+caparmawi	N_NN	B-NP	capa	cap	mawi##	awi	0
+ArYrYil	V_VM_VNF_VBN	B-VGF	ArYr	ArY	rYil##	Yil	0
+veVlYlYam	V_VM_VF	I-VGF	veVl	veV	lYam##	Yam	0
+peVrukkeVtuwwu	RD_PUNC	I-VGF	peVr	peV	uwwu##	wwu	0
+otukirYawu	&dot;,punc	I-VGF	otuk	otu	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+rAjaswAnY	N_NN	I-NP	rAja	rAj	wAnY##	AnY	0
+mAnilawwilum	RB	B-RBP	mAni	mAn	ilum##	lum	0
+kanYamalYYE	N_NN	B-NP	kanY	kan	lYYE##	YYE	0
+kAraNamAka	V_VM_VNF_VBN	B-VGF	kAra	kAr	mAka##	Aka	0
+veVlYlYam	V_VM_VF	I-VGF	veVl	veV	lYam##	Yam	0
+erYpattu	RD_PUNC	I-VGF	erYp	erY	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+mAnilawwil	N_NN	B-NP	mAni	mAn	wwil##	wil	0
+mItpu	RB	B-VGF	mItp	mIt	Itpu##	tpu	0
+paNikalY	V_VM_VNF_VBN	I-VGF	paNi	paN	kalY##	alY	0
+wIviramAka	V_VM_VF	I-VGF	wIvi	wIv	mAka##	Aka	0
+natEpeVrYrYu	RD_PUNC	I-VGF	natE	nat	YrYu##	rYu	0
+varukirYawu	&dot;,punc	I-VGF	varu	var	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+weVrYku	N_NN	I-NP	weVr	weV	rYku##	Yku	0
+rAjaswAnYil	N_NN	B-NP	rAja	rAj	nYil##	Yil	0
+peVywa	RB	B-RBP	peVy	peV	Vywa##	ywa	0
+kanYamalYYE	N_NNP	B-NP	kanY	kan	lYYE##	YYE	0
+kAraNamAka	N_NN	I-NP	kAra	kAr	mAka##	Aka	0
+rAjaswAnY	N_NNP	B-NP	rAja	rAj	wAnY##	AnY	0
+mAnilawwil	RD_PUNC	I-NP	mAni	mAn	wwil##	wil	0
+wAnwivAtA	N_NN	B-NP	wAnw	wAn	vAtA##	AtA	0
+,	CC_CCD	B-CCP	0	0	0##	0	0
+cipu	N_NNP	B-NP	0	cip	0##	ipu	0
+marYrYum	JJ	I-NP	marY	mar	rYum##	Yum	0
+wAroy	N_NN	I-NP	wAro	wAr	Aroy##	roy	0
+Akiya	N_NN	B-NP	Akiy	Aki	kiya##	iya	0
+aNEkalY	V_VM_VF	B-VGF	aNEk	aNE	kalY##	alY	0
+nirampi	RD_PUNC	I-VGF	nira	nir	ampi##	mpi	0
+valYYikirYawu	&dot;,punc	I-VGF	valY	val	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+weVrYku	N_NN	I-NP	weVr	weV	rYku##	Yku	0
+rAjaswAnYil	N_NN	B-NP	rAja	rAj	nYil##	Yil	0
+peVywa	RB	B-RBP	peVy	peV	Vywa##	ywa	0
+kanYamalYYE	N_NNP	B-NP	kanY	kan	lYYE##	YYE	0
+kAraNamAkavum	RD_PUNC	I-NP	kAra	kAr	avum##	vum	0
+panYAskAnwA	N_NN	B-NP	panY	pan	AnwA##	nwA	0
+,	CC_CCD	B-CCP	0	0	0##	0	0
+pawAnY	N_NNP	B-NP	pawA	paw	wAnY##	AnY	0
+marYrYum	N_NN	I-NP	marY	mar	rYum##	Yum	0
+AnYanw	N_NN	I-NP	AnYa	AnY	Yanw##	anw	0
+mAvattafkalY	V_VM_VF	B-VGF	mAva	mAv	kalY##	alY	0
+pAwikkappattu	RD_PUNC	I-VGF	pAwi	pAw	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+vatakku	CC_CCD	B-CCP	vata	vat	akku##	kku	0
+kujarAw	N_NNP	B-NP	kuja	kuj	arAw##	rAw	0
+marYrYum	N_NN	I-NP	marY	mar	rYum##	Yum	0
+cavurARtirA	N_NN	I-NP	cavu	cav	tirA##	irA	0
+pakuwikalYil	N_NN	B-NP	paku	pak	lYil##	Yil	0
+weciya	N_NN	B-NP	weci	wec	ciya##	iya	0
+peritar	QT_QTC	B-NP	peri	per	itar##	tar	0
+patEyinY	N_NN	I-NP	patE	pat	yinY##	inY	0
+12	N_NN	I-NP	0	0	0##	0	0
+kulYYukkalY	N_NN	B-NP	kulY	kul	kalY##	alY	0
+mItpu	N_NN	I-NP	mItp	mIt	Itpu##	tpu	0
+paNiyil	RD_PUNC	I-NP	paNi	paN	iyil##	yil	0
+irYafkiulYlYawu	&dot;,punc	B-NP	irYa	irY	Yawu##	awu	0
+.	o		0	0	0##	0	0
+
+eVllEp	N_NN	I-NP	eVll	eVl	llEp##	lEp	0
+pAwukAppu	PSP	B-BLK	pAwu	pAw	Appu##	ppu	0
+patE	N_NN	B-NP	0	pat	0##	atE	0
+ulYpata	N_NN	I-NP	ulYp	ulY	pata##	ata	0
+rANuvamum	N_NN	B-NP	rANu	rAN	amum##	mum	0
+mItpu	N_NN	I-NP	mItp	mIt	Itpu##	tpu	0
+paNiyil	V_VM_VF	B-VGF	paNi	paN	iyil##	yil	0
+Itupattu	RD_PUNC	I-VGF	Itup	Itu	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+kUtuwal	RB	B-VGF	kUtu	kUt	uwal##	wal	0
+patEkalYum	V_VM_VNF_VBN	I-VGF	patE	pat	lYum##	Yum	0
+afku	V_VM_VF	I-VGF	0	afk	0##	fku	0
+anYuppattu	RD_PUNC	I-VGF	anYu	anY	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+veVlYlYam	N_NNP	B-NP	veVl	veV	lYam##	Yam	0
+kAraNamAka	N_NN	I-NP	kAra	kAr	mAka##	Aka	0
+kujarAw	JJ	B-NP	kuja	kuj	arAw##	rAw	0
+mAnilawwil	N_NN	B-NP	mAni	mAn	wwil##	wil	0
+peVrum	N_NN	B-NP	peVr	peV	Vrum##	rum	0
+pakuwiyil	N_NN	B-NP	paku	pak	iyil##	yil	0
+waNtavAlYam	N_NN	B-NP	waNt	waN	lYam##	Yam	0
+waNNIril	V_VM_VF	B-VGF	waNN	waN	Iril##	ril	0
+mUlYYki	RD_PUNC	I-VGF	mUlY	mUl	YYki##	Yki	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+iwanYAl	CC_CCD	B-CCP	iwan	iwa	nYAl##	YAl	0
+AmawApAw	N_NNP	B-NP	Amaw	Ama	ApAw##	pAw	0
+marYrYum	JJ	B-NP	marY	mar	rYum##	Yum	0
+teVlli	N_NN	I-NP	teVl	teV	Vlli##	lli	0
+itEyilAnYa	N_NN	B-NP	itEy	itE	AnYa##	nYa	0
+reVyil	V_VM_VNF_VBN	B-VGF	reVy	reV	Vyil##	yil	0
+cevEyAnYawu	V_VM_VF	I-VGF	cevE	cev	Yawu##	awu	0
+nirYuwwappattu	RD_PUNC	I-VGF	nirY	nir	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+teVlliyE	N_NNP	B-NP	teVl	teV	liyE##	iyE	0
+nokkiya	N_NNP	B-NP	nokk	nok	kiya##	iya	0
+rAjwAnYi	N_NNP	I-NP	rAjw	rAj	AnYi##	nYi	0
+eVkspiras	V_VM_VNF_VBN	B-VGF	eVks	eVk	iras##	ras	0
+meVkcAnYAvil	RB	I-VGF	meVk	meV	Avil##	vil	0
+irunwu	V_VM_VNF_RP_PRP	I-VGF	irun	iru	unwu##	nwu	0
+mINtum	V_VM_VF	I-VGF	mINt	mIN	Ntum##	tum	0
+AmawApAwwirYke	RD_PUNC	I-VGF	Amaw	Ama	rYke##	Yke	0
+wirumpiyawu	&dot;,punc	I-VGF	wiru	wir	yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+kujarAw	N_NN	I-NP	kuja	kuj	arAw##	rAw	0
+mAnilawwil	JJ	B-NP	mAni	mAn	wwil##	wil	0
+malYYE	N_NN	I-NP	malY	mal	lYYE##	YYE	0
+woVtarpAnYa	N_NN	B-NP	woVt	woV	AnYa##	nYa	0
+vipawwu	N_NNP	B-NP	vipa	vip	awwu##	wwu	0
+campavafkalYil	N_NN	I-NP	camp	cam	lYil##	Yil	0
+jUnY	N_NN	B-NP	0	jUn	0##	UnY	0
+mAwawwil	QT_QTC	B-NP	mAwa	mAw	wwil##	wil	0
+irunwu	N_NN	B-NP	irun	iru	unwu##	nwu	0
+70	V_VM_VNF_VBN	B-VGF	0	0	0##	0	0
+per	V_VM_VF	I-VGF	0	0	0##	0	0
+uyirilYYanwu	CC_CCS	B-CCP	uyir	uyi	anwu##	nwu	0
+ulYlYanYar	DM_DMQ	B-BLK	ulYl	ulY	nYar##	Yar	0
+eVnYa	N_NN	B-NP	eVnY	eVn	VnYa##	nYa	0
+mItiyA	N_NN	I-NP	mIti	mIt	tiyA##	iyA	0
+wakavalkalY	RD_PUNC	I-NP	waka	wak	kalY##	alY	0
+kUrYukirYawu	&dot;,punc	I-NP	kUrY	kUr	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+merYku	N_NN	I-NP	merY	mer	rYku##	Yku	0
+vafkAlYa	N_NN	I-NP	vafk	vaf	AlYa##	lYa	0
+mAnilawwilum	N_NN	B-NP	mAni	mAn	ilum##	lum	0
+kanYamalYYEyinYAl	N_NN	B-NP	kanY	kan	nYAl##	YAl	0
+iyalpu	V_VM_VNF_VBN	B-VGF	iyal	iya	alpu##	lpu	0
+nilE	V_VM_VF	I-VGF	0	nil	0##	ilE	0
+pAwikkappattu	RD_PUNC	I-VGF	pAwi	pAw	attu##	ttu	0
+ulYlYawu	&dot;,punc	I-VGF	ulYl	ulY	Yawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+
+AnYAl	N_NN	B-NP	AnYA	AnY	nYAl##	YAl	0
+afku	PSP	B-BLK	0	afk	0##	fku	0
+veVlYlYam	N_NN	B-NP	veVl	veV	lYam##	Yam	0
+ponYrYa	RP_NEG	B-VGF	ponY	pon	YrYa##	rYa	0
+nilE	CC_CCS	B-CCP	0	nil	0##	ilE	0
+illE	N_NN	B-NP	0	ill	0##	llE	0
+eVnYa	PSP	B-BLK	eVnY	eVn	VnYa##	nYa	0
+mAnila	RD_SYM	B-NP	mAni	mAn	nila##	ila	0
+muwal	N_NN	I-NP	muwa	muw	uwal##	wal	0
+-	N_NNP	B-NP	0	0	0##	0	0
+manwiri	N_NNP	I-NP	manw	man	wiri##	iri	0
+mamwA	V_VM_VF	B-VGF	mamw	mam	amwA##	mwA	0
+pAnYarji	RD_PUNC	I-VGF	pAnY	pAn	arji##	rji	0
+kUrYiulYlYAr	&dot;,punc	I-VGF	kUrY	kUr	lYAr##	YAr	0
+
+merYku	N_NN	I-NP	merY	mer	rYku##	Yku	0
+vafkAlYa	N_NN	B-NP	vafk	vaf	AlYa##	lYa	0
+mAnilawwilum	V_VM_VF	B-VGF	mAni	mAn	ilum##	lum	0
+kanYamalYYE	RD_PUNC	I-VGF	kanY	kan	lYYE##	YYE	0
+peVywawu	&dot;,punc	I-VGF	peVy	peV	wawu##	awu	0
+.	{/MCL}		0	0	0##	0	0
+

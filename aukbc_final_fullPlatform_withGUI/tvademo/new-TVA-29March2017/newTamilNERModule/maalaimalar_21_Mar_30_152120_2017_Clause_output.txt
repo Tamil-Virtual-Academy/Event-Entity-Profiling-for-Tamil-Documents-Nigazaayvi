@@ -1,0 +1,120 @@
+ஊஷ்L	N_NN	B-NP	URL,unk,,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+ஹ்ட்ட்ப்	N_NN	B-NP	http,N,,,,,	o
+:	RD_PUNC	I-NP	:,punc,,,,,,	o
+/	RD_PUNC	B-NP	/,punc,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+த்த்த்	N_NN	B-NP	www,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+மஅலஇமலர்	N_NN	B-NP	maalaimalar,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+சோம்	N_NN	B-NP	com,N,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ணேத்ஸ்	N_NN	I-NP	News,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+ஸ்போர்ட்ஸ்	N_NNP	B-NP	Sports,unk,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+2017	QT_QTC	B-NP	2017,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+03	QT_QTC	B-NP	03,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+30123100	QT_QTC	B-NP	30123100,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+1076981	QT_QTC	B-NP	1076981,num,,,,,,	o
+/	RD_PUNC	I-NP	/,punc,,,,,,	o
+Pஅகிஸ்டந்-வ்ஸ்-Wஏஸ்ட்-ஈந்dஇஏஸ்	N_NNP	B-NP	Pakistan-vs-West-Indies,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+2	QT_QTC	B-NP	2,num,,,,,,	o
+ந்d	QT_QTC	I-NP	nd,unk,,,,,,	o
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+T20	QT_QTC	B-NP	T20,unk,,,,,,	o
+.	RD_PUNC	I-NP	&dot;,punc,,,,,,	o
+
+வ்ப்ங்	N_NNP	B-NP	vpf,unk,,,,,,	{MCL}
+பாகிஸ்தான்	N_NNP	I-NP	pAkiswAnY,N,,,,,	o
+அணிக்கு	N_NN	I-NP	aNi,N,kku-DAT,,,,	o
+வெஸ்ட்	N_NN	B-NP	veVst,N,,,,,	o
+இண்டீஸ்	N_NN	I-NP	iNtIs,N,,,,,	o
+பதிலடி	N_NN	B-NP	pawilati,N,,,,,	o
+கொடுக்குமா	DM_DMQ	B-BLK	koVtu,V,FUTURE,,,,RP	o
+?	RD_PUNC	I-BLK	?,punc,,,,,,	o
+|	RD_PUNC	B-NP	o	
+|	RD_PUNC	I-NP	o	
+Pஅகிஸ்டந்	N_NNP	B-NP	Pakistan,unk,,,,,,	o
+வ்ஸ்	N_NNP	I-NP	vs,unk,,,,,,	o
+Wஏஸ்ட்	N_NNP	I-NP	West,unk,,,,,,	o
+ஈந்dஇஏஸ்	N_NNP	I-NP	Indies,unk,,,,,,	o
+2	QT_QTC	B-NP	2,num,,,,,,	o
+ந்d	QT_QTC	I-NP	nd,unk,,,,,,	o
+T20	QT_QTC	I-NP	T20,unk,,,,,,	o
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	o
+கிரிக்கெட்	N_NNP	I-NP	kirikkeVt,N,,,,,	o
+அணி	N_NN	I-NP	aNi,N,,,,,	o
+வெஸ்ட்	N_NN	B-NP	veVst,N,,,,,	o
+இண்டீசில்	N_NN	I-NP	iNtIcu,N,il-LOC,,,,	o
+சுற்றுப்பயணம்	N_NN	B-NP	curYrYuppayaNam,N,,,,,	o
+செய்து	V_VM_VNF_VBN	B-VGF	ceVy,V,,,,,VBP	o
+விளையாடி	V_VM_VNF_VBN	I-VGF	vilYEyAtu,V,,,,,VBP	o
+வருகிறது	V_VM_VF	I-VGF	vA,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+இரு	QT_QTC	B-NP	iru,ADJ,,,,,	{RP}
+அணிகள்	N_NN	I-NP	aNi,N,,pl,,,	o
+இடையேயான	JJ	B-NP	itEyeyAnYa,ADJ,,,,,	o
+நான்கு	QT_QTC	I-NP	nAnYku,N,,,,,	o
+20	QT_QTC	I-NP	20,num,,,,,,	o
+ஓவர்	N_NN	I-NP	ovar,N,,,,,	o
+போட்டியில்	N_NN	I-NP	potti,N,il-LOC,,,,	o
+பிரிட்ஜ்டவுனில்	N_NNP	B-NP	piritjtavunYil,unk,,,,,,	o
+நடந்த	V_VM_VNF_RP	B-VGNF	nata,V,PAST,,,,RP	o
+முதல்	QT_QTO	B-NP	muwal,ADJ,,,,,	{MCL}
+ஆட்டத்தில்	N_NN	I-NP	Attam,N,il-LOC,,,,	{/RP}
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	o
+6	QT_QTC	B-NP	6,num,,,,,,	o
+விக்கெட்	N_NN	I-NP	vikkeVt,N,,,,,	o
+வித்தியாசத்தில்	N_NN	I-NP	viwwiyAcam,N,il-LOC,,,,	o
+வெற்றி	N_NN	B-NP	veVrYrYi,N,,,,,	o
+பெற்றது	V_VM_VF	B-VGF	peVrYu,V,PAST,sg,3,n,RP-PRP	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	{RP}
+-	RD_SYM	I-NP	-,punc,,,,,,	o
+வெஸ்ட்	N_NNP	B-NP	veVst,N,,,,,	o
+இண்டீஸ்	N_NNP	I-NP	iNtIs,N,,,,,	o
+அணிகள்	N_NN	I-NP	aNi,N,,pl,,,	o
+மோதும்	V_VM_VNF_RP	B-VGNF	mowu,V,FUTURE,,,,RP	o
+2-வது	QT_QTO	B-NP	2,num,,sg,,,	{MCL}
+20	QT_QTC	I-NP	20,num,,,,,,	o
+ஓவர்	N_NN	I-NP	ovar,N,,,,,	{/RP}
+ஆட்டம்	N_NN	B-NP	Attam,N,,,,,	o
+போர்ட்	N_NN	I-NP	port,N,,,,,	o
+ஆப்	N_NNP	B-NP	Ap,N,,,,,	o
+ஸ்பெயினில்	N_NNP	I-NP	speVyinY,N,il-LOC,,,,	o
+இன்று	N_NN	B-NP	inYrYu,N,,,,,	o
+நடக்கிறது	V_VM_VF	B-VGF	nata,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+முதல்	QT_QTO	B-NP	muwal,ADJ,,,,,	{RP}
+போட்டியில்	N_NN	I-NP	potti,N,il-LOC,,,,	o
+ஏற்பட்ட	V_VM_VNF_RP	B-VGNF	erYpatu,V,PAST,,,,RP	o
+தோல்விக்கு	N_NN	B-NP	wolvi,N,kku-DAT,,,,	{/RP}
+வெஸ்டிண்டீஸ்	N_NNP	B-NP	veVstiNtIs,N,,,,,	o
+பதிலடி	N_NN	B-NP	pawilati,N,,,,,	o
+கொடுக்குமா	DM_DMQ	B-BLK	koVtu,V,FUTURE,,,,RP	o
+?	RD_PUNC	I-BLK	?,punc,,,,,,	{/MCL}
+
+என்று	CC_CCS	B-CCP	eVnYrYu,UT,,,,,	{MCL}
+எதிர்பார்க்கப்படுகிறது	V_VM_VF	B-VGF	eVwirpAr,V,PRESENT,sg,3,n,	o
+.	RD_PUNC	I-VGF	&dot;,punc,,,,,,	{/MCL}
+
+பாகிஸ்தான்	N_NNP	B-NP	pAkiswAnY,N,,,,,	{NF}
+அணி	N_NN	I-NP	aNi,N,,,,,	o
+இந்தப்போட்டியிலும்	N_NN	I-NP	inwappottiyilum,unk,,,,,,	o
+வென்று	V_VM_VNF_VBN	B-VGNF	veVl,V,,,,,VBP	{/NF}
+முன்னேற்றம்	N_NN	B-NP	munYnYerYrYam,N,,,,,	{MCL}
+காண	V_VM_VNF_INF	B-VGNF	kAN,V,,,,,INF	o
+முயற்சிக்கும்	V_VM_VF	I-VGNF	muyarYci,V,FUTURE,sg,3,n,	{/MCL}
+
+

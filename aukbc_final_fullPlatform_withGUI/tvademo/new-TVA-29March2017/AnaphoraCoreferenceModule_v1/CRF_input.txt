@@ -1,0 +1,182 @@
+mawwiya_aracu	aracu	yes	no	mawwiya_aracu	aracu	yes	no	no	yes	yes	no	1	no	0
+
+jUlE	jUlE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	1
+
+jUlE	jUlE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	1	no	2
+
+PM	PM	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	3
+
+PM	PM	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	1	no	4
+
+PM	PM	yes	no	jUlE	jUlE	yes	no	no	no	no	yes	0	no	5
+
+puwuteVlli	puwuteVlli	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	6
+
+puwuteVlli	puwuteVlli	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	7
+
+puwuteVlli	puwuteVlli	yes	no	jUlE	jUlE	yes	no	no	no	no	no	1	no	8
+
+puwuteVlli	puwuteVlli	yes	no	PM	PM	yes	no	no	no	no	no	1	no	9
+
+mawwiya_ulYwurYE	ulYwurYE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	10
+
+mawwiya_ulYwurYE	ulYwurYE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	11
+
+mawwiya_ulYwurYE	ulYwurYE	yes	no	jUlE	jUlE	yes	no	no	no	no	no	1	no	12
+
+mawwiya_ulYwurYE	ulYwurYE	yes	no	PM	PM	yes	no	no	no	no	no	1	no	13
+
+mawwiya_ulYwurYE	ulYwurYE	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	yes	0	no	14
+
+iNE_amEccar	amEccar	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	15
+
+iNE_amEccar	amEccar	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	16
+
+iNE_amEccar	amEccar	yes	no	jUlE	jUlE	yes	no	no	no	no	no	1	no	17
+
+iNE_amEccar	amEccar	yes	no	PM	PM	yes	no	no	no	no	no	1	no	18
+
+iNE_amEccar	amEccar	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	yes	0	no	19
+
+iNE_amEccar	amEccar	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	yes	0	no	20
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	21
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	2	no	22
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	jUlE	jUlE	yes	no	no	no	no	no	1	no	23
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	PM	PM	yes	no	no	no	no	no	1	no	24
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	yes	0	no	25
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	yes	0	no	26
+
+hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	yes	0	no	27
+
+rU	rU	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	4	no	28
+
+rU	rU	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	29
+
+rU	rU	yes	no	jUlE	jUlE	yes	no	no	no	no	no	2	no	30
+
+rU	rU	yes	no	PM	PM	yes	no	no	no	no	no	2	no	31
+
+rU	rU	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	1	no	32
+
+rU	rU	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	1	no	33
+
+rU	rU	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	1	no	34
+
+rU	rU	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	1	no	35
+
+rU._AkiyavE	AkiyavE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	4	no	36
+
+rU._AkiyavE	AkiyavE	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	37
+
+rU._AkiyavE	AkiyavE	yes	no	jUlE	jUlE	yes	no	no	no	no	no	2	no	38
+
+rU._AkiyavE	AkiyavE	yes	no	PM	PM	yes	no	no	no	no	no	2	no	39
+
+rU._AkiyavE	AkiyavE	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	1	no	40
+
+rU._AkiyavE	AkiyavE	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	1	no	41
+
+rU._AkiyavE	AkiyavE	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	1	no	42
+
+rU._AkiyavE	AkiyavE	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	1	no	43
+
+rU._AkiyavE	AkiyavE	yes	no	rU	rU	yes	no	no	no	no	yes	0	no	44
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	4	no	45
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	3	no	46
+
+amEccar_&dot;	&dot;	yes	no	jUlE	jUlE	yes	no	no	no	no	no	2	no	47
+
+amEccar_&dot;	&dot;	yes	no	PM	PM	yes	no	no	no	no	no	2	no	48
+
+amEccar_&dot;	&dot;	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	1	no	49
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	1	no	50
+
+amEccar_&dot;	&dot;	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	1	no	51
+
+amEccar_&dot;	&dot;	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	1	no	52
+
+amEccar_&dot;	&dot;	yes	no	rU	rU	yes	no	no	no	no	yes	0	no	53
+
+amEccar_&dot;	&dot;	yes	no	rU._AkiyavE	AkiyavE	yes	no	no	no	no	yes	0	no	54
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	5	no	55
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	4	no	56
+
+amEccar_&dot;	&dot;	yes	no	jUlE	jUlE	yes	no	no	no	no	no	3	no	57
+
+amEccar_&dot;	&dot;	yes	no	PM	PM	yes	no	no	no	no	no	3	no	58
+
+amEccar_&dot;	&dot;	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	2	no	59
+
+amEccar_&dot;	&dot;	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	2	no	60
+
+amEccar_&dot;	&dot;	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	2	no	61
+
+amEccar_&dot;	&dot;	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	2	no	62
+
+amEccar_&dot;	&dot;	yes	no	rU	rU	yes	no	no	no	no	no	1	no	63
+
+amEccar_&dot;	&dot;	yes	no	rU._AkiyavE	AkiyavE	yes	no	no	no	no	no	1	no	64
+
+amEccar_&dot;	&dot;	yes	no	amEccar_&dot;	&dot;	yes	no	no	yes	yes	no	1	no	65
+
+pAkiswAnY	pAkiswAnY	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	6	no	66
+
+pAkiswAnY	pAkiswAnY	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	5	no	67
+
+pAkiswAnY	pAkiswAnY	yes	no	jUlE	jUlE	yes	no	no	no	no	no	4	no	68
+
+pAkiswAnY	pAkiswAnY	yes	no	PM	PM	yes	no	no	no	no	no	4	no	69
+
+pAkiswAnY	pAkiswAnY	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	3	no	70
+
+pAkiswAnY	pAkiswAnY	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	3	no	71
+
+pAkiswAnY	pAkiswAnY	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	3	no	72
+
+pAkiswAnY	pAkiswAnY	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	3	no	73
+
+pAkiswAnY	pAkiswAnY	yes	no	rU	rU	yes	no	no	no	no	no	2	no	74
+
+pAkiswAnY	pAkiswAnY	yes	no	rU._AkiyavE	AkiyavE	yes	no	no	no	no	no	2	no	75
+
+pAkiswAnY	pAkiswAnY	yes	no	amEccar_&dot;	&dot;	yes	no	no	no	no	no	2	no	76
+
+pAkiswAnY	pAkiswAnY	yes	no	amEccar_&dot;	&dot;	yes	no	no	no	no	no	1	no	77
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	7	no	78
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	mawwiya_aracu	aracu	yes	no	no	no	no	no	6	no	79
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	jUlE	jUlE	yes	no	no	no	no	no	5	no	80
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	PM	PM	yes	no	no	no	no	no	5	no	81
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	puwuteVlli	puwuteVlli	yes	no	no	no	no	no	4	no	82
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	mawwiya_ulYwurYE	ulYwurYE	yes	no	no	no	no	no	4	no	83
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	iNE_amEccar	amEccar	yes	no	no	no	no	no	4	no	84
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	hanYsrAj_kafkArAm_ahir_makkalYavE	makkalYavE	yes	no	no	no	no	no	4	no	85
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	rU	rU	yes	no	no	no	no	no	3	no	86
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	rU._AkiyavE	AkiyavE	yes	no	no	no	no	no	3	no	87
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	amEccar_&dot;	&dot;	yes	no	no	no	no	no	3	no	88
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	amEccar_&dot;	&dot;	yes	no	no	no	no	no	2	no	89
+
+havAlA_ceVyalpAtu	ceVyalpAtu	yes	no	pAkiswAnY	pAkiswAnY	yes	no	no	no	no	no	1	no	90
+

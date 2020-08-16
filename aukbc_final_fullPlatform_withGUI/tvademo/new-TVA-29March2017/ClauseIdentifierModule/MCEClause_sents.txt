@@ -1,0 +1,14 @@
+melum	CC_CCD	B-CCP	melum,ADV
+pAkiswAnY	N_NNP	B-NP	pAkiswAnY,N
+accatiwwu	V_VM_VNF_VBN	B-VGNF	accati,V,,,,,VBP
+pulYYakkawwil	N_NN	B-NP	pulYYakkam,N,il-LOC
+vitta	V_VM_VNF_RP	B-VGNF	vitu,V,PAST,,,,RP
+uyarwara	N_NN	B-NP	uyarwaram,N,a-ADJ
+poli	N_NN	I-NP	poli,N
+rUpAy	N_NN	I-NP	rUpAy,N,,,,,
+nottukalYEyum	N_NN	I-NP	nottu,N,E-ACC,pl
+paNamawippunIkkam	N_NN	B-NP	paNamawippunIkkam,unk
+kulEwwu	V_VM_VNF_VBN	B-VGF	kulE,V,,,,,VBP
+vittawu	V_VM_VF	I-VGF	vitu,V,PAST,sg,3,n,RP-PRP
+.	RD_PUNC	I-VGF	&dot;,punc
+

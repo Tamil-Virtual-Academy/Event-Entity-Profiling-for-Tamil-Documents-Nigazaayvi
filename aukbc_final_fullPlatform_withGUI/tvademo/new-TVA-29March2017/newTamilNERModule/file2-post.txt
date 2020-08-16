@@ -1,0 +1,184 @@
+w#ceVnYnYE	N_NNP	B-NP	1	ceVn	ceV	YnYE	nYE	{MCL}	B-PLACE	ceVnYnYE,N,,,,,
+teVlli	N_NNP	I-NP	1	teVl	teV	Vlli	lli	o	I-PLACE	teVlli,N,,,,,
+c#janwar	N_NNP	I-NP	1	janw	jan	nwar	war	o	B-LOCATION	janwar,N,,,,,
+manwaril	N_NNP	I-NP	1	manw	man	aril	ril	o	I-LOCATION	manwar,N,il-LOC,,,,
+,	RD_PUNC	I-NP	0	0	0	0	0	o	o	&comma;,punc,,,,,
+c#wamilYYaka	N_NNP	B-NP	1	wami	wam	Yaka	aka	o	B-GROUP	wamilYYaka,ADJ,,,,,
+vivacAyikalY	N_NN	I-NP	0	viva	viv	kalY	alY	o	I-GROUP	vivacAyi,N,,pl,,,
+,	RD_PUNC	I-NP	0	0	0	0	0	o	o	&comma;,punc,,,,,
+oVvvoVru	JJ	B-NP	0	oVvv	oVv	oVru	Vru	o	o	oVvvoVru,ADJ,,,,,
+nAlYum	N_NN	I-NP	0	nAlY	nAl	lYum	Yum	o	o	nAlY,N,,,,,
+oVvvoVru	JJ	B-NP	0	oVvv	oVv	oVru	Vru	o	o	oVvvoVru,ADJ,,,,,
+porAtta	N_NN	I-NP	0	porA	por	Atta	tta	o	o	porAttam,N,a-ADJ,,,,
+murYEyil	N_NN	B-NP	0	murY	mur	Eyil	yil	o	o	murYE,N,il-LOC,pl,,,
+Itupattu	V_VM_VNF_VBN	B-VGF	0	Itup	Itu	attu	ttu	o	o	Itupatu,V,,,,,VBP
+varukinYrYanYar	V_VM_VF	I-VGF	0	varu	var	nYar	Yar	o	o	vA,V,PRESENT,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+araciyal	N_NN	B-NP	0	arac	ara	iyal	yal	{MCL}	o	araciyal,N,,,,,
+katci	N_NN	I-NP	0	katc	kat	atci	tci	o	o	katci,N,,,,,
+c#walEvarkalY	N_NN	I-NP	0	walE	wal	kalY	alY	o	B-TITLE	walEvar,N,,pl,,mf,
+palar	N_NN	B-NP	0	pala	pal	alar	lar	o	o	palar,N,,,,,
+Awaravu	N_NN	B-NP	0	Awar	Awa	ravu	avu	o	o	Awaravu,N,,,,,
+weVriviwwu	V_VM_VNF_VBN	B-VGF	0	weVr	weV	iwwu	wwu	o	o	weVrivi,V,,,,,VBP
+ulYlYanYar	V_VM_VF	I-VGF	0	ulYl	ulY	nYar	Yar	o	o	ulY,V,PRESENT,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+c#ayyAkkaNNu	N_NNP	B-NP	1	ayyA	ayy	aNNu	NNu	{MCL}	B-INDIVIDUAL	ayyAkkaNNu,N,,,,m,
+ulYlYitta	PSP	B-BLK	0	ulYl	ulY	itta	tta	o	o	ulYlYitta,ADJ,,,,,
+vivacAyikalY	N_NN	B-NP	0	viva	viv	kalY	alY	o	o	vivacAyi,N,,pl,,,
+janYAwipawi	N_NN	I-NP	0	janY	jan	pawi	awi	o	o	janYAwipawi,N,,,,,
+piraNAp	N_NN	I-NP	0	pira	pir	aNAp	NAp	o	B-INDIVIDUAL	piraNAp,N,,,,,
+mukarjiyE	N_NN	B-NP	0	muka	muk	jiyE	iyE	o	I-INDIVIDUAL	mukarji,N,E-ACC,,,m,
+canwiwwanYar	V_VM_VF	B-VGF	0	canw	can	nYar	Yar	o	o	canwi,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+vivacAyikalY	N_NN	B-NP	0	viva	viv	kalY	alY	{MCL}	o	vivacAyi,N,,pl,,,
+warappil	N_NN	I-NP	0	wara	war	ppil	pil	o	o	warappu,N,il-LOC,,,,
+c#janYAwipawiyitam	N_NNP	B-NP	1	janY	jan	itam	tam	o	B-INDIVIDUAL	janYAwipawi,N,itam-LOC,,,,
+korikkE	N_NN	B-NP	0	kori	kor	ikkE	kkE	o	o	korikkE,N,,,,,
+manYu	N_NN	I-NP	0	manY	man	anYu	nYu	o	o	manYu,N,,,,,
+c#oVnYrYu	QT_QTC	B-NP	0	oVnY	oVn	YrYu	rYu	o	B-COUNT	oVnYrYu,N,,,,,
+alYikkappattawu	V_VM_VF	B-VGF	0	alYi	alY	tawu	awu	o	o	alYi,V,PAST,sg,3,n,RP-PRP
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+iwuvarE	RB	B-RBP	0	iwuv	iwu	varE	arE	{MCL}	o	iwuvarE,ADV,,,,,
+c#mawwiya	JJ	B-NP	0	maww	maw	wiya	iya	o	B-GOV	mawwiya,ADJ,,,,,
+aracu	N_NN	I-NP	0	arac	ara	racu	acu	o	I-GOV	aracu,N,,,,,
+eVnwa	DM_DMQ	B-BLK	0	eVnw	eVn	Vnwa	nwa	o	o	eVnwa,ADJ,,,,,
+natavatikkEyum	N_NN	B-NP	0	nata	nat	Eyum	yum	o	o	natavatikkE,N,,pl,,,
+eVtukkavillE	RP_NEG	B-VGF	0	eVtu	eVt	illE	llE	o	o	eVtu,V,,,,,NEG
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+iwanYAl	CC_CCS	B-CCP	0	iwan	iwa	nYAl	YAl	{NF}	o	iwanYAl,CONJ,,,,,
+vivacAyikalY	N_NN	B-NP	0	viva	viv	kalY	alY	o	o	vivacAyi,N,,pl,,,
+woVtarnwu	V_VM_VNF_VBN	B-VGNF	0	woVt	woV	rnwu	nwu	{/NF}	o	woVtar,V,,,,,VBP
+porAttawwil	N_NN	B-NP	0	porA	por	wwil	wil	{MCL}	o	porAttam,N,il-LOC,,,,
+Itupattu	V_VM_VNF_VBN	B-VGF	0	Itup	Itu	attu	ttu	o	o	Itupatu,V,,,,,VBP
+varukinYrYanYar	V_VM_VF	I-VGF	0	varu	var	nYar	Yar	o	o	vA,V,PRESENT,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+c#16vawu	QT_QTO	B-NP	0	16va	16v	vawu	awu	{NF}	#B-PERIOD	16,num,,sg,,,
+nAlYAnYa	JJ	I-NP	0	nAlY	nAl	AnYa	nYa	o	#I-PERIOD	nAlY,N,AnYa-ADJ,,,,
+inYrYu	N_NN	B-NP	0	inYr	inY	YrYu	rYu	o	o	inYrYu,N,,,,,
+porAttawwil	N_NN	I-NP	0	porA	por	wwil	wil	o	o	porAttam,N,il-LOC,,,,
+vivacAyikalY	N_NN	B-NP	0	viva	viv	kalY	alY	o	o	vivacAyi,N,,pl,,,
+wafkalY	PR_PRP	B-NP	0	wafk	waf	kalY	alY	o	o	wafkalY,PN,,,,,
+vAyil	N_NN	I-NP	0	vAyi	vAy	Ayil	yil	o	o	vAyil,N,,,,,
+pAmpukkarYiyE	N_NN	B-NP	0	pAmp	pAm	YiyE	iyE	o	o	pAmpukkarYiyE,unk,,,,,,
+vEwwu	V_VM_VNF_VBN	B-VGNF	0	vEww	vEw	Ewwu	wwu	{/NF}	o	vE,V,,,,,VBP
+wafkalY	PR_PRP	B-NP	0	wafk	waf	kalY	alY	{MCL}	o	wafkalY,PN,,,,,
+vewanYEyE	N_NN	B-NP	0	vewa	vew	YEyE	EyE	o	o	vewanYE,N,E-ACC,,,,
+veVlYippatuwwinYar	V_VM_VF	B-VGF	0	veVl	veV	nYar	Yar	o	o	veVlYippatuwwu,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+vivacAyikalYukku	N_NN	B-NP	0	viva	viv	ukku	kku	{INF}	o	vivacAyi,N,ukku-DAT,pl,,,
+AwaravAka	RB	B-RBP	0	Awar	Awa	vAka	Aka	o	o	Awaravu,N,Aka-ADV,,,,
+katanwa	JJ	B-NP	0	kata	kat	anwa	nwa	o	o	katanwa,ADJ,,,,,
+c#2	QT_QTC	I-NP	0	0	0	0	0	o	#B-PERIOD	2,num,,,,,,
+nAtkalYAka	RB	B-RBP	0	nAtk	nAt	YAka	Aka	o	#I-PERIOD	nAlY,N,,pl,,,
+meVrinYAvil	N_NN	B-NP	0	meVr	meV	Avil	vil	o	B-PLACE	meVrinYA,N,il-LOC,,,,
+mANavarkalY	N_NN	B-NP	0	mANa	mAN	kalY	alY	o	o	mANavar,N,,pl,,,
+oVnYrYu	QT_QTC	B-NP	0	oVnY	oVn	YrYu	rYu	o	o	oVnYrYu,N,,,,,
+kUti	V_VM_VNF_VBN	B-VGNF	0	0	kUt	0	Uti	o	o	kUtu,V,,,,,VBP
+porAta	V_VM_VNF_INF	I-VGNF	0	porA	por	rAta	Ata	o	o	porAtu,V,,,,,INF
+povawAka	RB	B-RBP	0	pova	pov	wAka	Aka	o	o	po,V,FUTURE,,,,RP-PRP
+wakaval	N_NN	B-NP	0	waka	wak	aval	val	o	o	wakaval,N,,,,,
+veVlYiyAnYawE	V_VM_VNF_RP_PRP	B-VGNF	0	veVl	veV	YawE	awE	o	o	veVlYiyAku,V,PAST,,,,RP-PRP
+atuwwu	PSP	B-BLK	0	atuw	atu	uwwu	wwu	o	o	atuwwu,ADV,,,,,
+awE	PR_PRP	B-NP	0	0	0	0	0	o	o	awu,PN,E-ACC,,,,
+watukka	V_VM_VNF_INF	B-VGNF	0	watu	wat	ukka	kka	{/INF}	o	watu,V,,,,,INF
+nUrYrYukkaNakkAnYa	JJ	B-NP	0	nUrY	nUr	AnYa	nYa	{MCL}	o	nUrYrYukkaNakku,N,AnYa-ADJ,,,,
+polIcAr	N_NN	I-NP	0	polI	pol	IcAr	cAr	o	B-GOV	polIcAr,N,,,,,
+kuvikkappattanYar	V_VM_VF	B-VGF	0	kuvi	kuv	nYar	Yar	o	o	kuvi,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+polIcArinY	N_NN	B-NP	0	polI	pol	rinY	inY	{NF}	B-GOV	polIcAr,N,inY-GEN,,,,
+watEyEyum	N_NN	I-NP	0	watE	wat	Eyum	yum	o	o	watE,N,E-ACC,pl,,,
+wANti	V_VM_VNF_VBN	B-VGNF	0	wANt	wAN	ANti	Nti	{/NF}	o	wANtu,V,,,,,VBP
+inYrYu	N_NN	B-NP	0	inYr	inY	YrYu	rYu	{MCL}	o	inYrYu,N,,,,,
+c#20kkum	QT_QTC	B-NP	0	20kk	20k	kkum	kum	o	B-COUNT	20,num,kku-dat,sg,,,
+merYpatta	JJ	B-NP	0	merY	mer	atta	tta	o	o	merYpatta,ADJ,,,,,
+mANavarkalY	N_NN	I-NP	0	mANa	mAN	kalY	alY	o	o	mANavar,N,,pl,,,
+c#ceVnYnYE	N_NNP	B-NP	1	ceVn	ceV	YnYE	nYE	o	B-PLACE	ceVnYnYE,N,,,,,
+meVrinYAvil	N_NN	I-NP	0	meVr	meV	Avil	vil	o	I-PLACE	meVrinYA,N,il-LOC,,,,
+wiraNtanYar	V_VM_VF	B-VGF	0	wira	wir	nYar	Yar	o	o	wiralY,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+avarkalY	PR_PRP	B-NP	0	avar	ava	kalY	alY	{NF}	o	avar,PN,,pl,,mf,
+witIreVnYa	RB	B-RBP	0	witI	wit	VnYa	nYa	o	o	witIreVnYa,ADV,,,,,
+katalil	N_NN	B-NP	0	kata	kat	alil	lil	o	o	katal,N,il-LOC,,,,
+irYafki	V_VM_VNF_VBN	B-VGNF	0	irYa	irY	afki	fki	{/NF}	o	irYafku,V,,,,,VBP
+porAttawwil	N_NN	B-NP	0	porA	por	wwil	wil	{MCL}	o	porAttam,N,il-LOC,,,,
+ItupattanYar	V_VM_VF	B-VGF	0	Itup	Itu	nYar	Yar	o	o	Itupatu,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+vivacAyikalYukku	N_NN	B-NP	0	viva	viv	ukku	kku	{INF}	o	vivacAyi,N,ukku-DAT,pl,,,
+AwaravAkavum	RB	B-RBP	0	Awar	Awa	avum	vum	o	o	Awaravu,N,Aka-ADV,,,,
+,	RD_PUNC	I-RBP	0	0	0	0	0	o	o	&comma;,punc,,,,,
+mInYavarkalYE	N_NN	B-NP	0	mInY	mIn	alYE	lYE	o	o	mInYavar,N,E-ACC,pl,,,
+pAwukAkka	V_VM_VNF_INF	B-VGNF	0	pAwu	pAw	Akka	kka	{/INF}	o	pAwukA,V,,,,,INF
+koriyum	N_NN	B-NP	0	kori	kor	iyum	yum	{MCL}	o	kori,N,,,,,
+mANavarkalY	N_NN	I-NP	0	mANa	mAN	kalY	alY	o	o	mANavar,N,,pl,,,
+mulYYakkamittanYar	V_VM_VF	B-VGF	0	mulY	mul	nYar	Yar	o	o	mulYYakkamittanYar,unk,,,,,,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+katalil	N_NN	B-NP	0	kata	kat	alil	lil	{MCL}	o	katal,N,il-LOC,,,,
+irYafkiya	V_VM_VNF_RP	B-VGNF	0	irYa	irY	kiya	iya	o	o	irYafku,V,PAST,,,,RP
+inwa	DM_DMR	B-NP	0	0	inw	0	nwa	o	o	inwa,ADJ,,,,,
+mANavarkalYE	N_NN	I-NP	0	mANa	mAN	alYE	lYE	o	o	mANavar,N,E-ACC,pl,,,
+kEwu	N_NN	B-NP	0	0	kEw	0	Ewu	o	o	kEwu,N,,,,,
+ceVyya	V_VM_VNF_INF	B-VGNF	0	ceVy	ceV	Vyya	yya	o	o	ceVy,V,,,,,INF
+c#polIcArum	V_VM_VF	I-VGNF	0	polI	pol	Arum	rum	o	B-GOV	polIcAr,N,,,,,
+katalil	N_NN	B-NP	0	kata	kat	alil	lil	o	o	katal,N,il-LOC,,,,
+irYafkinYar	V_VM_VF	B-VGF	0	irYa	irY	nYar	Yar	o	o	irYafku,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+AnYAl	CC_CCD	B-CCP	0	AnYA	AnY	nYAl	YAl	o	o	AnYAl,CONJ,,,,,
+polIcAr	N_NN	B-NP	0	polI	pol	IcAr	cAr	{MCL}	B-GOV	polIcAr,N,,,,,
+neVrufka	V_VM_VNF_INF	B-VGNF	0	neVr	neV	ufka	fka	o	o	neVrufku,V,,,,,INF
+neVrufka	V_VM_VF	I-VGNF	0	neVr	neV	ufka	fka	{/MCL}	o	neVrufku,V,,,,,INF
+.	RD_PUNC	I-VGF	0	0	0	0	0	o	o	&dot;,punc,,,,,,
+
+mANavarkalY	N_NN	B-NP	0	mANa	mAN	kalY	alY	{CON}	o	mANavar,N,,pl,,,
+katalinY	N_NN	I-NP	0	kata	kat	linY	inY	o	o	katal,N,inY-GEN,,,,
+ulY	N_NN	I-NP	0	0	0	0	0	o	o	ulY,V,,,,,
+pakuwikkulY	N_NN	B-NP	0	paku	pak	kulY	ulY	o	o	pakuwi,N,kku-DAT,,,,
+ceVlla	V_VM_VNF_INF	B-VGNF	0	ceVl	ceV	Vlla	lla	o	o	ceVl,V,,,,,INF
+woVtafkiyawAl	V_VM_VNF_COND	I-VGNF	0	woVt	woV	awAl	wAl	{/CON}	o	woVtafku,V,PAST,,,,COND
+peVrum	JJ	B-NP	0	peVr	peV	Vrum	rum	{MCL}	o	peVrum,ADJ,,,,,
+pawarYrYam	N_NN	I-NP	0	pawa	paw	rYam	Yam	o	o	pawarYrYam,N,,,,,
+erYpattawu	V_VM_VF	B-VGF	0	erYp	erY	tawu	awu	o	o	erYpatu,V,PAST,sg,3,n,RP-PRP
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+iwanYAl	CC_CCS	B-CCP	0	iwan	iwa	nYAl	YAl	{MCL}	o	iwanYAl,CONJ,,,,,
+c#polIcArum	N_NN	B-NP	0	polI	pol	Arum	rum	o	B-GOV	polIcAr,N,,,,,
+ceVyvawu	V_VM_VNF_VBN	B-VGF	0	ceVy	ceV	vawu	awu	o	o	ceVy,V,FUTURE,sg,3,n,
+arYiyAmal	RP_NEG	B-VGF	0	arYi	arY	Amal	mal	o	o	arYiyAmal,ADV,,,,,
+waviwwanYar	V_VM_VF	I-VGF	0	wavi	wav	nYar	Yar	o	o	wavi,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+mINtum	RB	B-VGNF	0	mINt	mIN	Ntum	tum	{NF}	o	mINtum,ADV,,,,,
+mINtum	RB	I-VGNF	0	mINt	mIN	Ntum	tum	o	o	mINtum,ADV,,,,,
+porAti	V_VM_VNF_VBN	I-VGNF	0	porA	por	rAti	Ati	{/NF}	o	porAtu,V,,,,,VBP
+katalinY	N_NN	B-NP	0	kata	kat	linY	inY	{RP}	o	katal,N,inY-GEN,,,,
+ulYpakuwikkuc	N_NN	I-NP	0	ulYp	ulY	kkuc	kuc	o	o	ulYpakuwi,N,kku-DAT,,,,
+ceVnYrYa	V_VM_VNF_RP	B-VGNF	0	ceVn	ceV	YrYa	rYa	o	o	ceVl,V,PAST,,,,RP
+ilYEFarkalYE	N_NN	B-NP	0	ilYE	ilY	alYE	lYE	{/RP}	o	ilYEFar,N,E-ACC,pl,,,
+c#polIcAr	N_NN	B-NP	0	polI	pol	IcAr	cAr	o	B-GOV	polIcAr,N,,,,,
+kEwu	N_NN	B-NP	0	0	kEw	0	Ewu	o	o	kEwu,N,,,,,
+ceVywu	V_VM_VNF_VBN	B-VGF	0	ceVy	ceV	Vywu	ywu	o	o	ceVy,V,,,,,VBP
+alYYEwwu	V_VM_VNF_VBN	I-VGF	0	alYY	alY	Ewwu	wwu	o	o	alYYE,V,,,,,VBP
+ceVnYrYanYar	V_VM_VF	I-VGF	0	ceVn	ceV	nYar	Yar	o	o	ceVl,V,PAST,pl,3,c,
+.	RD_PUNC	I-VGF	0	0	0	0	0	{/MCL}	o	&dot;,punc,,,,,,
+
+mANavarkalYinY	N_NN	B-NP	0	mANa	mAN	YinY	inY	{CON}	o	mANavar,N,inY-GEN,pl,,,
+inwa	DM_DMR	B-NP	0	0	inw	0	nwa	o	o	inwa,ADJ,,,,,
+witIr	RB	B-VGNF	0	witI	wit	itIr	tIr	o	o	witIr,ADJ,,,,,
+porAttawwAl	V_VM_VNF_COND	I-VGNF	0	porA	por	wwAl	wAl	{/CON}	o	porAttam,N,Al-INS,,,,
+c#ceVnYnYE	N_NNP	B-NP	1	ceVn	ceV	YnYE	nYE	o	B-PLACE	ceVnYnYE,N,,,,,
+meVrinYAvil	N_NNP	I-NP	1	meVr	meV	Avil	vil	{/RP}	I-PLACE	meVrinYA,N,il-LOC,,,,
+peVrum	JJ	B-NP	0	peVr	peV	Vrum	rum	{MCL}	o	peVrum,ADJ,,,,,
+pawarYrYam	N_NN	I-NP	0	pawa	paw	rYam	Yam	o	o	pawarYrYam,N,,,,,
+nilavukirYawu	V_VM_VF	B-VGF	0	nila	nil	Yawu	awu	{/MCL}	o	nilavu,V,PRESENT,sg,3,n,
+
