@@ -1,6 +1,6 @@
 # Event-Entity-Profiling-for-Tamil-Documents-Nigazaayvi
 
-# note : Huge repo - 1.1 GB. 
+# note : Huge repo - 1.4 GB. 
 
 Title: Event - Entity Profiling for Tamil Documents – A Mobile Application
 --------------------------------------------------------------------------
